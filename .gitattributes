@@ -1,0 +1,8 @@
+* text=auto
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+/requirements.txt text eol=lf
+/CHECKSUMS.txt text eol=lf
+/package/* -text
+*.zip -text
