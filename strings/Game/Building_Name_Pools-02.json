@@ -1,0 +1,351 @@
+{
+  "resource": "Game",
+  "namespace": "Building Name Pools",
+  "entries": [
+    {
+      "key": "PublicBuilding_Pillory_Pool004",
+      "source_crc32": 3592168760,
+      "translation": "Судейский столб"
+    },
+    {
+      "key": "PublicBuilding_Pillory_Pool009",
+      "source_crc32": 3018944512,
+      "translation": "Минута дурной славы"
+    },
+    {
+      "key": "Guild_AlchemistsGuild_Pool002",
+      "source_crc32": 719396540,
+      "translation": "Общество неустойчивой смеси"
+    },
+    {
+      "key": "Guild_GuardsGuild_Pool001",
+      "source_crc32": 1301081615,
+      "translation": "Стражи ворот"
+    },
+    {
+      "key": "Guild_TailorsGuild_Pool007",
+      "source_crc32": 3945581598,
+      "translation": "Гильдия точной посадки"
+    },
+    {
+      "key": "Guild_JoinersGuild_Pool007",
+      "source_crc32": 2113325485,
+      "translation": "Общество ладной сборки"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_Pool004",
+      "source_crc32": 2298978863,
+      "translation": "Собрание ровной кладки"
+    },
+    {
+      "key": "OccupationBuilding_Trader_Pool001",
+      "source_crc32": 2652928045,
+      "translation": "Полные амбары"
+    },
+    {
+      "key": "Guild_TailorsGuild_Pool003",
+      "source_crc32": 2667417056,
+      "translation": "Общество ладного кроя"
+    },
+    {
+      "key": "ExtractionFacility_Mine_Pool009",
+      "source_crc32": 1251007504,
+      "translation": "Шепчущий провал"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_Pool006",
+      "source_crc32": 704359287,
+      "translation": "Оконных дел мастер"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_Pool007",
+      "source_crc32": 2020793908,
+      "translation": "Веяльный двор"
+    },
+    {
+      "key": "Guild_JoinersGuild_Pool002",
+      "source_crc32": 1853264133,
+      "translation": "Общество «Дерево ведёт»"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_Pool002",
+      "source_crc32": 2377965014,
+      "translation": "Дом «Авось пригодится»"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_Pool002",
+      "source_crc32": 3646602555,
+      "translation": "Часовня «На всякий случай»"
+    },
+    {
+      "key": "PublicBuilding_Pillory_Pool005",
+      "source_crc32": 1344627859,
+      "translation": "Помост «Я же говорил»"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_Pool002",
+      "source_crc32": 4156755231,
+      "translation": "Лесной дол"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_Pool010",
+      "source_crc32": 1460023889,
+      "translation": "Общество «Время всё сочтёт»"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_Pool001",
+      "source_crc32": 3231717857,
+      "translation": "Настойки-пустышки"
+    },
+    {
+      "key": "Cart_Horse_Pool001",
+      "source_crc32": 127877023,
+      "translation": "Поток"
+    },
+    {
+      "key": "PublicBuilding_Prison_Pool004",
+      "source_crc32": 3650824301,
+      "translation": "Утеха палача"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_Pool010",
+      "source_crc32": 2960068132,
+      "translation": "Башня № 4"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_Pool013",
+      "source_crc32": 1994747606,
+      "translation": "Башня Зотта"
+    },
+    {
+      "key": "OccupationBuilding_Thief_Pool007",
+      "source_crc32": 2365337633,
+      "translation": "Друг городской стражи"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_Pool006",
+      "source_crc32": 3128997701,
+      "translation": "Торговый двор"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_Pool006",
+      "source_crc32": 1253083789,
+      "translation": "Пагубные напитки"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_Pool002",
+      "source_crc32": 3629337392,
+      "translation": "Истинные бродяги"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_Pool005",
+      "source_crc32": 1556290063,
+      "translation": "Мишура и театр"
+    },
+    {
+      "key": "OccupationBuilding_Trader_Pool007",
+      "source_crc32": 902872652,
+      "translation": "Мишура и хлам"
+    },
+    {
+      "key": "OccupationBuilding_Church_Pool004",
+      "source_crc32": 1640018761,
+      "translation": "Правда и добродетель"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_Pool008",
+      "source_crc32": 2732097990,
+      "translation": "Точёный ангел"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_Pool010",
+      "source_crc32": 2131729183,
+      "translation": "Подлесок"
+    },
+    {
+      "key": "OccupationBuilding_Guard_Pool009",
+      "source_crc32": 3291775064,
+      "translation": "Мстительная дружина"
+    },
+    {
+      "key": "PublicBuilding_Well_Pool008",
+      "source_crc32": 1781398815,
+      "translation": "Отвесное озеро"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_Pool002",
+      "source_crc32": 1637006403,
+      "translation": "Очень хрупко"
+    },
+    {
+      "key": "OccupationBuilding_Guard_Pool007",
+      "source_crc32": 2806545653,
+      "translation": "Бдительная сталь"
+    },
+    {
+      "key": "Residence_Villa_Pool009",
+      "source_crc32": 1333607746,
+      "translation": "Вилла-обитель"
+    },
+    {
+      "key": "Cart_Goat_Pool006",
+      "source_crc32": 3468393544,
+      "translation": "Винсент ван Рог"
+    },
+    {
+      "key": "PublicBuilding_TownHall_Pool008",
+      "source_crc32": 1128461082,
+      "translation": "Глас народа"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_Pool005",
+      "source_crc32": 460086307,
+      "translation": "Громкость вместо сути"
+    },
+    {
+      "key": "PublicBuilding_Fountain_Pool007",
+      "source_crc32": 3561309377,
+      "translation": "Голоса и вода"
+    },
+    {
+      "key": "OccupationBuilding_Robber_Pool005",
+      "source_crc32": 266689179,
+      "translation": "Гнездо стервятника"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_Pool003",
+      "source_crc32": 4173634566,
+      "translation": "Дуновение любви"
+    },
+    {
+      "key": "Residence_House_Pool010",
+      "source_crc32": 2926417300,
+      "translation": "Тёплые зимы"
+    },
+    {
+      "key": "ExtractionFacility_Quarry_Pool003",
+      "source_crc32": 2863920712,
+      "translation": "Тут зыбучие пески!"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_Pool007",
+      "source_crc32": 1853284144,
+      "translation": "Воском туда-сюда"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_Pool012",
+      "source_crc32": 2343598746,
+      "translation": "Имя нам легион"
+    },
+    {
+      "key": "Guild_RobbersGuild_Pool010",
+      "source_crc32": 3885783786,
+      "translation": "Мы вовсе не преступники"
+    },
+    {
+      "key": "OccupationBuilding_Guard_Pool001",
+      "source_crc32": 3063481773,
+      "translation": "Мы - закон!"
+    },
+    {
+      "key": "Guild_PerfumersGuild_Pool010",
+      "source_crc32": 743580842,
+      "translation": "Исправим вашу вонь"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_Pool010",
+      "source_crc32": 1099452936,
+      "translation": "Пасека «Мы вас запомнили»"
+    },
+    {
+      "key": "Guild_ThievesGuild_Pool006",
+      "source_crc32": 2362794260,
+      "translation": "Мы только берём взаймы"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_Pool007",
+      "source_crc32": 1712668706,
+      "translation": "Мы помним"
+    },
+    {
+      "key": "Guild_GuardsGuild_Pool010",
+      "source_crc32": 1651525138,
+      "translation": "Это надо проверить"
+    },
+    {
+      "key": "Residence_Villa_Pool003",
+      "source_crc32": 2311040134,
+      "translation": "Живём - не тужим!"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_Pool005",
+      "source_crc32": 2520188073,
+      "translation": "Творцы богатства"
+    },
+    {
+      "key": "PublicBuilding_Well_Pool001",
+      "source_crc32": 3535794240,
+      "translation": "Колодец-молодец"
+    },
+    {
+      "key": "OccupationBuilding_Trader_Pool009",
+      "source_crc32": 1958684863,
+      "translation": "Только торными путями"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_Pool004",
+      "source_crc32": 1434537247,
+      "translation": "Дары земли"
+    },
+    {
+      "key": "OccupationBuilding_Trader_Pool004",
+      "source_crc32": 3010447374,
+      "translation": "Оптом"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_Pool009",
+      "source_crc32": 1302666700,
+      "translation": "Сквозняки"
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_Pool008",
+      "source_crc32": 1696138105,
+      "translation": "Ведьмин час"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_Pool007",
+      "source_crc32": 978301142,
+      "translation": "Деревянные украшения"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_Pool004",
+      "source_crc32": 3794718272,
+      "translation": "Покой работников"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_Pool001",
+      "source_crc32": 2818958912,
+      "translation": "Отдых работников"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_Pool013",
+      "source_crc32": 1093628599,
+      "translation": "Союз работниц (без мужчин)"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_Pool003",
+      "source_crc32": 3021186078,
+      "translation": "Ори здесь"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_Pool005",
+      "source_crc32": 2601335312,
+      "translation": "Вы нам должны"
+    },
+    {
+      "key": "OccupationBuilding_Thief_Pool006",
+      "source_crc32": 4172546121,
+      "translation": "Деньги под присмотром"
+    }
+  ]
+}

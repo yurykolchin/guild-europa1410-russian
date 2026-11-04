@@ -1,0 +1,161 @@
+{
+  "resource": "Game",
+  "namespace": "Traits",
+  "entries": [
+    {
+      "key": "Competitive_Description",
+      "source_crc32": 3090723844,
+      "translation": "Всегда не прочь помериться силами с достойным соперником. Победа сладка, но и само состязание - уже награда."
+    },
+    {
+      "key": "Artistic_DisplayName",
+      "source_crc32": 4031480560,
+      "translation": "Артистизм"
+    },
+    {
+      "key": "Attractive_DisplayName",
+      "source_crc32": 2982864621,
+      "translation": "Красота"
+    },
+    {
+      "key": "Canny_DisplayName",
+      "source_crc32": 278431950,
+      "translation": "Хватка"
+    },
+    {
+      "key": "Careful_DisplayName",
+      "source_crc32": 2730833380,
+      "translation": "Осторожность"
+    },
+    {
+      "key": "Clever_DisplayName",
+      "source_crc32": 4033078790,
+      "translation": "Смекалка"
+    },
+    {
+      "key": "Competitive_DisplayName",
+      "source_crc32": 3633433279,
+      "translation": "Азарт"
+    },
+    {
+      "key": "Content_DisplayName",
+      "source_crc32": 2024333878,
+      "translation": "Довольство"
+    },
+    {
+      "key": "EarlyBird_DisplayName",
+      "source_crc32": 3730931938,
+      "translation": "Ранняя пташка"
+    },
+    {
+      "key": "ExceptionalBlood_DisplayName",
+      "source_crc32": 1639532615,
+      "translation": "Исключительная кровь"
+    },
+    {
+      "key": "Frail_DisplayName",
+      "source_crc32": 3949716344,
+      "translation": "Хрупкость"
+    },
+    {
+      "key": "GoodHumored_DisplayName",
+      "source_crc32": 3295150340,
+      "translation": "Весёлый нрав"
+    },
+    {
+      "key": "Greedy_DisplayName",
+      "source_crc32": 7741576,
+      "translation": "Жадность"
+    },
+    {
+      "key": "HardWorker_DisplayName",
+      "source_crc32": 706343796,
+      "translation": "Трудолюбие"
+    },
+    {
+      "key": "Artistic_Description",
+      "source_crc32": 1046023769,
+      "translation": "Тонко чувствует красоту и глубоко ценит музыку, поэзию и искусство."
+    },
+    {
+      "key": "Greedy_Description",
+      "source_crc32": 202479640,
+      "translation": "Питает особую слабость к золоту и мирским благам."
+    },
+    {
+      "key": "ExceptionalBlood_Description",
+      "source_crc32": 1932674983,
+      "translation": "В этом роду талант - правило, а не исключение."
+    },
+    {
+      "key": "Intellectual_DisplayName",
+      "source_crc32": 1067242026,
+      "translation": "Любознательность"
+    },
+    {
+      "key": "IronConstitution_DisplayName",
+      "source_crc32": 1739650286,
+      "translation": "Железное здоровье"
+    },
+    {
+      "key": "GoodHumored_Description",
+      "source_crc32": 3649324378,
+      "translation": "Тук-тук…"
+    },
+    {
+      "key": "Modest_DisplayName",
+      "source_crc32": 2007698639,
+      "translation": "Скромность"
+    },
+    {
+      "key": "Trait_Description",
+      "source_crc32": 1258277916,
+      "translation": "Постоянные качества, определяющие поведение, способности или роль человека. В отличие от эффектов состояния, они остаются на всю жизнь."
+    },
+    {
+      "key": "Intellectual_Description",
+      "source_crc32": 2967596928,
+      "translation": "Обладает неутолимым любопытством и любовью к знаниям."
+    },
+    {
+      "key": "PrestigiousEmployment_DisplayName",
+      "source_crc32": 348673357,
+      "translation": "Престижная служба"
+    },
+    {
+      "key": "Proud_DisplayName",
+      "source_crc32": 2283735581,
+      "translation": "Гордость"
+    },
+    {
+      "key": "StrongBlood_DisplayName",
+      "source_crc32": 1308120554,
+      "translation": "Сильная кровь"
+    },
+    {
+      "key": "StrongBlood_Description",
+      "source_crc32": 1916414655,
+      "translation": "В этой семье талант, похоже, передаётся по наследству. Дети начинают жизнь чуть способнее прочих."
+    },
+    {
+      "key": "Tough_DisplayName",
+      "source_crc32": 3153596912,
+      "translation": "Стойкость"
+    },
+    {
+      "key": "Trait_DisplayName",
+      "source_crc32": 1422803361,
+      "translation": "Черта"
+    },
+    {
+      "key": "Trait_DisplayName_plural",
+      "source_crc32": 3846055636,
+      "translation": "Черты"
+    },
+    {
+      "key": "Proud_Description",
+      "source_crc32": 1199844556,
+      "translation": "Ценит своё достоинство и доброе имя едва ли не превыше всего."
+    }
+  ]
+}

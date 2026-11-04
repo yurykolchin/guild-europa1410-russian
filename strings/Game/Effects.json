@@ -1,0 +1,811 @@
+{
+  "resource": "Game",
+  "namespace": "Effects",
+  "entries": [
+    {
+      "key": "NewBaby",
+      "source_crc32": 1716164349,
+      "translation": "Пополнение в семье"
+    },
+    {
+      "key": "Target_AllDynastyBuildings",
+      "source_crc32": 46021870,
+      "translation": "Все здания династии"
+    },
+    {
+      "key": "Target_AllCitizens",
+      "source_crc32": 1159303680,
+      "translation": "Все горожане"
+    },
+    {
+      "key": "Target_CharacterOfSameProfession",
+      "source_crc32": 615592462,
+      "translation": "Все горожане той же {P_C}профессии{##}"
+    },
+    {
+      "key": "Target_AllDynastyMembers",
+      "source_crc32": 282626300,
+      "translation": "Все члены династии"
+    },
+    {
+      "key": "Taget_AllMembersOfYourChamber",
+      "source_crc32": 3303949014,
+      "translation": "Все члены вашей палаты"
+    },
+    {
+      "key": "Taget_AllOfficeHolders",
+      "source_crc32": 1871548359,
+      "translation": "Все должностные лица"
+    },
+    {
+      "key": "Target_AllCitizensAndWorkers_01",
+      "source_crc32": 1644665737,
+      "translation": "Все жители города"
+    },
+    {
+      "key": "Target_AllWorkers",
+      "source_crc32": 3101168283,
+      "translation": "Все работники"
+    },
+    {
+      "key": "Target_AllYourWorkers",
+      "source_crc32": 2873432642,
+      "translation": "Все ваши работники"
+    },
+    {
+      "key": "SkillPoints_All_Halved",
+      "source_crc32": 411519535,
+      "translation": "Все {S_C}навыки{##} вдвое ниже"
+    },
+    {
+      "key": "ApplyForOffice_Office",
+      "source_crc32": 1668913119,
+      "translation": "Претендовать на должность: {office}"
+    },
+    {
+      "key": "V2_ManagerWithParticipant",
+      "source_crc32": 1486941767,
+      "translation": "Новый управляющий"
+    },
+    {
+      "key": "CanConstructExtraRoom_Count",
+      "source_crc32": 2037324085,
+      "translation": "Можно построить ещё {NumRoom} {NumRoom}|plural(one=комнату,few=комнаты,many=комнат,other=комнаты)"
+    },
+    {
+      "key": "Action_CannotPerform",
+      "source_crc32": 3479673244,
+      "translation": "Недоступно: {action}"
+    },
+    {
+      "key": "TrainingFatigue_Effect",
+      "source_crc32": 2596218453,
+      "translation": "Нельзя обучать"
+    },
+    {
+      "key": "V2_CartWithTag",
+      "source_crc32": 42124301,
+      "translation": "Повозка с меткой"
+    },
+    {
+      "key": "Target_Child",
+      "source_crc32": 1496180640,
+      "translation": "Ребёнок"
+    },
+    {
+      "key": "Trait_StrongBlood",
+      "source_crc32": 1703625002,
+      "translation": "Дети рождаются с дополнительными очками {S_C}навыков{##}"
+    },
+    {
+      "key": "Trait_ExceptionalBlood",
+      "source_crc32": 853519137,
+      "translation": "Дети рождаются с намного большим числом очков {S_C}навыков{##}"
+    },
+    {
+      "key": "Target_OppositeGender",
+      "source_crc32": 1046560189,
+      "translation": "Горожанин противоположного пола"
+    },
+    {
+      "key": "Target_SameGender",
+      "source_crc32": 2340348529,
+      "translation": "Горожанин того же пола"
+    },
+    {
+      "key": "Illness_Target_Cures",
+      "source_crc32": 1306581650,
+      "translation": "Лечит {ST_CHR_SIC_C}болезни{##}"
+    },
+    {
+      "key": "TrainingFatigue_Cure",
+      "source_crc32": 950257613,
+      "translation": "Снимает {ST_CHR_TRAFAT_C}умственное истощение{##}"
+    },
+    {
+      "key": "Energy_Regen_Doubled",
+      "source_crc32": 1956594189,
+      "translation": "{CHAR_ENEREG_C}Восстановление энергии{##} вдвое выше"
+    },
+    {
+      "key": "Duration_DisplayName",
+      "source_crc32": 46084092,
+      "translation": "Длительность"
+    },
+    {
+      "key": "Effect_DisplayName",
+      "source_crc32": 2785135053,
+      "translation": "Эффект"
+    },
+    {
+      "key": "Effects_DisplayName_plural",
+      "source_crc32": 1681489126,
+      "translation": "Эффекты"
+    },
+    {
+      "key": "Crime_Erased",
+      "source_crc32": 1514111548,
+      "translation": "Стирает из записей {NumCrime} {CO_COM_C}{NumCrime}|plural(one=преступление,few=преступления,many=преступлений,other=преступления){##}"
+    },
+    {
+      "key": "V2_EspionageSlot",
+      "source_crc32": 2334434951,
+      "translation": "Шпионаж"
+    },
+    {
+      "key": "Target_AllCitizensAndWorkers_02",
+      "source_crc32": 226223090,
+      "translation": "Все"
+    },
+    {
+      "key": "V2_EvidenceInstances",
+      "source_crc32": 412260260,
+      "translation": "Улики"
+    },
+    {
+      "key": "DynastyExclusiveActions",
+      "source_crc32": 2345062039,
+      "translation": "Особые действия"
+    },
+    {
+      "key": "Evidence_Fabricated_One",
+      "source_crc32": 3058123082,
+      "translation": "Фабрикует {CR_EVI_C}улику{##} о случайном преступлении"
+    },
+    {
+      "key": "Evidence_Fabricated_Two",
+      "source_crc32": 734091848,
+      "translation": "Фабрикует {CR_EVI_C}улики{##} о двух случайных преступлениях"
+    },
+    {
+      "key": "Target_SameDynasty",
+      "source_crc32": 2942633130,
+      "translation": "Члены семьи"
+    },
+    {
+      "key": "NobilityRights",
+      "source_crc32": 3050547936,
+      "translation": "Даёт право на {T_NOB_C}дворянский{##} титул"
+    },
+    {
+      "key": "Health_Increase_Considerable",
+      "source_crc32": 3528406193,
+      "translation": "Сильно улучшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "GuaranteedEffects_Header",
+      "source_crc32": 1974260794,
+      "translation": "Обязательные эффекты"
+    },
+    {
+      "key": "Health_Loss_Halved",
+      "source_crc32": 250420492,
+      "translation": "Потеря {CHAR_HP_C}здоровья{##} вдвое ниже"
+    },
+    {
+      "key": "Worker_Quit_Chance_High",
+      "source_crc32": 3557575849,
+      "translation": "Высокий шанс ухода работника из выбранного здания"
+    },
+    {
+      "key": "Illness_Target_Chance_High",
+      "source_crc32": 2325892742,
+      "translation": "Высокий шанс подхватить {ST_CHR_SIC_C}болезнь{##}"
+    },
+    {
+      "key": "Health_Increase_Chance_High",
+      "source_crc32": 3016293941,
+      "translation": "Высокий шанс улучшить {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Cart_Breakdown_Chance_High",
+      "source_crc32": 1188465324,
+      "translation": "Высокий риск поломки повозки"
+    },
+    {
+      "key": "VigilantDriver_ImmuneToCartAttack",
+      "source_crc32": 2383215133,
+      "translation": "Защита от {A_ATKCAR_C}нападений на повозку{##}"
+    },
+    {
+      "key": "Action_Immunity",
+      "source_crc32": 2369065418,
+      "translation": "Защита от: {action}"
+    },
+    {
+      "key": "Courting_Success_Increased",
+      "source_crc32": 293533640,
+      "translation": "Повышает успех ухаживаний"
+    },
+    {
+      "key": "PactWithDead_InstantRevival",
+      "source_crc32": 1565449207,
+      "translation": "Воскресает сразу после смерти"
+    },
+    {
+      "key": "Target_BetweenTargets",
+      "source_crc32": 1921065582,
+      "translation": "Между целями"
+    },
+    {
+      "key": "RemoveFromOffice_Office",
+      "source_crc32": 1248440250,
+      "translation": "Покинуть должность: {office}"
+    },
+    {
+      "key": "V2_Manager",
+      "source_crc32": 449795299,
+      "translation": "Управляющий"
+    },
+    {
+      "key": "Health_Increase_Chance_Medium",
+      "source_crc32": 2610856987,
+      "translation": "Средний шанс улучшить {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Harvesting_Increase_Moderate",
+      "source_crc32": 2647703415,
+      "translation": "Умеренно повышает добычу"
+    },
+    {
+      "key": "Health_Increase_Moderate",
+      "source_crc32": 2494497526,
+      "translation": "Умеренно улучшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Health_Decrease_Moderate",
+      "source_crc32": 2674250894,
+      "translation": "Умеренно ухудшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "V2_MoneyInterval",
+      "source_crc32": 1955080532,
+      "translation": "Деньги"
+    },
+    {
+      "key": "Effects_Mysterious",
+      "source_crc32": 857077023,
+      "translation": "Таинственные эффекты"
+    },
+    {
+      "key": "MysteriousDisappearance",
+      "source_crc32": 391038545,
+      "translation": "Таинственно исчезает"
+    },
+    {
+      "key": "CanConstructShrine",
+      "source_crc32": 2379035259,
+      "translation": "Нужно для постройки {B_PER_SHR_C}часовни{##}"
+    },
+    {
+      "key": "CanConstructBeeHives",
+      "source_crc32": 3002697484,
+      "translation": "Нужно для постройки {B_PER_BEEHIV_C}ульев{##}"
+    },
+    {
+      "key": "NextSeasonHoney_Contaminated",
+      "source_crc32": 1253240992,
+      "translation": "Урожай следующего сезона будет {I_CONHON_C}испорченным{##}."
+    },
+    {
+      "key": "NextSeasonHoney_Half",
+      "source_crc32": 3090858905,
+      "translation": "Урожай следующего сезона будет {I_HON_C}скромным{##}."
+    },
+    {
+      "key": "NextSeasonHoney_Full",
+      "source_crc32": 1403703977,
+      "translation": "Урожай следующего сезона будет {I_HON_C}обильным{##}."
+    },
+    {
+      "key": "NextSeasonHoney_Empty",
+      "source_crc32": 605008163,
+      "translation": "Урожай следующего сезона не даст {I_HON_C}мёда{##}."
+    },
+    {
+      "key": "NoEffects",
+      "source_crc32": 1306033685,
+      "translation": "Нет эффектов"
+    },
+    {
+      "key": "V2_OfficeWithTag",
+      "source_crc32": 3224254158,
+      "translation": "Должность"
+    },
+    {
+      "key": "OneOfTheseEffects_Header",
+      "source_crc32": 1532851791,
+      "translation": "Один из следующих эффектов"
+    },
+    {
+      "key": "SellBuilding_Outcome_TransferToCity",
+      "source_crc32": 3262767182,
+      "translation": "Здание переходит в собственность города."
+    },
+    {
+      "key": "BuyBuilding_Outcome_TransferToBuyer",
+      "source_crc32": 3056290904,
+      "translation": "Здание переходит в вашу собственность."
+    },
+    {
+      "key": "V2_ProfessionXP",
+      "source_crc32": 3047127862,
+      "translation": "Опыт профессии"
+    },
+    {
+      "key": "V2_ProfessionXPList",
+      "source_crc32": 1112266598,
+      "translation": "Опыт по профессиям"
+    },
+    {
+      "key": "Target_QuarterInhabitants",
+      "source_crc32": 626464015,
+      "translation": "Жители квартала"
+    },
+    {
+      "key": "Random_PositiveEffects",
+      "source_crc32": 3656377147,
+      "translation": "Случайные полезные эффекты"
+    },
+    {
+      "key": "V2_EvidenceDynamic",
+      "source_crc32": 1627256947,
+      "translation": "Получает улику, если есть"
+    },
+    {
+      "key": "CanTrainKillerBee",
+      "source_crc32": 2286478553,
+      "translation": "Требуется для {A_TRAKILBEE_C}обучения пчелы-убийцы{##}"
+    },
+    {
+      "key": "Target_ResidenceInhabitants",
+      "source_crc32": 2199287214,
+      "translation": "Жильцы дома"
+    },
+    {
+      "key": "Schedule_Event",
+      "source_crc32": 433397598,
+      "translation": "Запланировать на потом: "
+    },
+    {
+      "key": "Standing_BlackenName",
+      "source_crc32": 3470372069,
+      "translation": "Выбранный персонаж {ARROW} жертва: {DEC} {CHAR_STA}"
+    },
+    {
+      "key": "Target_Self_01",
+      "source_crc32": 617755120,
+      "translation": "Вы сами"
+    },
+    {
+      "key": "V2_ProfessionActive",
+      "source_crc32": 295655313,
+      "translation": "Задаёт текущую профессию"
+    },
+    {
+      "key": "V2_ProfessionRanks",
+      "source_crc32": 2695888462,
+      "translation": "Задаёт ранг профессии"
+    },
+    {
+      "key": "Health_Decrease_Considerable",
+      "source_crc32": 149313043,
+      "translation": "Сильно ухудшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Health_Increase_Slight",
+      "source_crc32": 3746671961,
+      "translation": "Слегка улучшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Health_Decrease_Slight",
+      "source_crc32": 1615435671,
+      "translation": "Слегка ухудшает {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Health_Increase_Chance_Low",
+      "source_crc32": 2362703055,
+      "translation": "Малый шанс улучшить {CHAR_HP_C}здоровье{##}"
+    },
+    {
+      "key": "Target_Spouse",
+      "source_crc32": 1221537955,
+      "translation": "Супруг(а)"
+    },
+    {
+      "key": "Effects_Applied",
+      "source_crc32": 3571256577,
+      "translation": "Эффект состояния наложен"
+    },
+    {
+      "key": "Effects_Removed",
+      "source_crc32": 1539781700,
+      "translation": "Эффект состояния снят"
+    },
+    {
+      "key": "V2_StatusEffects",
+      "source_crc32": 3688289917,
+      "translation": "Эффекты состояния"
+    },
+    {
+      "key": "IntegrityLoss_Stopped",
+      "source_crc32": 2199189818,
+      "translation": "Останавливает {B_HP_DEC_C}износ{##}"
+    },
+    {
+      "key": "V2_Storage",
+      "source_crc32": 1419090753,
+      "translation": "Склад"
+    },
+    {
+      "key": "Target_Target",
+      "source_crc32": 2705952837,
+      "translation": "Цель"
+    },
+    {
+      "key": "Target_Self_03",
+      "source_crc32": 1002409617,
+      "translation": "Цель (вы)"
+    },
+    {
+      "key": "Target_BuildingsWorkers",
+      "source_crc32": 400273464,
+      "translation": "Работники целевого здания"
+    },
+    {
+      "key": "Standing_LoseElectionAppointers",
+      "source_crc32": 2427390156,
+      "translation": "Выбранный персонаж теряет {value} {CHAR_STA_C}отношения{##} назначающих на выборах"
+    },
+    {
+      "key": "Standing_LoseFaithOfficials",
+      "source_crc32": 155485899,
+      "translation": "Выбранный персонаж теряет {value} {CHAR_STA_C}отношения{##} трёх случайных чиновников той же веры"
+    },
+    {
+      "key": "VowsExchanged",
+      "source_crc32": 2402520007,
+      "translation": "Брачные обеты принесены."
+    },
+    {
+      "key": "ThisSeasonHoney_Contaminated",
+      "source_crc32": 152983683,
+      "translation": "Урожай этого сезона {I_CONHON_C}испорчен{##}."
+    },
+    {
+      "key": "ThisSeasonHoney_Half",
+      "source_crc32": 2685383179,
+      "translation": "Урожай этого сезона {I_HON_C}скромный{##}."
+    },
+    {
+      "key": "ThisSeasonHoney_Full",
+      "source_crc32": 1965091340,
+      "translation": "Урожай этого сезона {I_HON_C}обильный{##}."
+    },
+    {
+      "key": "ThisSeasonHoney_Empty",
+      "source_crc32": 3553298661,
+      "translation": "Урожай этого сезона не дал {I_HON_C}мёда{##}."
+    },
+    {
+      "key": "Effects_Unknown",
+      "source_crc32": 2332796185,
+      "translation": "Неизвестные эффекты"
+    },
+    {
+      "key": "BanditContract_AttackCart",
+      "source_crc32": 3415944,
+      "translation": "Открыто: {A_ATKCAR_C}Напасть на повозку{##}"
+    },
+    {
+      "key": "Target_UpToRandomCitizen",
+      "source_crc32": 257686262,
+      "translation": "До {NumCitizens} {NumCitizens}|plural(one=случайного {CHAR_CITVSWOR_C}горожанина{##},few=случайных {CHAR_CITVSWOR_C}горожан{##},many=случайных {CHAR_CITVSWOR_C}горожан{##},other=случайных {CHAR_CITVSWOR_C}горожан{##})"
+    },
+    {
+      "key": "Standing_Socialize",
+      "source_crc32": 2284991384,
+      "translation": "До {NumCitizens} {NumCitizens}|plural(one=случайного {CHAR_CITVSWOR_C}горожанина{##},few=случайных {CHAR_CITVSWOR_C}горожан{##},many=случайных {CHAR_CITVSWOR_C}горожан{##},other=случайных {CHAR_CITVSWOR_C}горожан{##}) {ARROW} {YOU}: {VALUE}{CHAR_STA}"
+    },
+    {
+      "key": "Target_UpToCitizen",
+      "source_crc32": 957556300,
+      "translation": "До {NumCitizens} {NumCitizens}|plural(one={CHAR_CITVSWOR_C}горожанина{##},few={CHAR_CITVSWOR_C}горожан{##},many={CHAR_CITVSWOR_C}горожан{##},other={CHAR_CITVSWOR_C}горожан{##})"
+    },
+    {
+      "key": "Target_AllYourWeapons",
+      "source_crc32": 2975390557,
+      "translation": "Оружие"
+    },
+    {
+      "key": "RevokeOfficeApplication",
+      "source_crc32": 2710406261,
+      "translation": "Отозвать поданное прошение о должности, если оно есть."
+    },
+    {
+      "key": "RevokeOfficeApplication_Office",
+      "source_crc32": 371962055,
+      "translation": "Отозвать прошение: {office}"
+    },
+    {
+      "key": "Target_Self_02",
+      "source_crc32": 2402108491,
+      "translation": "Вы"
+    },
+    {
+      "key": "AndOthers",
+      "source_crc32": 213716291,
+      "translation": "и другие…"
+    },
+    {
+      "key": "Evidence_ChanceToLetOut",
+      "source_crc32": 3397111299,
+      "translation": "шанс оставить {CR_EVI_C}улику{##}"
+    },
+    {
+      "key": "Surrender_Goods",
+      "source_crc32": 3975268113,
+      "translation": "потеря товаров"
+    },
+    {
+      "key": "Standing_AllOfficeHoldersInYourChamber",
+      "source_crc32": 2830370311,
+      "translation": "со всеми должностными лицами вашей {O_CHA_C}палаты{##}"
+    },
+    {
+      "key": "General_RandomCitizens_v1",
+      "source_crc32": 1609959106,
+      "translation": "с горожанами высшего сословия"
+    },
+    {
+      "key": "General_RandomCitizens_v0",
+      "source_crc32": 3989568993,
+      "translation": "с горожанами-очевидцами"
+    },
+    {
+      "key": "Target_Workers",
+      "source_crc32": 3661758921,
+      "translation": "с работниками"
+    },
+    {
+      "key": "Attractiveness_perProductivity",
+      "source_crc32": 2919859770,
+      "translation": "{B_PARAM_ATT_C}Привлекательность{##} за единицу {CHAR_PRO_C}производительности{##}"
+    },
+    {
+      "key": "AP_PerTurn",
+      "source_crc32": 1316287519,
+      "translation": "{CHAR_AP} в начале хода"
+    },
+    {
+      "key": "Energy_Regen_Halved",
+      "source_crc32": 1550209604,
+      "translation": "{CHAR_ENEREG_C}Восстановление энергии{##} вдвое ниже"
+    },
+    {
+      "key": "Energy_AtStartOfTurn",
+      "source_crc32": 486466219,
+      "translation": "{CHAR_ENE_C}Энергия{##} в начале {C_TRN_C}хода{##}"
+    },
+    {
+      "key": "Energy_FullyRestored",
+      "source_crc32": 1204208253,
+      "translation": "{CHAR_ENE_C}Энергия{##} сразу восстановлена полностью"
+    },
+    {
+      "key": "Energy_Reduction_Halved",
+      "source_crc32": 1565315507,
+      "translation": "Потеря {CHAR_ENE_C}энергии{##} вдвое ниже"
+    },
+    {
+      "key": "MoneyFromCityTreasury",
+      "source_crc32": 509026020,
+      "translation": "{CHAR_MON} из {O_CITTRE_C}городской казны{##}"
+    },
+    {
+      "key": "MoneyFromStorefrontSales_Effect",
+      "source_crc32": 554224596,
+      "translation": "{CHAR_MON} от продаж с {B_STOFRO_C}витрины{##}"
+    },
+    {
+      "key": "Renown_perTurn",
+      "source_crc32": 2551592607,
+      "translation": "{CHAR_REN_C}Известность{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "Standing_PerTurn",
+      "source_crc32": 904671472,
+      "translation": "{CHAR_STA_C}Отношение{##} за {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "XPperturn",
+      "source_crc32": 2935683166,
+      "translation": "{CHAR_XP} за ход"
+    },
+    {
+      "key": "SkillPoints_Random",
+      "source_crc32": 1697082680,
+      "translation": "{CV_({NumSkills})} {NumSkills}|plural(one=случайный {S_C}навык{##},few=случайных {S_C}навыка{##},many=случайных {S_C}навыков{##},other=случайных {S_C}навыка{##})"
+    },
+    {
+      "key": "SkillPoints_All",
+      "source_crc32": 1388132885,
+      "translation": "{CV_({Value})} ко всем {S_C}навыкам{##}"
+    },
+    {
+      "key": "Standing_AllCharacters",
+      "source_crc32": 3596649723,
+      "translation": "{CV_({Value})} к {CHAR_STA_C}отношению{##} всех персонажей"
+    },
+    {
+      "key": "Standing_RandomCitizens",
+      "source_crc32": 3187364396,
+      "translation": "{CV_({Value})} к {CHAR_STA_C}отношению{##} {NumCitizens} {NumCitizens}|plural(one=случайного {CHAR_CITVSWOR_C}горожанина{##},few=случайных {CHAR_CITVSWOR_C}горожан{##},many=случайных {CHAR_CITVSWOR_C}горожан{##},other=случайных {CHAR_CITVSWOR_C}горожан{##})"
+    },
+    {
+      "key": "MoneyRange",
+      "source_crc32": 679196218,
+      "translation": "От {CV_({min})} до {CV_({max})}{CHAR_MON}"
+    },
+    {
+      "key": "Target_Quarters",
+      "source_crc32": 1218418670,
+      "translation": "{C_QUA_C}Кварталы{##}"
+    },
+    {
+      "key": "Target_RandomOfficials",
+      "source_crc32": 1174807077,
+      "translation": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=случайный чиновник,few=случайных чиновника,many=случайных чиновников,other=случайных чиновника)"
+    },
+    {
+      "key": "Target_RandomOfficialsOfOppositeSex",
+      "source_crc32": 3756926124,
+      "translation": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=случайный чиновник противоположного пола,few=случайных чиновника противоположного пола,many=случайных чиновников противоположного пола,other=случайных чиновника противоположного пола)"
+    },
+    {
+      "key": "Target_ThievesAndRobbers",
+      "source_crc32": 1337580381,
+      "translation": "{P_THI_C}Воры{##} и {P_ROB_C}разбойники{##}"
+    },
+    {
+      "key": "QuarterCrimeRate_perTurn",
+      "source_crc32": 3618517012,
+      "translation": "{QUA_CRI_C}Преступность{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "QuarterDevastation_perTurn",
+      "source_crc32": 2248054032,
+      "translation": "{QUA_DEV_C}Разруха и грязь{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "QuarterHygiene_perTurn",
+      "source_crc32": 2413048883,
+      "translation": "{QUA_HYG_C}Чистота{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "QuarterReputation_perTurn",
+      "source_crc32": 4212528048,
+      "translation": "{QUA_REP_C}Репутация{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "QuarterUnrest_perTurn",
+      "source_crc32": 645238271,
+      "translation": "{QUA_UNR_C}Волнения{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "QuarterZeal_perTurn",
+      "source_crc32": 3550322581,
+      "translation": "{QUA_ZEA_C}Благочестие{##} каждый {C_TRN_C}ход{##}"
+    },
+    {
+      "key": "Range",
+      "source_crc32": 2857741689,
+      "translation": "От {min} до {max}"
+    },
+    {
+      "key": "AP_Instant",
+      "source_crc32": 1956996375,
+      "translation": "{value} ОД сразу"
+    },
+    {
+      "key": "Evidence_LettingOut_Chance",
+      "source_crc32": 3035136123,
+      "translation": "{value} к шансу оставить {CR_EVI_C}улику{##}"
+    },
+    {
+      "key": "SkillPoints_Child",
+      "source_crc32": 808245188,
+      "translation": "{value} к навыку {skill} выбранного ребёнка"
+    },
+    {
+      "key": "SkillPoints_Generic",
+      "source_crc32": 4180450686,
+      "translation": "{value} к навыку {skill}"
+    },
+    {
+      "key": "Standing_BetweenTwo",
+      "source_crc32": 3643848539,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} между двумя выбранными горожанами"
+    },
+    {
+      "key": "Standing_OneCharacter_You",
+      "source_crc32": 2472656146,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} к вам"
+    },
+    {
+      "key": "Standing_OneCharacter",
+      "source_crc32": 1274450570,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} к персонажу {character1}"
+    },
+    {
+      "key": "Standing_SelectedCharacter",
+      "source_crc32": 2704221671,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} выбранного персонажа"
+    },
+    {
+      "key": "Standing_AllCitizens",
+      "source_crc32": 2893826040,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} всех горожан"
+    },
+    {
+      "key": "Standing_AllOfficeHolders",
+      "source_crc32": 565305884,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} всех должностных лиц"
+    },
+    {
+      "key": "Standing_AllWorkers",
+      "source_crc32": 3388846616,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} всех работников"
+    },
+    {
+      "key": "Standing_NeighboringOwners",
+      "source_crc32": 2477964692,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} владельцев соседних зданий"
+    },
+    {
+      "key": "Standing_BuildingWorkers",
+      "source_crc32": 1541436790,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} работников выбранного здания"
+    },
+    {
+      "key": "Standing_ThreeRandomOfficialsOppositeGender",
+      "source_crc32": 2695562599,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} трёх случайных чиновников противоположного пола"
+    },
+    {
+      "key": "Standing_TwoCharacters",
+      "source_crc32": 2849300659,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} персонажей {character1} и {character2}"
+    },
+    {
+      "key": "Standing_ThreeCharacters",
+      "source_crc32": 542134432,
+      "translation": "{value} к {CHAR_STA_C}отношению{##} персонажей {character1}, {character2} и {character3}"
+    },
+    {
+      "key": "Parameter_Generic",
+      "source_crc32": 2739057816,
+      "translation": "{value} {parameter}"
+    }
+  ]
+}

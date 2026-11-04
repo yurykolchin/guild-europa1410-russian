@@ -1,0 +1,281 @@
+{
+  "format_version": 1,
+  "release": "v1.2.1",
+  "game_version": "0.5.2.26866",
+  "culture": "ru",
+  "archive": {
+    "file": "downloads/Guild1-Russian-Extra-2026-11-04.zip",
+    "bytes": 428731,
+    "sha256": "87f87460ff1f933064f7a1f51e5876a559e0b636a3111b4cb9f0d18f6f775a50"
+  },
+  "files": [
+    {
+      "name": "ZZ_RussianExtra_P.pak",
+      "path": "package/ZZ_RussianExtra_P.pak",
+      "purpose": "Таблицы локализации Unreal Engine",
+      "bytes": 1342132,
+      "sha256": "709cb867fc58c04e9312e9672f8f18f7a294ed97e6fdd8c3cce5242bd437660f"
+    },
+    {
+      "name": "ZZ_RussianExtra_P.ucas",
+      "path": "package/ZZ_RussianExtra_P.ucas",
+      "purpose": "Служебный файл контейнера для загрузки пакета",
+      "bytes": 64,
+      "sha256": "75e852792858458eb62a94b901f991a735215c573170bae5022436f08ca9a35f"
+    },
+    {
+      "name": "ZZ_RussianExtra_P.utoc",
+      "path": "package/ZZ_RussianExtra_P.utoc",
+      "purpose": "Служебный файл контейнера для загрузки пакета",
+      "bytes": 202,
+      "sha256": "d11c9ee62a16a98f9e6c6d4dc3eb4a3d91ca8fceae0616e5a8ec192e84a65fdf"
+    },
+    {
+      "name": "Установка.txt",
+      "path": "package/Установка.txt",
+      "purpose": "Инструкция по установке, обновлению и удалению",
+      "bytes": 1446,
+      "sha256": "261830cf168411138124a36b77a282257202e2993cb720379d7ab3acdc4b8d68"
+    }
+  ],
+  "localization_resources": [
+    {
+      "resource": "Engine",
+      "path_in_pak": "Engine/Content/Localization/Engine/ru/Engine.locres",
+      "bytes": 27745,
+      "sha256": "0b24cc83867e7e035abaea302e64ec55c614bbee588121f4d62ce7e1b6d4b1bc",
+      "entries": 299,
+      "parts": [
+        {
+          "path": "strings/Engine/Dialogs.json",
+          "sha256": "b5265a5d39f2d59adda09cb546fab46362d0716434b8e4e311f02d9b04ea9e5f",
+          "entries": 9
+        },
+        {
+          "path": "strings/Engine/InputKeys.json",
+          "sha256": "b3962e20e603667d659e483b09e39bfdd3ba1e0b10e6eb10b0264bba7668e3c6",
+          "entries": 290
+        }
+      ]
+    },
+    {
+      "resource": "Game",
+      "path_in_pak": "Europa1410/Content/Localization/Game/ru/Game.locres",
+      "bytes": 1251693,
+      "sha256": "a6d83260739891ef63919003bf599c8b325990f45c8ec56924c361376ec9335d",
+      "entries": 9107,
+      "parts": [
+        {
+          "path": "strings/Game/Actions-01.json",
+          "sha256": "6dff0b47b386e5f54eaa67b498f5ad859a3b6165de3dfa88b7b7f75cff5e5298",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Actions-02.json",
+          "sha256": "2b99fc95517743333134a05fba48679ca6dcf1c0e2abadf62bb51517e610580f",
+          "entries": 160
+        },
+        {
+          "path": "strings/Game/AmbientBackstories.json",
+          "sha256": "56a44a9c6bd9dde787742a903aafc69f33f26021f5851a42eda8dffece74c543",
+          "entries": 418
+        },
+        {
+          "path": "strings/Game/Backstories.json",
+          "sha256": "3894edec19b3ccc1120632911f3377e4b809ec460dbeb87c4ddf63240efcbd78",
+          "entries": 34
+        },
+        {
+          "path": "strings/Game/Building_Improvements.json",
+          "sha256": "13ea077ef5d606b5b8e80a3bbc73010b769f03ce82990e73d61cbf1c8f75d84f",
+          "entries": 174
+        },
+        {
+          "path": "strings/Game/Building_Name_Pools-01.json",
+          "sha256": "c32f092dd3c7b08b027fb853dc766a0a3fa93d94487940a6212b3deb2434cd4a",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Building_Name_Pools-02.json",
+          "sha256": "655ba82e3718e3b92120f128e86c5b0fd812c1a64e0ba25c6980fe1a6c5e524a",
+          "entries": 69
+        },
+        {
+          "path": "strings/Game/Building_Rooms.json",
+          "sha256": "cddabeef567cbf92842a6b02cdb19a79484abb2698df5fa12f87c79eff787171",
+          "entries": 34
+        },
+        {
+          "path": "strings/Game/Buildings-01.json",
+          "sha256": "0585da7ead844979e84824a2e9afd2f43b2b71ed42b899689ab8960355f10eb6",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Buildings-02.json",
+          "sha256": "a7d7cda57b9badaecccd9737699c07d49ed0db3c1c026ab3731327472d47da99",
+          "entries": 12
+        },
+        {
+          "path": "strings/Game/Carts.json",
+          "sha256": "7a2559d18b363925ae99db6753f50d3344cb8e9f9e8bbcfbe4e849d91fcf4232",
+          "entries": 65
+        },
+        {
+          "path": "strings/Game/Challenges.json",
+          "sha256": "1edfcce0a8468beb86246a9a04facac7910d21feea38cdb0b713deea2d01b692",
+          "entries": 176
+        },
+        {
+          "path": "strings/Game/Character.json",
+          "sha256": "a3d23761fdad6bed0df33475d901b8f684bc8bd71d3e0faec42f28941675c24e",
+          "entries": 200
+        },
+        {
+          "path": "strings/Game/Character_Name_Pools.json",
+          "sha256": "68983f2773d3a421cb9bbc8b36f9b37ead1999261f87f9c64c8817547fd540c3",
+          "entries": 471
+        },
+        {
+          "path": "strings/Game/Cities.json",
+          "sha256": "cb530e7361c28d65a05dccf028a61ec4a64b9d3831b4963416308c94fe80f52c",
+          "entries": 179
+        },
+        {
+          "path": "strings/Game/Combat.json",
+          "sha256": "483b13759b811b708ca725a3cb8cd4957513917fbc0d4a90fab035d357c38a74",
+          "entries": 136
+        },
+        {
+          "path": "strings/Game/Controls.json",
+          "sha256": "dc2cea16593a0118b8cc69665b037ec0d20764d5de3032acb8ce673d3ea6bba2",
+          "entries": 108
+        },
+        {
+          "path": "strings/Game/Dioramas.json",
+          "sha256": "da3f93f0903df9c02941dbfccdb0654687d37a39e7e205af5c5a3b2b360b5630",
+          "entries": 17
+        },
+        {
+          "path": "strings/Game/Effects.json",
+          "sha256": "329f78a4d997c6e4f1a9efb0c3b8cd1b43606cb76a87d64e2968cc30a3cc5015",
+          "entries": 161
+        },
+        {
+          "path": "strings/Game/Events-01.json",
+          "sha256": "f0fa21b1d71a3de264ab4d1853fbb2c8073fb740edd14ad214d5263bb886bdcd",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Events-02.json",
+          "sha256": "23613e73684d0c1deb3adfb449d308399f75ef48d98fd1b4b33a11785c3b630c",
+          "entries": 78
+        },
+        {
+          "path": "strings/Game/General.json",
+          "sha256": "b708b16cc4b287dacfba6dcf536991cd2d3f784b220f6421653c694c6f766efb",
+          "entries": 458
+        },
+        {
+          "path": "strings/Game/HistoricalEvents.json",
+          "sha256": "2ee4a8fd4c4c6701f44450ce1a36670f2951dfc45edc9b93ba99f906e81558cb",
+          "entries": 105
+        },
+        {
+          "path": "strings/Game/Items.json",
+          "sha256": "50bd1300119b44a4a3157494a50d247a7d464674834ae7459ecb59532924de4f",
+          "entries": 414
+        },
+        {
+          "path": "strings/Game/Notifications.json",
+          "sha256": "bcb2e4754957af6f4b2ae7be2d8e2d0b88902d7340c04884193176f617fec77b",
+          "entries": 403
+        },
+        {
+          "path": "strings/Game/Politics.json",
+          "sha256": "0a3ffdf4b5a8684dd25c29962da37503778c2bd411ba8e3ceec16e7171fa3405",
+          "entries": 334
+        },
+        {
+          "path": "strings/Game/Professions.json",
+          "sha256": "2266e8549654976211f7cb7916fbf6a203f7faddf68e9388c2ba9fcc2c223a49",
+          "entries": 71
+        },
+        {
+          "path": "strings/Game/Seasons.json",
+          "sha256": "8ae15f6eb2ced01f0010e33d48b78854afe5c4b7c8cdcfa2afdeb4b8a4a6bf94",
+          "entries": 22
+        },
+        {
+          "path": "strings/Game/Settings.json",
+          "sha256": "402016554c0beaa4c30470ef5e911867be0a8bbb860ab825b2ed3def45451ce2",
+          "entries": 229
+        },
+        {
+          "path": "strings/Game/Status_Effects.json",
+          "sha256": "82da2e4cbf28f45f6341ada5e35f81e0aa84474bd68818a0a24a1d0227bf68ff",
+          "entries": 331
+        },
+        {
+          "path": "strings/Game/Titles.json",
+          "sha256": "d9a3b234b629604a96f96f0ae5e5e5ae9d6eda9385346283d5dc3af7e6a92468",
+          "entries": 59
+        },
+        {
+          "path": "strings/Game/Traits.json",
+          "sha256": "3bd2265bac6485bceef94697d4cbda64b655deb00da2876859ccc4ed117dbe12",
+          "entries": 31
+        },
+        {
+          "path": "strings/Game/Workers.json",
+          "sha256": "4c7aef21072f08ac806dcf1595246dc93d253e51b99ec556b5c305b8415b8db1",
+          "entries": 151
+        },
+        {
+          "path": "strings/Game/Default-01.json",
+          "sha256": "7453b6594e01cfe3b5ffa0b8a94ed00cd31eab4f17bb572869d8946bdb2a4964",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Default-02.json",
+          "sha256": "d988a74e9491d80043422d068c333eeb6463ce92c3d041a70b27ef77937a1c73",
+          "entries": 265
+        },
+        {
+          "path": "strings/Game/Dialogue-01.json",
+          "sha256": "dc7e3dcf8160cb44a1766a15edbd417f6bd01275da8fe6d8ece081d47cff42db",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Dialogue-02.json",
+          "sha256": "9f55dcc80c1308ec94983181f84f2f6be5cdd3038720af7015c6400fd82c9a44",
+          "entries": 500
+        },
+        {
+          "path": "strings/Game/Dialogue-03.json",
+          "sha256": "a784744309a8ccf31979ab6ccc0f890ed5caf33d7c4a1d824e2388af4667ee04",
+          "entries": 241
+        },
+        {
+          "path": "strings/Game/GuildInputSettings.json",
+          "sha256": "25e8d48a75e52185e2903c1012a8bfb5307de2115cb351817e37233dda25b7d5",
+          "entries": 1
+        }
+      ]
+    },
+    {
+      "resource": "Game_VO",
+      "path_in_pak": "Europa1410/Content/Localization/Game_VO/ru/Game_VO.locres",
+      "bytes": 61588,
+      "sha256": "7ef86bb71d8f2d8d61da29f4e0346d607621649a96c9b1154479163161928645",
+      "entries": 331,
+      "parts": [
+        {
+          "path": "strings/Game_VO/Dialogue.json",
+          "sha256": "6431872d245db7c87faccf23b940e712ffa9ec014e4bc312146184520b95f6ba",
+          "entries": 331
+        }
+      ]
+    }
+  ],
+  "total_entries": 9737
+}

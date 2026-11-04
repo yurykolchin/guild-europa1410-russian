@@ -1,0 +1,686 @@
+{
+  "resource": "Game",
+  "namespace": "Combat",
+  "entries": [
+    {
+      "key": "AttackCart_Attacker_Defeat_Major_Message",
+      "source_crc32": 4061800972,
+      "translation": "Полный провал.\nТовар не взят, а двое разбойников сидят в кандалах."
+    },
+    {
+      "key": "AttackCart_Attacker_Defeat_Total_Message",
+      "source_crc32": 655122919,
+      "translation": "Унизительный разгром.\nТрое разбойников схвачены, товар не добыт, а хозяин повозки набирает известность - за счёт вашей неудачи."
+    },
+    {
+      "key": "Order_Default_Description",
+      "source_crc32": 2746913192,
+      "translation": "Нейтральная боевая тактика."
+    },
+    {
+      "key": "CombatEquipment_Effect_CombatBonus_DisplayName",
+      "source_crc32": 60150007,
+      "translation": "Точность"
+    },
+    {
+      "key": "CombatEquipment_Effect_CombatBonus_Description",
+      "source_crc32": 2709813995,
+      "translation": "Влияет на шанс попасть по цели в {CO_COM_C}бою{##}."
+    },
+    {
+      "key": "Order_Aggressive_DisplayName",
+      "source_crc32": 2484360214,
+      "translation": "Агрессивная"
+    },
+    {
+      "key": "Order_Push_DisplayName",
+      "source_crc32": 2484360214,
+      "translation": "Агрессивная"
+    },
+    {
+      "key": "Attacker_DisplayName",
+      "source_crc32": 1334653866,
+      "translation": "Нападающий"
+    },
+    {
+      "key": "Combat_Description_extra2",
+      "source_crc32": 3464784668,
+      "translation": "Атаки отнимают {CHAR_ENE_C}энергию{##}, а не {CHAR_HP_C}здоровье{##}.\nКогда энергия иссякает, бойцы рискуют быть {ST_CHR_KNODOW_C}сбитыми с ног{##}."
+    },
+    {
+      "key": "AttackCart_DisplayName",
+      "source_crc32": 2352127309,
+      "translation": "Нападение на повозку"
+    },
+    {
+      "key": "Attacker_DisplayName_plural",
+      "source_crc32": 217313275,
+      "translation": "Нападающие"
+    },
+    {
+      "key": "Role_CartAttackers_DisplayName",
+      "source_crc32": 217313275,
+      "translation": "Нападающие"
+    },
+    {
+      "key": "Role_CartEscort_DisplayName",
+      "source_crc32": 1324664328,
+      "translation": "Охрана повозки"
+    },
+    {
+      "key": "Challenger_DisplayName",
+      "source_crc32": 1771330953,
+      "translation": "Вызывающий"
+    },
+    {
+      "key": "Effect_ChanceOfBeingHit",
+      "source_crc32": 3610795261,
+      "translation": "Шанс получить удар"
+    },
+    {
+      "key": "Effect_ChanceToHit",
+      "source_crc32": 4222288062,
+      "translation": "Шанс попасть"
+    },
+    {
+      "key": "Order_PickOrder_Prompt",
+      "source_crc32": 1136112736,
+      "translation": "Выберите тактику"
+    },
+    {
+      "key": "Combat_DisplayName",
+      "source_crc32": 2196157222,
+      "translation": "Бой"
+    },
+    {
+      "key": "CombatEncounter_DisplayName",
+      "source_crc32": 2808909165,
+      "translation": "Схватка"
+    },
+    {
+      "key": "Phase_DisplayName",
+      "source_crc32": 3323758514,
+      "translation": "Фаза боя"
+    },
+    {
+      "key": "Result_DisplayName",
+      "source_crc32": 585377388,
+      "translation": "Итоги боя"
+    },
+    {
+      "key": "Round_DisplayName",
+      "source_crc32": 2704776279,
+      "translation": "Раунд боя"
+    },
+    {
+      "key": "Score_DisplayName",
+      "source_crc32": 385167941,
+      "translation": "Боевые очки"
+    },
+    {
+      "key": "Order_DisplayName_alt",
+      "source_crc32": 3590042514,
+      "translation": "Боевая тактика"
+    },
+    {
+      "key": "Order_DisplayName_plural_alt",
+      "source_crc32": 2305730341,
+      "translation": "Боевые тактики"
+    },
+    {
+      "key": "Combat_Description_extra1",
+      "source_crc32": 1238150287,
+      "translation": "Бой состоит из {CO_ROU_C}раундов{##} и {CO_PHA_C}фаз{##}. В ходе раундов приказы меняют {CO_ORD_C}тактику{##}, чтобы получить преимущество на {CO_SCOBAR_C}шкале победы{##}."
+    },
+    {
+      "key": "Round_Description",
+      "source_crc32": 2339624706,
+      "translation": "Бой идёт несколько раундов, в каждом - три {CO_PHA_C}фазы боя{##}."
+    },
+    {
+      "key": "Order_Push_Description",
+      "source_crc32": 3754600251,
+      "translation": "Бойцы наносят больше урона, но и противнику проще по ним попасть."
+    },
+    {
+      "key": "Phase_Melee_Description",
+      "source_crc32": 1057647685,
+      "translation": "Бойцы с {CO_COMEQU_WEAMEL_C}оружием ближнего боя{##}."
+    },
+    {
+      "key": "Phase_Ranged_Description",
+      "source_crc32": 392784750,
+      "translation": "Бойцы с {CO_COMEQU_WEARAN_C}оружием дальнего боя{##}."
+    },
+    {
+      "key": "Phase_Special_Description",
+      "source_crc32": 1384796098,
+      "translation": "Бойцы с {CO_COMEQU_WEASPE_C}особым оружием{##}."
+    },
+    {
+      "key": "Order_Overwhelm_Description",
+      "source_crc32": 1314819136,
+      "translation": "У бойцов выше шанс попасть, и они рвутся к скорой победе любой ценой."
+    },
+    {
+      "key": "Order_Avoid_Description",
+      "source_crc32": 3495833851,
+      "translation": "Бойцы прежде всего берегут себя, жертвуя шансом попасть по врагу."
+    },
+    {
+      "key": "Order_HoldTheLine_Description",
+      "source_crc32": 128755923,
+      "translation": "Бойцы получают меньше урона от попаданий, но и сами реже попадают по противнику."
+    },
+    {
+      "key": "CombatEquipment_Effect_Special_PoisonDagger",
+      "source_crc32": 3715974683,
+      "translation": "Продолжает наносить урон после попадания."
+    },
+    {
+      "key": "CombatEquipment_Effect_DamageEnergy_DisplayName",
+      "source_crc32": 4082246843,
+      "translation": "Урон"
+    },
+    {
+      "key": "Order_Default_DisplayName",
+      "source_crc32": 940523119,
+      "translation": "Обычная"
+    },
+    {
+      "key": "Result_Defeat_DisplayName",
+      "source_crc32": 3400066653,
+      "translation": "Поражение"
+    },
+    {
+      "key": "Defender_DisplayName",
+      "source_crc32": 1179944356,
+      "translation": "Защитник"
+    },
+    {
+      "key": "Defender_DisplayName_plural",
+      "source_crc32": 1012005794,
+      "translation": "Защитники"
+    },
+    {
+      "key": "Order_HoldTheLine_DisplayName",
+      "source_crc32": 3552409201,
+      "translation": "Оборонительная"
+    },
+    {
+      "key": "Effect_DamageReceivedPercentage_Warning",
+      "source_crc32": 1624074826,
+      "translation": "Несмотря на это снижение, при подсчёте {CO_SCO_C}очков{##} учитывается полный урон."
+    },
+    {
+      "key": "MarginOfVictory_Draw_DisplayName",
+      "source_crc32": 875353667,
+      "translation": "Ничья"
+    },
+    {
+      "key": "Result_Draw_DisplayName",
+      "source_crc32": 875353667,
+      "translation": "Ничья"
+    },
+    {
+      "key": "Duel_DisplayName",
+      "source_crc32": 1139204520,
+      "translation": "Поединок"
+    },
+    {
+      "key": "Duel_Description_extra1",
+      "source_crc32": 3686580589,
+      "translation": "Поединки всегда проходят в {CO_PHA_C}ближнем бою{##}, так что выбор {CO_COMEQU_WEAMEL_C}оружия{##} решает всё."
+    },
+    {
+      "key": "Round_Description_extra1",
+      "source_crc32": 1337742663,
+      "translation": "В конце каждого раунда подсчитываются {CO_SCO_C}очки{##}, которые сдвигают {CO_SCOBAR_C}шкалу победы{##}."
+    },
+    {
+      "key": "Score_Description",
+      "source_crc32": 3976794047,
+      "translation": "Каждый {CO_ROU_C}раунд{##} {CO_SCO_C}очки{##} считаются по доле {CHAR_ENE_C}энергии{##}, потерянной от {CO_COMEQU_DAM_C}урона{##} каждой из сторон.\nСторона с меньшей долей потерь получает разницу в виде очков, сдвигая {CO_SCOBAR_C}шкалу победы{##} в свою пользу."
+    },
+    {
+      "key": "EnergyPool_DisplayName",
+      "source_crc32": 1163921457,
+      "translation": "Запас энергии"
+    },
+    {
+      "key": "Combat_Description",
+      "source_crc32": 2833716934,
+      "translation": "Снарядите своих людей {I_TYP_COMEQU_C}оружием и доспехами{##} - дома пригодится {B_IMP_IMPCOM_C}стойка для оружия{##}."
+    },
+    {
+      "key": "Order_Avoid_DisplayName",
+      "source_crc32": 2462061933,
+      "translation": "Уклонение"
+    },
+    {
+      "key": "CombatEncounter_Description",
+      "source_crc32": 3225012964,
+      "translation": "Даже если вы избегаете {CO_COM_C}боя{##}, он может найти вас сам. Лучше быть наготове.\n{I_TYP_COMEQU_C}Боевое снаряжение{##} выдерживает лишь ограниченное число схваток."
+    },
+    {
+      "key": "ScoreBar_Description_extra5",
+      "source_crc32": 4293634129,
+      "translation": "Если время вышло, а {CO_SCO_C}очки{##} равны, зачинщик {CO_TYPE_DUE_C}поединка{##} проигрывает. При {CO_TYPE_ATTCAR_C}нападении на повозку{##} проигрывает нападающий."
+    },
+    {
+      "key": "MarginOfVictory_Description",
+      "source_crc32": 746034204,
+      "translation": "Показывает, насколько убедителен исход, по конечному положению {CO_SCOBAR_C}шкалы победы{##}. Определяет применяемые последствия."
+    },
+    {
+      "key": "AttackCart_Attacker_Victory_Major_Message",
+      "source_crc32": 1479486947,
+      "translation": "Бой был тяжёлым, но разбойники взяли верх.\nПоловина товара из повозки разграблена."
+    },
+    {
+      "key": "AttackCart_Defender_Defeat_Major_Message",
+      "source_crc32": 1479486947,
+      "translation": "Бой был тяжёлым, но разбойники взяли верх.\nПоловина товара из повозки разграблена."
+    },
+    {
+      "key": "MarginOfVictory_MajorDefeat_DisplayName",
+      "source_crc32": 495544790,
+      "translation": "Крупное поражение"
+    },
+    {
+      "key": "MarginOfVictory_MajorVictory_DisplayName",
+      "source_crc32": 363414969,
+      "translation": "Крупная победа"
+    },
+    {
+      "key": "MarginOfVictory_DisplayName",
+      "source_crc32": 1402839637,
+      "translation": "Перевес"
+    },
+    {
+      "key": "Phase_Melee_DisplayName",
+      "source_crc32": 1993336256,
+      "translation": "Ближний бой"
+    },
+    {
+      "key": "Phase_Melee_DisplayName_alt",
+      "source_crc32": 613677727,
+      "translation": "Фаза ближнего боя"
+    },
+    {
+      "key": "MarginOfVictory_MinorDefeat_DisplayName",
+      "source_crc32": 1194913624,
+      "translation": "Малое поражение"
+    },
+    {
+      "key": "MarginOfVictory_MinorVictory_DisplayName",
+      "source_crc32": 2348270736,
+      "translation": "Малая победа"
+    },
+    {
+      "key": "AttackCart_Attacker_Draw_Message",
+      "source_crc32": 3929848130,
+      "translation": "Никто не взял верх."
+    },
+    {
+      "key": "AttackCart_Defender_Draw_Message",
+      "source_crc32": 3929848130,
+      "translation": "Никто не взял верх."
+    },
+    {
+      "key": "Duel_Challenger_Draw_Message",
+      "source_crc32": 3929848130,
+      "translation": "Никто не взял верх."
+    },
+    {
+      "key": "Duel_Respondent_Draw_Message",
+      "source_crc32": 3929848130,
+      "translation": "Никто не взял верх."
+    },
+    {
+      "key": "Order_Overwhelm_DisplayName",
+      "source_crc32": 249738270,
+      "translation": "Наступательная"
+    },
+    {
+      "key": "CombatResult_EndRule_NoUnitsLeft",
+      "source_crc32": 3168394763,
+      "translation": "Одна из сторон больше не может сражаться."
+    },
+    {
+      "key": "CombatResult_EndRule_Score",
+      "source_crc32": 3612380538,
+      "translation": "Одна из сторон набрала максимум очков."
+    },
+    {
+      "key": "Order_Passive_DisplayName",
+      "source_crc32": 3934672951,
+      "translation": "Пассивная"
+    },
+    {
+      "key": "CombatEquipment_Effect_ProtectionEnergy_DisplayName",
+      "source_crc32": 3434409914,
+      "translation": "Защита"
+    },
+    {
+      "key": "Phase_Ranged_DisplayName",
+      "source_crc32": 6846684,
+      "translation": "Дальний бой"
+    },
+    {
+      "key": "Phase_Ranged_DisplayName_alt",
+      "source_crc32": 232261953,
+      "translation": "Фаза дальнего боя"
+    },
+    {
+      "key": "CombatEquipment_Effect_ProtectionEnergy_Description",
+      "source_crc32": 4094335500,
+      "translation": "Снижает урон по {CHAR_ENE_C}энергии{##} при попадании в {CO_COM_C}бою{##}."
+    },
+    {
+      "key": "ScoreBar_Description",
+      "source_crc32": 2235116781,
+      "translation": "Показывает текущий баланс {CO_SCO_C}очков{##}; цвет указывает на ведущую сторону."
+    },
+    {
+      "key": "AttackCart_Description",
+      "source_crc32": 750582238,
+      "translation": "Разбойники {A_ATKCAR_C}нападают{##} на повозку - но на их пути встаёт нанятая {A_HIRESC_C}охрана{##}."
+    },
+    {
+      "key": "Phase_Special_DisplayName",
+      "source_crc32": 2678209244,
+      "translation": "Особая"
+    },
+    {
+      "key": "Phase_Special_DisplayName_alt",
+      "source_crc32": 3262533233,
+      "translation": "Особая фаза"
+    },
+    {
+      "key": "Order_DisplayName",
+      "source_crc32": 663836040,
+      "translation": "Тактика"
+    },
+    {
+      "key": "Order_DisplayName_plural",
+      "source_crc32": 3607407825,
+      "translation": "Тактики"
+    },
+    {
+      "key": "Order_Description",
+      "source_crc32": 434671096,
+      "translation": "Тактика позволяет влиять на ход боя.\nОна действует, пока её не сменят, и вступает в силу в начале следующего {CO_ROU_C}раунда боя{##}."
+    },
+    {
+      "key": "MarginOfVictory_Draw_Description",
+      "source_crc32": 1362889368,
+      "translation": "Бой окончен вничью."
+    },
+    {
+      "key": "ScoreBar_Description_extra3",
+      "source_crc32": 1926557393,
+      "translation": "Противник {ST_CHR_KNODOW_C}сбит с ног{##}."
+    },
+    {
+      "key": "AttackCart_Defender_Victory_Major_Message",
+      "source_crc32": 3935088295,
+      "translation": "Охрана выстояла.\nТовар не тронут, а ваше положение в городе немного упрочилось."
+    },
+    {
+      "key": "AttackCart_Defender_Victory_Minor_Message",
+      "source_crc32": 3935088295,
+      "translation": "Охрана выстояла.\nТовар не тронут, а ваше положение в городе немного упрочилось."
+    },
+    {
+      "key": "AttackCart_Attacker_Victory_Minor_Message",
+      "source_crc32": 3353359212,
+      "translation": "Охрана дала отпор, но в конце концов её смяли.\nРазбойники ушли с малой частью товара."
+    },
+    {
+      "key": "AttackCart_Defender_Defeat_Minor_Message",
+      "source_crc32": 3353359212,
+      "translation": "Охрана дала отпор, но в конце концов её смяли.\nРазбойники ушли с малой частью товара."
+    },
+    {
+      "key": "AttackCart_Attacker_Defeat_Minor_Message",
+      "source_crc32": 3924386237,
+      "translation": "Разбойники ничего не добились.\nХуже того, одного из них схватили."
+    },
+    {
+      "key": "AttackCart_Defender_Victory_Total_Message",
+      "source_crc32": 4165363174,
+      "translation": "Разбойники отогнаны ни с чем.\nНе пропало ни ящика, а ваша популярность в городе заметно выросла."
+    },
+    {
+      "key": "CombatResult_EndRule_TimeOut",
+      "source_crc32": 1346498976,
+      "translation": "Время вышло.{CO_TIMOUT_C}*{##}"
+    },
+    {
+      "key": "Timeline_Description",
+      "source_crc32": 1478782907,
+      "translation": "Хронология показывает наибольшую возможную длительность боя. Она делится на череду {CO_ROU_C}раундов{##} и их {CO_PHA_C}фаз{##}. Когда она доходит до конца, побеждает сторона с большим числом {CO_SCO_C}очков{##}."
+    },
+    {
+      "key": "EnergyPool_Description",
+      "source_crc32": 16148079,
+      "translation": "Суммарная {CHAR_ENE_C}энергия{##} всех бойцов этой стороны."
+    },
+    {
+      "key": "ScoreBar_Description_extra1",
+      "source_crc32": 3065350726,
+      "translation": "Победить в бою можно тремя способами:"
+    },
+    {
+      "key": "AttackCart_Attacker_Victory_Total_Message",
+      "source_crc32": 2464090130,
+      "translation": "И это называется охрана?\nРазбойники не встретили настоящего сопротивления и разграбили повозку подчистую."
+    },
+    {
+      "key": "AttackCart_Defender_Defeat_Total_Message",
+      "source_crc32": 2464090130,
+      "translation": "И это называется охрана?\nРазбойники не встретили настоящего сопротивления и разграбили повозку подчистую."
+    },
+    {
+      "key": "ScoreBar_Description_extra4",
+      "source_crc32": 4192343257,
+      "translation": "Время вышло, и у вас больше {CO_SCO_C}очков{##}."
+    },
+    {
+      "key": "Timeline_DisplayName",
+      "source_crc32": 1405957562,
+      "translation": "Хронология"
+    },
+    {
+      "key": "MarginOfVictory_TotalDefeat_DisplayName",
+      "source_crc32": 3631585461,
+      "translation": "Полное поражение"
+    },
+    {
+      "key": "MarginOfVictory_TotalVictory_DisplayName",
+      "source_crc32": 3678116925,
+      "translation": "Полная победа"
+    },
+    {
+      "key": "Duel_Description",
+      "source_crc32": 3209232635,
+      "translation": "Двое {CHAR_CITVSWOR_C}горожан{##} {CO_COM_C}сражаются{##} за свою честь."
+    },
+    {
+      "key": "Combat_Description_extra3",
+      "source_crc32": 3049925874,
+      "translation": "Виды боя:"
+    },
+    {
+      "key": "NoneEquipped_Weapon_Label",
+      "source_crc32": 3273620605,
+      "translation": "Без оружия"
+    },
+    {
+      "key": "NoneEquipped_Armor_Label",
+      "source_crc32": 508821385,
+      "translation": "Без доспехов"
+    },
+    {
+      "key": "Result_Victory_DisplayName",
+      "source_crc32": 1370520234,
+      "translation": "Победа"
+    },
+    {
+      "key": "ScoreBar_DisplayName",
+      "source_crc32": 4272292727,
+      "translation": "Шкала победы"
+    },
+    {
+      "key": "CombatEquipment_Effect_CombatBonus_DisplayName_alt",
+      "source_crc32": 2885478429,
+      "translation": "Точность оружия"
+    },
+    {
+      "key": "CombatResult_EndRule_TimeOut_explanation",
+      "source_crc32": 2615266249,
+      "translation": "Когда время выходит, побеждает сторона с большим числом очков. При равенстве в поединке проигрывает его зачинщик, а при нападении на повозку - нападающий."
+    },
+    {
+      "key": "MarginOfVictory_MajorVictory_Description",
+      "source_crc32": 2123989725,
+      "translation": "Вы одержали крупную победу."
+    },
+    {
+      "key": "MarginOfVictory_MinorVictory_Description",
+      "source_crc32": 1893457223,
+      "translation": "Вы одержали малую победу."
+    },
+    {
+      "key": "MarginOfVictory_TotalVictory_Description",
+      "source_crc32": 2706483745,
+      "translation": "Вы одержали полную победу."
+    },
+    {
+      "key": "Duel_Challenger_Defeat_Total_Message",
+      "source_crc32": 16239342,
+      "translation": "Вы проиграли поединок. С треском.\nПора подумать о новом имени - а может, и о новом городе."
+    },
+    {
+      "key": "Duel_Respondent_Defeat_Total_Message",
+      "source_crc32": 16239342,
+      "translation": "Вы проиграли поединок. С треском.\nПора подумать о новом имени - а может, и о новом городе."
+    },
+    {
+      "key": "Duel_Challenger_Defeat_Major_Message",
+      "source_crc32": 3880515298,
+      "translation": "Вы проиграли поединок. Какой позор.\nГород ещё не скоро даст вам об этом забыть."
+    },
+    {
+      "key": "Duel_Respondent_Defeat_Major_Message",
+      "source_crc32": 3880515298,
+      "translation": "Вы проиграли поединок. Какой позор.\nГород ещё не скоро даст вам об этом забыть."
+    },
+    {
+      "key": "Order_Aggressive_Description",
+      "source_crc32": 3193163675,
+      "translation": "У вас выше шанс попасть, и вы рвётесь к скорой победе любой ценой."
+    },
+    {
+      "key": "Duel_Challenger_Defeat_Minor_Message",
+      "source_crc32": 1803372057,
+      "translation": "Вы проиграли поединок - с небольшим отрывом.\nГород стал думать о вас чуть хуже."
+    },
+    {
+      "key": "Duel_Respondent_Defeat_Minor_Message",
+      "source_crc32": 1803372057,
+      "translation": "Вы проиграли поединок - с небольшим отрывом.\nГород стал думать о вас чуть хуже."
+    },
+    {
+      "key": "Order_Passive_Description",
+      "source_crc32": 1966521728,
+      "translation": "Вы бережёте энергию, жертвуя шансом попасть по врагу."
+    },
+    {
+      "key": "Duel_Challenger_Victory_Minor_Message",
+      "source_crc32": 1703856380,
+      "translation": "Вы взяли верх - но едва-едва.\nИ всё же победа есть победа, и город это заметил."
+    },
+    {
+      "key": "Duel_Respondent_Victory_Minor_Message",
+      "source_crc32": 1703856380,
+      "translation": "Вы взяли верх - но едва-едва.\nИ всё же победа есть победа, и город это заметил."
+    },
+    {
+      "key": "ScoreBar_Description_extra2",
+      "source_crc32": 56454815,
+      "translation": "Вы набираете максимум {CO_SCO_C}очков{##}."
+    },
+    {
+      "key": "MarginOfVictory_MajorDefeat_Description",
+      "source_crc32": 2641228805,
+      "translation": "Вы потерпели крупное поражение."
+    },
+    {
+      "key": "MarginOfVictory_MinorDefeat_Description",
+      "source_crc32": 53703980,
+      "translation": "Вы потерпели малое поражение."
+    },
+    {
+      "key": "MarginOfVictory_TotalDefeat_Description",
+      "source_crc32": 1409232257,
+      "translation": "Вы потерпели полное поражение."
+    },
+    {
+      "key": "Duel_Challenger_Victory_Major_Message",
+      "source_crc32": 405452715,
+      "translation": "Вы выиграли поединок - честно и заслуженно. \nВаша популярность растёт."
+    },
+    {
+      "key": "Duel_Respondent_Victory_Major_Message",
+      "source_crc32": 405452715,
+      "translation": "Вы выиграли поединок - честно и заслуженно. \nВаша популярность растёт."
+    },
+    {
+      "key": "Duel_Challenger_Victory_Total_Message",
+      "source_crc32": 349789002,
+      "translation": "Вы выиграли поединок. Безоговорочно.\nЕсли противник и остался в городе, то лишь из упрямства."
+    },
+    {
+      "key": "Duel_Respondent_Victory_Total_Message",
+      "source_crc32": 349789002,
+      "translation": "Вы выиграли поединок. Безоговорочно.\nЕсли противник и остался в городе, то лишь из упрямства."
+    },
+    {
+      "key": "CombatEquipment_Effect_DamageEnergy_Description",
+      "source_crc32": 2039589112,
+      "translation": "{CHAR_ENE_C}Энергия{##}, отнимаемая у цели при попадании в {CO_COM_C}бою{##}."
+    },
+    {
+      "key": "Effect_DamageDealt",
+      "source_crc32": 2350877057,
+      "translation": "Нанесённый {CO_COMEQU_DAM_C}урон{##}"
+    },
+    {
+      "key": "Effect_DamageReceived",
+      "source_crc32": 2803567025,
+      "translation": "Полученный {CO_COMEQU_DAM_C}урон{##}"
+    },
+    {
+      "key": "Effect_DamageReceivedPercentage",
+      "source_crc32": 1131431074,
+      "translation": "Полученный {CO_COMEQU_DAM_C}урон{##}{CO_SCOWAR_C}*{##}"
+    },
+    {
+      "key": "Phase_Description",
+      "source_crc32": 3099890373,
+      "translation": "{CO_ROU_C}Раунды боя{##} делятся на три фазы - дальний бой, особая фаза и ближний бой, - и в каждой допускается лишь соответствующее оружие."
+    },
+    {
+      "key": "Combatants_Count",
+      "source_crc32": 709710447,
+      "translation": "{NumCombatants} {CO_COM_C}{NumCombatants}|plural(one=боец,few=бойца,many=бойцов,other=бойца){##}"
+    },
+    {
+      "key": "CombatEquipment_Effect_Special_ShadowDagger",
+      "source_crc32": 1778066365,
+      "translation": "{S_STE_C}Плутовство{##} повышает точность"
+    }
+  ]
+}

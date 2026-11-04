@@ -1,0 +1,51 @@
+{
+  "resource": "Engine",
+  "namespace": "Dialogs",
+  "entries": [
+    {
+      "key": "EAppReturnTypeCancel",
+      "source_crc32": 949252438,
+      "translation": "Отмена"
+    },
+    {
+      "key": "EAppReturnTypeContinue",
+      "source_crc32": 17983271,
+      "translation": "Продолжить"
+    },
+    {
+      "key": "EAppReturnTypeNo",
+      "source_crc32": 980478179,
+      "translation": "Нет"
+    },
+    {
+      "key": "EAppReturnTypeNoAll",
+      "source_crc32": 4277904362,
+      "translation": "Нет для всех"
+    },
+    {
+      "key": "EAppReturnTypeOk",
+      "source_crc32": 3649753108,
+      "translation": "ОК"
+    },
+    {
+      "key": "EAppReturnTypeRetry",
+      "source_crc32": 2352182739,
+      "translation": "Повторить"
+    },
+    {
+      "key": "EAppReturnTypeYes",
+      "source_crc32": 998639455,
+      "translation": "Да"
+    },
+    {
+      "key": "EAppReturnTypeYesAll",
+      "source_crc32": 3762643044,
+      "translation": "Да для всех"
+    },
+    {
+      "key": "MissingType",
+      "source_crc32": 2792278405,
+      "translation": "ТИП ОТВЕТА НЕ ЗАДАН"
+    }
+  ]
+}

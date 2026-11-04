@@ -1,0 +1,2506 @@
+{
+  "resource": "Game",
+  "namespace": "Buildings",
+  "entries": [
+    {
+      "key": "PublicBuilding_CannonTower_Description_EarlyAccess",
+      "source_crc32": 3318359469,
+      "translation": "Заброшенная пушечная башня… Быть может, под завалами всё ещё скрыта грозная, исправная пушка. Загляните позже в раннем доступе - вдруг что-нибудь откопают."
+    },
+    {
+      "key": "OccupationBuilding_Trader_Description",
+      "source_crc32": 2885623772,
+      "translation": "Здесь хранят товары, заключают сделки и готовят почву для выгодной торговли."
+    },
+    {
+      "key": "OccupationBuilding_Smithy_Description",
+      "source_crc32": 2724157573,
+      "translation": "Кузня, где куют инструменты, оружие и тонкие украшения."
+    },
+    {
+      "key": "OccupationBuilding_Robber_Description",
+      "source_crc32": 1163357806,
+      "translation": "Укреплённая твердыня, откуда разбойники правят дорогами и считают незаконную прибыль."
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_Description",
+      "source_crc32": 2777657275,
+      "translation": "Благоухающая мастерская, где из заморских масел и эссенций составляют духи."
+    },
+    {
+      "key": "Guild_InnkeepersGuild_Description",
+      "source_crc32": 2262642646,
+      "translation": "Добрая выпивка, тёплая постель и нужный слух в нужный час - вот наше ремесло."
+    },
+    {
+      "key": "Residence_House_Description",
+      "source_crc32": 2022956581,
+      "translation": "Скромный дом, дающий жильцам уют и защиту."
+    },
+    {
+      "key": "Residence_Villa_Description",
+      "source_crc32": 640890727,
+      "translation": "Роскошное жилище для богачей - удобство и престиж."
+    },
+    {
+      "key": "CashStash_Withdraw_Description",
+      "source_crc32": 3499356503,
+      "translation": "Поиздержались? Возьмите немного денег из кассы предприятия и верните их туда, где им самое место: в свой кошель."
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_Description",
+      "source_crc32": 2339309720,
+      "translation": "Шумный лагерь, где артисты дают представления и торгуют мистическими предметами."
+    },
+    {
+      "key": "Manager_ProfessionBuilding_Description_extra1",
+      "source_crc32": 2540917749,
+      "translation": "Управляющий должен быть членом вашей {CHAR_DYN_C}династии{##} и владеть {P_C}профессией{##}, к которой относится доверенное ему предприятие."
+    },
+    {
+      "key": "PersonalBuilding_Shrine_Description",
+      "source_crc32": 4226670824,
+      "translation": "Скромная личная часовня для молитв."
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_Description",
+      "source_crc32": 1222565699,
+      "translation": "Тихое место упокоения с семейными могилами для тех, кто чтит память предков."
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_Description",
+      "source_crc32": 1004127918,
+      "translation": "Место, где лечат и врачуют."
+    },
+    {
+      "key": "OccupationBuilding_Church_Description",
+      "source_crc32": 2629334957,
+      "translation": "Дом молитвы, дарующий искупление, знание и связь с божественным."
+    },
+    {
+      "key": "Guild_GuildHouse_Description",
+      "source_crc32": 318560139,
+      "translation": "Место, где мастера своего дела учатся, делятся знаниями и находят поддержку."
+    },
+    {
+      "key": "PublicBuilding_MessageBoard_Description",
+      "source_crc32": 2351820550,
+      "translation": "Доска для указов властей, срочных городских вестей и поручений для храбрых или отчаявшихся горожан."
+    },
+    {
+      "key": "Ledger_BuildingCrime_Description",
+      "source_crc32": 25289333,
+      "translation": "Учёт денег и товаров, украденных из здания ворами, разбойниками и прочими незваными гостями."
+    },
+    {
+      "key": "ExtractionFacility_Quarry_Description",
+      "source_crc32": 3906787188,
+      "translation": "Каменистое место, где добывают сланец, кирпич и гранит для строительства и ремёсел."
+    },
+    {
+      "key": "Dwelling_Dwelling_Description",
+      "source_crc32": 4116714356,
+      "translation": "Вторая крыша - чтобы все поняли: первая обошлась слишком дёшево."
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_Description",
+      "source_crc32": 693108404,
+      "translation": "Тайное место торговли запретным товаром вне досягаемости закона."
+    },
+    {
+      "key": "OccupationBuilding_Thief_Description",
+      "source_crc32": 4242394148,
+      "translation": "Тайное пристанище воров, что действуют из тени и обирают беспечных."
+    },
+    {
+      "key": "PublicBuilding_Prison_Description",
+      "source_crc32": 970699474,
+      "translation": "Надёжное место заключения для тех, кто нарушает мир и порядок в городе."
+    },
+    {
+      "key": "Storage_Description",
+      "source_crc32": 3017674358,
+      "translation": "Надёжное место, где товары лежат в порядке и всегда готовы к {A_ACT_CRA_C}изготовлению{##}."
+    },
+    {
+      "key": "ExtractionFacility_Mine_Description",
+      "source_crc32": 858367821,
+      "translation": "Источник ценных руд и минералов, питающий хозяйство и ремёсла города."
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_Description",
+      "source_crc32": 2820347064,
+      "translation": "Богатые лесом угодья, где заготавливают древесину для города."
+    },
+    {
+      "key": "OccupationBuilding_Guard_Description",
+      "source_crc32": 837887358,
+      "translation": "Здесь стражники живут и обучаются, храня порядок и защищая горожан."
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_Description",
+      "source_crc32": 1329236405,
+      "translation": "Надёжное место для займов, размена монет и прочих денежных дел."
+    },
+    {
+      "key": "OccupationBuilding_Inn_Description",
+      "source_crc32": 2011982869,
+      "translation": "Тёплое заведение, где путников и горожан ждут еда, выпивка и игры."
+    },
+    {
+      "key": "OccupationBuilding_Church_II_DisplayName",
+      "source_crc32": 2885557095,
+      "translation": "Аббатство"
+    },
+    {
+      "key": "Parameter_AccidentProtection_DisplayName",
+      "source_crc32": 1209277329,
+      "translation": "Безопасность труда"
+    },
+    {
+      "key": "ListOfActions_Header",
+      "source_crc32": 4019592681,
+      "translation": "Действия"
+    },
+    {
+      "key": "Activity_DisplayName_Plural",
+      "source_crc32": 2251640632,
+      "translation": "Занятия"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_DisplayName",
+      "source_crc32": 4281573733,
+      "translation": "Алхимическая лаборатория"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_DisplayName_plural",
+      "source_crc32": 1441098421,
+      "translation": "Алхимические лаборатории"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_III_DisplayName",
+      "source_crc32": 729931644,
+      "translation": "Палата алхимика"
+    },
+    {
+      "key": "Guild_AlchemistsGuild_III_DisplayName",
+      "source_crc32": 3097514443,
+      "translation": "Большой зал гильдии алхимиков"
+    },
+    {
+      "key": "Guild_AlchemistsGuild_DisplayName",
+      "source_crc32": 2143825583,
+      "translation": "Гильдия алхимиков"
+    },
+    {
+      "key": "Guild_AlchemistsGuild_II_DisplayName",
+      "source_crc32": 334346964,
+      "translation": "Зал гильдии алхимиков"
+    },
+    {
+      "key": "Guild_AlchemistsGuild_I_DisplayName",
+      "source_crc32": 931480347,
+      "translation": "Дом гильдии алхимиков"
+    },
+    {
+      "key": "TradeIncomeLimit_AllToPocket_Description",
+      "source_crc32": 2621254956,
+      "translation": "Все деньги, заработанные предприятием, сами собой перетекают в кошель владельца. Деньги, внесённые в кассу напрямую, под этот лимит не подпадают."
+    },
+    {
+      "key": "TradeIncomeLimit_AllToPocket_DisplayName",
+      "source_crc32": 2835673796,
+      "translation": "Всё в кошель"
+    },
+    {
+      "key": "DepositOrWithdrawAmount_Label",
+      "source_crc32": 3071490585,
+      "translation": "Сумма"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_Description",
+      "source_crc32": 1356131158,
+      "translation": "Старая оборонительная башня над городом; её пушка, как ни удивительно, до сих пор стреляет."
+    },
+    {
+      "key": "PublicBuilding_MessageBoard_DisplayName",
+      "source_crc32": 2213437303,
+      "translation": "Доска объявлений"
+    },
+    {
+      "key": "PublicBuilding_MessageBoard_III_DisplayName",
+      "source_crc32": 2213437303,
+      "translation": "Доска объявлений"
+    },
+    {
+      "key": "PublicBuilding_MessageBoard_II_DisplayName",
+      "source_crc32": 2213437303,
+      "translation": "Доска объявлений"
+    },
+    {
+      "key": "PublicBuilding_MessageBoard_I_DisplayName",
+      "source_crc32": 2213437303,
+      "translation": "Доска объявлений"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_III_DisplayName",
+      "source_crc32": 1685443663,
+      "translation": "Пасека"
+    },
+    {
+      "key": "Manager_CityBuilding_Description",
+      "source_crc32": 2322753257,
+      "translation": "Должность может дать вам попечение о городском здании. Содержите его в порядке, заказывайте улучшения и оплачивайте всё из {O_CITTRE_C}городской казны{##}. А если ремонт вдруг обойдётся чуть дороже, чем ожидалось… что ж, счетоводство - наука неточная."
+    },
+    {
+      "key": "Manager_Privileges_AssignWorkers_DisplayName",
+      "source_crc32": 1422239392,
+      "translation": "Назначение задач"
+    },
+    {
+      "key": "Manager_Privileges_AssignWorkers_Description",
+      "source_crc32": 354920568,
+      "translation": "Распределять работников по задачам внутри здания."
+    },
+    {
+      "key": "AssignedCarts_DisplayName",
+      "source_crc32": 2651255071,
+      "translation": "Закреплённые повозки"
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_I_DisplayName",
+      "source_crc32": 3217385881,
+      "translation": "Рынок в подворотне"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_III_DisplayName",
+      "source_crc32": 2226968080,
+      "translation": "Банкирский дом"
+    },
+    {
+      "key": "OccupationBuilding_Guard_DisplayName",
+      "source_crc32": 1231516121,
+      "translation": "Казармы"
+    },
+    {
+      "key": "OccupationBuilding_Guard_DisplayName_plural",
+      "source_crc32": 1231516121,
+      "translation": "Казармы"
+    },
+    {
+      "key": "PublicBuilding_PublicBathhouse_I_DisplayName",
+      "source_crc32": 3443108113,
+      "translation": "Баня"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_DisplayName",
+      "source_crc32": 1144181101,
+      "translation": "Ульи"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_DisplayName_plural",
+      "source_crc32": 1144181101,
+      "translation": "Ульи"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_I_DisplayName",
+      "source_crc32": 1144181101,
+      "translation": "Ульи"
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_II_DisplayName",
+      "source_crc32": 3336177980,
+      "translation": "Чёрный рынок"
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_DisplayName",
+      "source_crc32": 418238579,
+      "translation": "Чёрный рынок"
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_DisplayName_plural",
+      "source_crc32": 1416757211,
+      "translation": "Чёрные рынки"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_I_DisplayName",
+      "source_crc32": 3558073552,
+      "translation": "Варочная"
+    },
+    {
+      "key": "PersonalBuilding_Small Brewery_II_DisplayName",
+      "source_crc32": 4271666403,
+      "translation": "Пивоварня"
+    },
+    {
+      "key": "PersonalBuilding_Small Brewery_III_DisplayName",
+      "source_crc32": 2683017086,
+      "translation": "Пивной двор"
+    },
+    {
+      "key": "OccupationBuilding_Mason_I_DisplayName",
+      "source_crc32": 4000587619,
+      "translation": "Кирпичная мастерская"
+    },
+    {
+      "key": "Build_Button",
+      "source_crc32": 3542589473,
+      "translation": "Построить"
+    },
+    {
+      "key": "Manager_Privileges_BuildImprovements_DisplayName",
+      "source_crc32": 2257963390,
+      "translation": "Постройка улучшений"
+    },
+    {
+      "key": "PersonalBuilding_ConstructionShack_III_DisplayName",
+      "source_crc32": 3516284763,
+      "translation": "Мастерская строителя"
+    },
+    {
+      "key": "PersonalBuilding_ConstructionShack_II_DisplayName",
+      "source_crc32": 842153613,
+      "translation": "Строительный двор"
+    },
+    {
+      "key": "Building_DisplayName",
+      "source_crc32": 1599907151,
+      "translation": "Здание"
+    },
+    {
+      "key": "Requirement_Upgrade_BuildingLevel_1",
+      "source_crc32": 1583945366,
+      "translation": "Здание I"
+    },
+    {
+      "key": "Requirement_Upgrade_BuildingLevel_2",
+      "source_crc32": 2134115596,
+      "translation": "Здание II"
+    },
+    {
+      "key": "Requirement_Upgrade_BuildingLevel_3",
+      "source_crc32": 4040501922,
+      "translation": "Здание III"
+    },
+    {
+      "key": "Requirement_BuildingOwnership_DisplayName",
+      "source_crc32": 1685342922,
+      "translation": "Владение зданием"
+    },
+    {
+      "key": "Building_DisplayName_plural",
+      "source_crc32": 2849003955,
+      "translation": "Здания"
+    },
+    {
+      "key": "Category_Residence_Description",
+      "source_crc32": 3459849572,
+      "translation": "Здания для жилья, отдыха и повседневной жизни семьи и домочадцев."
+    },
+    {
+      "key": "Category_OccupationBuilding_Description",
+      "source_crc32": 3810264488,
+      "translation": "Здания, где ведут дела люди разных {P_C}профессий{##} и трудятся их {CHAR_CITVSWOR_C}работники{##}."
+    },
+    {
+      "key": "Built_Label",
+      "source_crc32": 2201941950,
+      "translation": "Построено"
+    },
+    {
+      "key": "Category_Business_DisplayName",
+      "source_crc32": 3388467523,
+      "translation": "Дело"
+    },
+    {
+      "key": "CashStash_DisplayName",
+      "source_crc32": 282333344,
+      "translation": "Касса предприятия"
+    },
+    {
+      "key": "TradeIncomeLimit_SpillAbove_Description",
+      "source_crc32": 4056804,
+      "translation": "Предприятие держит в кассе деньги до заданного лимита. Весь доход сверх него перетекает в кошель владельца. Деньги, внесённые в кассу напрямую, под этот лимит не подпадают."
+    },
+    {
+      "key": "Category_Business_DisplayName_plural",
+      "source_crc32": 1495005957,
+      "translation": "Предприятия"
+    },
+    {
+      "key": "ConstructionScreen_Businesses_DisplayName",
+      "source_crc32": 1495005957,
+      "translation": "Предприятия"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_III_DisplayName",
+      "source_crc32": 2578662035,
+      "translation": "Пушечный бастион"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_DisplayName",
+      "source_crc32": 1249601101,
+      "translation": "Пушечная башня"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_I_DisplayName",
+      "source_crc32": 1249601101,
+      "translation": "Пушечная башня"
+    },
+    {
+      "key": "OccupationBuilding_Church_III_DisplayName",
+      "source_crc32": 2211299527,
+      "translation": "Собор"
+    },
+    {
+      "key": "Manager_ProfessionBuilding_Description_extra3",
+      "source_crc32": 108155029,
+      "translation": "Но выбирайте и обучайте его с умом: {CHAR_PRO_C}производительность{##} работника зависит и от того, насколько управляющий владеет {S_C}навыком{##}, нужным для текущей {A_ACT_C}задачи{##}."
+    },
+    {
+      "key": "OccupationBuilding_Church_DisplayName",
+      "source_crc32": 2724509378,
+      "translation": "Церковь"
+    },
+    {
+      "key": "OccupationBuilding_Church_I_DisplayName",
+      "source_crc32": 2724509378,
+      "translation": "Церковь"
+    },
+    {
+      "key": "OccupationBuilding_Church_DisplayName_plural",
+      "source_crc32": 1711785390,
+      "translation": "Церкви"
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_III_DisplayName",
+      "source_crc32": 3030401058,
+      "translation": "Церковное кладбище"
+    },
+    {
+      "key": "Guild_TravellingEntertainersGuild_III_DisplayName",
+      "source_crc32": 970864820,
+      "translation": "Большой зал гильдии бродячих артистов"
+    },
+    {
+      "key": "Guild_TravellingEntertainersGuild_DisplayName",
+      "source_crc32": 1944768515,
+      "translation": "Гильдия бродячих артистов"
+    },
+    {
+      "key": "Guild_TravellingEntertainersGuild_II_DisplayName",
+      "source_crc32": 184435466,
+      "translation": "Зал гильдии бродячих артистов"
+    },
+    {
+      "key": "Guild_TravellingEntertainersGuild_I_DisplayName",
+      "source_crc32": 1319054524,
+      "translation": "Дом гильдии бродячих артистов"
+    },
+    {
+      "key": "Category_PublicBuilding_DisplayName",
+      "source_crc32": 1829199298,
+      "translation": "Городская инфраструктура"
+    },
+    {
+      "key": "Category_PublicBuilding_DisplayName_plural",
+      "source_crc32": 1829199298,
+      "translation": "Городская инфраструктура"
+    },
+    {
+      "key": "PublicBuilding_Prison_III_DisplayName",
+      "source_crc32": 1234677132,
+      "translation": "Острог"
+    },
+    {
+      "key": "Guild_TailorsGuild_Description",
+      "source_crc32": 2975163350,
+      "translation": "Ткань укрывает тело, но что она о нём скажет - решаем мы."
+    },
+    {
+      "key": "StorefrontRevenue_Description",
+      "source_crc32": 1004704744,
+      "translation": "Монеты от {B_PARAM_ATT_C}покупателей{##}, берущих товар прямо с {B_STOFRO_C}витрины{##} предприятия."
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_Description",
+      "source_crc32": 3239241306,
+      "translation": "Монета течёт туда, куда мы позволим. Долги помнятся - даже когда о них хотят забыть."
+    },
+    {
+      "key": "PublicBuilding_University_II_DisplayName",
+      "source_crc32": 3501727418,
+      "translation": "Коллегиум"
+    },
+    {
+      "key": "Manager_Privileges_BuildImprovements_Description",
+      "source_crc32": 151507979,
+      "translation": "Возводить улучшения, расширяющие возможности здания."
+    },
+    {
+      "key": "Construction_DisplayName",
+      "source_crc32": 1597967885,
+      "translation": "Строительство"
+    },
+    {
+      "key": "ConstructionScreen_DisplayName",
+      "source_crc32": 810490173,
+      "translation": "Строительство"
+    },
+    {
+      "key": "PersonalBuilding_ConstructionShack_DisplayName",
+      "source_crc32": 3050926397,
+      "translation": "Строительный сарай"
+    },
+    {
+      "key": "PersonalBuilding_ConstructionShack_I_DisplayName",
+      "source_crc32": 3050926397,
+      "translation": "Строительный сарай"
+    },
+    {
+      "key": "PersonalBuilding_ConstructionShack_DisplayName_plural",
+      "source_crc32": 3830303520,
+      "translation": "Строительные сараи"
+    },
+    {
+      "key": "Manager_Privileges_ManageStorefront_Description",
+      "source_crc32": 2862166422,
+      "translation": "Решать, какие товары выставлять на продажу на витрине здания."
+    },
+    {
+      "key": "Residence_House_I_DisplayName",
+      "source_crc32": 999815555,
+      "translation": "Хижина"
+    },
+    {
+      "key": "PublicBuilding_TownHall_I_DisplayName",
+      "source_crc32": 610472935,
+      "translation": "Дом совета"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_DisplayName",
+      "source_crc32": 3809279624,
+      "translation": "Счётный дом"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_DisplayName_plural",
+      "source_crc32": 1523575982,
+      "translation": "Счётные дома"
+    },
+    {
+      "key": "ListOfCraftables_Header",
+      "source_crc32": 2355912379,
+      "translation": "Изделия"
+    },
+    {
+      "key": "Activity_Crafting_DisplayName",
+      "source_crc32": 3383816616,
+      "translation": "Изготовление"
+    },
+    {
+      "key": "Built_Currently_Label",
+      "source_crc32": 320541418,
+      "translation": "Построено сейчас"
+    },
+    {
+      "key": "Parameter_Attractiveness_DisplayName",
+      "source_crc32": 3095052139,
+      "translation": "Привлекательность"
+    },
+    {
+      "key": "Manager_Privileges_SetTreatment_Description",
+      "source_crc32": 2208064418,
+      "translation": "Решать, как обращаться с работниками здания."
+    },
+    {
+      "key": "Parameter_AccidentProtection_Description",
+      "source_crc32": 732433797,
+      "translation": "Снижает риск {B_PARAM_ACCPRO_ACC}несчастного случая{##}, когда работники выполняют задачи в этом здании."
+    },
+    {
+      "key": "ExtractionFacility_Mine_II_DisplayName",
+      "source_crc32": 351242164,
+      "translation": "Рудник"
+    },
+    {
+      "key": "CashStash_Deposit_DisplayName",
+      "source_crc32": 3686094256,
+      "translation": "Внести"
+    },
+    {
+      "key": "Manager_Privileges_SetSalary_Description",
+      "source_crc32": 426374475,
+      "translation": "Определять, сколько платить работникам здания."
+    },
+    {
+      "key": "PublicBuilding_Pillory_Description",
+      "source_crc32": 110888262,
+      "translation": "Здешний позор тяжелее цепей и пахнет хуже гнилых овощей."
+    },
+    {
+      "key": "Enter_instruction",
+      "source_crc32": 3303083266,
+      "translation": "Дважды щёлкните по зданию, чтобы войти"
+    },
+    {
+      "key": "PublicBuilding_Sewers_I_DisplayName",
+      "source_crc32": 1999533066,
+      "translation": "Канавы"
+    },
+    {
+      "key": "Category_Dwelling_DisplayName",
+      "source_crc32": 3714086372,
+      "translation": "Жилище"
+    },
+    {
+      "key": "Dwelling_Dwelling_DisplayName",
+      "source_crc32": 3714086372,
+      "translation": "Жилище"
+    },
+    {
+      "key": "Category_Dwelling_DisplayName_pural",
+      "source_crc32": 3463866740,
+      "translation": "Жилища"
+    },
+    {
+      "key": "Guild_TradersGuild_Description",
+      "source_crc32": 3214191103,
+      "translation": "У каждой сделки две стороны. Мы следим, чтобы наша была лучше."
+    },
+    {
+      "key": "PublicBuilding_Well_Description",
+      "source_crc32": 2510902136,
+      "translation": "Без колодца городу никуда. Шепчутся, что это ещё и врата в иной мир, - так что не кричите в него: ответ может вам не понравиться."
+    },
+    {
+      "key": "Exit_prompt",
+      "source_crc32": 2971868136,
+      "translation": "Выйти"
+    },
+    {
+      "key": "ConstructionScreen_ForSale_DisplayName",
+      "source_crc32": 3392802735,
+      "translation": "На продажу"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_III_DisplayName",
+      "source_crc32": 4670948,
+      "translation": "Лесное хозяйство"
+    },
+    {
+      "key": "PublicBuilding_CannonTower_II_DisplayName",
+      "source_crc32": 1192320279,
+      "translation": "Укреплённая пушечная башня"
+    },
+    {
+      "key": "OccupationBuilding_Smithy_I_DisplayName",
+      "source_crc32": 4247908198,
+      "translation": "Литейная"
+    },
+    {
+      "key": "PublicBuilding_Fountain_DisplayName",
+      "source_crc32": 2718292420,
+      "translation": "Фонтан"
+    },
+    {
+      "key": "PublicBuilding_Fountain_DisplayName_plural",
+      "source_crc32": 1712754945,
+      "translation": "Фонтаны"
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_Description",
+      "source_crc32": 3069952945,
+      "translation": "От улья к мёду, от мёда к прибыли."
+    },
+    {
+      "key": "Built_Fully_Label",
+      "source_crc32": 2994609346,
+      "translation": "Достроено"
+    },
+    {
+      "key": "Upgraded_Fully_Label",
+      "source_crc32": 1332808209,
+      "translation": "Модернизировано"
+    },
+    {
+      "key": "PublicBuilding_Prison_I_DisplayName",
+      "source_crc32": 4109410065,
+      "translation": "Темница"
+    },
+    {
+      "key": "OccupationBuilding_Guard_III_DisplayName",
+      "source_crc32": 2416287058,
+      "translation": "Гарнизон"
+    },
+    {
+      "key": "Guild_SmithsGuild_Description",
+      "source_crc32": 851736151,
+      "translation": "Дайте нам огонь и железо - и мы дадим вам орудия, чтобы перековать мир."
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_II_DisplayName",
+      "source_crc32": 2761228001,
+      "translation": "Погост"
+    },
+    {
+      "key": "OccupationBuilding_Smithy_III_DisplayName",
+      "source_crc32": 2357673759,
+      "translation": "Златокузница"
+    },
+    {
+      "key": "PublicBuilding_PublicBathhouse_III_DisplayName",
+      "source_crc32": 778928412,
+      "translation": "Большая баня"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_III_DisplayName",
+      "source_crc32": 847091075,
+      "translation": "Большой рынок"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_III_DisplayName",
+      "source_crc32": 847091075,
+      "translation": "Большой рынок"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_III_DisplayName",
+      "source_crc32": 1999833021,
+      "translation": "Большая трибуна"
+    },
+    {
+      "key": "PersonalBuilding_Statue_III_DisplayName",
+      "source_crc32": 3239511642,
+      "translation": "Большая статуя"
+    },
+    {
+      "key": "PublicBuilding_TownHall_III_DisplayName",
+      "source_crc32": 2335976834,
+      "translation": "Большая ратуша"
+    },
+    {
+      "key": "Guild_GraveyardWardensGuild_III_DisplayName",
+      "source_crc32": 3380456835,
+      "translation": "Большой зал гильдии могильщиков"
+    },
+    {
+      "key": "Guild_GraveyardWardensGuild_DisplayName",
+      "source_crc32": 3175647292,
+      "translation": "Гильдия могильщиков"
+    },
+    {
+      "key": "Guild_GraveyardWardensGuild_II_DisplayName",
+      "source_crc32": 2343002394,
+      "translation": "Зал гильдии могильщиков"
+    },
+    {
+      "key": "Guild_GraveyardWardensGuild_I_DisplayName",
+      "source_crc32": 3565796358,
+      "translation": "Дом гильдии могильщиков"
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_DisplayName",
+      "source_crc32": 3453381248,
+      "translation": "Кладбище"
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_I_DisplayName",
+      "source_crc32": 3453381248,
+      "translation": "Кладбище"
+    },
+    {
+      "key": "OccupationBuilding_Graveyard_DisplayName_plural",
+      "source_crc32": 3261133879,
+      "translation": "Кладбища"
+    },
+    {
+      "key": "ExtractionFacility_Quarry_III_DisplayName",
+      "source_crc32": 1672743612,
+      "translation": "Большой карьер"
+    },
+    {
+      "key": "PersonalBuilding_Stable_III_DisplayName",
+      "source_crc32": 4240131265,
+      "translation": "Большие конюшни"
+    },
+    {
+      "key": "OccupationBuilding_Guard_I_DisplayName",
+      "source_crc32": 4162298840,
+      "translation": "Караульня"
+    },
+    {
+      "key": "Guild_GuardsGuild_III_DisplayName",
+      "source_crc32": 1694745384,
+      "translation": "Большой зал гильдии стражников"
+    },
+    {
+      "key": "Guild_GuardsGuild_DisplayName",
+      "source_crc32": 3287153982,
+      "translation": "Гильдия стражников"
+    },
+    {
+      "key": "Guild_GuardsGuild_II_DisplayName",
+      "source_crc32": 896152233,
+      "translation": "Зал гильдии стражников"
+    },
+    {
+      "key": "Guild_GuardsGuild_I_DisplayName",
+      "source_crc32": 3879336467,
+      "translation": "Дом гильдии стражников"
+    },
+    {
+      "key": "Guild_GuildHouse_DisplayName",
+      "source_crc32": 1068851060,
+      "translation": "Дом гильдии"
+    },
+    {
+      "key": "Guild_GuildHouse_DisplayName_plural",
+      "source_crc32": 4104649192,
+      "translation": "Дома гильдий"
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_I_DisplayName",
+      "source_crc32": 435016836,
+      "translation": "Дом целителя"
+    },
+    {
+      "key": "Parameter_ProductivityBonus_Description",
+      "source_crc32": 1105927930,
+      "translation": "Работники успевают больше, трудятся быстрее и с лучшим итогом."
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_II_DisplayName",
+      "source_crc32": 326425813,
+      "translation": "Лавка травника"
+    },
+    {
+      "key": "PersonalBuilding_SecretDen_III_DisplayName",
+      "source_crc32": 3842437005,
+      "translation": "Потайное логово"
+    },
+    {
+      "key": "PersonalBuilding_SecretDen_I_DisplayName",
+      "source_crc32": 2695801476,
+      "translation": "Укрытие"
+    },
+    {
+      "key": "OccupationBuilding_Thief_DisplayName",
+      "source_crc32": 324572548,
+      "translation": "Убежище"
+    },
+    {
+      "key": "OccupationBuilding_Thief_II_DisplayName",
+      "source_crc32": 324572548,
+      "translation": "Убежище"
+    },
+    {
+      "key": "OccupationBuilding_Thief_DisplayName_plural",
+      "source_crc32": 938548635,
+      "translation": "Убежища"
+    },
+    {
+      "key": "Manager_Privileges_HireEscortForCarts_DisplayName",
+      "source_crc32": 1427898735,
+      "translation": "Охрана повозок"
+    },
+    {
+      "key": "Manager_Privileges_HireWorkers_DisplayName",
+      "source_crc32": 1424644902,
+      "translation": "Наём работников"
+    },
+    {
+      "key": "Manager_Privileges_HireEscortForCarts_Description",
+      "source_crc32": 1681837504,
+      "translation": "Нанимать охрану, чтобы защищать повозки и их груз в пути."
+    },
+    {
+      "key": "Manager_Privileges_HireWorkers_Description",
+      "source_crc32": 682877464,
+      "translation": "Нанимать новых работников в здание."
+    },
+    {
+      "key": "TemporaryHighlight_Instruction",
+      "source_crc32": 2678796536,
+      "translation": "Alt - подсветить все здания"
+    },
+    {
+      "key": "Residence_House_DisplayName",
+      "source_crc32": 2190696498,
+      "translation": "Дом"
+    },
+    {
+      "key": "AssignedCarts_Description",
+      "source_crc32": 2610682496,
+      "translation": "Если предприятием руководит {B_OCC_MGR_C}управляющий{##}, стоит {A_ASSCARTOBUI_C}закрепить повозку{##} за зданием. Иначе как ваши товары попадут на рынок, а припасы - на склад?"
+    },
+    {
+      "key": "Guild_TravellingEntertainersGuild_Description",
+      "source_crc32": 313781498,
+      "translation": "Если на нас смотрят - мы в выигрыше. Если ещё и платят - тем лучше."
+    },
+    {
+      "key": "ManagedBy_Label",
+      "source_crc32": 707429286,
+      "translation": "На попечении"
+    },
+    {
+      "key": "Storefront_Description",
+      "source_crc32": 3597658466,
+      "translation": "На витрине товары выставлены на продажу, а {B_PARAM_ATT_C}привлекательность{##} приводит покупателей в часы работы.\n\nТорговля на {B_PUB_MKT_C}рынке{##} обычно прибыльнее, зато продажи с витрины избавляют от расходов на {B_HP_C}ремонт{##} повозок и от {CAR_CHANATT_C}риска нападения{##}."
+    },
+    {
+      "key": "OccupationBuilding_Inn_DisplayName",
+      "source_crc32": 3364321719,
+      "translation": "Трактир"
+    },
+    {
+      "key": "OccupationBuilding_Inn_III_DisplayName",
+      "source_crc32": 3364321719,
+      "translation": "Трактир"
+    },
+    {
+      "key": "Guild_InnkeepersGuild_III_DisplayName",
+      "source_crc32": 3918388402,
+      "translation": "Большой зал гильдии трактирщиков"
+    },
+    {
+      "key": "Guild_InnkeepersGuild_DisplayName",
+      "source_crc32": 2241649984,
+      "translation": "Гильдия трактирщиков"
+    },
+    {
+      "key": "Guild_InnkeepersGuild_II_DisplayName",
+      "source_crc32": 429696183,
+      "translation": "Зал гильдии трактирщиков"
+    },
+    {
+      "key": "Guild_InnkeepersGuild_I_DisplayName",
+      "source_crc32": 3730781221,
+      "translation": "Дом гильдии трактирщиков"
+    },
+    {
+      "key": "OccupationBuilding_Inn_DisplayName_plural",
+      "source_crc32": 1647751580,
+      "translation": "Трактиры"
+    },
+    {
+      "key": "NotEnoughCashStash_Warning",
+      "source_crc32": 2477331525,
+      "translation": "В кассе не хватает денег."
+    },
+    {
+      "key": "OccupationBuilding_Joiner_DisplayName",
+      "source_crc32": 3770711679,
+      "translation": "Столярная мастерская"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_I_DisplayName",
+      "source_crc32": 3770711679,
+      "translation": "Столярная мастерская"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_DisplayName_plural",
+      "source_crc32": 1577914568,
+      "translation": "Столярные мастерские"
+    },
+    {
+      "key": "Guild_JoinersGuild_III_DisplayName",
+      "source_crc32": 3514768480,
+      "translation": "Большой зал гильдии столяров"
+    },
+    {
+      "key": "Guild_JoinersGuild_DisplayName",
+      "source_crc32": 2013940272,
+      "translation": "Гильдия столяров"
+    },
+    {
+      "key": "Guild_JoinersGuild_II_DisplayName",
+      "source_crc32": 1459697419,
+      "translation": "Зал гильдии столяров"
+    },
+    {
+      "key": "Guild_JoinersGuild_I_DisplayName",
+      "source_crc32": 589650798,
+      "translation": "Дом гильдии столяров"
+    },
+    {
+      "key": "Parameter_Hygiene_Description",
+      "source_crc32": 264272830,
+      "translation": "Держит здание в порядке и снижает {QUAPEREFF_ILL_C}риск болезней{##}."
+    },
+    {
+      "key": "OwnerTemporary_Label",
+      "source_crc32": 2315917151,
+      "translation": "В ведении"
+    },
+    {
+      "key": "Business_Ledger_DisplayName",
+      "source_crc32": 3525259321,
+      "translation": "Счётная книга"
+    },
+    {
+      "key": "OpenBuildingScreen_instruction",
+      "source_crc32": 2855491402,
+      "translation": "ЛКМ - просмотр"
+    },
+    {
+      "key": "Ledger_BuildingCrime_DisplayName",
+      "source_crc32": 256732061,
+      "translation": "Пропажа"
+    },
+    {
+      "key": "Manager_Privileges_RepairBuilding_Description",
+      "source_crc32": 1331726859,
+      "translation": "Проводить ремонт, чтобы восстановить состояние здания."
+    },
+    {
+      "key": "Manager_Privileges_RepairCarts_Description",
+      "source_crc32": 2775340356,
+      "translation": "Проводить ремонт, чтобы восстановить состояние повозок."
+    },
+    {
+      "key": "Parameter_BurglaryProtection_Description",
+      "source_crc32": 1962459065,
+      "translation": "Мешает преступникам {A_ACT_STEITESTOMKT_C}красть с прилавка{##} и {A_ACT_ROB_C}вламываться{##} в ваше предприятие или владение."
+    },
+    {
+      "key": "Parameter_Attractiveness_Description",
+      "source_crc32": 3199193024,
+      "translation": "Делает предприятие притягательнее для покупателей: растёт {PM_ATT_C}спрос{##}, а с ним и цены на вашей {B_STOFRO_C}витрине{##}."
+    },
+    {
+      "key": "Manager_Privileges_ManageStorefront_DisplayName",
+      "source_crc32": 665767961,
+      "translation": "Управление витриной"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_II_DisplayName",
+      "source_crc32": 963288332,
+      "translation": "Лесничество"
+    },
+    {
+      "key": "OwnerTemporary_Label_alt",
+      "source_crc32": 362668096,
+      "translation": "Управляющий"
+    },
+    {
+      "key": "Business_Management_DisplayName",
+      "source_crc32": 3320046572,
+      "translation": "Управление"
+    },
+    {
+      "key": "Residence_Villa_II_DisplayName",
+      "source_crc32": 427190511,
+      "translation": "Особняк"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_I_DisplayName",
+      "source_crc32": 2281765728,
+      "translation": "Рынок"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_DisplayName",
+      "source_crc32": 2226096341,
+      "translation": "Рыночная площадь"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_II_DisplayName",
+      "source_crc32": 2226096341,
+      "translation": "Рыночная площадь"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_DisplayName_plural",
+      "source_crc32": 1697133794,
+      "translation": "Рыночные площади"
+    },
+    {
+      "key": "OccupationBuilding_Mason_DisplayName_plural",
+      "source_crc32": 2042793714,
+      "translation": "Каменные мастерские"
+    },
+    {
+      "key": "OccupationBuilding_Mason_DisplayName",
+      "source_crc32": 992333572,
+      "translation": "Каменная мастерская"
+    },
+    {
+      "key": "Manager_ProfessionBuilding_DisplayName",
+      "source_crc32": 2106541984,
+      "translation": "Управляющий"
+    },
+    {
+      "key": "Guild_JoinersGuild_Description",
+      "source_crc32": 2434696060,
+      "translation": "Семь раз отмерь, один отрежь. Мы придаём форму дереву, а на нём стоит город."
+    },
+    {
+      "key": "Guild_TradersGuild_III_DisplayName",
+      "source_crc32": 3683980475,
+      "translation": "Большой зал гильдии торговцев"
+    },
+    {
+      "key": "Guild_TradersGuild_DisplayName",
+      "source_crc32": 762341667,
+      "translation": "Гильдия торговцев"
+    },
+    {
+      "key": "Guild_TradersGuild_II_DisplayName",
+      "source_crc32": 4175978651,
+      "translation": "Зал гильдии торговцев"
+    },
+    {
+      "key": "Guild_TradersGuild_I_DisplayName",
+      "source_crc32": 1044608035,
+      "translation": "Дом гильдии торговцев"
+    },
+    {
+      "key": "Category_MilitaryInstallation_DisplayName_plural",
+      "source_crc32": 2036485206,
+      "translation": "Военные сооружения"
+    },
+    {
+      "key": "ExtractionFacility_Mine_DisplayName",
+      "source_crc32": 3085769943,
+      "translation": "Шахта"
+    },
+    {
+      "key": "ExtractionFacility_Mine_I_DisplayName",
+      "source_crc32": 3085769943,
+      "translation": "Шахта"
+    },
+    {
+      "key": "ExtractionFacility_Mine_DisplayName_plural",
+      "source_crc32": 1218748628,
+      "translation": "Шахты"
+    },
+    {
+      "key": "ExtractionFacility_Mine_III_DisplayName",
+      "source_crc32": 1849121356,
+      "translation": "Горный промысел"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_I_DisplayName",
+      "source_crc32": 3141798352,
+      "translation": "Меняльная лавка"
+    },
+    {
+      "key": "OccupationBuilding_MoneyLender_II_DisplayName",
+      "source_crc32": 2338972162,
+      "translation": "Ростовщическая контора"
+    },
+    {
+      "key": "Ledger_BuildingOwner_Description",
+      "source_crc32": 3299705317,
+      "translation": "Деньги, которые владелец внёс в кассу предприятия или забрал из неё. Сегодня - щедрое вложение, завтра - заслуженная выручка."
+    },
+    {
+      "key": "Ledger_BuildingActions_Description",
+      "source_crc32": 2672118788,
+      "translation": "Деньги, заработанные или потраченные на действия в этом здании, помимо обычной торговли и задач предприятия."
+    },
+    {
+      "key": "CashStash_Description",
+      "source_crc32": 3944680101,
+      "translation": "Деньги предприятия, хранящиеся отдельно от ваших личных средств. {B_OCC_MGR_C}Управляющему{##} нужна эта касса, чтобы покрывать расходы предприятия. Вносить и забирать деньги можно в любое время."
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_III_DisplayName",
+      "source_crc32": 3026864055,
+      "translation": "Большой зал гильдии ростовщиков"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_DisplayName",
+      "source_crc32": 2993930036,
+      "translation": "Гильдия ростовщиков"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_II_DisplayName",
+      "source_crc32": 557110638,
+      "translation": "Зал гильдии ростовщиков"
+    },
+    {
+      "key": "Guild_MoneyLendersGuild_I_DisplayName",
+      "source_crc32": 2666286638,
+      "translation": "Дом гильдии ростовщиков"
+    },
+    {
+      "key": "Upgrade_Description",
+      "source_crc32": 2148524490,
+      "translation": "Большинство зданий можно модернизировать до третьего уровня.\nКаждый новый уровень открывает новые действия, улучшения и возможности."
+    },
+    {
+      "key": "Category_MyBuilding_DisplayName_plural",
+      "source_crc32": 849556563,
+      "translation": "Мои здания"
+    },
+    {
+      "key": "Category_MyGuildHouse_DisplayName",
+      "source_crc32": 2103721566,
+      "translation": "Дом гильдии"
+    },
+    {
+      "key": "Category_MyGuildHouse_DisplayName_plural",
+      "source_crc32": 1926021959,
+      "translation": "Мои дома гильдий"
+    },
+    {
+      "key": "Category_BuildingManagedByMe_DisplayName_plural",
+      "source_crc32": 287450553,
+      "translation": "Под моим управлением"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_Description",
+      "source_crc32": 448997522,
+      "translation": "Тесно? Складской сарай дарит вам роскошь дождаться цен повыше."
+    },
+    {
+      "key": "Build_NextToBuild_Label",
+      "source_crc32": 3886930967,
+      "translation": "На очереди"
+    },
+    {
+      "key": "NoAssignedCarts_Warning",
+      "source_crc32": 2957097926,
+      "translation": "За этим зданием не закреплено ни одной повозки."
+    },
+    {
+      "key": "Owner_None_Label",
+      "source_crc32": 819389435,
+      "translation": "Никто"
+    },
+    {
+      "key": "Built_Not_Label",
+      "source_crc32": 3673043524,
+      "translation": "Не построено"
+    },
+    {
+      "key": "PersonalBuilding_Statue_Description",
+      "source_crc32": 2619028627,
+      "translation": "Ничто так не говорит о скромности, как собственная исполинская копия из камня."
+    },
+    {
+      "key": "OpeningHours_Range",
+      "source_crc32": 1497910747,
+      "translation": "Часы работы: {OpenTime}–{CloseTime}"
+    },
+    {
+      "key": "PublicBuilding_Marketplace_Description",
+      "source_crc32": 3377572755,
+      "translation": "Рынок открыт круглые сутки, местные и заезжие купцы торгуют здесь всем на свете - выгодная сделка всегда ждёт вас."
+    },
+    {
+      "key": "Guild_GuardsGuild_Description",
+      "source_crc32": 2059642692,
+      "translation": "Порядок сам собой не держится. Мы учимся, несём дозор и, когда нужно, действуем."
+    },
+    {
+      "key": "PublicBuilding_Fountain_III_DisplayName",
+      "source_crc32": 3043971480,
+      "translation": "Нарядный фонтан"
+    },
+    {
+      "key": "Category_Businesses_NotPlayerOwned_DisplayName",
+      "source_crc32": 1488684485,
+      "translation": "Чужие предприятия"
+    },
+    {
+      "key": "Ledger_BuildingActions_DisplayName",
+      "source_crc32": 2421013850,
+      "translation": "Прочее"
+    },
+    {
+      "key": "Category_OutsideBusiness_DisplayName_pural",
+      "source_crc32": 3778548120,
+      "translation": "Чужие предприятия"
+    },
+    {
+      "key": "Category_OwnedByOthers_DisplayName_plural",
+      "source_crc32": 3515254569,
+      "translation": "Чужие владения"
+    },
+    {
+      "key": "Owner_Label",
+      "source_crc32": 3161724576,
+      "translation": "Владелец"
+    },
+    {
+      "key": "Ledger_BuildingOwner_DisplayName",
+      "source_crc32": 2914614910,
+      "translation": "Владелец"
+    },
+    {
+      "key": "Residence_Villa_I_DisplayName",
+      "source_crc32": 725010461,
+      "translation": "Дом патриция"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_DisplayName_plural",
+      "source_crc32": 2133214151,
+      "translation": "Парфюмерные мастерские"
+    },
+    {
+      "key": "Guild_PerfumersGuild_III_DisplayName",
+      "source_crc32": 3075086193,
+      "translation": "Большой зал гильдии парфюмеров"
+    },
+    {
+      "key": "Guild_PerfumersGuild_DisplayName",
+      "source_crc32": 4052181879,
+      "translation": "Гильдия парфюмеров"
+    },
+    {
+      "key": "Guild_PerfumersGuild_II_DisplayName",
+      "source_crc32": 4253072408,
+      "translation": "Зал гильдии парфюмеров"
+    },
+    {
+      "key": "Guild_PerfumersGuild_I_DisplayName",
+      "source_crc32": 2557654146,
+      "translation": "Дом гильдии парфюмеров"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_DisplayName",
+      "source_crc32": 3232011010,
+      "translation": "Парфюмерная мастерская"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_III_DisplayName",
+      "source_crc32": 3232011010,
+      "translation": "Парфюмерная мастерская"
+    },
+    {
+      "key": "ConstructionScreen_Private_DisplayName",
+      "source_crc32": 685535571,
+      "translation": "Владения"
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_III_DisplayName",
+      "source_crc32": 3447338211,
+      "translation": "Лекарская палата"
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_DisplayName",
+      "source_crc32": 4005123719,
+      "translation": "Дом лекаря"
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_II_DisplayName",
+      "source_crc32": 4005123719,
+      "translation": "Дом лекаря"
+    },
+    {
+      "key": "PublicBuilding_PhysiciansOffice_DisplayName_plural",
+      "source_crc32": 851760736,
+      "translation": "Дома лекаря"
+    },
+    {
+      "key": "PublicBuilding_Pillory_DisplayName_plural",
+      "source_crc32": 2308423123,
+      "translation": "Позорные столбы"
+    },
+    {
+      "key": "PublicBuilding_Pillory_DisplayName",
+      "source_crc32": 3181880596,
+      "translation": "Позорный столб"
+    },
+    {
+      "key": "PublicBuilding_Pillory_III_DisplayName",
+      "source_crc32": 3181880596,
+      "translation": "Позорный столб"
+    },
+    {
+      "key": "PublicBuilding_Pillory_II_DisplayName",
+      "source_crc32": 3181880596,
+      "translation": "Позорный столб"
+    },
+    {
+      "key": "PublicBuilding_Pillory_I_DisplayName",
+      "source_crc32": 3181880596,
+      "translation": "Позорный столб"
+    },
+    {
+      "key": "Guild_PreachersGuild_III_DisplayName",
+      "source_crc32": 3852748322,
+      "translation": "Большой зал гильдии проповедников"
+    },
+    {
+      "key": "Guild_PreachersGuild_DisplayName",
+      "source_crc32": 84004916,
+      "translation": "Гильдия проповедников"
+    },
+    {
+      "key": "Guild_PreachersGuild_II_DisplayName",
+      "source_crc32": 1719089779,
+      "translation": "Зал гильдии проповедников"
+    },
+    {
+      "key": "Guild_PreachersGuild_I_DisplayName",
+      "source_crc32": 2915933700,
+      "translation": "Дом гильдии проповедников"
+    },
+    {
+      "key": "PublicBuilding_Prison_DisplayName",
+      "source_crc32": 2594603110,
+      "translation": "Тюрьма"
+    },
+    {
+      "key": "PublicBuilding_Prison_II_DisplayName",
+      "source_crc32": 2594603110,
+      "translation": "Тюрьма"
+    },
+    {
+      "key": "PublicBuilding_Prison_DisplayName_plural",
+      "source_crc32": 1328611844,
+      "translation": "Тюрьмы"
+    },
+    {
+      "key": "Category_PersonalBuildings_DisplayName",
+      "source_crc32": 3331197295,
+      "translation": "Владение"
+    },
+    {
+      "key": "Category_PersonalBuildings_DisplayName_plural",
+      "source_crc32": 3814579956,
+      "translation": "Владения"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_DisplayName",
+      "source_crc32": 3486028790,
+      "translation": "Рынок производителей"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_I_DisplayName",
+      "source_crc32": 3486028790,
+      "translation": "Рынок производителей"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_DisplayName_plural",
+      "source_crc32": 208543195,
+      "translation": "Рынки производителей"
+    },
+    {
+      "key": "Parameter_ProductivityBonus_DisplayName",
+      "source_crc32": 2490557985,
+      "translation": "Производительность"
+    },
+    {
+      "key": "Category_OccupationBuilding_DisplayName",
+      "source_crc32": 2247135,
+      "translation": "Здание профессии"
+    },
+    {
+      "key": "Category_OccupationBuilding_DisplayName_plural",
+      "source_crc32": 4261448142,
+      "translation": "Здания профессий"
+    },
+    {
+      "key": "Parameter_Value_DisplayName",
+      "source_crc32": 1817704842,
+      "translation": "Стоимость здания"
+    },
+    {
+      "key": "Category_PersonalBuildings_Description",
+      "source_crc32": 139035650,
+      "translation": "Даёт владельцу удобство и стратегические преимущества."
+    },
+    {
+      "key": "PublicBuilding_PublicBathhouse_DisplayName",
+      "source_crc32": 1072028675,
+      "translation": "Общественная баня"
+    },
+    {
+      "key": "PublicBuilding_PublicBathhouse_II_DisplayName",
+      "source_crc32": 1072028675,
+      "translation": "Общественная баня"
+    },
+    {
+      "key": "PublicBuilding_PublicBathhouse_DisplayName_plural",
+      "source_crc32": 1535613248,
+      "translation": "Общественные бани"
+    },
+    {
+      "key": "PublicBuilding_Fountain_II_DisplayName",
+      "source_crc32": 4281577182,
+      "translation": "Общественный фонтан"
+    },
+    {
+      "key": "OccupationBuilding_Inn_II_DisplayName",
+      "source_crc32": 3067362094,
+      "translation": "Постоялый двор"
+    },
+    {
+      "key": "Event_CharacterAtPillory_DisplayName",
+      "source_crc32": 2518984981,
+      "translation": "Публичное наказание"
+    },
+    {
+      "key": "Manager_Privileges_SupplyItems_Description",
+      "source_crc32": 1557544626,
+      "translation": "Закупать сырьё и материалы для ремесла в здании."
+    },
+    {
+      "key": "ExtractionFacility_Quarry_DisplayName_plural",
+      "source_crc32": 2542703617,
+      "translation": "Каменоломни"
+    },
+    {
+      "key": "ExtractionFacility_Quarry_DisplayName",
+      "source_crc32": 939645742,
+      "translation": "Каменоломня"
+    },
+    {
+      "key": "ExtractionFacility_Quarry_I_DisplayName",
+      "source_crc32": 939645742,
+      "translation": "Каменоломня"
+    },
+    {
+      "key": "ListOfQuarterEffects_Header",
+      "source_crc32": 1241759219,
+      "translation": "Влияние на квартал"
+    },
+    {
+      "key": "Activity_Crafting_Recipe_DisplayName",
+      "source_crc32": 572087016,
+      "translation": "Рецепт"
+    },
+    {
+      "key": "Manager_Privileges_RepairBuilding_DisplayName",
+      "source_crc32": 290749184,
+      "translation": "Ремонт здания"
+    },
+    {
+      "key": "Manager_Privileges_RepairCarts_DisplayName",
+      "source_crc32": 2903366563,
+      "translation": "Ремонт повозок"
+    },
+    {
+      "key": "Parameter_Value_Description",
+      "source_crc32": 447339267,
+      "translation": "Ценность здания с поправкой на его нынешнее {B_HP_C}состояние{##}."
+    },
+    {
+      "key": "Category_Residence_DisplayName",
+      "source_crc32": 4268406797,
+      "translation": "Жилой дом"
+    },
+    {
+      "key": "Category_Residence_DisplayName_plural",
+      "source_crc32": 2768173869,
+      "translation": "Жилые дома"
+    },
+    {
+      "key": "Category_ExtractionFacility_DisplayName",
+      "source_crc32": 1178881625,
+      "translation": "Место добычи"
+    },
+    {
+      "key": "Category_ExtractionFacility_DisplayName_plural",
+      "source_crc32": 2674220584,
+      "translation": "Места добычи"
+    },
+    {
+      "key": "Manager_Privileges_DisplayName",
+      "source_crc32": 3455806127,
+      "translation": "Обязанности"
+    },
+    {
+      "key": "TradeIncomeLimit_DisplayName",
+      "source_crc32": 4222525656,
+      "translation": "Лимит кассы"
+    },
+    {
+      "key": "Exit_prompt_instruction",
+      "source_crc32": 1291137125,
+      "translation": "ПКМ в любом месте - выход"
+    },
+    {
+      "key": "OccupationBuilding_Robber_DisplayName",
+      "source_crc32": 2940271384,
+      "translation": "Замок барона-разбойника"
+    },
+    {
+      "key": "OccupationBuilding_Robber_III_DisplayName",
+      "source_crc32": 2940271384,
+      "translation": "Замок барона-разбойника"
+    },
+    {
+      "key": "OccupationBuilding_Robber_DisplayName_plural",
+      "source_crc32": 2964011090,
+      "translation": "Крепости баронов-разбойников"
+    },
+    {
+      "key": "OccupationBuilding_Robber_II_DisplayName",
+      "source_crc32": 1257253486,
+      "translation": "Разбойничий лагерь"
+    },
+    {
+      "key": "OccupationBuilding_Robber_I_DisplayName",
+      "source_crc32": 2800740102,
+      "translation": "Разбойничье гнездо"
+    },
+    {
+      "key": "Guild_RobbersGuild_III_DisplayName",
+      "source_crc32": 410600491,
+      "translation": "Большой зал гильдии разбойников"
+    },
+    {
+      "key": "Guild_RobbersGuild_DisplayName",
+      "source_crc32": 3292438181,
+      "translation": "Гильдия разбойников"
+    },
+    {
+      "key": "Guild_RobbersGuild_II_DisplayName",
+      "source_crc32": 3030660509,
+      "translation": "Зал гильдии разбойников"
+    },
+    {
+      "key": "Guild_RobbersGuild_I_DisplayName",
+      "source_crc32": 1392101910,
+      "translation": "Дом гильдии разбойников"
+    },
+    {
+      "key": "OccupationBuilding_Tailor_III_DisplayName",
+      "source_crc32": 1084309611,
+      "translation": "Мастерская платья"
+    },
+    {
+      "key": "PublicBuilding_Well_III_DisplayName",
+      "source_crc32": 3244326923,
+      "translation": "Крытый колодец"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_DisplayName_plural",
+      "source_crc32": 3436951664,
+      "translation": "Трибуны"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_DisplayName",
+      "source_crc32": 1083527784,
+      "translation": "Трибуна"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_II_DisplayName",
+      "source_crc32": 1083527784,
+      "translation": "Трибуна"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_III_DisplayName",
+      "source_crc32": 3734988042,
+      "translation": "Святилище"
+    },
+    {
+      "key": "Parameter_Hygiene_DisplayName",
+      "source_crc32": 3076595709,
+      "translation": "Чистота"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_III_DisplayName",
+      "source_crc32": 4033027605,
+      "translation": "Лесопилка"
+    },
+    {
+      "key": "OccupationBuilding_Perfumer_II_DisplayName",
+      "source_crc32": 1276265163,
+      "translation": "Мастерская ароматов"
+    },
+    {
+      "key": "PublicBuilding_University_I_DisplayName",
+      "source_crc32": 766405451,
+      "translation": "Школа"
+    },
+    {
+      "key": "PersonalBuilding_SecretDen_DisplayName",
+      "source_crc32": 3329192380,
+      "translation": "Тайное логово"
+    },
+    {
+      "key": "PersonalBuilding_SecretDen_II_DisplayName",
+      "source_crc32": 3329192380,
+      "translation": "Тайное логово"
+    },
+    {
+      "key": "PersonalBuilding_SecretDen_DisplayName_plural",
+      "source_crc32": 3392877510,
+      "translation": "Тайные логова"
+    },
+    {
+      "key": "Parameter_BurglaryProtection_DisplayName",
+      "source_crc32": 1405612937,
+      "translation": "Защищённость"
+    },
+    {
+      "key": "Manager_Privileges_SellAtMarketplace_DisplayName",
+      "source_crc32": 2370982727,
+      "translation": "Торговля на рынке"
+    },
+    {
+      "key": "Manager_Privileges_SellAtMarketplace_Description",
+      "source_crc32": 1350096075,
+      "translation": "Продавать товары на рынке."
+    },
+    {
+      "key": "TradeIncomeLimit_SetLimit_Button",
+      "source_crc32": 1281808263,
+      "translation": "Задать"
+    },
+    {
+      "key": "TradeIncomeLimit_SetLimit_DisplayName",
+      "source_crc32": 1695205149,
+      "translation": "Задать лимит"
+    },
+    {
+      "key": "Manager_Privileges_SetSalary_DisplayName",
+      "source_crc32": 4049805129,
+      "translation": "Жалованье работников"
+    },
+    {
+      "key": "Manager_Privileges_SetTreatment_DisplayName",
+      "source_crc32": 2203403425,
+      "translation": "Обращение с работниками"
+    },
+    {
+      "key": "PublicBuilding_Sewers_III_DisplayName",
+      "source_crc32": 3653780792,
+      "translation": "Сеть стоков"
+    },
+    {
+      "key": "PublicBuilding_Sewers_DisplayName",
+      "source_crc32": 2742488937,
+      "translation": "Канализация"
+    },
+    {
+      "key": "PublicBuilding_Sewers_DisplayName_plural",
+      "source_crc32": 2742488937,
+      "translation": "Канализация"
+    },
+    {
+      "key": "PublicBuilding_Sewers_II_DisplayName",
+      "source_crc32": 2742488937,
+      "translation": "Канализация"
+    },
+    {
+      "key": "OccupationBuilding_Tailor_I_DisplayName",
+      "source_crc32": 798096892,
+      "translation": "Швейная"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_III_DisplayName",
+      "source_crc32": 1854828642,
+      "translation": "Лагерь лицедеев"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_DisplayName",
+      "source_crc32": 873706868,
+      "translation": "Часовня"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_II_DisplayName",
+      "source_crc32": 873706868,
+      "translation": "Часовня"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_DisplayName_plural",
+      "source_crc32": 1063087737,
+      "translation": "Часовни"
+    },
+    {
+      "key": "PublicBuilding_Fountain_I_DisplayName",
+      "source_crc32": 2806801722,
+      "translation": "Простой фонтан"
+    },
+    {
+      "key": "PublicBuilding_Well_I_DisplayName",
+      "source_crc32": 2525527830,
+      "translation": "Простой колодец"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_Description",
+      "source_crc32": 2372235453,
+      "translation": "Простое жильё для работников - рядом с работой и всем необходимым."
+    },
+    {
+      "key": "PersonalBuilding_BeeHives_II_DisplayName",
+      "source_crc32": 2879123094,
+      "translation": "Малая пасека"
+    },
+    {
+      "key": "PersonalBuilding_Small Brewery_DisplayName_plural",
+      "source_crc32": 713584971,
+      "translation": "Малые пивоварни"
+    },
+    {
+      "key": "PersonalBuilding_Small Brewery_DisplayName",
+      "source_crc32": 2169355456,
+      "translation": "Малая пивоварня"
+    },
+    {
+      "key": "PersonalBuilding_Small Brewery_I_DisplayName",
+      "source_crc32": 2169355456,
+      "translation": "Малая пивоварня"
+    },
+    {
+      "key": "PersonalBuilding_Statue_I_DisplayName",
+      "source_crc32": 3679457227,
+      "translation": "Малая статуя"
+    },
+    {
+      "key": "OccupationBuilding_Smithy_DisplayName_plural",
+      "source_crc32": 4244735477,
+      "translation": "Кузницы"
+    },
+    {
+      "key": "Guild_SmithsGuild_III_DisplayName",
+      "source_crc32": 764942533,
+      "translation": "Большой зал гильдии кузнецов"
+    },
+    {
+      "key": "Guild_SmithsGuild_DisplayName",
+      "source_crc32": 1500395717,
+      "translation": "Гильдия кузнецов"
+    },
+    {
+      "key": "Guild_SmithsGuild_II_DisplayName",
+      "source_crc32": 2443492648,
+      "translation": "Зал гильдии кузнецов"
+    },
+    {
+      "key": "Guild_SmithsGuild_I_DisplayName",
+      "source_crc32": 3698846401,
+      "translation": "Дом гильдии кузнецов"
+    },
+    {
+      "key": "OccupationBuilding_Smithy_DisplayName",
+      "source_crc32": 3983703546,
+      "translation": "Кузница"
+    },
+    {
+      "key": "OccupationBuilding_Smithy_II_DisplayName",
+      "source_crc32": 3983703546,
+      "translation": "Кузница"
+    },
+    {
+      "key": "OccupationBuilding_Thief_I_DisplayName",
+      "source_crc32": 3956324920,
+      "translation": "Нора контрабандиста"
+    },
+    {
+      "key": "PublicBuilding_Rostrum_I_DisplayName",
+      "source_crc32": 3786262238,
+      "translation": "Ораторский помост"
+    },
+    {
+      "key": "PersonalBuilding_Stable_DisplayName",
+      "source_crc32": 4223339173,
+      "translation": "Конюшня"
+    },
+    {
+      "key": "PersonalBuilding_Stable_I_DisplayName",
+      "source_crc32": 4223339173,
+      "translation": "Конюшня"
+    },
+    {
+      "key": "PersonalBuilding_Stable_DisplayName_plural",
+      "source_crc32": 45277288,
+      "translation": "Конюшни"
+    },
+    {
+      "key": "PersonalBuilding_Stable_II_DisplayName",
+      "source_crc32": 45277288,
+      "translation": "Конюшни"
+    },
+    {
+      "key": "StartingBuildings_DisplayName",
+      "source_crc32": 3528844186,
+      "translation": "Начальные владения"
+    },
+    {
+      "key": "Parameter_DisplayName_alt",
+      "source_crc32": 3531217574,
+      "translation": "Параметр"
+    },
+    {
+      "key": "Parameter_DisplayName_plural_alt",
+      "source_crc32": 2624754325,
+      "translation": "Параметры"
+    },
+    {
+      "key": "PersonalBuilding_Statue_DisplayName",
+      "source_crc32": 2070571193,
+      "translation": "Статуя"
+    },
+    {
+      "key": "PersonalBuilding_Statue_II_DisplayName",
+      "source_crc32": 2070571193,
+      "translation": "Статуя"
+    },
+    {
+      "key": "Category_Statue_DisplayName_pural",
+      "source_crc32": 649420927,
+      "translation": "Статуи"
+    },
+    {
+      "key": "Enter_prompt",
+      "source_crc32": 2392629673,
+      "translation": "Войти"
+    },
+    {
+      "key": "OccupationBuilding_Mason_II_DisplayName",
+      "source_crc32": 1326184863,
+      "translation": "Камнерезная"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_III_DisplayName",
+      "source_crc32": 662617895,
+      "translation": "Большой зал гильдии каменщиков"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_DisplayName",
+      "source_crc32": 2758692282,
+      "translation": "Гильдия каменщиков"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_II_DisplayName",
+      "source_crc32": 2822446132,
+      "translation": "Зал гильдии каменщиков"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_I_DisplayName",
+      "source_crc32": 3084790636,
+      "translation": "Дом гильдии каменщиков"
+    },
+    {
+      "key": "PublicBuilding_Well_II_DisplayName",
+      "source_crc32": 3212430198,
+      "translation": "Каменный колодец"
+    },
+    {
+      "key": "Guild_StoneMasonsGuild_Description",
+      "source_crc32": 4113174353,
+      "translation": "Камень помнит. Мы позаботимся, чтобы он помнил нас."
+    },
+    {
+      "key": "OccupationBuilding_Mason_III_DisplayName",
+      "source_crc32": 1452065925,
+      "translation": "Хижина каменщика"
+    },
+    {
+      "key": "ExtractionFacility_Quarry_II_DisplayName",
+      "source_crc32": 1933047513,
+      "translation": "Карьер"
+    },
+    {
+      "key": "Storage_DisplayName",
+      "source_crc32": 1419090753,
+      "translation": "Склад"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_III_DisplayName",
+      "source_crc32": 345689531,
+      "translation": "Складской амбар"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_I_DisplayName",
+      "source_crc32": 827332476,
+      "translation": "Сарайчик"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_DisplayName",
+      "source_crc32": 3636428915,
+      "translation": "Складской сарай"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_II_DisplayName",
+      "source_crc32": 3636428915,
+      "translation": "Складской сарай"
+    },
+    {
+      "key": "PersonalBuilding_StorageShed_DisplayName_plural",
+      "source_crc32": 723790861,
+      "translation": "Складские сараи"
+    },
+    {
+      "key": "Storefront_DisplayName",
+      "source_crc32": 1314655742,
+      "translation": "Витрина"
+    },
+    {
+      "key": "StorefrontRevenue_DisplayName",
+      "source_crc32": 4286941418,
+      "translation": "Выручка с витрины"
+    },
+    {
+      "key": "OccupationBuilding_Trader_DisplayName",
+      "source_crc32": 1375546307,
+      "translation": "Товарный склад"
+    },
+    {
+      "key": "OccupationBuilding_Trader_I_DisplayName",
+      "source_crc32": 1375546307,
+      "translation": "Товарный склад"
+    },
+    {
+      "key": "OccupationBuilding_Trader_DisplayName_plural",
+      "source_crc32": 3041969685,
+      "translation": "Товарные склады"
+    },
+    {
+      "key": "Storeroom_DisplayName",
+      "source_crc32": 365014110,
+      "translation": "Кладовая"
+    },
+    {
+      "key": "Parameter_DisplayName",
+      "source_crc32": 2084285241,
+      "translation": "Параметр здания"
+    },
+    {
+      "key": "Parameter_DisplayName_plural",
+      "source_crc32": 1707149291,
+      "translation": "Параметры здания"
+    },
+    {
+      "key": "Category_PublicBuilding_Description",
+      "source_crc32": 4179639043,
+      "translation": "Постройки, которые содержит город; они служат общественной жизни и городским нуждам."
+    },
+    {
+      "key": "Manager_Privileges_SupplyItems_DisplayName",
+      "source_crc32": 1956876511,
+      "translation": "Закупка сырья"
+    },
+    {
+      "key": "OccupationBuilding_Tailor_DisplayName",
+      "source_crc32": 968610697,
+      "translation": "Швейная мастерская"
+    },
+    {
+      "key": "OccupationBuilding_Tailor_II_DisplayName",
+      "source_crc32": 968610697,
+      "translation": "Швейная мастерская"
+    },
+    {
+      "key": "OccupationBuilding_Tailor_DisplayName_plural",
+      "source_crc32": 526671309,
+      "translation": "Швейные мастерские"
+    },
+    {
+      "key": "Guild_TailorsGuild_III_DisplayName",
+      "source_crc32": 1584156636,
+      "translation": "Большой зал гильдии портных"
+    },
+    {
+      "key": "Guild_TailorsGuild_DisplayName",
+      "source_crc32": 662287930,
+      "translation": "Гильдия портных"
+    },
+    {
+      "key": "Guild_TailorsGuild_II_DisplayName",
+      "source_crc32": 2910419010,
+      "translation": "Зал гильдии портных"
+    },
+    {
+      "key": "Guild_TailorsGuild_I_DisplayName",
+      "source_crc32": 74542808,
+      "translation": "Дом гильдии портных"
+    },
+    {
+      "key": "CashStash_Deposit_Description",
+      "source_crc32": 987320495,
+      "translation": "Переложите деньги из своего кошеля в кассу предприятия. {B_OCC_MGR_C}Управляющий{##} наверняка найдёт им достойное применение. В конце концов, чтобы заработать, надо сперва потратиться!"
+    },
+    {
+      "key": "ListOfActivities_Header",
+      "source_crc32": 2767226730,
+      "translation": "Задачи"
+    },
+    {
+      "key": "OccupationBuilding_Inn_I_DisplayName",
+      "source_crc32": 3499740564,
+      "translation": "Таверна"
+    },
+    {
+      "key": "Manager_Privileges_TakenCareOf_Warning",
+      "source_crc32": 1667811544,
+      "translation": "Этим ведает управляющий. Измените его обязанности, если хотите заниматься этим сами."
+    },
+    {
+      "key": "Manager_ProfessionBuilding_Description_extra2",
+      "source_crc32": 3040603919,
+      "translation": "Выгода обоюдная: управляющий получает {CHAR_XP_C}опыт{##} и долю прибыли, а ваше предприятие работает без вашего личного участия."
+    },
+    {
+      "key": "PublicBuilding_TownHall_Description",
+      "source_crc32": 2157517390,
+      "translation": "Средоточие власти, где отцы города обсуждают его дела и решают его судьбу."
+    },
+    {
+      "key": "Manager_Privileges_PaidFromCashStash",
+      "source_crc32": 3439134543,
+      "translation": "Расходы на эти дела оплачиваются из кассы предприятия."
+    },
+    {
+      "key": "Manager_Privileges_PaidFromPocket",
+      "source_crc32": 3072069980,
+      "translation": "Расходы на эти дела оплачиваются из вашего кошеля."
+    },
+    {
+      "key": "Manager_Privileges_EarningsToCashStash",
+      "source_crc32": 3508369527,
+      "translation": "Доходы от этих дел поступают в кассу предприятия."
+    },
+    {
+      "key": "Manager_Privileges_EarningsToPocket",
+      "source_crc32": 3028906065,
+      "translation": "Доходы от этих дел идут прямо в ваш кошель."
+    },
+    {
+      "key": "StartingBuildings_Description",
+      "source_crc32": 936145941,
+      "translation": "Точное место будет назначено в начале игры."
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_Description",
+      "source_crc32": 1040306178,
+      "translation": "Дары земли собраны и ждут покупателя - чтобы стать чем-то большим."
+    },
+    {
+      "key": "Guild_RobbersGuild_Description",
+      "source_crc32": 4090200947,
+      "translation": "Дорога принадлежит тому, кто может её удержать. Если что-то движется - мы это заберём."
+    },
+    {
+      "key": "PublicBuilding_Rostrum_Description",
+      "source_crc32": 2875390560,
+      "translation": "Помост для речей властей и выступлений бардов."
+    },
+    {
+      "key": "Storeroom_Description",
+      "source_crc32": 4240783540,
+      "translation": "Кладовая - сердце хозяйства: здесь хранят товары, выкладывают их на витрину, грузят и разгружают повозки и ведут учёт запасов."
+    },
+    {
+      "key": "Message_NoBuildingsForSale",
+      "source_crc32": 2503152389,
+      "translation": "Сейчас зданий на продажу нет."
+    },
+    {
+      "key": "OccupationBuilding_Thief_III_DisplayName",
+      "source_crc32": 1631580726,
+      "translation": "Воровской притон"
+    },
+    {
+      "key": "Guild_ThievesGuild_III_DisplayName",
+      "source_crc32": 1099517280,
+      "translation": "Большой зал гильдии воров"
+    },
+    {
+      "key": "Guild_ThievesGuild_DisplayName",
+      "source_crc32": 2315848349,
+      "translation": "Гильдия воров"
+    },
+    {
+      "key": "Guild_ThievesGuild_II_DisplayName",
+      "source_crc32": 1037534615,
+      "translation": "Зал гильдии воров"
+    },
+    {
+      "key": "Guild_ThievesGuild_I_DisplayName",
+      "source_crc32": 1751958995,
+      "translation": "Дом гильдии воров"
+    },
+    {
+      "key": "Business_ManagementTab_NoManager",
+      "source_crc32": 3807374156,
+      "translation": "Эта вкладка пригодится, когда делом заправляет {B_OCC_MGR_C}управляющий{##}. Здесь вы распоряжаетесь доверенными ему деньгами и решаете, какие обязанности оставить в его руках."
+    },
+    {
+      "key": "TradeIncomeLimit_Limit_Label",
+      "source_crc32": 480333200,
+      "translation": "Лимит"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_DisplayName",
+      "source_crc32": 3387924979,
+      "translation": "Лесные угодья"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_DisplayName_plural",
+      "source_crc32": 3387924979,
+      "translation": "Лесные угодья"
+    },
+    {
+      "key": "ExtractionFacility_WoodlandArea_I_DisplayName",
+      "source_crc32": 3387924979,
+      "translation": "Лесные угодья"
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_I_DisplayName",
+      "source_crc32": 571329704,
+      "translation": "Настойная"
+    },
+    {
+      "key": "PublicBuilding_TownHall_DisplayName",
+      "source_crc32": 1751647631,
+      "translation": "Ратуша"
+    },
+    {
+      "key": "PublicBuilding_TownHall_II_DisplayName",
+      "source_crc32": 1751647631,
+      "translation": "Ратуша"
+    },
+    {
+      "key": "PublicBuilding_TownHall_DisplayName_plural",
+      "source_crc32": 91405357,
+      "translation": "Ратуши"
+    },
+    {
+      "key": "OccupationBuilding_Guard_II_DisplayName",
+      "source_crc32": 3439803929,
+      "translation": "Городская стража"
+    },
+    {
+      "key": "PublicBuilding_TownsGate_DisplayName",
+      "source_crc32": 1484088228,
+      "translation": "Городские ворота"
+    },
+    {
+      "key": "PublicBuilding_TownsGate_DisplayName_plural",
+      "source_crc32": 3886972720,
+      "translation": "Городские ворота"
+    },
+    {
+      "key": "Residence_House_II_DisplayName",
+      "source_crc32": 4244654765,
+      "translation": "Городской дом"
+    },
+    {
+      "key": "Trade_DisplayName",
+      "source_crc32": 661546122,
+      "translation": "Торговля"
+    },
+    {
+      "key": "ExtractionFacility_VillageMarket_II_DisplayName",
+      "source_crc32": 1773763146,
+      "translation": "Торжище"
+    },
+    {
+      "key": "OccupationBuilding_Trader_III_DisplayName",
+      "source_crc32": 1581913020,
+      "translation": "Торговый зал"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_DisplayName",
+      "source_crc32": 3994808755,
+      "translation": "Лагерь бродячих артистов"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_DisplayName_plural",
+      "source_crc32": 227224600,
+      "translation": "Лагеря бродячих артистов"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_II_DisplayName",
+      "source_crc32": 195973605,
+      "translation": "Лагерь бродячих артистов"
+    },
+    {
+      "key": "OccupationBuilding_Joiner_II_DisplayName",
+      "source_crc32": 3954811388,
+      "translation": "Токарня"
+    },
+    {
+      "key": "PublicBuilding_Blackmarket_III_DisplayName",
+      "source_crc32": 1964086387,
+      "translation": "Подпольный рынок"
+    },
+    {
+      "key": "PublicBuilding_University_DisplayName_plural",
+      "source_crc32": 4199213079,
+      "translation": "Университеты"
+    },
+    {
+      "key": "PublicBuilding_University_DisplayName",
+      "source_crc32": 3299046031,
+      "translation": "Университет"
+    },
+    {
+      "key": "PublicBuilding_University_III_DisplayName",
+      "source_crc32": 3299046031,
+      "translation": "Университет"
+    },
+    {
+      "key": "Upgrade_DisplayName",
+      "source_crc32": 729537025,
+      "translation": "Модернизация"
+    },
+    {
+      "key": "Manager_Privileges_UpgradeBuilding_DisplayName",
+      "source_crc32": 2730141209,
+      "translation": "Модернизация здания"
+    },
+    {
+      "key": "Manager_Privileges_UpgradeBuilding_Description",
+      "source_crc32": 47341767,
+      "translation": "Модернизировать здание до следующего уровня."
+    },
+    {
+      "key": "ListOfUpgrades_Header",
+      "source_crc32": 1793680,
+      "translation": "Модернизации"
+    },
+    {
+      "key": "OccupationBuilding_Entertainer_I_DisplayName",
+      "source_crc32": 2733710174,
+      "translation": "Стоянка бродяг"
+    },
+    {
+      "key": "Residence_Villa_DisplayName",
+      "source_crc32": 2473888297,
+      "translation": "Вилла"
+    },
+    {
+      "key": "Manager_CityBuilding_DisplayName",
+      "source_crc32": 2976734310,
+      "translation": "Смотритель"
+    },
+    {
+      "key": "OccupationBuilding_Trader_II_DisplayName",
+      "source_crc32": 3200945863,
+      "translation": "Склад"
+    },
+    {
+      "key": "PersonalBuilding_Shrine_I_DisplayName",
+      "source_crc32": 1280948021,
+      "translation": "Придорожная часовня"
+    },
+    {
+      "key": "Guild_GraveyardWardensGuild_Description",
+      "source_crc32": 4168435957,
+      "translation": "Мы храним то, что оставляют другие. Тихая работа, твёрдая рука и никакого права на ошибку - одного раза хватит."
+    },
+    {
+      "key": "Guild_AlchemistsGuild_Description",
+      "source_crc32": 3453586961,
+      "translation": "Мы превращаем любопытство в золото - порой буквально."
+    },
+    {
+      "key": "PublicBuilding_Well_DisplayName",
+      "source_crc32": 2673777939,
+      "translation": "Колодец"
+    },
+    {
+      "key": "StorefrontRevenue_Description_extra1",
+      "source_crc32": 1825208532,
+      "translation": "Довольные покупатели уходят в добром расположении духа и оставляют вам кое-что сверху - {PM_STOREV_C}монету благодарности{##}."
+    },
+    {
+      "key": "PublicBuilding_Well_DisplayName_plural",
+      "source_crc32": 2871131571,
+      "translation": "Колодцы"
+    },
+    {
+      "key": "Guild_PerfumersGuild_Description",
+      "source_crc32": 2109033666,
+      "translation": "Незримое тоже способно покорить зал. Мы торгуем ароматами - и впечатлениями, что они оставляют."
+    },
+    {
+      "key": "TradeIncomeLimit_SetLimit_Description",
+      "source_crc32": 1641919770,
+      "translation": "Задайте наибольшую сумму, которую предприятие может накопить собственной деятельностью. Деньги, внесённые в кассу напрямую, под этот лимит не подпадают. Когда лимит достигнут, весь доход сам собой перетекает в ваш кошель. Если задать 0, вся выручка идёт прямо в кошель."
+    },
+    {
+      "key": "TradeIncomeLimit_Description",
+      "source_crc32": 1895457133,
+      "translation": "Наибольшая сумма, которую предприятие может накопить собственной деятельностью. Деньги, внесённые в кассу напрямую, под этот лимит не подпадают."
+    },
+    {
+      "key": "OccupationBuilding_Alchemist_Description",
+      "source_crc32": 3414506936,
+      "translation": "Здесь алхимия и ремесло сходятся, рождая зелья, снадобья и средства на все случаи жизни."
+    },
+    {
+      "key": "OccupationBuilding_Mason_Description",
+      "source_crc32": 2750979925,
+      "translation": "Здесь каменщики обращают камень в орудия, сокровища и крепкие городские постройки."
+    },
+    {
+      "key": "Category_ExtractionFacility_Description",
+      "source_crc32": 3517243328,
+      "translation": "Здесь добывают природные ресурсы и готовят их для ремёсел."
+    },
+    {
+      "key": "OccupationBuilding_Joiner_Description",
+      "source_crc32": 1370309803,
+      "translation": "Здесь умелые руки вырезают из дерева игрушки, инструменты и оружие."
+    },
+    {
+      "key": "OccupationBuilding_Tailor_Description",
+      "source_crc32": 4016716386,
+      "translation": "Здесь из шерсти и кожи шьют одежду на каждый день и для особых случаев."
+    },
+    {
+      "key": "CashStash_Description_extra1",
+      "source_crc32": 615063178,
+      "translation": "Какие расходы оплачиваются из кассы и какие доходы в неё поступают, зависит от {B_MANPRI_C}обязанностей{##}, возложенных на управляющего."
+    },
+    {
+      "key": "PublicBuilding_Fountain_Description",
+      "source_crc32": 2786274327,
+      "translation": "Рядом с фонтаном люди быстрее восстанавливают энергию, а квартал выглядит приветливее."
+    },
+    {
+      "key": "CashStash_Withdraw_DisplayName",
+      "source_crc32": 761873929,
+      "translation": "Забрать"
+    },
+    {
+      "key": "Guild_PreachersGuild_Description",
+      "source_crc32": 1280027680,
+      "translation": "Слово лепит души. Слушать или нет - их дело; наше - чтобы услышали."
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_DisplayName",
+      "source_crc32": 405139027,
+      "translation": "Дом работников"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_II_DisplayName",
+      "source_crc32": 405139027,
+      "translation": "Дом работников"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_DisplayName_plural",
+      "source_crc32": 3650471225,
+      "translation": "Дома работников"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_I_DisplayName",
+      "source_crc32": 521495693,
+      "translation": "Жильё работников"
+    },
+    {
+      "key": "PublicBuilding_WorkersAccommodation_III_DisplayName",
+      "source_crc32": 4250436982,
+      "translation": "Рабочая слобода"
+    },
+    {
+      "key": "Business_Workforce_DisplayName",
+      "source_crc32": 1736069249,
+      "translation": "Работники"
+    },
+    {
+      "key": "WreckedCaravan_DisplayName",
+      "source_crc32": 3586845540,
+      "translation": "Разбитый караван"
+    },
+    {
+      "key": "Manager_ProfessionBuilding_Description",
+      "source_crc32": 1591180457,
+      "translation": "Лучше вас с собственным делом никто не управится, но, когда зданий станет несколько, назначенный управляющий освободит вам время для других занятий."
+    },
+    {
+      "key": "Manager_Privileges_Description",
+      "source_crc32": 2626315012,
+      "translation": "Необязательно делать всё самому, но и выпускать вожжи из рук не нужно. В том и прелесть положения хозяина! Оставьте себе ту часть дела, что вам по душе, а скучные обязанности переложите на кого-нибудь другого."
+    }
+  ]
+}

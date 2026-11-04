@@ -1,0 +1,1661 @@
+{
+  "resource": "Game",
+  "namespace": "Status Effects",
+  "entries": [
+    {
+      "key": "BeeHoneyComb_Contaminated_DisplayName",
+      "source_crc32": 3895606070,
+      "translation": "Испорченный урожай"
+    },
+    {
+      "key": "Illness_FogOfHorror_Description",
+      "source_crc32": 1979391076,
+      "translation": "Дыхание гнили липнет к улицам. Мёртвые умеют напомнить живым, кто здесь был раньше."
+    },
+    {
+      "key": "TrainingFatigue_Description",
+      "source_crc32": 1865391925,
+      "translation": "После трудного урока есть над чем подумать. Новым знаниям нужно время улечься, прежде чем браться за следующие."
+    },
+    {
+      "key": "BackstoryOldBlood_Description",
+      "source_crc32": 208271958,
+      "translation": "Громкое имя, безупречные манеры и ни единой мозоли. Эта династия легко вращается в политических кругах - только не ждите от её холёных отпрысков той же грации в драке."
+    },
+    {
+      "key": "Cart_Escort_Light_Description",
+      "source_crc32": 3208280174,
+      "translation": "Горстка вооружённых людей. Отпугнёт разве что случайных грабителей - не более."
+    },
+    {
+      "key": "Homelessness_Small_Description",
+      "source_crc32": 3215544320,
+      "translation": "Кое-кто живёт под открытым небом, чаще на окраинах. Большинство всё же находит кров."
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier01_Description",
+      "source_crc32": 3223401945,
+      "translation": "Мелкие проделки то тут, то там - ничего страшного, но кошель держите крепче."
+    },
+    {
+      "key": "CrimeRate_Insignificant_Description",
+      "source_crc32": 2317041335,
+      "translation": "Мелкие проделки то тут, то там - ничего, что нарушило бы покой квартала."
+    },
+    {
+      "key": "KnockedDown_Description",
+      "source_crc32": 3456754919,
+      "translation": "Жестокий удар уложил на землю. Чтобы подняться, нужно время - или чья-то помощь."
+    },
+    {
+      "key": "BackstoryMarriageStrategists_Description",
+      "source_crc32": 351979343,
+      "translation": "Намётанный глаз на выгодные браки: ухаживание здесь превращают в прочные узы между домами."
+    },
+    {
+      "key": "BackstoryOutlawBlood_Description",
+      "source_crc32": 4288515567,
+      "translation": "Жизнь бок о бок с преступлением сделала эту династию крепкой и скрытной, а хитрости ремесла она схватывает на лету. У стражи есть все причины быть настороже."
+    },
+    {
+      "key": "SmallStandingLevy_Description",
+      "source_crc32": 3892516494,
+      "translation": "Скромный местный отряд. На дозоры хватает, на устрашение - едва ли."
+    },
+    {
+      "key": "Illness_HemlockPoisoning_Description",
+      "source_crc32": 764730715,
+      "translation": "Смерть философа - потрачена не по адресу."
+    },
+    {
+      "key": "WellMaintainedRoad_Description",
+      "source_crc32": 3269482769,
+      "translation": "Дорога так ухожена, что налоги почти не жаль платить."
+    },
+    {
+      "key": "PavedRoads_Description",
+      "source_crc32": 4070810617,
+      "translation": "Наглядный пример того, что бывает, когда город и впрямь тратит деньги на благоустройство."
+    },
+    {
+      "key": "ProtectiveCover_Description",
+      "source_crc32": 3070517746,
+      "translation": "Прочный полог укрывает повозку, и служит она дольше."
+    },
+    {
+      "key": "BustDisplayed_Description",
+      "source_crc32": 3214892422,
+      "translation": "Знак высокого положения: вдохновляет работников и впечатляет покупателей."
+    },
+    {
+      "key": "LargeStandingLevy_Description",
+      "source_crc32": 1190542867,
+      "translation": "Вооружённые люди на виду. Улицы спокойнее, преступники - нервнее."
+    },
+    {
+      "key": "JewelryChestDisplayed_Description",
+      "source_crc32": 474328366,
+      "translation": "Зримый знак богатства и положения."
+    },
+    {
+      "key": "BeeState_Empty_DisplayName",
+      "source_crc32": 3328912618,
+      "translation": "Пустой улей"
+    },
+    {
+      "key": "AccProtIncreasedItem_Description",
+      "source_crc32": 2684477242,
+      "translation": "Несчастные случаи - козни дьявола, а дьяволу здесь не рады."
+    },
+    {
+      "key": "Quarter_Unrest_Tier02_DisplayName",
+      "source_crc32": 1415280945,
+      "translation": "Возмущённый"
+    },
+    {
+      "key": "BeeState_Sick_DisplayName",
+      "source_crc32": 3325329900,
+      "translation": "Больные пчёлы"
+    },
+    {
+      "key": "CharmingWeakBeer_Description",
+      "source_crc32": 1067718987,
+      "translation": "Эль не делает человека умнее - зато заметно мешает ему это осознать."
+    },
+    {
+      "key": "AccidentProtectionIncreased_DisplayName",
+      "source_crc32": 3489986600,
+      "translation": "Все пальцы целы"
+    },
+    {
+      "key": "BackstoryMarriageStrategists_DisplayName",
+      "source_crc32": 3376747661,
+      "translation": "Кузнецы союзов"
+    },
+    {
+      "key": "BackstoryOpportunists_Description",
+      "source_crc32": 3378332150,
+      "translation": "Союзники, соперники, принципы - вещи полезные, если знать, когда ими поступиться. Эта семья выжила, не связывая себя ничем."
+    },
+    {
+      "key": "ScentEnhanced_Description",
+      "source_crc32": 921890304,
+      "translation": "Здание наполняет манящий аромат: покупатели заходят прежде, чем успевают это осознать."
+    },
+    {
+      "key": "BeeState_Agitated_DisplayName",
+      "source_crc32": 302976496,
+      "translation": "Злые пчёлы"
+    },
+    {
+      "key": "Illness_ArsenicPoisoning_DisplayName",
+      "source_crc32": 578134067,
+      "translation": "Отравление мышьяком"
+    },
+    {
+      "key": "BackstoryBloodFeud_DisplayName",
+      "source_crc32": 856800401,
+      "translation": "Дурная кровь"
+    },
+    {
+      "key": "BackstorySurvivorsBlood_Description",
+      "source_crc32": 4187156870,
+      "translation": "Беды так и липнут к этой семье. Странно другое: как часто она их переживает. Со временем люди начинают делать выводы."
+    },
+    {
+      "key": "Ruined_Description",
+      "source_crc32": 1125317531,
+      "translation": "Зданием это назвать трудно. Скорее сожаление, которое держится на одной привычке."
+    },
+    {
+      "key": "TerriblyMaintainedCart_Description",
+      "source_crc32": 2600503101,
+      "translation": "Едва катится, зато гремит на славу."
+    },
+    {
+      "key": "StrengthenedBars_DisplayName",
+      "source_crc32": 642261429,
+      "translation": "Решётки на окнах"
+    },
+    {
+      "key": "BasicCivicService_DisplayName",
+      "source_crc32": 516156629,
+      "translation": "Простейшие службы"
+    },
+    {
+      "key": "RuralRoads_Description",
+      "source_crc32": 2076555410,
+      "translation": "Простые дороги: ухода мало, денег ещё меньше. Ехать медленно, и достаётся повозкам."
+    },
+    {
+      "key": "BatteredEscort_DisplayName",
+      "source_crc32": 3137073886,
+      "translation": "Потрёпанная охрана"
+    },
+    {
+      "key": "BeeStung_DisplayName",
+      "source_crc32": 2790166339,
+      "translation": "Пчелобой"
+    },
+    {
+      "key": "Quarter_Zeal_Tier02_Description",
+      "source_crc32": 483965017,
+      "translation": "Вера определяет поступки. Преступность не в чести, а порядок держится на обычае."
+    },
+    {
+      "key": "AccProtIncreasedItem_DisplayName",
+      "source_crc32": 3374974070,
+      "translation": "Под святым крестом"
+    },
+    {
+      "key": "BackstoryFamilyCraft_DisplayName",
+      "source_crc32": 1455163580,
+      "translation": "Руками, не словами"
+    },
+    {
+      "key": "Blessed_DisplayName",
+      "source_crc32": 14603995,
+      "translation": "Благословение"
+    },
+    {
+      "key": "Illness_SmallPox_Description",
+      "source_crc32": 3132399263,
+      "translation": "Гнойники вздуваются яростно и лопаются мокнущими язвами, и каждая лишь множит муки."
+    },
+    {
+      "key": "Broken_DisplayName",
+      "source_crc32": 2800969486,
+      "translation": "Сломана"
+    },
+    {
+      "key": "Wrecked_Description",
+      "source_crc32": 2595495350,
+      "translation": "Сломана, погнута - разве что на дрова."
+    },
+    {
+      "key": "Illness_BubonicPlague_DisplayName",
+      "source_crc32": 34133138,
+      "translation": "Бубонная чума"
+    },
+    {
+      "key": "Quarter_Devastation_Tier03_Description",
+      "source_crc32": 4148650306,
+      "translation": "Со зданий сыплются обломки, улицы тонут в грязи. Смотрите под ноги - и над головой."
+    },
+    {
+      "key": "StrongDefensiveInstallations_Description",
+      "source_crc32": 1057543668,
+      "translation": "Настоящий камень, настоящий план, настоящие деньги."
+    },
+    {
+      "key": "BeeState_Active_DisplayName",
+      "source_crc32": 776316424,
+      "translation": "Пчёлы в деле"
+    },
+    {
+      "key": "Captured_DisplayName",
+      "source_crc32": 2555022135,
+      "translation": "В плену"
+    },
+    {
+      "key": "Disreputable_DisplayName",
+      "source_crc32": 2090723997,
+      "translation": "В немилости у короны"
+    },
+    {
+      "key": "CrimeRate_Catastrophic_DisplayName",
+      "source_crc32": 383053852,
+      "translation": "Катастрофическая"
+    },
+    {
+      "key": "Homelessness_Catastrophic_DisplayName",
+      "source_crc32": 383053852,
+      "translation": "Катастрофическая"
+    },
+    {
+      "key": "Unemployment_Catastrophic_DisplayName",
+      "source_crc32": 383053852,
+      "translation": "Катастрофическая"
+    },
+    {
+      "key": "CausedBy_Label",
+      "source_crc32": 1309193132,
+      "translation": "Причина"
+    },
+    {
+      "key": "ArtisanalGoods_Description",
+      "source_crc32": 2345846145,
+      "translation": "Обаяние - фирменное блюдо заведения. Хорошо идёт ко всему, что здесь подают."
+    },
+    {
+      "key": "Illness_Cholera_DisplayName",
+      "source_crc32": 4113615903,
+      "translation": "Холера"
+    },
+    {
+      "key": "Quarter_Zeal_Tier01_Description",
+      "source_crc32": 3327920026,
+      "translation": "Горожане ведут себя пристойно и помнят о долге. Квартал зарабатывает доброе имя."
+    },
+    {
+      "key": "RelicDreams_Description",
+      "source_crc32": 3108235660,
+      "translation": "Закройте глаза - реликвия всё там же: выжжена под веками и преследует во снах."
+    },
+    {
+      "key": "Captured_Description",
+      "source_crc32": 199160288,
+      "translation": "Бой не убил - лишь запер где-то в недружелюбном месте."
+    },
+    {
+      "key": "Paralyzed_Description",
+      "source_crc32": 2162424711,
+      "translation": "Полная неподвижность. Сознание ясное - к несчастью."
+    },
+    {
+      "key": "ComplexCivicService_DisplayName",
+      "source_crc32": 1322839785,
+      "translation": "Разветвлённые службы"
+    },
+    {
+      "key": "CrimeRate_Concerning_DisplayName",
+      "source_crc32": 3862265680,
+      "translation": "Тревожная"
+    },
+    {
+      "key": "Illness_Cough_DisplayName",
+      "source_crc32": 3128564806,
+      "translation": "Кашель"
+    },
+    {
+      "key": "Illness_Cough_Description",
+      "source_crc32": 2856085133,
+      "translation": "Кхе. Кхе."
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier00_Worsens",
+      "source_crc32": 115172702,
+      "translation": "В квартале спокойно.\nЕсли {QUA_CRI_C}преступность{##} поднимется выше {value}, квартал станет {ST_QTR_CRI_1_C}сомнительным{##}."
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier03_DisplayName",
+      "source_crc32": 650844949,
+      "translation": "Разгул преступности"
+    },
+    {
+      "key": "ProtectedBuilding_DisplayName",
+      "source_crc32": 3019403463,
+      "translation": "Тёмное покровительство"
+    },
+    {
+      "key": "CrimeRate_Severe_Description",
+      "source_crc32": 1197539330,
+      "translation": "Преступники действуют без страха. Стражи мало, а порядок держится на волоске."
+    },
+    {
+      "key": "CrimeRate_Concerning_Description",
+      "source_crc32": 2642638863,
+      "translation": "Преступники наглеют. Стража отвечает, но слишком многое проходит мимо неё."
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier02_Description",
+      "source_crc32": 2642638863,
+      "translation": "Преступники наглеют. Стража отвечает, но слишком многое проходит мимо неё."
+    },
+    {
+      "key": "LivePerformance_DisplayName",
+      "source_crc32": 3959182691,
+      "translation": "Магнит для толпы"
+    },
+    {
+      "key": "BackstoryBornPerformers_DisplayName",
+      "source_crc32": 327149161,
+      "translation": "Любимцы публики"
+    },
+    {
+      "key": "Reputable_DisplayName",
+      "source_crc32": 1466462421,
+      "translation": "В милости у короны"
+    },
+    {
+      "key": "Quarter_Devastation_Tier03_DisplayName_alt",
+      "source_crc32": 3054935303,
+      "translation": "Осыпающиеся улицы"
+    },
+    {
+      "key": "Cursed_DisplayName",
+      "source_crc32": 504764783,
+      "translation": "Проклятие"
+    },
+    {
+      "key": "Dead_DisplayName",
+      "source_crc32": 234891841,
+      "translation": "Смерть"
+    },
+    {
+      "key": "Quarter_Devastation_Tier03_DisplayName",
+      "source_crc32": 2213634359,
+      "translation": "Объявлен опасным"
+    },
+    {
+      "key": "DesolateHouse_DisplayName",
+      "source_crc32": 3839208767,
+      "translation": "Опустевшее"
+    },
+    {
+      "key": "TerriblyMaintained_DisplayName",
+      "source_crc32": 3376775103,
+      "translation": "Ветхое"
+    },
+    {
+      "key": "BackstoryMartialTradition_Description",
+      "source_crc32": 920922360,
+      "translation": "Дисциплинированны, и врасплох их не застать. Воры знают: возле их владений лучше не задерживаться. Дипломатия, конечно, полезна. Просто им по душе доводы поувесистее."
+    },
+    {
+      "key": "Cart_Escort_Hard_Description",
+      "source_crc32": 349263619,
+      "translation": "Дисциплинированны, хорошо вооружены и ждут неприятностей. Напасть на эту повозку - скорее ошибка, чем грабёж."
+    },
+    {
+      "key": "FertilityIncrease_Description",
+      "source_crc32": 789887906,
+      "translation": "Растрёпанные волосы и довольный блеск в глазах. Брак, о котором заботятся, оставляет следы."
+    },
+    {
+      "key": "Dishonored_DisplayName",
+      "source_crc32": 6282413,
+      "translation": "Бесчестье"
+    },
+    {
+      "key": "BeeState_Hybernating_DisplayName",
+      "source_crc32": 3950291867,
+      "translation": "Спящие пчёлы"
+    },
+    {
+      "key": "BeeHoneyComb_Full_DisplayName",
+      "source_crc32": 186970875,
+      "translation": "Мёд через край"
+    },
+    {
+      "key": "FineClothes_DisplayName",
+      "source_crc32": 1127414833,
+      "translation": "Сама элегантность"
+    },
+    {
+      "key": "WellFed_Description",
+      "source_crc32": 135495728,
+      "translation": "Сытный пир прибавил сил. Работа кажется легче, а жизнь - теплее."
+    },
+    {
+      "key": "Cart_Escort_Medium_DisplayName",
+      "source_crc32": 775162943,
+      "translation": "Средняя охрана"
+    },
+    {
+      "key": "Sanitized_Description",
+      "source_crc32": 3597139787,
+      "translation": "Даже дурные миазмы знают, что здесь лучше не задерживаться."
+    },
+    {
+      "key": "StrengthenedBars_Description",
+      "source_crc32": 3555139131,
+      "translation": "Даже самые отважные взломщики предпочитают цели попроще."
+    },
+    {
+      "key": "Homelessness_NonExistent_Description",
+      "source_crc32": 3098375429,
+      "translation": "У каждого есть крыша над головой - пусть самая скромная. На улице не ночует никто."
+    },
+    {
+      "key": "Unemployment_NonExistent_Description",
+      "source_crc32": 346504605,
+      "translation": "Работа есть у всех, и даже лентяи делают вид, что приносят пользу."
+    },
+    {
+      "key": "VigilantDriver_Description",
+      "source_crc32": 372622989,
+      "translation": "Следит за каждым кустом, лоб в поту. Второй раз не попадётся."
+    },
+    {
+      "key": "Quarter_Zeal_Tier03_Description",
+      "source_crc32": 2785838071,
+      "translation": "Вера обернулась яростью. На ересь и грех идёт охота. Праведность не оставляет места терпимости."
+    },
+    {
+      "key": "SpouseHelping_DisplayName",
+      "source_crc32": 1424764910,
+      "translation": "Семейное дело"
+    },
+    {
+      "key": "Quarter_Zeal_Tier03_DisplayName",
+      "source_crc32": 489198705,
+      "translation": "Религиозный фанатизм"
+    },
+    {
+      "key": "Illness_Sick_Description",
+      "source_crc32": 3894742067,
+      "translation": "Жар, озноб или что похуже. Лучше близко не подходить."
+    },
+    {
+      "key": "SpouseHelping_Description",
+      "source_crc32": 936717042,
+      "translation": "Когда за одной счётной книгой следят двое, ошибок проскальзывает меньше."
+    },
+    {
+      "key": "Quarter_Devastation_Tier02_DisplayName_alt",
+      "source_crc32": 17462049,
+      "translation": "Грязные улицы"
+    },
+    {
+      "key": "SevereBurns_Description",
+      "source_crc32": 3020901176,
+      "translation": "Огонь расписался на теле ранами, которые жгут ещё долго после того, как пламя угасло."
+    },
+    {
+      "key": "BackstoryOpportunists_DisplayName",
+      "source_crc32": 2199748752,
+      "translation": "Гибкие принципы"
+    },
+    {
+      "key": "Illness_FogOfHorror_DisplayName",
+      "source_crc32": 423592554,
+      "translation": "Туман ужаса"
+    },
+    {
+      "key": "Illness_FoodPoisoning_DisplayName",
+      "source_crc32": 3662729176,
+      "translation": "Пищевое отравление"
+    },
+    {
+      "key": "BackstoryFallenHouse_DisplayName",
+      "source_crc32": 4169597800,
+      "translation": "Былое величие"
+    },
+    {
+      "key": "Imprisoned_Description",
+      "source_crc32": 1703516105,
+      "translation": "Четыре стены, одна участь. И слишком много времени, чтобы жалеть о том, что сюда привело."
+    },
+    {
+      "key": "Frightened_DisplayName",
+      "source_crc32": 3303161024,
+      "translation": "Страх"
+    },
+    {
+      "key": "StoneChestDisplayed_Description",
+      "source_crc32": 3669047159,
+      "translation": "Вскрыть его - дело долгое; у большинства воров столько времени нет."
+    },
+    {
+      "key": "Illness_Leprosy_Description",
+      "source_crc32": 1603629021,
+      "translation": "Колокольчик в руку, отпевание заживо - ещё до того, как сдалась плоть. Молитвы смолкли. Дальше была смерть, которая никак не желала кончаться."
+    },
+    {
+      "key": "Kidnapped_Description",
+      "source_crc32": 3154153210,
+      "translation": "Пока в отлучке. Возможно, кормят. Наверняка уже оценили."
+    },
+    {
+      "key": "GriefStricken_DisplayName",
+      "source_crc32": 4243314102,
+      "translation": "Скорбь"
+    },
+    {
+      "key": "Cart_Escort_Special_Description",
+      "source_crc32": 2393547888,
+      "translation": "Стражники для особых поручений, где провал недопустим."
+    },
+    {
+      "key": "HappyHour_DisplayName",
+      "source_crc32": 2534149706,
+      "translation": "Счастливый час"
+    },
+    {
+      "key": "BackstorySurvivorsBlood_DisplayName",
+      "source_crc32": 323338742,
+      "translation": "Живучая порода"
+    },
+    {
+      "key": "Illness_FoodPoisoning_Description",
+      "source_crc32": 3237641614,
+      "translation": "Трудно работать, когда нутро просится наружу."
+    },
+    {
+      "key": "BackstoryNewMoney_Description",
+      "source_crc32": 3116426633,
+      "translation": "Заработанные тяжким трудом деньги тратятся ничуть не хуже наследственных. Наследники, впрочем, могут не согласиться. Богатство, видимо, почтеннее, если первым его нажил ваш дед."
+    },
+    {
+      "key": "Cart_Escort_Hard_DisplayName",
+      "source_crc32": 2935718395,
+      "translation": "Тяжёлая охрана"
+    },
+    {
+      "key": "Illness_HemlockPoisoning_DisplayName",
+      "source_crc32": 711743034,
+      "translation": "Отравление цикутой"
+    },
+    {
+      "key": "BeeHoneyComb_Empty_DisplayName",
+      "source_crc32": 484725205,
+      "translation": "Без мёда"
+    },
+    {
+      "key": "LaughingStock_Description",
+      "source_crc32": 418052339,
+      "translation": "Раз смеются все, значит, было за что."
+    },
+    {
+      "key": "Ruined_Worsens",
+      "source_crc32": 1134936814,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, здание станет {ST_STR_DES_C}опустевшим{##}."
+    },
+    {
+      "key": "TerriblyMaintained_Worsens",
+      "source_crc32": 215156111,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, здание станет {ST_STR_RUI_C}разрушенным{##}."
+    },
+    {
+      "key": "BadlyMaintained_Worsens",
+      "source_crc32": 215295174,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, здание станет {ST_STR_TERMAI_C}ветхим{##}."
+    },
+    {
+      "key": "Wrecked_Worsens",
+      "source_crc32": 3243449243,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, повозка станет {ST_CAR_BRO_C}сломанной{##}."
+    },
+    {
+      "key": "BadlyMaintainedCart_Worsens",
+      "source_crc32": 4270840929,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, повозка станет {ST_CAR_TERMAI_C}обветшалой{##}."
+    },
+    {
+      "key": "TerriblyMaintainedCart_Worsens",
+      "source_crc32": 1028633761,
+      "translation": "Если {B_HP_C}прочность{##} упадёт ниже {value}%, повозка станет {ST_CAR_WRE_C}разбитой{##}."
+    },
+    {
+      "key": "TerriblyMaintained_Improves",
+      "source_crc32": 3620888225,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, здание станет {ST_STR_BADMAI_C}запущенным{##}."
+    },
+    {
+      "key": "DesolateHouse_Improves",
+      "source_crc32": 357101897,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, здание станет {ST_STR_RUI_C}разрушенным{##}."
+    },
+    {
+      "key": "Ruined_Improves",
+      "source_crc32": 1876622956,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, здание станет {ST_STR_TERMAI_C}ветхим{##}."
+    },
+    {
+      "key": "TerriblyMaintainedCart_Improves",
+      "source_crc32": 4288001683,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, повозка станет {ST_CAR_BADMAI_C}запущенной{##}."
+    },
+    {
+      "key": "Wrecked_Improves",
+      "source_crc32": 3921300902,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, повозка станет {ST_CAR_TERMAI_C}обветшалой{##}."
+    },
+    {
+      "key": "Broken_Improves",
+      "source_crc32": 1642607524,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, повозка станет {ST_CAR_WRE_C}разбитой{##}."
+    },
+    {
+      "key": "BadlyMaintainedCart_Improves",
+      "source_crc32": 1028012779,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, этот эффект снимается."
+    },
+    {
+      "key": "BadlyMaintained_Improves",
+      "source_crc32": 1028012779,
+      "translation": "Если {B_HP_C}прочность{##} поднимется выше {value}%, этот эффект снимается."
+    },
+    {
+      "key": "Illness_Sick_DisplayName",
+      "source_crc32": 548124225,
+      "translation": "Болезнь"
+    },
+    {
+      "key": "Illness_ArsenicPoisoning_Description",
+      "source_crc32": 2828408213,
+      "translation": "Болезнь с умыслом. Кто-то этого хотел."
+    },
+    {
+      "key": "Imprisoned_DisplayName",
+      "source_crc32": 243613765,
+      "translation": "В заключении"
+    },
+    {
+      "key": "Quarter_Devastation_Tier02_DisplayName",
+      "source_crc32": 317859444,
+      "translation": "Обветшалый"
+    },
+    {
+      "key": "Cart_WorkedOn_DisplayName",
+      "source_crc32": 3200178840,
+      "translation": "В руках столяра"
+    },
+    {
+      "key": "Infamous_DisplayName",
+      "source_crc32": 4174507092,
+      "translation": "Дурная слава"
+    },
+    {
+      "key": "Injured_DisplayName",
+      "source_crc32": 1648337073,
+      "translation": "Ранение"
+    },
+    {
+      "key": "CrimeRate_Insignificant_DisplayName",
+      "source_crc32": 4260960344,
+      "translation": "Незначительная"
+    },
+    {
+      "key": "Inspired_DisplayName",
+      "source_crc32": 499844842,
+      "translation": "Воодушевление"
+    },
+    {
+      "key": "ScentEnhanced_DisplayName",
+      "source_crc32": 816463310,
+      "translation": "Благоухание"
+    },
+    {
+      "key": "Illness_BubonicPlague_Description",
+      "source_crc32": 2186828436,
+      "translation": "Сначала жар. Потом бубоны. Потом чернота. Потом могила - если найдётся место."
+    },
+    {
+      "key": "BeeState_Active_Description_extra",
+      "source_crc32": 3240959317,
+      "translation": "Похоже, в следующем сезоне урожай будет щедрым."
+    },
+    {
+      "key": "DesolateHouse_Description",
+      "source_crc32": 38215978,
+      "translation": "Не заброшено. Просто мечтает об этом."
+    },
+    {
+      "key": "Quarter_Unrest_Tier01_Description",
+      "source_crc32": 905653220,
+      "translation": "Работы мало, улицы грязны, ремонта не дождёшься. Доверие тает, ропот растёт."
+    },
+    {
+      "key": "ProtectedBuilding_Description",
+      "source_crc32": 2501567681,
+      "translation": "Под защитой людей, которым не отказывают."
+    },
+    {
+      "key": "Kidnapped_DisplayName",
+      "source_crc32": 1780869111,
+      "translation": "Похищение"
+    },
+    {
+      "key": "KnockedDown_DisplayName",
+      "source_crc32": 2520353368,
+      "translation": "Сбит с ног"
+    },
+    {
+      "key": "BackstoryHouseOfScholars_DisplayName",
+      "source_crc32": 514132992,
+      "translation": "Всезнайки"
+    },
+    {
+      "key": "BackstoryGoodChristians_Description",
+      "source_crc32": 1230351834,
+      "translation": "Известная набожностью династия заслужила уважение горожан. Беда с доброй славой в том, что любой проступок на виду."
+    },
+    {
+      "key": "LargeStandingLevy_DisplayName",
+      "source_crc32": 1257253623,
+      "translation": "Большое ополчение"
+    },
+    {
+      "key": "LaughingStock_DisplayName",
+      "source_crc32": 3793724294,
+      "translation": "Посмешище"
+    },
+    {
+      "key": "CrimeRate_Catastrophic_Description",
+      "source_crc32": 1945259949,
+      "translation": "Закон рухнул. Улицами правят преступники, и никто не чувствует себя в безопасности."
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier03_Description",
+      "source_crc32": 1945259949,
+      "translation": "Закон рухнул. Улицами правят преступники, и никто не чувствует себя в безопасности."
+    },
+    {
+      "key": "Illness_LeadPoisoning_DisplayName",
+      "source_crc32": 2643748951,
+      "translation": "Отравление свинцом"
+    },
+    {
+      "key": "Illness_Leprosy_DisplayName",
+      "source_crc32": 796169436,
+      "translation": "Проказа"
+    },
+    {
+      "key": "BeeHoneyComb_Half_DisplayName",
+      "source_crc32": 3261859234,
+      "translation": "Недобор мёда"
+    },
+    {
+      "key": "Cart_Escort_Light_DisplayName",
+      "source_crc32": 571984706,
+      "translation": "Лёгкая охрана"
+    },
+    {
+      "key": "CharmingWeakBeer_DisplayName",
+      "source_crc32": 1873584090,
+      "translation": "Хмельная отвага"
+    },
+    {
+      "key": "LaughingStock_Cause_01",
+      "source_crc32": 1209085486,
+      "translation": "Проигран {A_DUECHA_C}поединок{##}"
+    },
+    {
+      "key": "Illness_Measles_DisplayName",
+      "source_crc32": 2818531851,
+      "translation": "Корь"
+    },
+    {
+      "key": "TrainingFatigue_DisplayName",
+      "source_crc32": 3472000186,
+      "translation": "Умственное истощение"
+    },
+    {
+      "key": "BackstoryGoodChristians_DisplayName",
+      "source_crc32": 2722166851,
+      "translation": "Образцовый род"
+    },
+    {
+      "key": "CrimeRate_Moderate_DisplayName",
+      "source_crc32": 656191058,
+      "translation": "Умеренная"
+    },
+    {
+      "key": "MuddyRoad_DisplayName",
+      "source_crc32": 3366681635,
+      "translation": "Распутица"
+    },
+    {
+      "key": "LivePerformance_Description",
+      "source_crc32": 2721213876,
+      "translation": "Музыка льётся на улицу. Собирается народ - запасайтесь пивом."
+    },
+    {
+      "key": "BeeState_Hybernating_Description_extra",
+      "source_crc32": 2685024172,
+      "translation": "Само собой, мёда в следующем сезоне ждать не стоит."
+    },
+    {
+      "key": "BadlyMaintainedCart_DisplayName",
+      "source_crc32": 209376489,
+      "translation": "Запущенная"
+    },
+    {
+      "key": "BadlyMaintained_DisplayName",
+      "source_crc32": 209376489,
+      "translation": "Запущенное"
+    },
+    {
+      "key": "BackstoryMartialTradition_DisplayName",
+      "source_crc32": 3449817936,
+      "translation": "Всегда начеку"
+    },
+    {
+      "key": "BeeState_Hybernating_Description",
+      "source_crc32": 3476616365,
+      "translation": "Не жужжат - сопят."
+    },
+    {
+      "key": "HappyHour_Description",
+      "source_crc32": 198587949,
+      "translation": "Когда комната кружится, монеты никто не считает."
+    },
+    {
+      "key": "CrimeRate_NonExistent_DisplayName",
+      "source_crc32": 514229518,
+      "translation": "Отсутствует"
+    },
+    {
+      "key": "Homelessness_NonExistent_DisplayName",
+      "source_crc32": 514229518,
+      "translation": "Отсутствует"
+    },
+    {
+      "key": "Unemployment_NonExistent_DisplayName",
+      "source_crc32": 605313244,
+      "translation": "Отсутствует"
+    },
+    {
+      "key": "ScarcityOfGoods_Description",
+      "source_crc32": 2376216050,
+      "translation": "Купить почти нечего, а стоящего - и того меньше."
+    },
+    {
+      "key": "FertilityDecrease_Description",
+      "source_crc32": 3973820098,
+      "translation": "Дела разлучают супругов. Природе придётся подождать."
+    },
+    {
+      "key": "DeathMark_DisplayName",
+      "source_crc32": 1238354160,
+      "translation": "Ожидание казни"
+    },
+    {
+      "key": "Fire_DisplayName",
+      "source_crc32": 1861634403,
+      "translation": "Пожар"
+    },
+    {
+      "key": "Quarter_Unrest_Tier03_DisplayName",
+      "source_crc32": 1435618211,
+      "translation": "На грани бунта"
+    },
+    {
+      "key": "TrainLivePerformace_Description",
+      "source_crc32": 744123115,
+      "translation": "Когда начнётся представление, публика забудет и о времени, и о счёте."
+    },
+    {
+      "key": "BeeStung_Description",
+      "source_crc32": 1466591311,
+      "translation": "Один глаз заплыл, щёки раздулись вдвое - но видели бы вы противника."
+    },
+    {
+      "key": "Frightened_Description",
+      "source_crc32": 2661584340,
+      "translation": "Страх сковал волю. Против того, кто его внушил, не поднять руки."
+    },
+    {
+      "key": "PactWithTheDead_DisplayName",
+      "source_crc32": 1668941529,
+      "translation": "Сделка с мёртвыми"
+    },
+    {
+      "key": "Paralyzed_DisplayName",
+      "source_crc32": 14372714,
+      "translation": "Паралич"
+    },
+    {
+      "key": "BustDisplayed_DisplayName",
+      "source_crc32": 3614383818,
+      "translation": "Бюст хозяина"
+    },
+    {
+      "key": "PavedRoads_DisplayName",
+      "source_crc32": 1715803796,
+      "translation": "Мощёные дороги"
+    },
+    {
+      "key": "ArtisanalGoods_DisplayName",
+      "source_crc32": 4024401931,
+      "translation": "Убеждение на разлив"
+    },
+    {
+      "key": "Quarter_Zeal_Tier01_DisplayName",
+      "source_crc32": 2718603286,
+      "translation": "Набожный"
+    },
+    {
+      "key": "BeeHoneyComb_Empty_Description",
+      "source_crc32": 4100509090,
+      "translation": "Шестигранников полно, а мёда ни капли."
+    },
+    {
+      "key": "Quarter_Devastation_Tier01_DisplayName",
+      "source_crc32": 3141067854,
+      "translation": "Запущенный"
+    },
+    {
+      "key": "PossiblyCausedBy_Label",
+      "source_crc32": 2105503245,
+      "translation": "Возможная причина"
+    },
+    {
+      "key": "BeeState_Agitated_Description_extra",
+      "source_crc32": 1067678312,
+      "translation": "Трудолюбивые до мозга костей, они усердно - хоть и с затаённой злобой - готовят урожай следующего сезона."
+    },
+    {
+      "key": "Dishonored_Cause_02",
+      "source_crc32": 4101874007,
+      "translation": "Уличение во лжи"
+    },
+    {
+      "key": "BackstoryBloodFeud_Description",
+      "source_crc32": 3108499867,
+      "translation": "За словом в карман не лезут, а за оружием тянутся ещё быстрее. Эта династия на редкость хорошо улаживает ссоры - и на редкость часто в них ввязывается."
+    },
+    {
+      "key": "CartSuperstructureImproved_DisplayName",
+      "source_crc32": 1392892108,
+      "translation": "Перестроена"
+    },
+    {
+      "key": "CartSuperstructureImproved_Description",
+      "source_crc32": 1625474358,
+      "translation": "Перестроена ради скорости и прочности. Едет быстрее, изнашивается медленнее - если вообще."
+    },
+    {
+      "key": "MuddyRoad_Description",
+      "source_crc32": 2617561103,
+      "translation": "Недавние ливни превратили дорогу в жижу. Повозки ползут, колёса стонут, и ничто не движется быстро."
+    },
+    {
+      "key": "Stinky_DisplayName",
+      "source_crc32": 1953319270,
+      "translation": "Зловоние"
+    },
+    {
+      "key": "Dishonored_Description",
+      "source_crc32": 1940733009,
+      "translation": "Отказ защищать своё имя с оружием в руках. Теперь даже друзья произносят это имя с оглядкой."
+    },
+    {
+      "key": "ImprovedBuilding_DisplayName",
+      "source_crc32": 1687859607,
+      "translation": "Укреплённое"
+    },
+    {
+      "key": "StrengthenedRoads_Description",
+      "source_crc32": 23862011,
+      "translation": "Укреплённые и надёжные. Меньше износа, больше скорости и реже ремонт повозок."
+    },
+    {
+      "key": "Quarter_Zeal_Tier02_DisplayName",
+      "source_crc32": 914697464,
+      "translation": "Религиозное рвение"
+    },
+    {
+      "key": "Quarter_Unrest_Tier01_DisplayName",
+      "source_crc32": 516349585,
+      "translation": "Неспокойный"
+    },
+    {
+      "key": "Quarter_Zeal_Tier00_Improves",
+      "source_crc32": 2520264665,
+      "translation": "Откровение 3:15–16\nЕсли {QUA_ZEA_C}благочестие{##} поднимется выше {value}, квартал станет {ST_QTR_ZEA_1_C}набожным{##}."
+    },
+    {
+      "key": "PactWithTheDead_Description",
+      "source_crc32": 3097256553,
+      "translation": "Запретная сделка вернула к жизни. Ходит, дышит - формально мертвец."
+    },
+    {
+      "key": "BadlyMaintainedCart_Description",
+      "source_crc32": 3830580530,
+      "translation": "Вид потрёпанный, но ездит. В основном."
+    },
+    {
+      "key": "Ruined_DisplayName",
+      "source_crc32": 3457415748,
+      "translation": "Разрушенное"
+    },
+    {
+      "key": "TerriblyMaintainedCart_DisplayName",
+      "source_crc32": 3313294486,
+      "translation": "Обветшалая"
+    },
+    {
+      "key": "RuralRoads_DisplayName",
+      "source_crc32": 1376160804,
+      "translation": "Просёлки"
+    },
+    {
+      "key": "Sanitized_DisplayName",
+      "source_crc32": 1026262639,
+      "translation": "Вычищено"
+    },
+    {
+      "key": "ScarcityOfGoods_DisplayName",
+      "source_crc32": 3824640511,
+      "translation": "Нехватка товаров"
+    },
+    {
+      "key": "Illness_ScarletFever_DisplayName",
+      "source_crc32": 2831684141,
+      "translation": "Скарлатина"
+    },
+    {
+      "key": "Vandalized_Description",
+      "source_crc32": 3862015296,
+      "translation": "Похабщина, выцарапанная на камне, расщеплённое дерево, бессмысленная порча. Просто скучающие болваны с зубилами."
+    },
+    {
+      "key": "Cart_Escort_Special_DisplayName",
+      "source_crc32": 873264571,
+      "translation": "Особая охрана"
+    },
+    {
+      "key": "BackstoryNewMoney_DisplayName",
+      "source_crc32": 1271894658,
+      "translation": "Своим трудом"
+    },
+    {
+      "key": "CrimeRate_Severe_DisplayName",
+      "source_crc32": 2020447931,
+      "translation": "Опасная"
+    },
+    {
+      "key": "SevereBurns_DisplayName",
+      "source_crc32": 1390601535,
+      "translation": "Тяжёлые ожоги"
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier01_DisplayName",
+      "source_crc32": 3463556748,
+      "translation": "Сомнительный"
+    },
+    {
+      "key": "Homelessness_Catastrophic_Description",
+      "source_crc32": 124784624,
+      "translation": "Крова не хватает. Семьи ночуют в переулках. Город трещит по швам."
+    },
+    {
+      "key": "Dishonored_Cause_01",
+      "source_crc32": 1152406520,
+      "translation": "Уклонение от {A_DUECHA_C}поединка{##}"
+    },
+    {
+      "key": "JewelryChestDisplayed_DisplayName",
+      "source_crc32": 2112743144,
+      "translation": "Признаки достатка"
+    },
+    {
+      "key": "Homelessness_Small_DisplayName",
+      "source_crc32": 708482,
+      "translation": "Небольшая"
+    },
+    {
+      "key": "Unemployment_Small_DisplayName",
+      "source_crc32": 708482,
+      "translation": "Небольшая"
+    },
+    {
+      "key": "Illness_SmallPox_DisplayName",
+      "source_crc32": 2702234095,
+      "translation": "Оспа"
+    },
+    {
+      "key": "SmallStandingLevy_DisplayName",
+      "source_crc32": 1513652609,
+      "translation": "Малое ополчение"
+    },
+    {
+      "key": "BackstoryOldBlood_DisplayName",
+      "source_crc32": 965304849,
+      "translation": "Нежные руки"
+    },
+    {
+      "key": "FineClothes_Description",
+      "source_crc32": 1035238148,
+      "translation": "Некоторые из нас просто… лучше."
+    },
+    {
+      "key": "Blessed_Description",
+      "source_crc32": 3434522343,
+      "translation": "Одни говорят, что благословлённых ведёт судьба. Другие называют это просто везением."
+    },
+    {
+      "key": "Unemployment_Small_Description",
+      "source_crc32": 1406877584,
+      "translation": "Кое-кто сидит без дела, но город живёт своим чередом без особых бед."
+    },
+    {
+      "key": "Cart_UnderAttack_Description",
+      "source_crc32": 2161226485,
+      "translation": "Кому-то эта повозка показалась выгодной добычей. Отдайте её - или {A_HIRESC_C}сражайтесь{##}!"
+    },
+    {
+      "key": "BeeHoneyComb_Contaminated_Description",
+      "source_crc32": 2783837726,
+      "translation": "В соты пробралась какая-то дрянь и испортила всё до последней капли."
+    },
+    {
+      "key": "Disreputable_Description",
+      "source_crc32": 954913123,
+      "translation": "Где-то имперский писарь заносит ваш город в списки - и отнюдь не за заслуги."
+    },
+    {
+      "key": "DeathMark_Description",
+      "source_crc32": 919198436,
+      "translation": "Жить осталось недолго: приговор за тяжкое преступление вынесен, впереди - казнь."
+    },
+    {
+      "key": "CleanBuilding_DisplayName",
+      "source_crc32": 927063646,
+      "translation": "Ни пылинки"
+    },
+    {
+      "key": "TrainLivePerformace_DisplayName",
+      "source_crc32": 3065946343,
+      "translation": "Готовность к выступлению"
+    },
+    {
+      "key": "StatusEffects_DisplayName",
+      "source_crc32": 2169178796,
+      "translation": "Эффект состояния"
+    },
+    {
+      "key": "StatusEffects_DisplayName_plural",
+      "source_crc32": 3688289917,
+      "translation": "Эффекты состояния"
+    },
+    {
+      "key": "ImprovedRoadHUB_DisplayName",
+      "source_crc32": 364275311,
+      "translation": "Мощённая камнем"
+    },
+    {
+      "key": "StoneChestDisplayed_DisplayName",
+      "source_crc32": 3971320096,
+      "translation": "Под защитой камня"
+    },
+    {
+      "key": "ImprovedRoadHUB_Description",
+      "source_crc32": 282911989,
+      "translation": "Камень уложен так ровно, что повозки проходят как по маслу. Ни толчка, ни царапины."
+    },
+    {
+      "key": "Illness_LeadPoisoning_Description",
+      "source_crc32": 2259715461,
+      "translation": "В вине, в белилах на лицах, в водопроводных трубах - свинец не спрашивает разрешения остаться."
+    },
+    {
+      "key": "Quarter_Devastation_Tier01_Description",
+      "source_crc32": 2434138936,
+      "translation": "Мостовые трескаются, крыши текут, канавы никто не чистит. Зато налоги приходят вовремя."
+    },
+    {
+      "key": "StrengthenedRoads_DisplayName",
+      "source_crc32": 3544662500,
+      "translation": "Укреплённые дороги"
+    },
+    {
+      "key": "StrongDefensiveInstallations_DisplayName",
+      "source_crc32": 3364089656,
+      "translation": "Мощные укрепления"
+    },
+    {
+      "key": "CleanBuilding_Description",
+      "source_crc32": 2502674723,
+      "translation": "Полы выметены, прилавки натёрты, и ни единой крысы на виду."
+    },
+    {
+      "key": "Cursed_Description",
+      "source_crc32": 3543702911,
+      "translation": "Порча от незримых сил. Не заразно - просто не везёт."
+    },
+    {
+      "key": "StatusEffects_Description",
+      "source_crc32": 2745909766,
+      "translation": "Временные изменения, влияющие на персонажей, постройки и предметы. Они могут помогать или мешать и появляются либо исчезают сами, когда выполняются их условия."
+    },
+    {
+      "key": "Reputable_Description",
+      "source_crc32": 3193098855,
+      "translation": "Император, похоже, доволен этим городом - но какой ценой?"
+    },
+    {
+      "key": "RelicDreams_DisplayName",
+      "source_crc32": 558709274,
+      "translation": "След реликвии"
+    },
+    {
+      "key": "BeeState_Agitated_Description",
+      "source_crc32": 2591662390,
+      "translation": "Пчёлы точат жала и ищут любой повод испортить кому-нибудь день."
+    },
+    {
+      "key": "Illness_Cholera_Description",
+      "source_crc32": 3240465395,
+      "translation": "Тело спешно опустошает себя; дыхание и кровь бегут навстречу последней синеве."
+    },
+    {
+      "key": "ProductionOverseen_Description",
+      "source_crc32": 3045828447,
+      "translation": "Хозяин смотрит. Никто не сутулится, никто не отлынивает - работа идёт подозрительно споро."
+    },
+    {
+      "key": "Broken_Description",
+      "source_crc32": 3770700805,
+      "translation": "Повозка не сдвинется с места, пока её не {B_HP_C}отремонтируют{##}."
+    },
+    {
+      "key": "Quarter_Devastation_Tier00_Worsens",
+      "source_crc32": 1547784322,
+      "translation": "В городе порядок, и мор обходит его стороной.\nЕсли {QUA_DEV_C}разруха и грязь{##} поднимутся выше {value}, квартал станет {ST_QTR_DEV_1_C}запущенным{##}."
+    },
+    {
+      "key": "BeeHoneyComb_Half_Description",
+      "source_crc32": 4234975901,
+      "translation": "В этом сезоне пчелиная семья недобрала мёда. Возможно, кто-то мог бы ухаживать за ней и получше."
+    },
+    {
+      "key": "BeeHoneyComb_Full_Description",
+      "source_crc32": 120985793,
+      "translation": "Соты отяжелели от мёда - сладкая награда за довольную пчелиную семью."
+    },
+    {
+      "key": "BasicCivicService_Description",
+      "source_crc32": 2588809668,
+      "translation": "Самое необходимое кое-как обеспечено. По улицам можно пройти, пожары тушат - рано или поздно. Контрабанда? Её легко проглядеть."
+    },
+    {
+      "key": "Inspired_Description",
+      "source_crc32": 1251001430,
+      "translation": "Угощение было недурным. А вот речь… речь что-то изменила."
+    },
+    {
+      "key": "BeeState_Active_Description",
+      "source_crc32": 1936183043,
+      "translation": "Улей гудит вовсю, пчёлы трудятся так, будто зима начнётся завтра."
+    },
+    {
+      "key": "BeeState_Empty_Description",
+      "source_crc32": 2635541821,
+      "translation": "Улей пуст - ждёт, когда его займёт матка."
+    },
+    {
+      "key": "Cart_WorkedOn_Description",
+      "source_crc32": 2588332224,
+      "translation": "Столяры возятся со щепками и упрямыми гвоздями. Скоро она снова покатится."
+    },
+    {
+      "key": "WeakDefensiveInstallations_Description",
+      "source_crc32": 1426042393,
+      "translation": "Укрепления из тех, что разваливаются ещё до нападения."
+    },
+    {
+      "key": "Quarter_Unrest_Tier00_Worsens",
+      "source_crc32": 1788343132,
+      "translation": "Народ доволен.\nЕсли {QUA_UNR_C}волнения{##} поднимутся выше {value}, квартал станет {ST_QTR_UNR_1_C}неспокойным{##}."
+    },
+    {
+      "key": "UnrulyPopulation_Description",
+      "source_crc32": 1204461347,
+      "translation": "Народ неспокоен, на улицах напряжённо - а здания ветшают вдвое быстрее."
+    },
+    {
+      "key": "Quarter_Unrest_Tier03_Description",
+      "source_crc32": 1623523563,
+      "translation": "Квартал гниёт - без работы, в грязи, в забвении. Люди ни во что не верят. Толчок, окрик - и всё взорвётся."
+    },
+    {
+      "key": "Illness_Measles_Description",
+      "source_crc32": 161711384,
+      "translation": "Сыпь - это только начало."
+    },
+    {
+      "key": "Stinky_Description",
+      "source_crc32": 2256824495,
+      "translation": "Эту вонь невозможно не заметить. Всякий, у кого нос на месте, предпочёл бы оказаться где-нибудь ещё."
+    },
+    {
+      "key": "CrimeRate_NonExistent_Description",
+      "source_crc32": 2636494910,
+      "translation": "На улицах безопасно, дозоры исправны, и народ спит спокойно."
+    },
+    {
+      "key": "Fire_Description",
+      "source_crc32": 1981071685,
+      "translation": "Здание горит. Вместе со всем, что внутри. Вам бы, пожалуй, бежать."
+    },
+    {
+      "key": "CrimeRate_Moderate_Description",
+      "source_crc32": 2806621478,
+      "translation": "Кражи и нападения уже не редкость. Стража сбивается с ног, но всюду не поспеть."
+    },
+    {
+      "key": "GriefStricken_Description",
+      "source_crc32": 4290470655,
+      "translation": "Сердце погребено вместе с тем, кого не стало; полюбить снова оно пока не готово."
+    },
+    {
+      "key": "Illness_ScarletFever_Description",
+      "source_crc32": 2927841099,
+      "translation": "Это называют малиновым языком. Сладкого тут мало."
+    },
+    {
+      "key": "Illness_TyphoidFever_Description",
+      "source_crc32": 3428750307,
+      "translation": "Тиф зовут так за туман в голове. Забываешь, что умираешь, - пока не станет почти поздно."
+    },
+    {
+      "key": "BackstoryBornPerformers_Description",
+      "source_crc32": 2409487208,
+      "translation": "Они умеют очаровать зал, набить таверну битком и развлечь простой люд. Почтенное общество может назвать их непристойными. Обычно - стараясь, чтобы никто не заметил, как оно само веселится."
+    },
+    {
+      "key": "BackstoryFallenHouse_Description",
+      "source_crc32": 135671317,
+      "translation": "Состояние потеряно, воспитание - нет. Эта династия по-прежнему умеет очаровать благородное общество. Работников, впрочем, рассказы об утраченных привилегиях трогают куда меньше."
+    },
+    {
+      "key": "BackstoryHouseOfScholars_Description",
+      "source_crc32": 1576194749,
+      "translation": "Они верят книгам, опытам и собственным глазам. Верующих это настораживает, но колдовства за ними никто не доказал. Пока."
+    },
+    {
+      "key": "WeakenedEscort_Description",
+      "source_crc32": 557897871,
+      "translation": "Драться будут - но вряд ли хорошо. Ещё одно ранение - и жди беды."
+    },
+    {
+      "key": "StatusEffects_NotApplied_Warning",
+      "source_crc32": 2202529134,
+      "translation": "Этот эффект состояния не действует."
+    },
+    {
+      "key": "GriefStricken_Description_BugMessage",
+      "source_crc32": 1439408319,
+      "translation": "Это известная ошибка, так что мы, разумеется, объявили её особенностью игры!\nПока мы работаем над исправлением, приютите ребёнка и вырастите из него наследника!"
+    },
+    {
+      "key": "ImprovedBuilding_Description",
+      "source_crc32": 3725204600,
+      "translation": "Здесь время идёт медленнее. Ни скрипа, ни трещины, ни заботы."
+    },
+    {
+      "key": "BeeState_Sick_Description",
+      "source_crc32": 1680134248,
+      "translation": "Пчёлки падают с сот - слишком слабые, чтобы служить матке, слишком слабые, чтобы найти дорогу домой."
+    },
+    {
+      "key": "Unemployment_Troubling_Description",
+      "source_crc32": 3327228396,
+      "translation": "Слишком многие без работы. Монет всё меньше, напряжение всё выше."
+    },
+    {
+      "key": "Homelessness_Troubling_Description",
+      "source_crc32": 2538498034,
+      "translation": "Слишком многие остались без крова. Семьи, ночующие на улице, уже никого не удивляют."
+    },
+    {
+      "key": "WellSuppliedCity_Description",
+      "source_crc32": 643463669,
+      "translation": "Торговцы всё подвезли, совет доволен, и дела идут чуть глаже."
+    },
+    {
+      "key": "Cart_Escort_Medium_Description",
+      "source_crc32": 24162478,
+      "translation": "Обученные бойцы, ровный строй и оружие не для красоты. Разбойники дважды подумают."
+    },
+    {
+      "key": "Quarter_Devastation_Tier02_Description",
+      "source_crc32": 4057865817,
+      "translation": "По углам копится мусор, булыжник выпадает из мостовой. Квартал выглядит усталым и потрёпанным."
+    },
+    {
+      "key": "Homelessness_Troubling_DisplayName",
+      "source_crc32": 1525515459,
+      "translation": "Тревожная"
+    },
+    {
+      "key": "Unemployment_Troubling_DisplayName",
+      "source_crc32": 1525515459,
+      "translation": "Тревожная"
+    },
+    {
+      "key": "Dead_Description",
+      "source_crc32": 569171058,
+      "translation": "Tu fui, ego eris."
+    },
+    {
+      "key": "Illness_TyphoidFever_DisplayName",
+      "source_crc32": 1305151499,
+      "translation": "Брюшной тиф"
+    },
+    {
+      "key": "Cart_UnderAttack_DisplayName",
+      "source_crc32": 4043657677,
+      "translation": "Нападение"
+    },
+    {
+      "key": "ProtectiveCover_DisplayName",
+      "source_crc32": 3817233556,
+      "translation": "Под пологом"
+    },
+    {
+      "key": "ProductionOverseen_DisplayName",
+      "source_crc32": 1821512512,
+      "translation": "Под бдительным оком"
+    },
+    {
+      "key": "BackstoryOutlawBlood_DisplayName",
+      "source_crc32": 1110961686,
+      "translation": "Имя в преступном мире"
+    },
+    {
+      "key": "Quarter_Devastation_Tier01_DisplayName_alt",
+      "source_crc32": 4196476358,
+      "translation": "Неухоженные улицы"
+    },
+    {
+      "key": "BeeState_Sick_Description_extra",
+      "source_crc32": 2859537252,
+      "translation": "Если не успеете их вылечить, то, прежде чем пробовать урожай следующего года, лучше посоветуйтесь с лекарем."
+    },
+    {
+      "key": "UnrulyPopulation_DisplayName",
+      "source_crc32": 1274024123,
+      "translation": "Беспокойное население"
+    },
+    {
+      "key": "Quarter_CrimeRate_Tier02_DisplayName",
+      "source_crc32": 2072806955,
+      "translation": "Небезопасный"
+    },
+    {
+      "key": "TerriblyMaintained_Description",
+      "source_crc32": 2489694361,
+      "translation": "Опасно, неприютно и вот-вот развалится."
+    },
+    {
+      "key": "Vandalized_DisplayName",
+      "source_crc32": 2313556587,
+      "translation": "Разгромлено"
+    },
+    {
+      "key": "VigilantDriver_DisplayName",
+      "source_crc32": 1530416056,
+      "translation": "Бдительный возница"
+    },
+    {
+      "key": "HowToRemove_Label",
+      "source_crc32": 2201955705,
+      "translation": "Как исправить"
+    },
+    {
+      "key": "WeakDefensiveInstallations_DisplayName",
+      "source_crc32": 1614436937,
+      "translation": "Слабые укрепления"
+    },
+    {
+      "key": "WeakenedEscort_DisplayName",
+      "source_crc32": 168158796,
+      "translation": "Ослабленная охрана"
+    },
+    {
+      "key": "WellMaintainedRoad_DisplayName",
+      "source_crc32": 3413172458,
+      "translation": "Ухоженная дорога"
+    },
+    {
+      "key": "WellSuppliedCity_DisplayName",
+      "source_crc32": 2457242628,
+      "translation": "Изобилие товаров"
+    },
+    {
+      "key": "WellFed_DisplayName",
+      "source_crc32": 3881234843,
+      "translation": "Сытость"
+    },
+    {
+      "key": "GreasedWheels_DisplayName",
+      "source_crc32": 866792655,
+      "translation": "Смазанные колёса"
+    },
+    {
+      "key": "FertilityIncrease_DisplayName",
+      "source_crc32": 4196929916,
+      "translation": "Любовный пыл"
+    },
+    {
+      "key": "ComplexCivicService_Description",
+      "source_crc32": 2961870009,
+      "translation": "Людей хватает, и руки длинные. Чиновники ведут учёт всему, что ввозят и вывозят, и всем, кто играет не по правилам."
+    },
+    {
+      "key": "BackstoryFamilyCraft_Description",
+      "source_crc32": 1521456183,
+      "translation": "Зачем тратить время на разговоры, когда есть работа? Прекрасный принцип - пока не понадобится кого-нибудь убедить."
+    },
+    {
+      "key": "GreasedWheels_Description",
+      "source_crc32": 296430290,
+      "translation": "Густо смазанные оси - и повозка катится мягче и быстрее."
+    },
+    {
+      "key": "FertilityDecrease_DisplayName",
+      "source_crc32": 3939716144,
+      "translation": "Сначала работа"
+    },
+    {
+      "key": "Unemployment_Catastrophic_Description",
+      "source_crc32": 3906859494,
+      "translation": "Работа исчезла. Недовольство растёт, а город словно застыл на месте."
+    },
+    {
+      "key": "AccidentProtectionIncreased_Description",
+      "source_crc32": 1056802032,
+      "translation": "Работают с необычайной осторожностью. Лекарю почти нечем заняться."
+    },
+    {
+      "key": "Quarter_Unrest_Tier02_Description",
+      "source_crc32": 3625919950,
+      "translation": "Работники простаивают, отбросы громоздятся кучами, ничего не чинится. Гнев на улицах звучит всё громче."
+    },
+    {
+      "key": "BadlyMaintained_Description",
+      "source_crc32": 3073718795,
+      "translation": "Истёрто и скрипит, но служить ещё может - в основном."
+    },
+    {
+      "key": "Injured_Description",
+      "source_crc32": 2080575899,
+      "translation": "Раны замедляют всё. Любое дело тянется дольше, любой шаг отдаётся болью."
+    },
+    {
+      "key": "BatteredEscort_Description",
+      "source_crc32": 2423554630,
+      "translation": "Ранены, измотаны и едва держат строй. Ещё один удар - и они дрогнут."
+    },
+    {
+      "key": "Wrecked_DisplayName",
+      "source_crc32": 3985357357,
+      "translation": "Разбитая"
+    },
+    {
+      "key": "Infamous_Description",
+      "source_crc32": 1072748625,
+      "translation": "Ваше имя летит впереди вас - и редко по доброму поводу."
+    },
+    {
+      "key": "Imprisoned_Cause_02",
+      "source_crc32": 3339409871,
+      "translation": "{BAL_PER_C}Долг{##}"
+    },
+    {
+      "key": "KnockedDown_Cause_01",
+      "source_crc32": 755994388,
+      "translation": "{CHAR_ENE_C}Энергия{##} ниже нуля"
+    },
+    {
+      "key": "Imprisoned_Cause_01",
+      "source_crc32": 263267199,
+      "translation": "{CR_TRIPUN_C}Приговор суда{##}"
+    },
+    {
+      "key": "BrokenHearted_DisplayName",
+      "source_crc32": 2440294764,
+      "translation": "Разбитое сердце"
+    },
+    {
+      "key": "BrokenHearted_Description",
+      "source_crc32": 3385047526,
+      "translation": "Обида и печаль тяжким грузом лежат на душе, которой отказали в любви: она замыкается, ожесточается и больше не ищет любви."
+    }
+  ]
+}

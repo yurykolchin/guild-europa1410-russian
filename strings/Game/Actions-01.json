@@ -1,0 +1,2506 @@
+{
+  "resource": "Game",
+  "namespace": "Actions",
+  "entries": [
+    {
+      "key": "HiddenActionsCount",
+      "source_crc32": 1334093698,
+      "translation": "+ ещё {count}"
+    },
+    {
+      "key": "SignUpForGuardService_Description",
+      "source_crc32": 3706637804,
+      "translation": "Опасная служба в страже: короткая, но {CHAR_ENE_C}изнурительная{##}.\nПлата растёт с навыком {S_COM_C}воинского дела{##}, а снижение {QUA_CRI_C}преступности{##} может снискать вам {CHAR_STA_C}расположение{##} {O_CHA_TOWBAI_C}городских приставов{##}."
+    },
+    {
+      "key": "ShareInheritance_Description",
+      "source_crc32": 3113701629,
+      "translation": "Смерть в семье приносит горе, наследство - богатство, а богатство - завистливых родственников. Поделитесь частью наследства с кем-то из родни, чтобы заслужить благодарность и расположение."
+    },
+    {
+      "key": "Courting_GiveGift_Hairbrush_Description",
+      "source_crc32": 914468104,
+      "translation": "Искусно сделанная щётка для волос, усыпанная драгоценными камнями, - подарок изящный и утончённый. Чудесный способ напомнить любимому человеку, что даже простейшие повседневные привычки заслуживают толики роскоши."
+    },
+    {
+      "key": "Courting_GiveGift_Bear_Description",
+      "source_crc32": 1141896500,
+      "translation": "Огромный бурый медведь с густой косматой шерстью, страшными когтями и милой ленточкой на шее. Редкий и престижный подарок, достойный королей, который наверняка произведёт на вашего любимого человека неизгладимое впечатление."
+    },
+    {
+      "key": "ThreatenFamilyMember_Description",
+      "source_crc32": 2319401886,
+      "translation": "Немного запугивания - и с нежеланным родственником дело пойдёт на лад. Убедите его, что жить куда приятнее где-нибудь далеко-далеко."
+    },
+    {
+      "key": "Courting_GiveGift_Horse_Description",
+      "source_crc32": 377541323,
+      "translation": "Великолепный арабский скакун, ценимый за красоту, грацию и благородную родословную. Подарок истинного престижа, достойный того, чьё сердце вы надеетесь завоевать и с кем мечтаете разделить ещё немало конных прогулок."
+    },
+    {
+      "key": "PrayInShrine02_Description",
+      "source_crc32": 3421219195,
+      "translation": "Улучите минуту и попросите твёрдых рук для работников выбранного предприятия, чтобы уберечь их от {ACC_C}несчастных случаев{##}."
+    },
+    {
+      "key": "Courting_GiveGift_Jewelry_Description",
+      "source_crc32": 3171177560,
+      "translation": "Пара одинаковых колец - символ двух соединённых сердец. С любовью и толикой удачи они могут стать семейной реликвией, которую будут передавать из поколения в поколение в память о том, с чего всё началось."
+    },
+    {
+      "key": "TrainChild_Description_extra1",
+      "source_crc32": 449025903,
+      "translation": "Лучше всего направляет рука родителя - у внуков для этого есть свои родители."
+    },
+    {
+      "key": "Courting_Description_extra1",
+      "source_crc32": 4044218240,
+      "translation": "Партия с {TR_STRBLO_C}сильной{##} или {TR_EXCBLO_C}исключительной кровью{##} вернее подарит вам {S_C}одарённых{##} {CHAR_HEI_C}наследников{##}, а чем она {CHAR_HP_C}здоровее{##}, тем {CHAR_FER_C}плодовитее{##}."
+    },
+    {
+      "key": "SitAtRegularsTable_Description",
+      "source_crc32": 2757504785,
+      "translation": "Место за столом завсегдатаев даёт не только компанию, но и сведения, какие выдаёт лишь развязанный элем язык. Посидите подольше - и кто-нибудь расплещет не только кружку."
+    },
+    {
+      "key": "PastoralVisit_Description",
+      "source_crc32": 2172365670,
+      "translation": "Служитель навещает дом смятенной души и предлагает отпущение одного из её {CR_CRI_C}грехов{##}. Чем лучше его {S_RHE_C}красноречие{##} и чем менее {CR_SEV_C}тяжко{##} преступление, тем выше шанс на милость - а если грех прощён, небеса в ответ даруют {CHAR_AP}."
+    },
+    {
+      "key": "PublicService_Description",
+      "source_crc32": 3137331665,
+      "translation": "Недолгая служба на благо города - ничего великого. Чем лучше ваше {S_RHE_C}красноречие{##}, тем выше плата. И как знать - вы можете даже обзавестись {CHAR_STA_C}друзьями{##} - или врагами - среди {O_CHA_TOWSER_C}городских служащих{##}."
+    },
+    {
+      "key": "Action_DisplayName",
+      "source_crc32": 3893064517,
+      "translation": "Действие"
+    },
+    {
+      "key": "Action_DisplayName_plural",
+      "source_crc32": 4019592681,
+      "translation": "Действия"
+    },
+    {
+      "key": "Action_Description",
+      "source_crc32": 3061499077,
+      "translation": "Действия - это то, что вы делаете лично."
+    },
+    {
+      "key": "AddBees_DisplayName",
+      "source_crc32": 2482788480,
+      "translation": "Завести пчёл"
+    },
+    {
+      "key": "AddBees_Description",
+      "source_crc32": 998071362,
+      "translation": "Заселите пчёл в пустой улей - пусть новая семья обретёт дом. Обжившись, они займутся тем, что пчёлы умеют лучше всего."
+    },
+    {
+      "key": "AdoptChild_Young_DisplayName",
+      "source_crc32": 772400834,
+      "translation": "Усыновить малыша"
+    },
+    {
+      "key": "AdoptChild_Older_DisplayName",
+      "source_crc32": 600324329,
+      "translation": "Усыновить подростка"
+    },
+    {
+      "key": "EquipWarning_Message",
+      "source_crc32": 2874783041,
+      "translation": "Нынешнее оружие или доспех будут выброшены и заменены этим предметом."
+    },
+    {
+      "key": "ChangeLaw_Description",
+      "source_crc32": 1374674360,
+      "translation": "Изменения законов вступают в силу лишь со следующего хода."
+    },
+    {
+      "key": "ApplyForOffice_Description",
+      "source_crc32": 3058773105,
+      "translation": "Подайте прошение и дождитесь {O_ELE_C}выборов{##}. Толика {S_RHE_C}красноречия{##} и доброе {CHAR_STA_C}отношение{##} тех, кто назначает, решают дело - порой вернее, чем заслуги."
+    },
+    {
+      "key": "ApplyForOffice_DisplayName",
+      "source_crc32": 4157575968,
+      "translation": "Претендовать на должность"
+    },
+    {
+      "key": "ApplyForOffice_Button_Apply",
+      "source_crc32": 1929399477,
+      "translation": "Подать прошение"
+    },
+    {
+      "key": "GiveProfession_GraveyardWarden_DisplayName",
+      "source_crc32": 573623174,
+      "translation": "Назначить члена семьи смотрителем кладбища"
+    },
+    {
+      "key": "BanditContract01_Description",
+      "source_crc32": 3053866976,
+      "translation": "Обратитесь к барону-разбойнику и спросите, не найдётся ли у него пары лишних клинков. Предложите скромный кошель и сносное оружие - и получите {I_ROBCON_01_C}договор{##}."
+    },
+    {
+      "key": "ResignFromOffice_Description_extra",
+      "source_crc32": 1533031585,
+      "translation": "Вы точно хотите уйти в отставку?"
+    },
+    {
+      "key": "EspionageCancel_Description",
+      "source_crc32": 614526333,
+      "translation": "Вы точно хотите прекратить слежку?"
+    },
+    {
+      "key": "ApplyForOffice_RevokeApplication_Description",
+      "source_crc32": 473569674,
+      "translation": "Вы точно хотите отозвать прошение о должности?"
+    },
+    {
+      "key": "AdoptChild_Older_Description",
+      "source_crc32": 2479622640,
+      "translation": "Ваши дети неблагодарны, никчёмны или не подают надежд стать достойным продолжением династии? А может, наследника у вас нет вовсе или не хочется ждать ещё десяток лет, пока кто-то станет полезен, - подросток начнёт приносить пользу куда раньше. Или вам просто захотелось проявить милосердие. Так или иначе, кто-то обретёт семью."
+    },
+    {
+      "key": "Courting_StartCourting_Family_DisplayName",
+      "source_crc32": 4262314709,
+      "translation": "Устроить ухаживание родственнику"
+    },
+    {
+      "key": "SpouseHelp_DisplayName",
+      "source_crc32": 3626157041,
+      "translation": "Позвать вторую половину"
+    },
+    {
+      "key": "SpouseHelp_Description",
+      "source_crc32": 4084409846,
+      "translation": "Попросите вторую половину помочь в деле. Достаток растёт в счётных книгах - хоть и не всегда в {ST_CHR_FERDEC_C}спальне{##}."
+    },
+    {
+      "key": "AssignCartToBuilding_DisplayName",
+      "source_crc32": 3801262750,
+      "translation": "Закрепить повозку"
+    },
+    {
+      "key": "HireManager_Alchemist_Family_DisplayName",
+      "source_crc32": 3198096487,
+      "translation": "Поручить лабораторию родичу"
+    },
+    {
+      "key": "HireManager_Guard_Family_DisplayName",
+      "source_crc32": 3019041184,
+      "translation": "Поручить казармы родичу"
+    },
+    {
+      "key": "HireManager_Innkeeper_Family_DisplayName",
+      "source_crc32": 2782193594,
+      "translation": "Поручить трактир родичу"
+    },
+    {
+      "key": "HireManager_Joiner_Family_DisplayName",
+      "source_crc32": 2179749668,
+      "translation": "Поручить столярную мастерскую родичу"
+    },
+    {
+      "key": "HireManager_Mason_Family_DisplayName",
+      "source_crc32": 265321170,
+      "translation": "Поручить каменную мастерскую родичу"
+    },
+    {
+      "key": "HireManager_Family_DisplayName_alt",
+      "source_crc32": 3095436812,
+      "translation": "Назначить управляющего"
+    },
+    {
+      "key": "HireManager_Perfumer_Family_DisplayName",
+      "source_crc32": 835654530,
+      "translation": "Поручить парфюмерную мастерскую родичу"
+    },
+    {
+      "key": "HireManager_Preacher_Family_DisplayName",
+      "source_crc32": 1935225922,
+      "translation": "Назначить родича настоятелем церкви"
+    },
+    {
+      "key": "HireManager_Robber_Family_DisplayName",
+      "source_crc32": 229190540,
+      "translation": "Назначить родича главарём разбойников"
+    },
+    {
+      "key": "HireManager_Smith_Family_DisplayName",
+      "source_crc32": 1287948893,
+      "translation": "Поручить кузницу родичу"
+    },
+    {
+      "key": "HireManager_Tailor_Family_DisplayName",
+      "source_crc32": 1129995479,
+      "translation": "Поручить швейную мастерскую родичу"
+    },
+    {
+      "key": "HireManager_Thief_Family_DisplayName",
+      "source_crc32": 2687713281,
+      "translation": "Назначить родича главарём воров"
+    },
+    {
+      "key": "HireManager_Family_DisplayName",
+      "source_crc32": 1979195715,
+      "translation": "Назначить управляющего"
+    },
+    {
+      "key": "WorkAtInn_Description",
+      "source_crc32": 4124855247,
+      "translation": "Поставьте за стойку работника, сильного в {S_NEG_C}переговорах{##}. Он будет продавать товары из вашей {B_STOFRO_C}витрины{##} дороже. Стоит подумать о {B_IMP_INN_BAR_C}широкой стойке{##}."
+    },
+    {
+      "key": "TrainCombat_Description_Guard",
+      "source_crc32": 1637007387,
+      "translation": "Поручите стражникам упражняться в {S_COM_C}воинском деле{##}. Больше дисциплины, крепче удары, выше шансы в бою."
+    },
+    {
+      "key": "TrainStealth_Description_Guard",
+      "source_crc32": 1031597367,
+      "translation": "Поручите стражникам упражняться в {S_STE_C}плутовстве{##}. Кто знает грязные приёмы, на них реже попадается."
+    },
+    {
+      "key": "TrainCombat_Description_Robber",
+      "source_crc32": 2247284273,
+      "translation": "Поручите разбойникам упражняться в {S_COM_C}воинском деле{##}. Удары тяжелее, стойка твёрже - и явный перевес в бою."
+    },
+    {
+      "key": "TrainStealth_Description_Robber",
+      "source_crc32": 2937825836,
+      "translation": "Поручите разбойникам упражняться в {S_STE_C}плутовстве{##}. Искуснее обман, быстрее реакция - и меньше сюрпризов в стычке."
+    },
+    {
+      "key": "TrainCombat_Description_Thief",
+      "source_crc32": 813181846,
+      "translation": "Поручите ворам упражняться в {S_COM_C}воинском деле{##}. Удары тяжелее, стойка твёрже - и явный перевес в бою."
+    },
+    {
+      "key": "TrainStealth_Description_Thief",
+      "source_crc32": 7453779,
+      "translation": "Поручите ворам упражняться в {S_STE_C}плутовстве{##}. Искуснее обман, быстрее реакция - и меньше сюрпризов в стычке."
+    },
+    {
+      "key": "AssignCartToBuilding_Description",
+      "source_crc32": 2965073850,
+      "translation": "Закрепите повозку за зданием, чтобы не путаться, когда их несколько. На работу повозки это не повлияет, но {B_OCC_MGR_C}управляющий{##} здания сможет ею распоряжаться."
+    },
+    {
+      "key": "UnlockProfession_GraveyardWarden_DisplayName",
+      "source_crc32": 3304052849,
+      "translation": "Принять попечение о мёртвых"
+    },
+    {
+      "key": "AttackCart_DisplayName",
+      "source_crc32": 2995903574,
+      "translation": "Напасть на повозку"
+    },
+    {
+      "key": "PreachingListenTo_DisplayName",
+      "source_crc32": 45153175,
+      "translation": "Посетить проповедь"
+    },
+    {
+      "key": "LowerDevastation_Description",
+      "source_crc32": 3417080356,
+      "translation": "Дайте добро на восстановительные работы, чтобы устранить разрушения и вернуть порядок."
+    },
+    {
+      "key": "BaptizeYourChild_DisplayName",
+      "source_crc32": 456275702,
+      "translation": "Крестить ребёнка"
+    },
+    {
+      "key": "Trashing_DisplayName",
+      "source_crc32": 4054943527,
+      "translation": "Избить"
+    },
+    {
+      "key": "HireManager_Family_Description_extra4",
+      "source_crc32": 833636197,
+      "translation": "Сначала родича нужно принять в {B_GUILD_C}гильдию{##} и обучить, и лишь затем назначить {B_OCC_MGR_C}управляющим{##}. Если он сведущ в {S_HAN_C}ремесле{##}, работники {CHAR_PRO_C}производительнее{##} на {A_ACT_CRA_C}изготовлении{##}, а для других {A_ACT_C}задач{##} важны иные {S_C}навыки{##}."
+    },
+    {
+      "key": "Begging_DisplayName",
+      "source_crc32": 2574749285,
+      "translation": "Побираться"
+    },
+    {
+      "key": "BlackenSomeonesName_DisplayName",
+      "source_crc32": 1414406589,
+      "translation": "Очернить"
+    },
+    {
+      "key": "Blackmail_Standing_DisplayName",
+      "source_crc32": 3224831157,
+      "translation": "Шантаж ради поддержки"
+    },
+    {
+      "key": "Blackmail_Money_DisplayName",
+      "source_crc32": 1349888351,
+      "translation": "Шантаж ради денег"
+    },
+    {
+      "key": "Blackmail_OfficeResignation_DisplayName",
+      "source_crc32": 2365900243,
+      "translation": "Шантаж ради отставки"
+    },
+    {
+      "key": "Robbery_DisplayName",
+      "source_crc32": 4220796110,
+      "translation": "Взлом"
+    },
+    {
+      "key": "Robbery_DisplayName_Robber",
+      "source_crc32": 4220796110,
+      "translation": "Взлом"
+    },
+    {
+      "key": "Robbery_DisplayName_Thief",
+      "source_crc32": 4220796110,
+      "translation": "Взлом"
+    },
+    {
+      "key": "Bribe_DisplayName",
+      "source_crc32": 2213031171,
+      "translation": "Подкупить"
+    },
+    {
+      "key": "Bribe_SelectBribeAmount",
+      "source_crc32": 88172218,
+      "translation": "Размер взятки"
+    },
+    {
+      "key": "CleanUp_Description",
+      "source_crc32": 4216369532,
+      "translation": "Смахнуть пыль, подтянуть петлю - немного заботы сейчас избавит от дорогого ремонта потом."
+    },
+    {
+      "key": "HireManager_Family_Description_extra3",
+      "source_crc32": 2682735459,
+      "translation": "Но выбирайте с умом."
+    },
+    {
+      "key": "BuyBuilding_DisplayName",
+      "source_crc32": 1320500350,
+      "translation": "Купить здание"
+    },
+    {
+      "key": "BuyEvidence_DisplayName",
+      "source_crc32": 2195282490,
+      "translation": "Купить улику"
+    },
+    {
+      "key": "BuyIndulgence_DisplayName",
+      "source_crc32": 2435532693,
+      "translation": "Купить индульгенцию"
+    },
+    {
+      "key": "Socialize_Description",
+      "source_crc32": 3015003613,
+      "translation": "Поставьте выпивку, посмейтесь вместе, заведите друга - или заручитесь помощью на будущее."
+    },
+    {
+      "key": "Ascension_C_01_Description",
+      "source_crc32": 2111599587,
+      "translation": "Купите себе путь наверх - ни службы, ни хлопот. {I_NOBRIG_C}Дворянские права{##} выдаются сразу."
+    },
+    {
+      "key": "Courting_StopCourting_DisplayName",
+      "source_crc32": 1326014826,
+      "translation": "Прекратить ухаживание"
+    },
+    {
+      "key": "Duel_Challenge_DisplayName",
+      "source_crc32": 2944628099,
+      "translation": "Вызвать на поединок"
+    },
+    {
+      "key": "Duel_Challenge_DuelOpponent",
+      "source_crc32": 3324573790,
+      "translation": "Вызванный противник"
+    },
+    {
+      "key": "ChangeLaw_DisplayName",
+      "source_crc32": 875017034,
+      "translation": "Изменить закон"
+    },
+    {
+      "key": "Dinner_Level_01",
+      "source_crc32": 408518456,
+      "translation": "Дешёвый"
+    },
+    {
+      "key": "TrainSkill_Rhetoric_Family_Description",
+      "source_crc32": 1347843608,
+      "translation": "Выберите члена семьи и помогите ему обрести голос, улучшив {S_RHE_C}красноречие{##}. Кому-то придётся говорить за семью, когда вы не сможете."
+    },
+    {
+      "key": "TrainSkill_Handicraft_Family_Description",
+      "source_crc32": 2269046442,
+      "translation": "Выберите члена семьи и дайте инструменты, чтобы упражняться в {S_HAN_C}ремесле{##}. Вы не сможете вечно чинить всё сами."
+    },
+    {
+      "key": "TrainSkill_Combat_Family_Description",
+      "source_crc32": 1650499022,
+      "translation": "Выберите члена семьи и вручите оружие. Лучше подтянуть {S_COM_C}воинское дело{##} до того, как в нём возникнет нужда."
+    },
+    {
+      "key": "TrainSkill_Stealth_Family_Description",
+      "source_crc32": 4225921256,
+      "translation": "Выберите члена семьи и покажите, как упражняться в {S_STE_C}плутовстве{##}, не попадаясь за этим занятием."
+    },
+    {
+      "key": "TrainSkill_Negotiation_Family_Description",
+      "source_crc32": 2049590518,
+      "translation": "Выберите члена семьи и научите не уступать в торге, улучшив навык {S_NEG_C}переговоров{##}."
+    },
+    {
+      "key": "GiveProfession_Thief_Description",
+      "source_crc32": 2285554556,
+      "translation": "Выберите члена семьи, которого примут в воры. Затем он сможет {B_OCC_MGR_C}возглавить{##} ваше {B_OCC_THI_C}убежище{##}, а у вас останутся свободные руки для других дел."
+    },
+    {
+      "key": "GiveProfession_Robber_Description",
+      "source_crc32": 396000803,
+      "translation": "Выберите члена семьи, которого примут в {P_ROB_C}разбойники{##}. Проявив себя, он сможет {B_OCC_MGR_C}возглавить{##} ваше {B_OCC_ROB_C}преступное предприятие{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Joiner_Description",
+      "source_crc32": 3366157358,
+      "translation": "Выберите члена семьи, который получит лицензию {P_JOI_C}столяра{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_JOI_C}столярной мастерской{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_StoneMason_Description",
+      "source_crc32": 1995952504,
+      "translation": "Выберите члена семьи, который получит лицензию {P_MAS_C}каменщика{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_MAS_C}каменной мастерской{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Perfumer_Description",
+      "source_crc32": 2459601214,
+      "translation": "Выберите члена семьи, который получит лицензию {P_PER_C}парфюмера{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_PER_C}парфюмерной мастерской{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Smith_Description",
+      "source_crc32": 2767557396,
+      "translation": "Выберите члена семьи, который получит лицензию {P_SMI_C}кузнеца{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_SMI_C}кузницы{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Tailor_Description",
+      "source_crc32": 4108979525,
+      "translation": "Выберите члена семьи, который получит лицензию {P_TAI_C}портного{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_TAI_C}швейной мастерской{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Alchemist_Description",
+      "source_crc32": 1337364837,
+      "translation": "Выберите члена семьи, который получит лицензию {P_ALC_C}алхимика{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашей {B_OCC_ALC_C}алхимической лаборатории{##}, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Innkeeper_Description",
+      "source_crc32": 3016716261,
+      "translation": "Выберите члена семьи, который получит лицензию {P_INN_C}трактирщика{##}. Затем он сможет стать {B_OCC_MGR_C}управляющим{##} вашего {B_OCC_INN_C}трактира{##} и следить, чтобы эль лился рекой, пока вы заняты другими делами."
+    },
+    {
+      "key": "GiveProfession_Guard_Description",
+      "source_crc32": 2559021100,
+      "translation": "Выберите члена семьи, который присягнёт на службу {P_GUA_C}стражником{##} и примет на себя {B_OCC_MGR_C}управление{##} {B_OCC_GUA_C}казармами{##}, пока вы сосредоточитесь на другом."
+    },
+    {
+      "key": "GiveProfession_Preacher_Description",
+      "source_crc32": 2736259563,
+      "translation": "Выберите члена семьи, который примет обет {P_PRE_C}проповедника{##}. Тогда он сможет нести святую службу как {B_OCC_MGR_C}настоятель{##} вашей {B_OCC_PRE_C}церкви{##}, пока вы посвящаете себя другим делам."
+    },
+    {
+      "key": "Courting_StartCourting_Family_Description",
+      "source_crc32": 106893791,
+      "translation": "Подберите многообещающую партию для члена вашей {CHAR_DYN_C}династии{##} и дайте ход ухаживанию. Может, придёт и любовь. А нет - сгодится и выгодный брак."
+    },
+    {
+      "key": "CleanService_Description",
+      "source_crc32": 534247125,
+      "translation": "Выберите квартал, которому нужна забота, и засучите рукава. Уберите грязь, подлатайте то, что обветшало, и оставьте улицы в лучшем виде, чем застали."
+    },
+    {
+      "key": "UseItem_FromCharacterContextMenu_Description",
+      "source_crc32": 4284035733,
+      "translation": "Выберите, что применить."
+    },
+    {
+      "key": "RemoveFromOffice_Description",
+      "source_crc32": 1071583471,
+      "translation": "Выберите того, кто ниже вас в вашей {O_CHA_C}палате{##}, и снимите его с {O_TYP_CIVOFF_C}должности{##}."
+    },
+    {
+      "key": "Courting_Description",
+      "source_crc32": 824198070,
+      "translation": "Выберите, за кем ухаживать, и обеспечьте будущее {CHAR_DYN_C}династии{##}. Брак с тем, кто ниже вас, обходится дёшево, а партия повыше потребует усилий."
+    },
+    {
+      "key": "SelectHeir_Description",
+      "source_crc32": 1687518423,
+      "translation": "Выберите, кто унаследует ваши титулы, имущество и богатство после смерти нынешнего персонажа. {CHAR_HEI_C}Наследник{##} продолжит игру и сохранит жизнь вашей {CHAR_DYN_C}династии{##}."
+    },
+    {
+      "key": "ActivateProfessionAlchemist_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionBlacksmith_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionGuard_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionInnkeeper_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionJoiner_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionPerfumer_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionPreacher_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionRobber_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionStonemason_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionTailor_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ActivateProfessionThief_Description",
+      "source_crc32": 1437021805,
+      "translation": "Выберите текущую профессию, чтобы получать опыт. Опыт и ступени мастерства растут только в текущей профессии."
+    },
+    {
+      "key": "ShootCannonBall_Description",
+      "source_crc32": 2027283664,
+      "translation": "Выберите заряд, наведите пушку на любое здание в городе - и пусть она скажет своё слово. Меткий выстрел учинит разгром, а у каждого вида заряда - свои неприятные сюрпризы. Но промах или попадание - пальбу по согражданам трудно не заметить и ещё труднее объяснить властям."
+    },
+    {
+      "key": "ApplyForNextTitle_DisplayName",
+      "source_crc32": 4031849874,
+      "translation": "Получить новый титул"
+    },
+    {
+      "key": "ClarifyHoney_DisplayName",
+      "source_crc32": 1074393970,
+      "translation": "Очистить мёд"
+    },
+    {
+      "key": "SetFree_Description",
+      "source_crc32": 2509235355,
+      "translation": "Снимите обвинения и прикажите выпустить {ST_CHR_IMP_C}заключённого{##}. Спасённая душа будет вам {CHAR_STA_C}благодарна{##} - другие едва ли."
+    },
+    {
+      "key": "CollectBeeswax_DisplayName",
+      "source_crc32": 3845612741,
+      "translation": "Собрать воск"
+    },
+    {
+      "key": "SelectHeir_Button",
+      "source_crc32": 308245735,
+      "translation": "Утвердить наследника"
+    },
+    {
+      "key": "Repair_Confirmation_Prompt",
+      "source_crc32": 1921382574,
+      "translation": "Начать ремонт за {value}?"
+    },
+    {
+      "key": "ContaminateBeehive_DisplayName",
+      "source_crc32": 2756758540,
+      "translation": "Отравить улей"
+    },
+    {
+      "key": "Courting_DisplayName",
+      "source_crc32": 2498677550,
+      "translation": "Ухаживать"
+    },
+    {
+      "key": "Ascension_B_02_Description",
+      "source_crc32": 2722149595,
+      "translation": "Придворная служба требует времени: нужно заслужить доверие, доказать осмотрительность и показать, что вы достойны возвышения. До желанных {I_NOBRIG_C}дворянских прав{##} - ещё два поручения."
+    },
+    {
+      "key": "Crafting_DisplayName",
+      "source_crc32": 3383816616,
+      "translation": "Изготовление"
+    },
+    {
+      "key": "Crafting_Description",
+      "source_crc32": 2893918058,
+      "translation": "Создавайте предметы, соединяя материалы из {B_STOROO_C}кладовой{##}. \nРаботники с высоким навыком {S_HAN_C}ремесла{##} справляются с этим ловчее."
+    },
+    {
+      "key": "ChangeLaw_CurrentValue_Number_Label",
+      "source_crc32": 1821676176,
+      "translation": "Сейчас"
+    },
+    {
+      "key": "ChangeLaw_CurrentValue_Level_Label",
+      "source_crc32": 2584049138,
+      "translation": "Текущее состояние"
+    },
+    {
+      "key": "Curse_DisplayName",
+      "source_crc32": 3605894775,
+      "translation": "Проклясть"
+    },
+    {
+      "key": "Espionage_Hired_Medium_DisplayName",
+      "source_crc32": 2297621453,
+      "translation": "Добротная слежка"
+    },
+    {
+      "key": "SelectHeir_DisplayName",
+      "source_crc32": 2961509897,
+      "translation": "Объявить наследника"
+    },
+    {
+      "key": "DeliverEulogy_DisplayName",
+      "source_crc32": 1224037465,
+      "translation": "Сказать надгробное слово"
+    },
+    {
+      "key": "DestroyBees_DisplayName",
+      "source_crc32": 1143405913,
+      "translation": "Уничтожить пчёл"
+    },
+    {
+      "key": "SnitchV2_Description",
+      "source_crc32": 4077151350,
+      "translation": "Грязная одежда, странные звуки, тайные любовники - следите за людьми и несите «находки» {O_CHA_INF_C}осведомителям{##}. Доказательства не нужны.\n\n{S_NEG_C}Переговоры{##} поднимут цену сплетен, а то и выведут на настоящие {CR_EVI_C}улики{##}.\n\nСплетни любят не все, но {CHAR_STA_C}союзники{##} в этой палате пригодятся."
+    },
+    {
+      "key": "Snitch_Description",
+      "source_crc32": 3287096147,
+      "translation": "Грязная одежда, странные звуки, тайные любовники - следите за людьми и несите «находки» {O_CHA_INF_C}осведомителям{##}. Доказательства не нужны.\n\n{S_STE_C}Плутовство{##} поднимет плату, а то и выведет на настоящие {CR_EVI_C}улики{##}.\n\nСплетни любят не все, но {CHAR_STA_C}союзники{##} в этой палате пригодятся."
+    },
+    {
+      "key": "DiscardItem_DisplayName_alt",
+      "source_crc32": 4192100562,
+      "translation": "Выбросить"
+    },
+    {
+      "key": "DiscardItem_DisplayName_alt_amount",
+      "source_crc32": 3211842377,
+      "translation": "Выбросить ({amout})"
+    },
+    {
+      "key": "DiscardItem_Description",
+      "source_crc32": 1406762137,
+      "translation": "Выбросить этот предмет навсегда?"
+    },
+    {
+      "key": "DiscardItem_DisplayName",
+      "source_crc32": 2024128420,
+      "translation": "Выбросить: {ItemName}"
+    },
+    {
+      "key": "Courting_StopCourting_Family_DisplayName",
+      "source_crc32": 1183531332,
+      "translation": "Отговорить от ухаживания"
+    },
+    {
+      "key": "DiscussInterests_DisplayName",
+      "source_crc32": 1589361468,
+      "translation": "Обсудить интересы"
+    },
+    {
+      "key": "DismissBuildingMaster_DisplayName",
+      "source_crc32": 2440512535,
+      "translation": "Снять управляющего и взяться самому"
+    },
+    {
+      "key": "RemoveFromOffice_DisplayName",
+      "source_crc32": 4244802779,
+      "translation": "Снять с должности"
+    },
+    {
+      "key": "DisownFamilyMember_DisplayName",
+      "source_crc32": 3936837384,
+      "translation": "Отречься"
+    },
+    {
+      "key": "SendOutSpies_Description",
+      "source_crc32": 2882708206,
+      "translation": "Разошлите шпионов собирать тайны, которые город по беспечности выбалтывает."
+    },
+    {
+      "key": "CharacterAtPillory_Description",
+      "source_crc32": 2771907693,
+      "translation": "Внесите свою лепту в поддержание порядка - швырните чем-нибудь в стоящего у позорного столба."
+    },
+    {
+      "key": "SellBuilding_Description",
+      "source_crc32": 419817936,
+      "translation": "Не знаете, как продать здание в нынешние времена? Доверьте это городу! Его чиновники устроят продажу, деньги вы получите сразу, а все положенные вычеты уже учтены в цене. Как удобно!"
+    },
+    {
+      "key": "UnlockProfession_Thief_DisplayName",
+      "source_crc32": 934993220,
+      "translation": "Заслужить место среди воров"
+    },
+    {
+      "key": "FindEvidenceFromWorld_DisplayName",
+      "source_crc32": 1285582752,
+      "translation": "Подслушивание посетителей"
+    },
+    {
+      "key": "ChangeLaw_NewValue_Level_Label",
+      "source_crc32": 862758623,
+      "translation": "Со следующего хода"
+    },
+    {
+      "key": "Espionage_Hired_High_DisplayName",
+      "source_crc32": 2006774909,
+      "translation": "Лучшая слежка"
+    },
+    {
+      "key": "AttackCart_SelectAttackers_Option_03",
+      "source_crc32": 1739995540,
+      "translation": "Отборные наёмники"
+    },
+    {
+      "key": "ScholarlyDebate_Description",
+      "source_crc32": 1098359120,
+      "translation": "Втяните любимого человека в жаркий спор и попробуйте поразить его своим умом. Только помните: победа в споре - не лучший путь к сердцу."
+    },
+    {
+      "key": "GiveProfession_Guard_DisplayName",
+      "source_crc32": 302904956,
+      "translation": "Записать члена семьи в стражу"
+    },
+    {
+      "key": "EquipArmor_DisplayName",
+      "source_crc32": 1947376861,
+      "translation": "Выдать доспех"
+    },
+    {
+      "key": "EquipSelf_DisplayName_alt",
+      "source_crc32": 1568844231,
+      "translation": "Снарядиться"
+    },
+    {
+      "key": "EquipWeapon_DisplayName",
+      "source_crc32": 97656686,
+      "translation": "Выдать оружие"
+    },
+    {
+      "key": "EquipWorker_DisplayName_alt",
+      "source_crc32": 1806534689,
+      "translation": "Выдать работнику"
+    },
+    {
+      "key": "EquipWorker_DisplayName",
+      "source_crc32": 922404147,
+      "translation": "Выдать работнику: {ItemName}"
+    },
+    {
+      "key": "EquipSelf_DisplayName",
+      "source_crc32": 379340045,
+      "translation": "Снарядиться: {ItemName}"
+    },
+    {
+      "key": "UnlockProfession_TravellingEntertainer_DisplayName",
+      "source_crc32": 192206365,
+      "translation": "Собрать бродячую труппу"
+    },
+    {
+      "key": "GiveProfession_TravellingEntertainer_DisplayName",
+      "source_crc32": 1136204050,
+      "translation": "Создать труппу для члена семьи"
+    },
+    {
+      "key": "RenameAndBaptizeYourChild_Description",
+      "source_crc32": 4149321853,
+      "translation": "Каждому ребёнку нужно имя, с которым он пройдёт по жизни, - и, быть может, у вас на уме есть имя получше. Выберите малышу новое имя и окрестите его в христианскую веру. Ваша вторая половина может и не оценить перемену, но Небеса уж точно не будут против!"
+    },
+    {
+      "key": "ListenToBard_Result_Combat",
+      "source_crc32": 3956511942,
+      "translation": "Каждая трактирная песня кончается тем, что кому-то дают в зубы - вы мотаете на ус."
+    },
+    {
+      "key": "TellAJoke_Description",
+      "source_crc32": 460118913,
+      "translation": "Все любят время от времени посмеяться от души."
+    },
+    {
+      "key": "Dinner_Level_05",
+      "source_crc32": 640890951,
+      "translation": "Дорогой"
+    },
+    {
+      "key": "AvailableActionsScreen_Description",
+      "source_crc32": 2243851441,
+      "translation": "Осмотрите город - вас ждёт ещё немало других действий."
+    },
+    {
+      "key": "SendHelp_DisplayName",
+      "source_crc32": 1535750598,
+      "translation": "Протянуть руку"
+    },
+    {
+      "key": "ExterminateBees_DisplayName",
+      "source_crc32": 2157775742,
+      "translation": "Истребить пчёл"
+    },
+    {
+      "key": "DisownFamilyMember_Description",
+      "source_crc32": 1415559594,
+      "translation": "Семья - это навсегда. Какая ужасная мысль. К счастью, капля чернил способна на то, чего не добились годы семейных ссор. Одна подпись - и докучливый родственник больше не ваша забота. Итак, кому достанется его наследство?"
+    },
+    {
+      "key": "FeedBees_DisplayName",
+      "source_crc32": 3268215621,
+      "translation": "Покормить пчёл"
+    },
+    {
+      "key": "Robbery_Description_Robber",
+      "source_crc32": 2195393821,
+      "translation": "Найдите здание с высокой {B_PARAM_VAL_C}стоимостью{##} и слабой {B_PARAM_BURPRO_C}защищённостью{##} и пошлите самых {S_STE_C}плутоватых{##} разбойников унести всё, что смогут."
+    },
+    {
+      "key": "Robbery_Description",
+      "source_crc32": 3704232333,
+      "translation": "Найдите здание с высокой {B_PARAM_VAL_C}стоимостью{##} и слабой {B_PARAM_BURPRO_C}защищённостью{##} и пошлите самых {S_STE_C}плутоватых{##} плутов унести всё, что смогут."
+    },
+    {
+      "key": "Robbery_Description_Thief",
+      "source_crc32": 557282282,
+      "translation": "Найдите здание с высокой {B_PARAM_VAL_C}стоимостью{##} и слабой {B_PARAM_BURPRO_C}защищённостью{##} и пошлите самых {S_STE_C}плутоватых{##} воров унести всё, что смогут."
+    },
+    {
+      "key": "SuppressCrime_Description",
+      "source_crc32": 3961358986,
+      "translation": "Наводните улицы патрулями. Не дайте преступникам вздохнуть. Преступность согнётся под натиском, но людям могут надоесть стражники на каждом углу и сапоги у каждой двери."
+    },
+    {
+      "key": "Courting_GiveGift_Flower_Description",
+      "source_crc32": 725981564,
+      "translation": "Цветы увянут, но радость от подарка живёт куда дольше. В конце концов, не всё прекрасное обязано быть полезным и вечным."
+    },
+    {
+      "key": "ForceIntoMonasticLifeFamilyMember_DisplayName",
+      "source_crc32": 3657760133,
+      "translation": "Принудить к постригу"
+    },
+    {
+      "key": "PestControl_Description",
+      "source_crc32": 963315291,
+      "translation": "Дым против насекомых, порошки против крыс и кое-что «особенное» для самых упрямых.\nЛучше поручить работникам, искусным в {S_HAN_C}ремесле{##}."
+    },
+    {
+      "key": "GainMasterGrade_DisplayName",
+      "source_crc32": 3663023427,
+      "translation": "Повысить мастерство"
+    },
+    {
+      "key": "TrainProfession_Description",
+      "source_crc32": 2859093146,
+      "translation": "Наберитесь {CHAR_XP_C}опыта{##} в своей {P_C}профессии{##} усердными упражнениями."
+    },
+    {
+      "key": "ResignDynasty_Description_extra1",
+      "source_crc32": 2017671338,
+      "translation": "Игра продолжится за вашего {CHAR_HEI_C}наследника{##}. Нет наследника - игра окончена."
+    },
+    {
+      "key": "TaxCollection_Description",
+      "source_crc32": 3207192619,
+      "translation": "Соберите городские подати. Одни платят охотно. Других придётся убеждать."
+    },
+    {
+      "key": "CollectBeeswax_Description",
+      "source_crc32": 2026961463,
+      "translation": "Соберите воск с сот. Мёд - не единственное, что стоит брать из улья."
+    },
+    {
+      "key": "GenerateHatred_DisplayName",
+      "source_crc32": 933992875,
+      "translation": "Посеять вражду"
+    },
+    {
+      "key": "TrainSkill_Stealth_Description",
+      "source_crc32": 2035439500,
+      "translation": "Научитесь ловчее делать то, чего не должны заметить, и улучшите своё {S_STE_C}плутовство{##}."
+    },
+    {
+      "key": "DiscussInterests_Description",
+      "source_crc32": 3198205614,
+      "translation": "Узнайте любимого человека ближе: расспросите о его увлечениях и расскажите о своих. Общий язык куда легче найти с тем, кому вы уже симпатичны."
+    },
+    {
+      "key": "Espionage_Personal_Description",
+      "source_crc32": 3661878982,
+      "translation": "Замарайте руки сами и соберите {CR_EVI_C}улики{##} лично."
+    },
+    {
+      "key": "GiveItem_Description",
+      "source_crc32": 3309350250,
+      "translation": "Подарить горожанину:"
+    },
+    {
+      "key": "GiveItem_DisplayName_alt",
+      "source_crc32": 3959458917,
+      "translation": "Подарить"
+    },
+    {
+      "key": "PastoralVisit_DisplayName",
+      "source_crc32": 4273314862,
+      "translation": "Отпущение грехов"
+    },
+    {
+      "key": "Courting_GiveGift_Jewelry_DisplayName",
+      "source_crc32": 3084333991,
+      "translation": "Подарить парные кольца"
+    },
+    {
+      "key": "Courting_GiveGift_Portrait_DisplayName",
+      "source_crc32": 1333280679,
+      "translation": "Подарить семейный портрет"
+    },
+    {
+      "key": "Courting_GiveGift_Flower_DisplayName",
+      "source_crc32": 176144100,
+      "translation": "Подарить букет"
+    },
+    {
+      "key": "Courting_GiveGift_CheeseWheel_DisplayName",
+      "source_crc32": 1207750296,
+      "translation": "Подарить огромную головку сыра"
+    },
+    {
+      "key": "Courting_GiveGift_GoldenBathtub_DisplayName",
+      "source_crc32": 1574159119,
+      "translation": "Подарить золотую ванну"
+    },
+    {
+      "key": "Courting_GiveGift_Hairbrush_DisplayName",
+      "source_crc32": 4034192800,
+      "translation": "Подарить щётку с самоцветами"
+    },
+    {
+      "key": "Courting_GiveGift_Bear_DisplayName",
+      "source_crc32": 550127299,
+      "translation": "Подарить живого медведя"
+    },
+    {
+      "key": "Courting_GiveGift_Poem_DisplayName",
+      "source_crc32": 1845881683,
+      "translation": "Подарить стихи"
+    },
+    {
+      "key": "Courting_GiveGift_Tapestry_DisplayName",
+      "source_crc32": 3855726505,
+      "translation": "Подарить гобелен"
+    },
+    {
+      "key": "EquipArmor_Description",
+      "source_crc32": 3216390846,
+      "translation": "Выдайте работнику доспех из своего инвентаря, чтобы защитить его в опасных переделках."
+    },
+    {
+      "key": "EquipWeapon_Description",
+      "source_crc32": 2937910761,
+      "translation": "Выдайте работнику оружие из своего инвентаря, чтобы ему было чем обороняться в опасности."
+    },
+    {
+      "key": "AdoptChild_Young_Description",
+      "source_crc32": 3984691964,
+      "translation": "Дайте малышу дом и смотрите, как он становится частью семьи. У вас будет вдоволь времени заботиться о нём, учить и мягко направлять, пока не вырастет именно такой наследник, какого вы задумали."
+    },
+    {
+      "key": "Courting_GiveGift_Horse_DisplayName",
+      "source_crc32": 3520958242,
+      "translation": "Подарить арабского скакуна"
+    },
+    {
+      "key": "Courting_GiveGift_Cloak_DisplayName",
+      "source_crc32": 2769288497,
+      "translation": "Подарить вышитый плащ"
+    },
+    {
+      "key": "PayOneTimeBonus_Description",
+      "source_crc32": 2078924258,
+      "translation": "Подкиньте работникам немного сверх жалованья. Пусть думают, что нашли место, где стоит задержаться."
+    },
+    {
+      "key": "Courting_GiveGift_GoldenBathtub_Description",
+      "source_crc32": 2899360809,
+      "translation": "Подарите любимому человеку роскошь, которой он заслуживает: великолепную ванну из чистого золота. В самом деле, разве можно чувствовать себя по-настоящему любимым, если приходится унизительно плескаться в чём-то попроще?"
+    },
+    {
+      "key": "GiveItem_DisplayName",
+      "source_crc32": 2046626828,
+      "translation": "Подарить: {ItemName}"
+    },
+    {
+      "key": "Courting_GiveGift_Poem_Description",
+      "source_crc32": 1348986042,
+      "translation": "За золото можно купить самые роскошные подарки, но никакое состояние не сравнится с искренностью стихов, идущих от сердца. Богаты вы или бедны, когда рядом тот самый человек, несколько честных слов значат больше всех сокровищ мира."
+    },
+    {
+      "key": "Dinner_Level_04",
+      "source_crc32": 3631572192,
+      "translation": "Хороший"
+    },
+    {
+      "key": "GiveElaborateSpeech_Description",
+      "source_crc32": 4241327612,
+      "translation": "Великие чувства достойны великих слов. К чему говорить просто о таком чуде, как любовь? Одним посчастливилось найти любовь. Другим - быть любимыми поэтом."
+    },
+    {
+      "key": "GuardPatrol_DisplayName",
+      "source_crc32": 3457995394,
+      "translation": "Патруль стражи"
+    },
+    {
+      "key": "ProtectCityCouncil_DisplayName",
+      "source_crc32": 1763092813,
+      "translation": "Охранять ратушу"
+    },
+    {
+      "key": "CollectContaminatedHoney_DisplayName",
+      "source_crc32": 1099749961,
+      "translation": "Собрать мёд"
+    },
+    {
+      "key": "CollectMaxHoney_DisplayName",
+      "source_crc32": 1099749961,
+      "translation": "Собрать мёд"
+    },
+    {
+      "key": "CollectMinHoney_DisplayName",
+      "source_crc32": 1099749961,
+      "translation": "Собрать мёд"
+    },
+    {
+      "key": "Duel_Challenge_Description",
+      "source_crc32": 217633843,
+      "translation": "Кто-то - молодец ли, девица ли - задел вашу честь злым словом или косым взглядом? Пусть за неё скажет сталь. \n\nИсход {CO_COM_C}боя{##} решают ваш навык {S_COM_C}воинского дела{##} и выбор {I_TYP_COMEQU_C}снаряжения{##}."
+    },
+    {
+      "key": "Courting_StopCourting_Family_Description",
+      "source_crc32": 336536962,
+      "translation": "Кто-то из вашей родни влюбился в человека, который не вписывается в планы семьи? Как некстати. Быть может, найдётся кто получше. А может, найдёте вы. Поговорите по душам, пока дело не дошло до балконов, тайных клятв и заверений, что без любимого человека и жизнь не мила."
+    },
+    {
+      "key": "HaveAChat_DisplayName",
+      "source_crc32": 314309325,
+      "translation": "Поболтать"
+    },
+    {
+      "key": "ApplyForOffice_Family_Description",
+      "source_crc32": 1824518373,
+      "translation": "Выдвиньте члена своей династии на должность. Шансы на успех зависят от его {S_RHE_C}красноречия{##} и {CHAR_STA_C}отношения{##} к нему тех, кто назначает, зато родственник при должности откроет нужные двери, закроет глаза на лишнее и позаботится, чтобы об интересах семьи никогда не забывали."
+    },
+    {
+      "key": "ImproveRoadHub_Description",
+      "source_crc32": 373062275,
+      "translation": "Пусть каменщики выровняют дорогу и уложат новую брусчатку - тут нужна твёрдая рука в {S_HAN_C}ремесле{##}."
+    },
+    {
+      "key": "PhysicianCheck_Description",
+      "source_crc32": 1547237390,
+      "translation": "Покажитесь лекарю. Стойте смирно. Постарайтесь не задавать вопросов."
+    },
+    {
+      "key": "HealBees_DisplayName",
+      "source_crc32": 1195409847,
+      "translation": "Вылечить пчёл"
+    },
+    {
+      "key": "Espionage_Method_HighEffort_Label",
+      "source_crc32": 546374199,
+      "translation": "Высокий"
+    },
+    {
+      "key": "Espionage_Method_HighEffort_DisplayName",
+      "source_crc32": 2961210779,
+      "translation": "Высокий: тщательное расследование"
+    },
+    {
+      "key": "Courting_SendGift_Description_extra1",
+      "source_crc32": 1393274352,
+      "translation": "Чем выше {T_C}титул{##}, тем изысканнее должны быть дары, и чем больше разница между вами, тем труднее произвести впечатление."
+    },
+    {
+      "key": "BanditContract03_DisplayName",
+      "source_crc32": 3854667639,
+      "translation": "Нанять отборных наёмников"
+    },
+    {
+      "key": "HireEscort_DisplayName",
+      "source_crc32": 743219523,
+      "translation": "Нанять охрану"
+    },
+    {
+      "key": "BanditContract01_DisplayName",
+      "source_crc32": 2727096562,
+      "translation": "Нанять мелких головорезов"
+    },
+    {
+      "key": "BanditContract02_DisplayName",
+      "source_crc32": 678171537,
+      "translation": "Нанять умелых головорезов"
+    },
+    {
+      "key": "HireManager_DisplayName",
+      "source_crc32": 315232330,
+      "translation": "Нанять управляющего"
+    },
+    {
+      "key": "Espionage_Hired_Low_Description",
+      "source_crc32": 3142430527,
+      "translation": "Наймите сомнительную пару глаз, чтобы вынюхать {CR_EVI_C}улики{##}. Дёшево, но доверия не внушает."
+    },
+    {
+      "key": "Espionage_Hired_Medium_Description",
+      "source_crc32": 3684186864,
+      "translation": "Наймите бывалого шпиона, который раскопает {CR_EVI_C}улики{##}, не привлекая лишнего внимания."
+    },
+    {
+      "key": "HireEscort_Description",
+      "source_crc32": 1588395864,
+      "translation": "Наймите бойцов, чтобы {CO_COM_C}защитить{##} повозку в пути от {A_ATKCAR_C}разбойников в засаде{##}."
+    },
+    {
+      "key": "Trashing_Description",
+      "source_crc32": 3390717938,
+      "translation": "Наймите головорезов избить выбранного соперника. Это не бездумное буйство, а расчётливое устрашение: кто искушён в {S_COM_C}воинском деле{##}, понимает язык силы, даже когда говорит чужими кулаками."
+    },
+    {
+      "key": "TryCatchingBeeQueen_DisplayName",
+      "source_crc32": 3070993358,
+      "translation": "Поймать пчелиную матку"
+    },
+    {
+      "key": "Ascension_A_02_Description",
+      "source_crc32": 1878987524,
+      "translation": "Справитесь - и получите {I_NOBRIG_C}право{##} зваться {T_NOB_C}дворянином{##}, пусть пока и без грамоты. Для признания по всей форме ещё нужно подать прошение."
+    },
+    {
+      "key": "PhysicianCheck_Description_extra1",
+      "source_crc32": 3341733500,
+      "translation": "Если вы и впрямь {ST_CHR_SIC_C}больны{##} или {ST_INJ_C}ранены{##}, советуем вместо этого {A_HEA_C}пройти лечение{##}."
+    },
+    {
+      "key": "SeekCure_Description",
+      "source_crc32": 1315027703,
+      "translation": "Если вы {ST_CHR_SIC_C}больны{##} или {ST_INJ_C}ранены{##}, лекарь предложит самое действенное лечение.\nВозможно, с пиявками."
+    },
+    {
+      "key": "ListenToBard_Description",
+      "source_crc32": 2046464931,
+      "translation": "Если вам нужно немного вдохновения, начните с простой песенки.\nВозможен ОДИН из следующих исходов:"
+    },
+    {
+      "key": "ResignDynasty_Description",
+      "source_crc32": 3870336813,
+      "translation": "Если вы считаете, что ваш {CHAR_HEI_C}наследник{##} готов возглавить династию, можете проститься с этим жестоким миром и передать бразды правления в руки наследника."
+    },
+    {
+      "key": "ResignFromOffice_Description",
+      "source_crc32": 2143125696,
+      "translation": "Если ваше время пришло, вы можете сложить с себя {O_TYP_CIVOFF_C}должность{##}."
+    },
+    {
+      "key": "Courting_SweetTalking_Description",
+      "source_crc32": 4071315695,
+      "translation": "Если {S_RHE_C}красноречие{##} - ваш конёк, слова сделают то, что не под силу монете."
+    },
+    {
+      "key": "Courting_GiveGift_Tapestry_Description",
+      "source_crc32": 2216214323,
+      "translation": "Увековечьте память о первом свидании на гобелене, сотканном из тончайших нитей. Шедевр: теперь каждый гость вашего дома сможет любоваться самыми сокровенными подробностями вашего зарождающегося романа."
+    },
+    {
+      "key": "ImproveCarts_DisplayName",
+      "source_crc32": 3010263033,
+      "translation": "Улучшение повозок"
+    },
+    {
+      "key": "ImproveSkill_Handicraft_Button",
+      "source_crc32": 4179799920,
+      "translation": "Улучшить ремесло"
+    },
+    {
+      "key": "ImproveSkill_Combat_Button",
+      "source_crc32": 2399363615,
+      "translation": "Улучшить воинское дело"
+    },
+    {
+      "key": "ImproveSkill_Negotiation_Button",
+      "source_crc32": 1496257853,
+      "translation": "Улучшить переговоры"
+    },
+    {
+      "key": "ImproveRoadHub_DisplayName",
+      "source_crc32": 864813950,
+      "translation": "Улучшение квартала"
+    },
+    {
+      "key": "ImproveSkill_Rhetoric_Button",
+      "source_crc32": 2039635743,
+      "translation": "Улучшить красноречие"
+    },
+    {
+      "key": "ImproveSkill_Stealth_Button",
+      "source_crc32": 169341141,
+      "translation": "Улучшить плутовство"
+    },
+    {
+      "key": "ImproveSkill_DisplayName",
+      "source_crc32": 2109194837,
+      "translation": "Улучшить навык"
+    },
+    {
+      "key": "ImproveSkillAction_Prompt",
+      "source_crc32": 3003537454,
+      "translation": "Улучшить навыки"
+    },
+    {
+      "key": "ImproveBuilding_DisplayName",
+      "source_crc32": 2515058952,
+      "translation": "Укрепление здания"
+    },
+    {
+      "key": "TrainSkill_Handicraft_DisplayName",
+      "source_crc32": 1767277758,
+      "translation": "Улучшить ремесло"
+    },
+    {
+      "key": "TrainSkill_Combat_DisplayName",
+      "source_crc32": 1919501586,
+      "translation": "Улучшить воинское дело"
+    },
+    {
+      "key": "TrainSkill_Negotiation_DisplayName",
+      "source_crc32": 1090063039,
+      "translation": "Улучшить переговоры"
+    },
+    {
+      "key": "TrainSkill_Rhetoric_DisplayName",
+      "source_crc32": 3940866603,
+      "translation": "Улучшить красноречие"
+    },
+    {
+      "key": "TrainSkill_Stealth_DisplayName",
+      "source_crc32": 4152219608,
+      "translation": "Улучшить плутовство"
+    },
+    {
+      "key": "Activity_Description_extra1",
+      "source_crc32": 3275484808,
+      "translation": "Развивать собственные навыки тоже полезно: {CHAR_PRO_SKIEMP_C}умелый наниматель{##} лучше направляет работу."
+    },
+    {
+      "key": "BuyEvidence_Description",
+      "source_crc32": 1671159406,
+      "translation": "За кружкой эля сведения легко меняют хозяина. Заплатите - и чужая тайна станет вашим козырем."
+    },
+    {
+      "key": "GiveProfession_Robber_DisplayName",
+      "source_crc32": 2254503434,
+      "translation": "Принять члена семьи в разбойники"
+    },
+    {
+      "key": "GiveProfession_Thief_DisplayName",
+      "source_crc32": 2540939132,
+      "translation": "Принять члена семьи в воры"
+    },
+    {
+      "key": "InspectBusiness_DisplayName",
+      "source_crc32": 2912373446,
+      "translation": "Обыск предприятия"
+    },
+    {
+      "key": "InspireFear_DisplayName",
+      "source_crc32": 1256957913,
+      "translation": "Внушить страх"
+    },
+    {
+      "key": "FindEvidenceFromWorld_Description",
+      "source_crc32": 1671503400,
+      "translation": "Велите работникам незаметно прислушиваться к разговорам посетителей. Мало ли что они услышат. Внимательное ухо может добыть полезные {CR_EVI_C}улики{##}."
+    },
+    {
+      "key": "Insult_DisplayName",
+      "source_crc32": 3382157638,
+      "translation": "Оскорбить"
+    },
+    {
+      "key": "LowerUnrest_Description",
+      "source_crc32": 3400260200,
+      "translation": "Вмешайтесь, чтобы сдержать волнения и вернуть городу спокойствие."
+    },
+    {
+      "key": "TrainWorker_Description",
+      "source_crc32": 1604730694,
+      "translation": "Вложитесь в обучение работника в надежде, что старания окупятся."
+    },
+    {
+      "key": "Dinner_Description",
+      "source_crc32": 185963100,
+      "translation": "Пригласите на ужин: поразить простолюдина дёшево, поразить {T_C}знатного{##} - нет. Так или иначе, {CHAR_STA_C}расположение{##} лучше всего подаётся после трапезы."
+    },
+    {
+      "key": "Dinner_DisplayName",
+      "source_crc32": 2447228295,
+      "translation": "Пригласить на ужин"
+    },
+    {
+      "key": "HireManager_Family_Description_extra1",
+      "source_crc32": 3415456177,
+      "translation": "Заодно подготовите наследников к дню, когда вас… уже не будет рядом."
+    },
+    {
+      "key": "SitAtRegularsTable_DisplayName",
+      "source_crc32": 3546066306,
+      "translation": "Подсесть к завсегдатаям"
+    },
+    {
+      "key": "LivePerformance_Description",
+      "source_crc32": 2115629274,
+      "translation": "Шутки, песни - что бы ни умел работник, выпустите его на сцену. Сперва стоит устроить {A_ACT_TRALIVPER_C}репетицию{##}: хорошее {S_RHE_C}красноречие{##} наверняка {B_PARAM_ATT_C}соберёт больше зрителей{##}."
+    },
+    {
+      "key": "GiveSimpleSpeech_Description",
+      "source_crc32": 1159962445,
+      "translation": "Просто и честно, от самого сердца. Что может пойти не так? Это не я волнуюсь, это вы!"
+    },
+    {
+      "key": "SuppressCrimeWeak_Description",
+      "source_crc32": 3372181860,
+      "translation": "Пусть патрули не стоят на месте, а стражу видно на каждой улице. Это сдержит преступность и заставит задуматься тех, кто ищет неприятностей. А вот угрозы покрупнее лучше оставить кому-нибудь повлиятельнее."
+    },
+    {
+      "key": "Courting_GiveGift_Cloak_Description",
+      "source_crc32": 2365362491,
+      "translation": "Согрейте любимого человека прекрасным плащом с вышитым гербом вашего рода. Романтичный жест, дарящий тепло и изящество, а заодно деликатно напоминающий другим воздыхателям, что ваш любимый человек уже не свободен."
+    },
+    {
+      "key": "GenerateHatred_Description",
+      "source_crc32": 1690823888,
+      "translation": "Шепните словечко и разожгите рознь между двумя людьми, чтобы их {CHAR_STA_C}отношение{##} друг к другу испортилось."
+    },
+    {
+      "key": "TrainSkill_Negotiation_Description",
+      "source_crc32": 2150916558,
+      "translation": "Научитесь заключать сделки повыгоднее и улучшите навык {S_NEG_C}переговоров{##}."
+    },
+    {
+      "key": "TrainSkill_Rhetoric_Description",
+      "source_crc32": 3341848853,
+      "translation": "Научитесь придавать словам вес и улучшите своё {S_RHE_C}красноречие{##}."
+    },
+    {
+      "key": "GiveProfession_Alchemist_DisplayName",
+      "source_crc32": 3598129100,
+      "translation": "Дать члену семьи лицензию алхимика"
+    },
+    {
+      "key": "GiveProfession_Innkeeper_DisplayName",
+      "source_crc32": 2984037388,
+      "translation": "Дать члену семьи лицензию трактирщика"
+    },
+    {
+      "key": "GiveProfession_Joiner_DisplayName",
+      "source_crc32": 61521620,
+      "translation": "Дать члену семьи лицензию столяра"
+    },
+    {
+      "key": "GiveProfession_MoneyLender_DisplayName",
+      "source_crc32": 3025459211,
+      "translation": "Дать члену семьи лицензию ростовщика"
+    },
+    {
+      "key": "GiveProfession_Perfumer_DisplayName",
+      "source_crc32": 157362322,
+      "translation": "Дать члену семьи лицензию парфюмера"
+    },
+    {
+      "key": "GiveProfession_Smith_DisplayName",
+      "source_crc32": 1152469928,
+      "translation": "Дать члену семьи лицензию кузнеца"
+    },
+    {
+      "key": "GiveProfession_StoneMason_DisplayName",
+      "source_crc32": 1634033157,
+      "translation": "Дать члену семьи лицензию каменщика"
+    },
+    {
+      "key": "GiveProfession_Tailor_DisplayName",
+      "source_crc32": 2062706231,
+      "translation": "Дать члену семьи лицензию портного"
+    },
+    {
+      "key": "GiveProfession_Trader_DisplayName",
+      "source_crc32": 3510793633,
+      "translation": "Дать члену семьи лицензию торговца"
+    },
+    {
+      "key": "PreachingListenTo_Option_Listen",
+      "source_crc32": 3168752489,
+      "translation": "Слушать проповедь"
+    },
+    {
+      "key": "PreachingListenTo_Description",
+      "source_crc32": 1978282688,
+      "translation": "Послушайте проповедь - или встаньте и возразите проповеднику."
+    },
+    {
+      "key": "GatherIngredients_DisplayName",
+      "source_crc32": 1249218983,
+      "translation": "Искать ингредиенты"
+    },
+    {
+      "key": "SmearReputation_Description",
+      "source_crc32": 4211594809,
+      "translation": "Любовь - вещь хрупкая. Было бы жаль, если бы с ней что-нибудь… случилось. Посейте сомнение между влюблёнными и {S_RHE_C}убедите{##} их, что они достойны лучшего."
+    },
+    {
+      "key": "Espionage_Method_LowEffort_Label",
+      "source_crc32": 2979993132,
+      "translation": "Низкий"
+    },
+    {
+      "key": "Espionage_Hired_Low_DisplayName",
+      "source_crc32": 752227539,
+      "translation": "Дешёвая слежка"
+    },
+    {
+      "key": "AttackCart_SelectAttackers_Option_01",
+      "source_crc32": 3206380825,
+      "translation": "Мелкие головорезы"
+    },
+    {
+      "key": "Espionage_Method_LowEffort_DisplayName",
+      "source_crc32": 759378775,
+      "translation": "Низкий: поверхностное расследование"
+    },
+    {
+      "key": "AddBees_DisplayName_v2",
+      "source_crc32": 1044330830,
+      "translation": "Приманить рой"
+    },
+    {
+      "key": "MakePeace_DisplayName",
+      "source_crc32": 2258989040,
+      "translation": "Помирить"
+    },
+    {
+      "key": "GiveElaborateSpeech_DisplayName",
+      "source_crc32": 276707873,
+      "translation": "Дать пышную клятву"
+    },
+    {
+      "key": "GiveSimpleSpeech_DisplayName",
+      "source_crc32": 2083973852,
+      "translation": "Дать простую клятву"
+    },
+    {
+      "key": "Threatening_DisplayName",
+      "source_crc32": 314155319,
+      "translation": "Угрожать"
+    },
+    {
+      "key": "WeddingToast_DisplayName",
+      "source_crc32": 3246186206,
+      "translation": "Произнести тост"
+    },
+    {
+      "key": "Dinner_Level_03",
+      "source_crc32": 1071082164,
+      "translation": "Сносный"
+    },
+    {
+      "key": "Espionage_Method_MediumEffort_Label",
+      "source_crc32": 3469406434,
+      "translation": "Средний"
+    },
+    {
+      "key": "Espionage_Method_MediumEffort_DisplayName",
+      "source_crc32": 2910272083,
+      "translation": "Средний: обычное расследование"
+    },
+    {
+      "key": "TeachExpertise_DisplayName",
+      "source_crc32": 1305464054,
+      "translation": "Наставлять"
+    },
+    {
+      "key": "TeachExpertise_DisplayName_alt",
+      "source_crc32": 128886388,
+      "translation": "Наставлять работника"
+    },
+    {
+      "key": "AvailableActionsScreen_DisplayName",
+      "source_crc32": 1090351236,
+      "translation": "Мои личные действия"
+    },
+    {
+      "key": "ChangeLaw_NewValue_Number_Label",
+      "source_crc32": 875528154,
+      "translation": "Следующий ход"
+    },
+    {
+      "key": "NoActionsAvailable_Building_Label",
+      "source_crc32": 1789498401,
+      "translation": "Для выбранного здания сейчас нет доступных действий."
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_Archbishop_DisplayName",
+      "source_crc32": 2614611792,
+      "translation": "Выдвинуть: архиепископ"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_Bishop_DisplayName",
+      "source_crc32": 1265186392,
+      "translation": "Выдвинуть: епископ"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_BuildingMaster_DisplayName",
+      "source_crc32": 35831579,
+      "translation": "Выдвинуть: главный строитель"
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_Colonel_DisplayName",
+      "source_crc32": 1410113058,
+      "translation": "Выдвинуть: полковник"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownServants_CouncilAssistant_DisplayName",
+      "source_crc32": 3274227357,
+      "translation": "Выдвинуть: помощник совета"
+    },
+    {
+      "key": "ApplyForOffice_Family_Informants_CouncilInformer_DisplayName",
+      "source_crc32": 2209419625,
+      "translation": "Выдвинуть: осведомитель совета"
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_CourtCouncilor_DisplayName",
+      "source_crc32": 2842842989,
+      "translation": "Выдвинуть: придворный советник"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_CustomsMaster_DisplayName",
+      "source_crc32": 3437476841,
+      "translation": "Выдвинуть: начальник таможни"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_Deacon_DisplayName",
+      "source_crc32": 2293352124,
+      "translation": "Выдвинуть: диакон"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_DungeonMaster_DisplayName",
+      "source_crc32": 3440554912,
+      "translation": "Выдвинуть: тюремщик"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownBailiffs_FencingMaster_DisplayName",
+      "source_crc32": 1504611672,
+      "translation": "Выдвинуть: мастер фехтования"
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_GrandInquisitor_DisplayName",
+      "source_crc32": 3944642425,
+      "translation": "Выдвинуть: великий инквизитор"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownBailiffs_Guardsman_DisplayName",
+      "source_crc32": 3560559400,
+      "translation": "Выдвинуть: караульный"
+    },
+    {
+      "key": "ApplyForOffice_Family_Informants_Informer_DisplayName",
+      "source_crc32": 1415785419,
+      "translation": "Выдвинуть: осведомитель"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_Inquisitor_DisplayName",
+      "source_crc32": 4032095278,
+      "translation": "Выдвинуть: инквизитор"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_Judge_DisplayName",
+      "source_crc32": 3008443728,
+      "translation": "Выдвинуть: судья"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_LeaseMaster_DisplayName",
+      "source_crc32": 4009376580,
+      "translation": "Выдвинуть: распорядитель аренды"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_Mayor_DisplayName",
+      "source_crc32": 3969874267,
+      "translation": "Выдвинуть: бургомистр"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownBailiffs_NightWatchmanA_DisplayName",
+      "source_crc32": 123378115,
+      "translation": "Выдвинуть: ночной сторож - место А"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownBailiffs_NightWatchmanB_DisplayName",
+      "source_crc32": 367998509,
+      "translation": "Выдвинуть: ночной сторож - место Б"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_Prefect_DisplayName",
+      "source_crc32": 257933821,
+      "translation": "Выдвинуть: префект"
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_PrivyCouncilor_DisplayName",
+      "source_crc32": 3823075653,
+      "translation": "Выдвинуть: тайный советник"
+    },
+    {
+      "key": "ApplyForOffice_Family_Informants_SpyA_DisplayName",
+      "source_crc32": 1705851918,
+      "translation": "Выдвинуть: шпион - место А"
+    },
+    {
+      "key": "ApplyForOffice_Family_Informants_SpyB_DisplayName",
+      "source_crc32": 1998099424,
+      "translation": "Выдвинуть: шпион - место Б"
+    },
+    {
+      "key": "ApplyForOffice_Family_StateAuthority_Steward_DisplayName",
+      "source_crc32": 385705680,
+      "translation": "Выдвинуть: гофмейстер"
+    },
+    {
+      "key": "ApplyForOffice_Family_ChurchAuthority_TaxCollector_DisplayName",
+      "source_crc32": 2030416354,
+      "translation": "Выдвинуть: сборщик налогов"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownServants_TownClerk_DisplayName",
+      "source_crc32": 1636913770,
+      "translation": "Выдвинуть: городской писарь"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownServants_TownServantA_DisplayName",
+      "source_crc32": 2199515380,
+      "translation": "Выдвинуть: городской служащий - место А"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownServants_TownServantB_DisplayName",
+      "source_crc32": 2443992858,
+      "translation": "Выдвинуть: городской служащий - место Б"
+    },
+    {
+      "key": "ApplyForOffice_Family_TownCouncil_Treasurer_DisplayName",
+      "source_crc32": 2058685052,
+      "translation": "Выдвинуть: казначей"
+    },
+    {
+      "key": "Courting_GiveGift_CheeseWheel_Description",
+      "source_crc32": 2307409515,
+      "translation": "Ничто не говорит о хорошем вкусе так, как нелепо огромная головка сыра с вырезанными на ней вашими инициалами. Прекрасный случай блеснуть богатством и поразить любимого человека безупречным вкусом. В сыре, разумеется."
+    },
+    {
+      "key": "PoisonFamilyMember_Description_extra1",
+      "source_crc32": 85352798,
+      "translation": "Теперь - о теле…"
+    },
+    {
+      "key": "PreachingListenTo_Option_Object",
+      "source_crc32": 1157104109,
+      "translation": "Возразить"
+    },
+    {
+      "key": "UnlockProfession_Joiner_DisplayName",
+      "source_crc32": 4152194971,
+      "translation": "Получить лицензию столяра"
+    },
+    {
+      "key": "UnlockProfession_MoneyLender_DisplayName",
+      "source_crc32": 2899237634,
+      "translation": "Получить лицензию ростовщика"
+    },
+    {
+      "key": "UnlockProfession_Perfumer_DisplayName",
+      "source_crc32": 490307054,
+      "translation": "Получить лицензию парфюмера"
+    },
+    {
+      "key": "UnlockProfession_Smith_DisplayName",
+      "source_crc32": 1408773279,
+      "translation": "Получить лицензию кузнеца"
+    },
+    {
+      "key": "UnlockProfession_StoneMason_DisplayName",
+      "source_crc32": 1232475261,
+      "translation": "Получить лицензию каменщика"
+    },
+    {
+      "key": "UnlockProfession_Tailor_DisplayName",
+      "source_crc32": 4069923979,
+      "translation": "Получить лицензию портного"
+    },
+    {
+      "key": "UnlockProfession_Trader_DisplayName",
+      "source_crc32": 872452651,
+      "translation": "Получить лицензию торговца"
+    },
+    {
+      "key": "UnlockProfession_StoneMason_Description",
+      "source_crc32": 1722460853,
+      "translation": "Получите лицензию {P_MAS_C}каменщика{##} и посвятите себя прямым линиям - кое-кого они успокаивают."
+    },
+    {
+      "key": "UnlockProfession_Smith_Description",
+      "source_crc32": 1045847169,
+      "translation": "Получите лицензию {P_SMI_C}кузнеца{##} и встаньте к горну, где железо уступает лишь жару, силе и терпению."
+    },
+    {
+      "key": "UnlockProfession_Tailor_Description",
+      "source_crc32": 2564797650,
+      "translation": "Получите лицензию {P_TAI_C}портного{##} и кроите платье по мерке тела и честолюбия."
+    },
+    {
+      "key": "UnlockProfession_Alchemist_DisplayName",
+      "source_crc32": 2671082280,
+      "translation": "Получить лицензию алхимика"
+    },
+    {
+      "key": "UnlockProfession_Innkeeper_DisplayName",
+      "source_crc32": 97021628,
+      "translation": "Получить лицензию трактирщика"
+    },
+    {
+      "key": "UnlockProfession_Alchemist_Description",
+      "source_crc32": 659838783,
+      "translation": "Получите лицензию {P_ALC_C}алхимика{##} и займитесь опытами, где любопытство вознаграждается, а взрывы порой поучительны."
+    },
+    {
+      "key": "PrayForOthers_Description",
+      "source_crc32": 1795671622,
+      "translation": "Помолитесь за кого-нибудь, прося удачу повернуться к нему лицом."
+    },
+    {
+      "key": "GiveProfession_Preacher_DisplayName",
+      "source_crc32": 2666042998,
+      "translation": "Посвятить члена семьи в проповедники"
+    },
+    {
+      "key": "SetFree_DisplayName",
+      "source_crc32": 3524070580,
+      "translation": "Велеть освободить"
+    },
+    {
+      "key": "ActivityOutdoor_DisplayName_alt",
+      "source_crc32": 1435497344,
+      "translation": "Выездная"
+    },
+    {
+      "key": "ActivityOutdoor_DisplayName",
+      "source_crc32": 3097191548,
+      "translation": "Выездная задача"
+    },
+    {
+      "key": "ActivityOutdoor_DisplayName_plural",
+      "source_crc32": 1643562201,
+      "translation": "Выездные задачи"
+    },
+    {
+      "key": "ActivityOutdoor_Description",
+      "source_crc32": 4261477091,
+      "translation": "Выездные задачи похожи на обычные {A_ACT_C}задачи{##}, но работникам приходится покидать здание, выполнять работу на месте и возвращаться."
+    },
+    {
+      "key": "OverseeProduction_DisplayName",
+      "source_crc32": 1994544574,
+      "translation": "Следить за работой"
+    },
+    {
+      "key": "BlackenSomeonesName_Description",
+      "source_crc32": 3709274905,
+      "translation": "Передайте {CR_EVI_C}улики{##}, чтобы испортить чужое {CHAR_STA_C}отношение{##} к грешнику. {S_RHE_C}Красноречие{##} решает: ваше - чтобы убедить, их - чтобы устоять."
+    },
+    {
+      "key": "ResignDynasty_DisplayName",
+      "source_crc32": 3847621601,
+      "translation": "Передать бразды"
+    },
+    {
+      "key": "PayOneTimeBonus_DisplayName",
+      "source_crc32": 3416521932,
+      "translation": "Выдать наградные"
+    },
+    {
+      "key": "BuyIndulgence_Description",
+      "source_crc32": 2191525428,
+      "translation": "Заплатите церкви, чтобы облегчить бремя {CR_CRI_C}грехов{##}. Монета очищает совесть быстрее молитвы."
+    },
+    {
+      "key": "Sabotage_Description",
+      "source_crc32": 621019070,
+      "translation": "Заплатите нужным людям за небольшой переполох - пожар, порчу, простой. {S_STE_C}Плутовство{##} поможет найти того, кто не завалит дело… и не назовёт имён."
+    },
+    {
+      "key": "ShowSkills_Combat_Option",
+      "source_crc32": 4068156151,
+      "translation": "Разыграть боевую сцену"
+    },
+    {
+      "key": "ScentEnhancement_Description",
+      "source_crc32": 1825239704,
+      "translation": "Парфюмеры делают слаще воздух, настроение и прибыль. Мало кто устоит перед столь {B_PARAM_ATT_C}манящим{##} местом. \nПоручите дело работнику, сильному в {S_HAN_C}ремесле{##}."
+    },
+    {
+      "key": "Espionage_Method_Personal_Label",
+      "source_crc32": 685535571,
+      "translation": "Лично"
+    },
+    {
+      "key": "Espionage_Personal_DisplayName",
+      "source_crc32": 38367733,
+      "translation": "Личная слежка"
+    },
+    {
+      "key": "Espionage_Method_Personal_DisplayName",
+      "source_crc32": 281199989,
+      "translation": "Лично: сделать всё самому"
+    },
+    {
+      "key": "PestControl_DisplayName",
+      "source_crc32": 670856988,
+      "translation": "Травля вредителей"
+    },
+    {
+      "key": "ActivateProfession_DisplayName",
+      "source_crc32": 1842846852,
+      "translation": "Выбрать занятие"
+    },
+    {
+      "key": "PickpocketQuarter_DisplayName",
+      "source_crc32": 2754472394,
+      "translation": "Карманная кража"
+    },
+    {
+      "key": "Pickpocketing_DisplayName",
+      "source_crc32": 2754472394,
+      "translation": "Карманная кража"
+    },
+    {
+      "key": "FrameForCrime_DisplayName",
+      "source_crc32": 1931847265,
+      "translation": "Подбросить улики"
+    },
+    {
+      "key": "ShowSkills_Handicraft_Option",
+      "source_crc32": 49058564,
+      "translation": "Сыграть на инструменте"
+    },
+    {
+      "key": "PoisonFamilyMember_DisplayName",
+      "source_crc32": 3425775086,
+      "translation": "Отравить"
+    },
+    {
+      "key": "Dinner_Level_02",
+      "source_crc32": 3067718216,
+      "translation": "Скудный"
+    },
+    {
+      "key": "Pray_DisplayName",
+      "source_crc32": 3873821545,
+      "translation": "Молиться"
+    },
+    {
+      "key": "PrayForOthers_DisplayName",
+      "source_crc32": 936161283,
+      "translation": "Молиться за других"
+    },
+    {
+      "key": "PrayInShrine_DisplayName",
+      "source_crc32": 1165144796,
+      "translation": "Помолиться за детей"
+    },
+    {
+      "key": "PrayInShrine02_DisplayName",
+      "source_crc32": 2723758967,
+      "translation": "Помолиться за работников"
+    },
+    {
+      "key": "PrayInShrine_DisplayName_alt",
+      "source_crc32": 1312625377,
+      "translation": "Молиться в часовне"
+    },
+    {
+      "key": "PrepareBardPerformance_DisplayName",
+      "source_crc32": 779939033,
+      "translation": "Подготовить выступление барда"
+    },
+    {
+      "key": "BanditContract02_Description",
+      "source_crc32": 3082926322,
+      "translation": "Явитесь к барону-разбойнику и попросите надёжную шайку из его людей. Выложите достойную плату и добрую сталь - и получите {I_ROBCON_02_C}договор{##}, по которому бывалые лиходеи послужат вашему делу."
+    },
+    {
+      "key": "PressCharges_DisplayName",
+      "source_crc32": 1978924530,
+      "translation": "Подать в суд"
+    },
+    {
+      "key": "PromoteWorker_Button",
+      "source_crc32": 2512286276,
+      "translation": "Повысить"
+    },
+    {
+      "key": "PromoteWorker_DisplayName",
+      "source_crc32": 2515579529,
+      "translation": "Повысить работника"
+    },
+    {
+      "key": "UnlockProfession_Robber_DisplayName",
+      "source_crc32": 1525083371,
+      "translation": "Доказать разбойникам, чего вы стоите"
+    },
+    {
+      "key": "TeachExpertise_Description",
+      "source_crc32": 898019452,
+      "translation": "Обучите работника на деле. Полученный {CHAR_XP_C}опыт{##} приблизит его к {A_TEAEXP_C}повышению{##}."
+    },
+    {
+      "key": "Ascension_C_01_DisplayName",
+      "source_crc32": 1199892255,
+      "translation": "Купить дворянские права"
+    },
+    {
+      "key": "TrainSkill_Handicraft_Description",
+      "source_crc32": 4182908553,
+      "translation": "Практикуйтесь и улучшите своё {S_HAN_C}ремесло{##}."
+    },
+    {
+      "key": "LivePerformance_DisplayName",
+      "source_crc32": 1656533837,
+      "translation": "Представление"
+    },
+    {
+      "key": "ShowSkills_Description",
+      "source_crc32": 229508966,
+      "translation": "Устройте представление ради пары монет и рукоплесканий. Особенно по душе простому люду и работникам."
+    },
+    {
+      "key": "HireManager_Description",
+      "source_crc32": 2699072973,
+      "translation": "Доверьте предприятие способному управляющему. Можно выбрать даже члена семьи, если у него есть нужная {P_C}лицензия{##}. Он возьмёт на себя повседневные мелочи, о которых вам думать не хочется, а предприятие - и его прибыль - останутся вашими."
+    },
+    {
+      "key": "TryCatchingBeeQueen_Description_extra1",
+      "source_crc32": 2256882621,
+      "translation": "Пчелиные матки редки. Чем больше {B_PER_BEEHIV_C}ульев{##} в городе, тем труднее найти свободную матку."
+    },
+    {
+      "key": "LowerUnrest_DisplayName",
+      "source_crc32": 1155831767,
+      "translation": "Унять волнения"
+    },
+    {
+      "key": "WeddingToast_Description",
+      "source_crc32": 3818898612,
+      "translation": "Поднимите кубок и произнесите тост за любовь, дружбу и благополучное будущее! Покорите сердца гостей парой красивых слов и изрядным количеством пива."
+    },
+    {
+      "key": "ShowSkills_Rhetoric_Option",
+      "source_crc32": 1314498126,
+      "translation": "Прочесть стихи"
+    },
+    {
+      "key": "PromoteWorker_Description",
+      "source_crc32": 2397986050,
+      "translation": "Отметьте накопленный опыт повышением. Работник станет {CHAR_PRO_C}производительнее{##}, реже будет попадать в {B_PARAM_ACCPRO_ACC}несчастные случаи{##} - и оправдает прибавку к жалованью."
+    },
+    {
+      "key": "SewClothes_DisplayName",
+      "source_crc32": 4051970166,
+      "translation": "Пошив наряда"
+    },
+    {
+      "key": "TrainLivePerformance_DisplayName",
+      "source_crc32": 1789389360,
+      "translation": "Репетиция"
+    },
+    {
+      "key": "StrengthenIronBars_DisplayName",
+      "source_crc32": 414541104,
+      "translation": "Укрепление защиты"
+    },
+    {
+      "key": "ImproveCarts_Description",
+      "source_crc32": 449453373,
+      "translation": "Укрепите повозку новыми балками и тугими креплениями - лучше всего это удаётся умелым в {S_HAN_C}ремесле{##} рукам."
+    },
+    {
+      "key": "ExterminateBees_Description",
+      "source_crc32": 302207581,
+      "translation": "Избавьтесь от пчёл в улье навсегда. Каковы бы ни были причины, семья уже не вернётся."
+    },
+    {
+      "key": "DismissBuildingMaster_Description",
+      "source_crc32": 2372845957,
+      "translation": "Отстраните управляющего и ведите дело в здании сами. Он сможет управлять другими зданиями - если его работа и нрав вас устраивают."
+    },
+    {
+      "key": "RenameAndBaptizeYourChild_DisplayName",
+      "source_crc32": 3900222798,
+      "translation": "Переименовать и крестить ребёнка"
+    },
+    {
+      "key": "Repair_DisplayName",
+      "source_crc32": 1170269020,
+      "translation": "Ремонт"
+    },
+    {
+      "key": "Snitch_DisplayName",
+      "source_crc32": 2177435838,
+      "translation": "Донести слухи"
+    },
+    {
+      "key": "ResignFromOffice_PromptButton",
+      "source_crc32": 1698814789,
+      "translation": "В отставку"
+    },
+    {
+      "key": "ResignFromOffice_DisplayName",
+      "source_crc32": 3602782872,
+      "translation": "Уйти в отставку"
+    },
+    {
+      "key": "LowerDevastation_DisplayName",
+      "source_crc32": 2630771705,
+      "translation": "Восстановить инфраструктуру"
+    },
+    {
+      "key": "CleanService_DisplayName",
+      "source_crc32": 1969676682,
+      "translation": "Обустроить улицы"
+    },
+    {
+      "key": "ApplyForOffice_Button_RetractApplication",
+      "source_crc32": 3940720961,
+      "translation": "Отозвать прошение"
+    },
+    {
+      "key": "PhysicianCheck_DisplayName",
+      "source_crc32": 3763959634,
+      "translation": "Обычный осмотр"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_Archbishop_DisplayName",
+      "source_crc32": 2052804953,
+      "translation": "Баллотироваться: архиепископ"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_Bishop_DisplayName",
+      "source_crc32": 2747982294,
+      "translation": "Баллотироваться: епископ"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_BuildingMaster_DisplayName",
+      "source_crc32": 468545293,
+      "translation": "Баллотироваться: главный строитель"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_Colonel_DisplayName",
+      "source_crc32": 4206361087,
+      "translation": "Баллотироваться: полковник"
+    },
+    {
+      "key": "ApplyForOffice_TownServants_CouncilAssistant_DisplayName",
+      "source_crc32": 1601297638,
+      "translation": "Баллотироваться: помощник совета"
+    },
+    {
+      "key": "ApplyForOffice_Informants_CouncilInformer_DisplayName",
+      "source_crc32": 1396920155,
+      "translation": "Баллотироваться: осведомитель совета"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_CourtCouncilor_DisplayName",
+      "source_crc32": 2965211003,
+      "translation": "Баллотироваться: придворный советник"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_CustomsMaster_DisplayName",
+      "source_crc32": 747084469,
+      "translation": "Баллотироваться: начальник таможни"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_Deacon_DisplayName",
+      "source_crc32": 1611796786,
+      "translation": "Баллотироваться: диакон"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_DungeonMaster_DisplayName",
+      "source_crc32": 762745596,
+      "translation": "Баллотироваться: тюремщик"
+    },
+    {
+      "key": "ApplyForOffice_TownBailiffs_FencingMaster_DisplayName",
+      "source_crc32": 3117067268,
+      "translation": "Баллотироваться: мастер фехтования"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_GrandInquisitor_DisplayName",
+      "source_crc32": 1005332811,
+      "translation": "Баллотироваться: великий инквизитор"
+    },
+    {
+      "key": "ApplyForOffice_TownBailiffs_Guardsman_DisplayName",
+      "source_crc32": 3089760463,
+      "translation": "Баллотироваться: караульный"
+    },
+    {
+      "key": "ApplyForOffice_Informants_Informer_DisplayName",
+      "source_crc32": 4221202102,
+      "translation": "Баллотироваться: осведомитель"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_Inquisitor_DisplayName",
+      "source_crc32": 299399719,
+      "translation": "Баллотироваться: инквизитор"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_Judge_DisplayName",
+      "source_crc32": 1991076498,
+      "translation": "Баллотироваться: судья"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_LeaseMaster_DisplayName",
+      "source_crc32": 847517634,
+      "translation": "Баллотироваться: распорядитель аренды"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_Mayor_DisplayName",
+      "source_crc32": 694363801,
+      "translation": "Баллотироваться: бургомистр"
+    },
+    {
+      "key": "ApplyForOffice_TownBailiffs_NightWatchmanA_DisplayName",
+      "source_crc32": 1126111266,
+      "translation": "Баллотироваться: ночной сторож - место А"
+    },
+    {
+      "key": "ApplyForOffice_TownBailiffs_NightWatchmanB_DisplayName",
+      "source_crc32": 1370142668,
+      "translation": "Баллотироваться: ночной сторож - место Б"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_Prefect_DisplayName",
+      "source_crc32": 2716116512,
+      "translation": "Баллотироваться: префект"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_PrivyCouncilor_DisplayName",
+      "source_crc32": 4195373395,
+      "translation": "Баллотироваться: тайный советник"
+    },
+    {
+      "key": "ApplyForOffice_Informants_SpyA_DisplayName",
+      "source_crc32": 3117617288,
+      "translation": "Баллотироваться: шпион - место А"
+    },
+    {
+      "key": "ApplyForOffice_Informants_SpyB_DisplayName",
+      "source_crc32": 2875637606,
+      "translation": "Баллотироваться: шпион - место Б"
+    },
+    {
+      "key": "ApplyForOffice_StateAuthority_Steward_DisplayName",
+      "source_crc32": 3091595533,
+      "translation": "Баллотироваться: гофмейстер"
+    },
+    {
+      "key": "ApplyForOffice_ChurchAuthority_TaxCollector_DisplayName",
+      "source_crc32": 3199806726,
+      "translation": "Баллотироваться: сборщик налогов"
+    },
+    {
+      "key": "ApplyForOffice_TownServants_TownClerk_DisplayName",
+      "source_crc32": 2149436515,
+      "translation": "Баллотироваться: городской писарь"
+    },
+    {
+      "key": "ApplyForOffice_TownServants_TownServantA_DisplayName",
+      "source_crc32": 3952513737,
+      "translation": "Баллотироваться: городской служащий - место А"
+    },
+    {
+      "key": "ApplyForOffice_TownServants_TownServantB_DisplayName",
+      "source_crc32": 4179836199,
+      "translation": "Баллотироваться: городской служащий - место Б"
+    },
+    {
+      "key": "ApplyForOffice_TownCouncil_Treasurer_DisplayName",
+      "source_crc32": 380033435,
+      "translation": "Баллотироваться: казначей"
+    },
+    {
+      "key": "Sabotage_DisplayName",
+      "source_crc32": 3732973620,
+      "translation": "Саботаж"
+    },
+    {
+      "key": "SmearReputation_DisplayName",
+      "source_crc32": 559027162,
+      "translation": "Расстроить ухаживание"
+    },
+    {
+      "key": "DeliverEulogy_Description",
+      "source_crc32": 1611437815,
+      "translation": "Скажите несколько сердечных слов об усопшем: вспомните, как вы были близки, и заодно напомните всем, почему именно вас покойный любил больше всех."
+    },
+    {
+      "key": "PrayInShrine_Descriprition",
+      "source_crc32": 2200027383,
+      "translation": "Тихо помолитесь за своих детей, пожелав им {SE_BLE_C}благословения{##} и крепкого {CHAR_HP_C}здоровья{##}."
+    },
+    {
+      "key": "PickpocketCitizen_DisplayName",
+      "source_crc32": 1348076245,
+      "translation": "Обман и кража"
+    },
+    {
+      "key": "ScentEnhancement_DisplayName",
+      "source_crc32": 4071258053,
+      "translation": "Усиление аромата"
+    },
+    {
+      "key": "ScholarlyDebate_DisplayName",
+      "source_crc32": 2318834306,
+      "translation": "Затеять учёный спор"
+    },
+    {
+      "key": "WreckedCaravan_DisplayName",
+      "source_crc32": 3285973594,
+      "translation": "Обыскать разбитый караван"
+    },
+    {
+      "key": "GatherIngredients_Description",
+      "source_crc32": 921602268,
+      "translation": "Обыщите окрестности в поисках полезных ингредиентов. Умелые руки - те, что сильны в {S_HAN_C}ремесле{##}, - приносят лучшие находки."
+    },
+    {
+      "key": "WreckedCaravan_Description",
+      "source_crc32": 3446626105,
+      "translation": "Обыщите разбитый караван - даже обломки принесут немного монет. Собирайте, что осталось, пока не выгребете всё подчистую."
+    },
+    {
+      "key": "UnlockProfession_Joiner_Description",
+      "source_crc32": 2229560183,
+      "translation": "Получите лицензию {P_JOI_C}столяра{##} и займитесь ремеслом, где ладный шип держит крепко - без оглядки на чужое железо."
+    },
+    {
+      "key": "UnlockProfession_Perfumer_Description",
+      "source_crc32": 2727780997,
+      "translation": "Получите лицензию {P_PER_C}парфюмера{##} и торгуйте ароматами столь изысканными, что они облагородят даже не самые удачные запахи города."
+    },
+    {
+      "key": "UnlockProfession_Innkeeper_Description",
+      "source_crc32": 303315031,
+      "translation": "Получите лицензию {P_INN_C}трактирщика{##} и правьте домом, где льётся эль и свободно гуляют тайны."
+    },
+    {
+      "key": "TryCatchingBeeQueen_Description_extra2",
+      "source_crc32": 3352860856,
+      "translation": "Добыть её - дело {S_C}навыка{##}: пчёлы не сдаются без {S_COM_C}боя{##}."
+    },
+    {
+      "key": "SeekCure_DisplayName",
+      "source_crc32": 1589537007,
+      "translation": "Пройти лечение"
+    },
+    {
+      "key": "EquipArmor_AvailableItems",
+      "source_crc32": 440655514,
+      "translation": "Выберите доспех из личного инвентаря"
+    },
+    {
+      "key": "ImproveSkill_Description",
+      "source_crc32": 3528715049,
+      "translation": "Выберите навык, чтобы повысить его на одно очко."
+    },
+    {
+      "key": "TrainSkill_Description",
+      "source_crc32": 1155712413,
+      "translation": "Какой навык повысить на одно очко?"
+    },
+    {
+      "key": "EquipWeapon_AvailableItems",
+      "source_crc32": 56641476,
+      "translation": "Выберите оружие из личного инвентаря"
+    },
+    {
+      "key": "AttackCart_SelectAttackers",
+      "source_crc32": 3935544726,
+      "translation": "Выберите нападающих"
+    },
+    {
+      "key": "Dinner_SelectDinnerMode_Prompt",
+      "source_crc32": 652934564,
+      "translation": "Выберите угощение"
+    },
+    {
+      "key": "ChangeLaw_SelectValue_Level_Prompt",
+      "source_crc32": 3730922708,
+      "translation": "Выберите уровень:"
+    },
+    {
+      "key": "ChangeLaw_SelectValue_Number_Prompt",
+      "source_crc32": 3730922708,
+      "translation": "Укажите значение:"
+    },
+    {
+      "key": "ActivateProfession_Description",
+      "source_crc32": 1869606850,
+      "translation": "Выберите {P_ACTPRO_C}текущую профессию{##}."
+    },
+    {
+      "key": "SellBuilding_DisplayName",
+      "source_crc32": 3323232939,
+      "translation": "Продать здание"
+    },
+    {
+      "key": "SellEvidence_DisplayName",
+      "source_crc32": 175695087,
+      "translation": "Продать улику"
+    },
+    {
+      "key": "Courting_SendGift_DisplayName",
+      "source_crc32": 844748889,
+      "translation": "Послать подарок своей любви"
+    },
+    {
+      "key": "StreetSermon_Description",
+      "source_crc32": 706449603,
+      "translation": "Отправьте священника нести вашу веру по улицам. Чем убедительнее его {S_RHE_C}красноречие{##}, тем щедрее будут пожертвования."
+    },
+    {
+      "key": "TrainLivePerformance_Description",
+      "source_crc32": 1184600777,
+      "translation": "Отправьте работника на репетицию, чтобы вечером он был готов {A_ACT_LIVPER_C}выйти на сцену{##}. Выступить можно и без неё, но {ST_CHR_TRALIVPER_C}готовый к выступлению{##} артист соберёт больше зрителей."
+    },
+    {
+      "key": "SendHelp_Description",
+      "source_crc32": 1193550038,
+      "translation": "Пошлите монеты с письмом поддержки. \nЭто может быть благодарность, примирение или простая доброта - жест от чистого сердца, не ждущий ничего взамен."
+    },
+    {
+      "key": "GuardPatrol_Description",
+      "source_crc32": 352124036,
+      "translation": "Отправьте стражу патрулировать {C_QUA_C}квартал{##}. Её присутствие обычно снижает {QUA_CRI_C}преступность{##} и гасит растущие {QUA_UNR_C}волнения{##}."
+    },
+    {
+      "key": "Espionage_Hired_High_Description",
+      "source_crc32": 4159105930,
+      "translation": "Пошлите мастера своего дела. Если {CR_EVI_C}улики{##} есть, он их найдёт - и, пожалуй, узнает куда больше, чем ему заплачено."
+    },
+    {
+      "key": "Espionage_Description",
+      "source_crc32": 1954541154,
+      "translation": "Пошлите шпионов раскопать {CR_EVI_C}улики{##} или пустите в ход собственное {S_STE_C}плутовство{##}, чтобы вытащить на свет то, что другие хотели бы закопать: всякая тайна - славный козырь."
+    },
+    {
+      "key": "Pickpocketing_Description",
+      "source_crc32": 1635198686,
+      "translation": "Пошлите воров в {C_QUA_C}квартал{##} облегчить чужие кошели. Чем больше в шайке {S_STE_C}плутовства{##}, тем богаче добыча."
+    },
+    {
+      "key": "AttackCart_Description",
+      "source_crc32": 3200368750,
+      "translation": "Пошлите головорезов напасть на повозку. Если она {A_HIRESC_C}без охраны{##} - лёгкая нажива; если нет - ждите {CO_COM_C}боя{##}."
+    },
+    {
+      "key": "StrengthenIronBars_Description",
+      "source_crc32": 1194223984,
+      "translation": "Пошлите работников укрепить слабые места здания решётками и петлями покрепче - лучше всего с этим справятся умелые в {S_HAN_C}ремесле{##}."
+    },
+    {
+      "key": "FrameForCrime_Description",
+      "source_crc32": 3980740891,
+      "translation": "Пошлите воров, что поискуснее в {S_STE_C}плутовстве{##}, подбросить другому улики - и свалить на него {CR_CRI_C}преступление{##}, совершённое вами."
+    },
+    {
+      "key": "StealItemStorefrontOrMarketplace_Description",
+      "source_crc32": 4106030799,
+      "translation": "Пошлите самых искушённых в {S_STE_C}плутовстве{##} воров в лавку или на рынок стащить товар. Помешать им может лишь {B_PARAM_BURPRO_C}защищённость{##} здания - если хозяин не был так глуп, чтобы ею пренебречь."
+    },
+    {
+      "key": "InspectBusiness_Description",
+      "source_crc32": 3127301353,
+      "translation": "Отправьте самого {S_STE_C}ушлого{##} стражника проверить чужое предприятие. Возможно, найдутся {CR_EVI_C}улики{##} против хозяина."
+    },
+    {
+      "key": "RobberWaylayCarts_Description",
+      "source_crc32": 2875949727,
+      "translation": "Пошлите разбойников устроить засаду и подстеречь проезжающую повозку. Плохо {A_HIRESC_C}охраняемые{##} обозы - лёгкая добыча, прочие могут дать {CO_COM_C}бой{##}."
+    },
+    {
+      "key": "PickpocketQuarter_Description",
+      "source_crc32": 3118368930,
+      "translation": "Пошлите воров обчищать карманы в {C_QUA_C}квартале{##}. Чем больше в них {S_STE_C}плутовства{##} и чем многолюднее место, тем богаче добыча."
+    },
+    {
+      "key": "SewClothes_Description",
+      "source_crc32": 2405456044,
+      "translation": "Отправьте работников к заказчику на дом: снять мерки и сшить платье по его вкусу. \n\nПри умелом {S_HAN_C}ремесле{##} этот штрих изысканности улучшит {CHAR_STA_C}отношение{##} горожан к нему."
+    },
+    {
+      "key": "ProtectCityCouncil_Description",
+      "source_crc32": 1357033945,
+      "translation": "Отправьте самых {S_COM_C}крепких{##} стражников охранять ратушу. Совет вознаградит за службу - и тем щедрее, чем дороже {QUA_REP_C}репутация{##} квартала, которую вы бережёте."
+    },
+    {
+      "key": "Serenade_DisplayName",
+      "source_crc32": 1815216146,
+      "translation": "Спеть серенаду"
+    },
+    {
+      "key": "Ascension_B_01_DisplayName",
+      "source_crc32": 1474168367,
+      "translation": "Служить виночерпием (1/3)"
+    },
+    {
+      "key": "Ascension_B_02_DisplayName",
+      "source_crc32": 2115416797,
+      "translation": "Служить виночерпием (2/3)"
+    }
+  ]
+}

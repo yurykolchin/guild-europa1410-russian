@@ -1,0 +1,11 @@
+{
+  "resource": "Game",
+  "namespace": "GuildInputSettings",
+  "entries": [
+    {
+      "key": "GuildInputDefaults",
+      "source_crc32": 782994320,
+      "translation": "Схемы по умолчанию"
+    }
+  ]
+}

@@ -1,0 +1,2096 @@
+{
+  "resource": "Game",
+  "namespace": "AmbientBackstories",
+  "entries": [
+    {
+      "key": "LumberWorker_014",
+      "source_crc32": 3022190527,
+      "translation": "Страх падающих ветвей"
+    },
+    {
+      "key": "Alchemist_021",
+      "source_crc32": 2141548717,
+      "translation": "Боится открытого огня"
+    },
+    {
+      "key": "Innkeeper_011",
+      "source_crc32": 3746028779,
+      "translation": "Всегда за стойкой"
+    },
+    {
+      "key": "Tailor_014",
+      "source_crc32": 2575007276,
+      "translation": "Иглы всегда при себе"
+    },
+    {
+      "key": "Moneylender_011",
+      "source_crc32": 4155144681,
+      "translation": "Всегда со счётной книгой"
+    },
+    {
+      "key": "Joiner_007",
+      "source_crc32": 2403972983,
+      "translation": "Вечно в опилках"
+    },
+    {
+      "key": "Innkeeper_024",
+      "source_crc32": 2047291145,
+      "translation": "Всегда найдёт свободное место"
+    },
+    {
+      "key": "Priest_009",
+      "source_crc32": 195936995,
+      "translation": "Цитата из Писания наготове"
+    },
+    {
+      "key": "Entertainer_008",
+      "source_crc32": 3226049105,
+      "translation": "Байка на любой случай"
+    },
+    {
+      "key": "Innkeeper_004",
+      "source_crc32": 3226049105,
+      "translation": "Байка на любой случай"
+    },
+    {
+      "key": "MineWorker_010",
+      "source_crc32": 3668437185,
+      "translation": "Вечно вслушивается в треск"
+    },
+    {
+      "key": "Perfumer_002",
+      "source_crc32": 3678726093,
+      "translation": "Всегда приятно пахнет"
+    },
+    {
+      "key": "Ghoul_007",
+      "source_crc32": 3736157007,
+      "translation": "Вечно пахнет землёй"
+    },
+    {
+      "key": "Necromancer_012",
+      "source_crc32": 1009902579,
+      "translation": "Вечный запах ладана"
+    },
+    {
+      "key": "Alchemist_009",
+      "source_crc32": 936077190,
+      "translation": "Вечный запах серы"
+    },
+    {
+      "key": "QuarryWorker_010",
+      "source_crc32": 239929781,
+      "translation": "Следит за шатким камнем"
+    },
+    {
+      "key": "Entertainer_022",
+      "source_crc32": 1870802932,
+      "translation": "Всегда в костюме"
+    },
+    {
+      "key": "Civil_016",
+      "source_crc32": 343176284,
+      "translation": "Мечты о торговле"
+    },
+    {
+      "key": "Ghoul_016",
+      "source_crc32": 1716519442,
+      "translation": "Набожные обходят стороной"
+    },
+    {
+      "key": "Necromancer_015",
+      "source_crc32": 1716519442,
+      "translation": "Набожные обходят стороной"
+    },
+    {
+      "key": "Prisoner_013",
+      "source_crc32": 157956834,
+      "translation": "В ожидании приговора"
+    },
+    {
+      "key": "Prisoner_002",
+      "source_crc32": 3508732653,
+      "translation": "В ожидании суда"
+    },
+    {
+      "key": "Trader_015",
+      "source_crc32": 626602555,
+      "translation": "Жёсткий торг"
+    },
+    {
+      "key": "Priest_011",
+      "source_crc32": 1650361946,
+      "translation": "Слушает лучше, чем проповедует"
+    },
+    {
+      "key": "Priest_010",
+      "source_crc32": 347338005,
+      "translation": "Проповедует лучше, чем слушает"
+    },
+    {
+      "key": "Entertainer_011",
+      "source_crc32": 1503120279,
+      "translation": "На сцене лучше, чем в жизни"
+    },
+    {
+      "key": "Innkeeper_021",
+      "source_crc32": 3161675218,
+      "translation": "С гостями проще, чем с роднёй"
+    },
+    {
+      "key": "Blacksmith_010",
+      "source_crc32": 3249318515,
+      "translation": "Железо понятнее людей"
+    },
+    {
+      "key": "Joiner_006",
+      "source_crc32": 4000960891,
+      "translation": "Дерево понятнее людей"
+    },
+    {
+      "key": "Entertainer_019",
+      "source_crc32": 906925967,
+      "translation": "Однажды освистали и выгнали"
+    },
+    {
+      "key": "Entertainer_001",
+      "source_crc32": 3690653550,
+      "translation": "Сцена в крови"
+    },
+    {
+      "key": "TownWatch_013",
+      "source_crc32": 3715196036,
+      "translation": "Разнимает драки в трактире"
+    },
+    {
+      "key": "StoneMason_007",
+      "source_crc32": 4195978135,
+      "translation": "Строит на века"
+    },
+    {
+      "key": "Joiner_014",
+      "source_crc32": 1252150678,
+      "translation": "Полквартала - своих рук дело"
+    },
+    {
+      "key": "Thief_002",
+      "source_crc32": 2428369892,
+      "translation": "Взломы"
+    },
+    {
+      "key": "Alchemist_010",
+      "source_crc32": 1739640821,
+      "translation": "На счету - сожжённая мастерская"
+    },
+    {
+      "key": "Blacksmith_019",
+      "source_crc32": 782713980,
+      "translation": "Не один прожжённый фартук"
+    },
+    {
+      "key": "Trader_011",
+      "source_crc32": 224372394,
+      "translation": "Закупки оптом"
+    },
+    {
+      "key": "QuarryWorker_014",
+      "source_crc32": 2027050923,
+      "translation": "Ровный раскол камня"
+    },
+    {
+      "key": "RobberBaron_003",
+      "source_crc32": 1202946385,
+      "translation": "Грабёж караванов"
+    },
+    {
+      "key": "StoneMason_004",
+      "source_crc32": 3959260407,
+      "translation": "Резьба на глаз"
+    },
+    {
+      "key": "Prisoner_011",
+      "source_crc32": 4149360324,
+      "translation": "Поимка с поличным"
+    },
+    {
+      "key": "Civil_014",
+      "source_crc32": 3132860946,
+      "translation": "Вечно просит взаймы"
+    },
+    {
+      "key": "Priest_013",
+      "source_crc32": 1974301205,
+      "translation": "Дитя церкви"
+    },
+    {
+      "key": "Prisoner_006",
+      "source_crc32": 2083073298,
+      "translation": "Отрицает вину"
+    },
+    {
+      "key": "Alchemist_018",
+      "source_crc32": 3748310003,
+      "translation": "Байки о сотворённом золоте"
+    },
+    {
+      "key": "Blacksmith_018",
+      "source_crc32": 80597324,
+      "translation": "Якобы знает лучшую руду"
+    },
+    {
+      "key": "Entertainer_014",
+      "source_crc32": 729312024,
+      "translation": "Якобы знает королевского шута"
+    },
+    {
+      "key": "Ghoul_009",
+      "source_crc32": 111943524,
+      "translation": "Коллекция костей"
+    },
+    {
+      "key": "Alchemist_003",
+      "source_crc32": 2190835740,
+      "translation": "Коллекция редких ингредиентов"
+    },
+    {
+      "key": "Perfumer_003",
+      "source_crc32": 523089936,
+      "translation": "Коллекция редких масел"
+    },
+    {
+      "key": "Alchemist_017",
+      "source_crc32": 347638145,
+      "translation": "Коллекция мертвечины"
+    },
+    {
+      "key": "Entertainer_021",
+      "source_crc32": 3029535402,
+      "translation": "Коллекция странных инструментов"
+    },
+    {
+      "key": "Necromancer_005",
+      "source_crc32": 2255145880,
+      "translation": "Коллекция странных реликвий"
+    },
+    {
+      "key": "Moneylender_008",
+      "source_crc32": 1344447382,
+      "translation": "Взыскивает в срок"
+    },
+    {
+      "key": "Prisoner_003",
+      "source_crc32": 3465678245,
+      "translation": "Осуждение за кражу"
+    },
+    {
+      "key": "Ghoul_003",
+      "source_crc32": 44395844,
+      "translation": "Сбор трупов"
+    },
+    {
+      "key": "Moneylender_005",
+      "source_crc32": 750851804,
+      "translation": "Считает каждый грош"
+    },
+    {
+      "key": "MineWorker_004",
+      "source_crc32": 2077427275,
+      "translation": "Вечно в пыли"
+    },
+    {
+      "key": "LumberWorker_005",
+      "source_crc32": 3487250410,
+      "translation": "Вечно в опилках"
+    },
+    {
+      "key": "QuarryWorker_004",
+      "source_crc32": 718161428,
+      "translation": "Вечно в каменной пыли"
+    },
+    {
+      "key": "Entertainer_007",
+      "source_crc32": 283838836,
+      "translation": "Толпа в восторге"
+    },
+    {
+      "key": "Tailor_005",
+      "source_crc32": 3223471262,
+      "translation": "Кроит на глаз"
+    },
+    {
+      "key": "Trader_007",
+      "source_crc32": 83062879,
+      "translation": "Торговля обиходным товаром"
+    },
+    {
+      "key": "Trader_006",
+      "source_crc32": 3691835189,
+      "translation": "Торговля роскошью"
+    },
+    {
+      "key": "Civil_009",
+      "source_crc32": 929508162,
+      "translation": "По уши в долгах"
+    },
+    {
+      "key": "Civil_005",
+      "source_crc32": 3512063962,
+      "translation": "Истовая набожность"
+    },
+    {
+      "key": "Priest_001",
+      "source_crc32": 3512063962,
+      "translation": "Истовая набожность"
+    },
+    {
+      "key": "Civil_003",
+      "source_crc32": 1518689297,
+      "translation": "Изгнание из писарей"
+    },
+    {
+      "key": "RobberBaron_006",
+      "source_crc32": 3849700319,
+      "translation": "Спасение от петли"
+    },
+    {
+      "key": "Thief_014",
+      "source_crc32": 2060874577,
+      "translation": "Не впервой уходить от стражи"
+    },
+    {
+      "key": "TownWatch_012",
+      "source_crc32": 1228151565,
+      "translation": "Конвой заключённых"
+    },
+    {
+      "key": "Civil_019",
+      "source_crc32": 3830836692,
+      "translation": "Родня всему городу"
+    },
+    {
+      "key": "Trader_005",
+      "source_crc32": 2811526142,
+      "translation": "Вывоз местных товаров"
+    },
+    {
+      "key": "Alchemist_001",
+      "source_crc32": 3329932602,
+      "translation": "Провал в аптекарстве"
+    },
+    {
+      "key": "Civil_001",
+      "source_crc32": 978243173,
+      "translation": "Неудачное ученичество"
+    },
+    {
+      "key": "Civil_011",
+      "source_crc32": 1303342307,
+      "translation": "Чёрная полоса"
+    },
+    {
+      "key": "Physician_003",
+      "source_crc32": 2201241778,
+      "translation": "Знает все недуги"
+    },
+    {
+      "key": "Innkeeper_010",
+      "source_crc32": 61564524,
+      "translation": "Знает все отговорки"
+    },
+    {
+      "key": "Perfumer_008",
+      "source_crc32": 3382547941,
+      "translation": "Знает каждый цветок"
+    },
+    {
+      "key": "Necromancer_002",
+      "source_crc32": 288697703,
+      "translation": "Знакомство с мёртвыми"
+    },
+    {
+      "key": "Ghoul_004",
+      "source_crc32": 1949694574,
+      "translation": "Знакомство с виселицей"
+    },
+    {
+      "key": "Entertainer_012",
+      "source_crc32": 1141642731,
+      "translation": "Слава на три трактира"
+    },
+    {
+      "key": "Priest_008",
+      "source_crc32": 360115834,
+      "translation": "В милости у богачей"
+    },
+    {
+      "key": "Ghoul_005",
+      "source_crc32": 843943011,
+      "translation": "Гроза детворы"
+    },
+    {
+      "key": "Blacksmith_001",
+      "source_crc32": 2960983938,
+      "translation": "Дитя кузницы"
+    },
+    {
+      "key": "Perfumer_016",
+      "source_crc32": 1919660899,
+      "translation": "Аптекарское прошлое"
+    },
+    {
+      "key": "Physician_010",
+      "source_crc32": 1919660899,
+      "translation": "Аптекарское прошлое"
+    },
+    {
+      "key": "Blacksmith_011",
+      "source_crc32": 3058112307,
+      "translation": "Опыт бронника"
+    },
+    {
+      "key": "Physician_011",
+      "source_crc32": 1549545772,
+      "translation": "Опыт цирюльника"
+    },
+    {
+      "key": "Joiner_018",
+      "source_crc32": 3447816403,
+      "translation": "Опыт помощника плотника"
+    },
+    {
+      "key": "Entertainer_004",
+      "source_crc32": 3778455440,
+      "translation": "Опыт придворного артиста"
+    },
+    {
+      "key": "Prisoner_010",
+      "source_crc32": 691718677,
+      "translation": "Побег в прошлом"
+    },
+    {
+      "key": "Ghoul_012",
+      "source_crc32": 4271179363,
+      "translation": "Опыт могильщика"
+    },
+    {
+      "key": "Perfumer_015",
+      "source_crc32": 1374918,
+      "translation": "Опыт травника"
+    },
+    {
+      "key": "LumberWorker_019",
+      "source_crc32": 1369944477,
+      "translation": "Охотничье прошлое"
+    },
+    {
+      "key": "QuarryWorker_012",
+      "source_crc32": 3057605691,
+      "translation": "Опыт каменщика"
+    },
+    {
+      "key": "RobberBaron_013",
+      "source_crc32": 3717231460,
+      "translation": "Наёмничье прошлое"
+    },
+    {
+      "key": "Necromancer_017",
+      "source_crc32": 293980048,
+      "translation": "Лекарское прошлое"
+    },
+    {
+      "key": "Alchemist_005",
+      "source_crc32": 1878153110,
+      "translation": "Опыт помощника лекаря"
+    },
+    {
+      "key": "StoneMason_014",
+      "source_crc32": 1790043888,
+      "translation": "Опыт каменоломни"
+    },
+    {
+      "key": "MineWorker_016",
+      "source_crc32": 2921039287,
+      "translation": "Опыт каменоломни"
+    },
+    {
+      "key": "Necromancer_016",
+      "source_crc32": 450152132,
+      "translation": "Учёное прошлое"
+    },
+    {
+      "key": "Priest_012",
+      "source_crc32": 450152132,
+      "translation": "Учёное прошлое"
+    },
+    {
+      "key": "Civil_002",
+      "source_crc32": 2835406123,
+      "translation": "Солдатское прошлое"
+    },
+    {
+      "key": "RobberBaron_014",
+      "source_crc32": 2835406123,
+      "translation": "Солдатское прошлое"
+    },
+    {
+      "key": "TownWatch_006",
+      "source_crc32": 2835406123,
+      "translation": "Солдатское прошлое"
+    },
+    {
+      "key": "Tailor_016",
+      "source_crc32": 1338939369,
+      "translation": "Ткацкое прошлое"
+    },
+    {
+      "key": "Priest_003",
+      "source_crc32": 59738988,
+      "translation": "Мягкость к грешникам"
+    },
+    {
+      "key": "Moneylender_015",
+      "source_crc32": 3949823735,
+      "translation": "Видит людей насквозь"
+    },
+    {
+      "key": "Innkeeper_014",
+      "source_crc32": 45766520,
+      "translation": "Умеет гасить ссоры"
+    },
+    {
+      "key": "Innkeeper_006",
+      "source_crc32": 3566216244,
+      "translation": "Ладит с пьяными"
+    },
+    {
+      "key": "Physician_008",
+      "source_crc32": 481944494,
+      "translation": "Умеет успокоить больного"
+    },
+    {
+      "key": "Moneylender_003",
+      "source_crc32": 675583241,
+      "translation": "В ладах с числами"
+    },
+    {
+      "key": "Joiner_005",
+      "source_crc32": 800299725,
+      "translation": "Золотые руки"
+    },
+    {
+      "key": "LumberWorker_009",
+      "source_crc32": 2927024264,
+      "translation": "Умелый удар топора"
+    },
+    {
+      "key": "Ghoul_001",
+      "source_crc32": 2762956638,
+      "translation": "Кладбище как дом"
+    },
+    {
+      "key": "TownWatch_011",
+      "source_crc32": 3423174706,
+      "translation": "Охрана важных зданий"
+    },
+    {
+      "key": "TownWatch_003",
+      "source_crc32": 519254440,
+      "translation": "Охрана городских ворот"
+    },
+    {
+      "key": "StoneMason_016",
+      "source_crc32": 1736523838,
+      "translation": "Полквартала - своих рук дело"
+    },
+    {
+      "key": "LumberWorker_011",
+      "source_crc32": 1212519012,
+      "translation": "Сотни поваленных деревьев"
+    },
+    {
+      "key": "Necromancer_007",
+      "source_crc32": 159407777,
+      "translation": "Друзья на кладбище"
+    },
+    {
+      "key": "Moneylender_016",
+      "source_crc32": 2924781278,
+      "translation": "Все отговорки уже слышаны"
+    },
+    {
+      "key": "Innkeeper_015",
+      "source_crc32": 2709023431,
+      "translation": "Всё уже слышано не раз"
+    },
+    {
+      "key": "Physician_017",
+      "source_crc32": 1893273078,
+      "translation": "Потеряно мало больных"
+    },
+    {
+      "key": "Physician_018",
+      "source_crc32": 359838945,
+      "translation": "Потеряно слишком много больных"
+    },
+    {
+      "key": "Prisoner_008",
+      "source_crc32": 3387343491,
+      "translation": "Могущественные враги"
+    },
+    {
+      "key": "Physician_005",
+      "source_crc32": 1092859857,
+      "translation": "Видано и похуже"
+    },
+    {
+      "key": "MineWorker_009",
+      "source_crc32": 3355552600,
+      "translation": "Пережитый обвал"
+    },
+    {
+      "key": "QuarryWorker_009",
+      "source_crc32": 1159285843,
+      "translation": "Пережитый камнепад"
+    },
+    {
+      "key": "Ghoul_020",
+      "source_crc32": 961506369,
+      "translation": "Ужасные манеры за столом"
+    },
+    {
+      "key": "RobberBaron_012",
+      "source_crc32": 2529693105,
+      "translation": "Тайник с добычей"
+    },
+    {
+      "key": "Perfumer_011",
+      "source_crc32": 118992637,
+      "translation": "Нюх на качество"
+    },
+    {
+      "key": "QuarryWorker_007",
+      "source_crc32": 1832760882,
+      "translation": "Ненависть к трещинам"
+    },
+    {
+      "key": "Joiner_012",
+      "source_crc32": 563912968,
+      "translation": "Не выносит кривых полок"
+    },
+    {
+      "key": "StoneMason_008",
+      "source_crc32": 592835856,
+      "translation": "Не терпит кривых стен"
+    },
+    {
+      "key": "LumberWorker_008",
+      "source_crc32": 1398930219,
+      "translation": "Ненависть к гнилью"
+    },
+    {
+      "key": "Blacksmith_016",
+      "source_crc32": 755305770,
+      "translation": "Ненависть к халтуре"
+    },
+    {
+      "key": "MineWorker_008",
+      "source_crc32": 2513885768,
+      "translation": "Не терпит слабых крепей"
+    },
+    {
+      "key": "Innkeeper_002",
+      "source_crc32": 4159978772,
+      "translation": "Слышит каждый слух"
+    },
+    {
+      "key": "Thief_003",
+      "source_crc32": 848752776,
+      "translation": "Взлом домов"
+    },
+    {
+      "key": "Trader_004",
+      "source_crc32": 650154363,
+      "translation": "Ввоз заморских товаров"
+    },
+    {
+      "key": "Perfumer_014",
+      "source_crc32": 1299694728,
+      "translation": "Ввоз странных ингредиентов"
+    },
+    {
+      "key": "Joiner_003",
+      "source_crc32": 2761195263,
+      "translation": "Ремесло по наследству"
+    },
+    {
+      "key": "Blacksmith_003",
+      "source_crc32": 3941332049,
+      "translation": "Мастерская по наследству"
+    },
+    {
+      "key": "Prisoner_015",
+      "source_crc32": 46993769,
+      "translation": "В тюрьме за побои"
+    },
+    {
+      "key": "Prisoner_014",
+      "source_crc32": 329027964,
+      "translation": "В тюрьме за долги"
+    },
+    {
+      "key": "Prisoner_017",
+      "source_crc32": 2069271658,
+      "translation": "В тюрьме за обман"
+    },
+    {
+      "key": "Prisoner_019",
+      "source_crc32": 1694456285,
+      "translation": "В тюрьме за ересь"
+    },
+    {
+      "key": "Prisoner_018",
+      "source_crc32": 1977892266,
+      "translation": "В тюрьме за контрабанду"
+    },
+    {
+      "key": "Prisoner_016",
+      "source_crc32": 3806435161,
+      "translation": "В тюрьме за кражу"
+    },
+    {
+      "key": "Prisoner_020",
+      "source_crc32": 2770767871,
+      "translation": "В тюрьме за измену"
+    },
+    {
+      "key": "Priest_005",
+      "source_crc32": 2921470557,
+      "translation": "На страже тайны исповеди"
+    },
+    {
+      "key": "Necromancer_001",
+      "source_crc32": 2569744718,
+      "translation": "Хранилище запретных книг"
+    },
+    {
+      "key": "Alchemist_002",
+      "source_crc32": 3152768234,
+      "translation": "Запас странных снадобий"
+    },
+    {
+      "key": "Ghoul_010",
+      "source_crc32": 1487355307,
+      "translation": "Собрание странных трофеев"
+    },
+    {
+      "key": "Ghoul_002",
+      "source_crc32": 2569470206,
+      "translation": "На страже мёртвых"
+    },
+    {
+      "key": "Trader_016",
+      "source_crc32": 3622897952,
+      "translation": "Тщательно ведёт счета"
+    },
+    {
+      "key": "Physician_009",
+      "source_crc32": 2362001640,
+      "translation": "Тщательные записи"
+    },
+    {
+      "key": "Moneylender_004",
+      "source_crc32": 1487712119,
+      "translation": "Тщательные записи"
+    },
+    {
+      "key": "Priest_017",
+      "source_crc32": 1487712119,
+      "translation": "Тщательные записи"
+    },
+    {
+      "key": "Alchemist_011",
+      "source_crc32": 3790821617,
+      "translation": "Опасные знакомства"
+    },
+    {
+      "key": "Joiner_015",
+      "source_crc32": 203127262,
+      "translation": "Хранит каждый обрезок"
+    },
+    {
+      "key": "Tailor_010",
+      "source_crc32": 2962729908,
+      "translation": "Хранит каждый лоскут"
+    },
+    {
+      "key": "Blacksmith_014",
+      "source_crc32": 2997293031,
+      "translation": "Хранит каждый обрезок металла"
+    },
+    {
+      "key": "Moneylender_014",
+      "source_crc32": 192867976,
+      "translation": "Безупречные счета"
+    },
+    {
+      "key": "MineWorker_014",
+      "source_crc32": 1679088933,
+      "translation": "Камешки на удачу"
+    },
+    {
+      "key": "Innkeeper_018",
+      "source_crc32": 1594866884,
+      "translation": "Сомнительные знакомства"
+    },
+    {
+      "key": "Necromancer_010",
+      "source_crc32": 1594866884,
+      "translation": "Сомнительные знакомства"
+    },
+    {
+      "key": "Perfumer_012",
+      "source_crc32": 2171581847,
+      "translation": "Тайные рецепты"
+    },
+    {
+      "key": "Alchemist_016",
+      "source_crc32": 2967365943,
+      "translation": "Необычные питомцы"
+    },
+    {
+      "key": "Perfumer_006",
+      "source_crc32": 2352161440,
+      "translation": "Чуткий нос"
+    },
+    {
+      "key": "Trader_009",
+      "source_crc32": 2400622019,
+      "translation": "Прилавок на рынке"
+    },
+    {
+      "key": "Entertainer_020",
+      "source_crc32": 1224662703,
+      "translation": "Репертуар из скандалов"
+    },
+    {
+      "key": "Physician_002",
+      "source_crc32": 3110845499,
+      "translation": "Твёрдая рука"
+    },
+    {
+      "key": "TownWatch_010",
+      "source_crc32": 3293570031,
+      "translation": "Глаз не спускает со смутьянов"
+    },
+    {
+      "key": "Innkeeper_007",
+      "source_crc32": 3135125128,
+      "translation": "Эль льётся рекой"
+    },
+    {
+      "key": "TownWatch_004",
+      "source_crc32": 2675931233,
+      "translation": "Охрана порядка"
+    },
+    {
+      "key": "LumberWorker_016",
+      "source_crc32": 1325994424,
+      "translation": "Держится леса"
+    },
+    {
+      "key": "RobberBaron_004",
+      "source_crc32": 1755667584,
+      "translation": "Слава лиходея"
+    },
+    {
+      "key": "Thief_005",
+      "source_crc32": 2227458987,
+      "translation": "Слава карманника"
+    },
+    {
+      "key": "RobberBaron_015",
+      "source_crc32": 2770433946,
+      "translation": "Скупка краденого"
+    },
+    {
+      "key": "Civil_006",
+      "source_crc32": 729554112,
+      "translation": "Слава игрока"
+    },
+    {
+      "key": "RobberBaron_001",
+      "source_crc32": 1513836973,
+      "translation": "Разбой на большой дороге"
+    },
+    {
+      "key": "Prisoner_005",
+      "source_crc32": 2819838557,
+      "translation": "Слава смутьяна"
+    },
+    {
+      "key": "Entertainer_006",
+      "source_crc32": 2327917327,
+      "translation": "Слава похабных песен"
+    },
+    {
+      "key": "Priest_002",
+      "source_crc32": 226877152,
+      "translation": "Славится пламенными проповедями"
+    },
+    {
+      "key": "Blacksmith_004",
+      "source_crc32": 3630663720,
+      "translation": "Слава отменных клинков"
+    },
+    {
+      "key": "Joiner_004",
+      "source_crc32": 1643495675,
+      "translation": "Слава отменной мебели"
+    },
+    {
+      "key": "Tailor_004",
+      "source_crc32": 572693350,
+      "translation": "Слава тонкой строчки"
+    },
+    {
+      "key": "StoneMason_006",
+      "source_crc32": 835903721,
+      "translation": "Слава тонкой работы по камню"
+    },
+    {
+      "key": "Priest_018",
+      "source_crc32": 3866651841,
+      "translation": "Слава долгих проповедей"
+    },
+    {
+      "key": "Alchemist_004",
+      "source_crc32": 2941467633,
+      "translation": "Слава рискованных опытов"
+    },
+    {
+      "key": "Physician_014",
+      "source_crc32": 849607300,
+      "translation": "Слава рискованного лечения"
+    },
+    {
+      "key": "TownWatch_008",
+      "source_crc32": 588818520,
+      "translation": "Слава строгой дисциплины"
+    },
+    {
+      "key": "Blacksmith_005",
+      "source_crc32": 2001692676,
+      "translation": "Слава прочных инструментов"
+    },
+    {
+      "key": "Joiner_020",
+      "source_crc32": 2187570971,
+      "translation": "Слава прочной работы"
+    },
+    {
+      "key": "Entertainer_017",
+      "source_crc32": 1115591863,
+      "translation": "Слава ужасных шуток"
+    },
+    {
+      "key": "TownWatch_005",
+      "source_crc32": 1104578556,
+      "translation": "Знает каждый переулок"
+    },
+    {
+      "key": "Thief_011",
+      "source_crc32": 2240741935,
+      "translation": "Знает каждый закоулок"
+    },
+    {
+      "key": "Ghoul_008",
+      "source_crc32": 493887859,
+      "translation": "Знает каждый погост"
+    },
+    {
+      "key": "Necromancer_003",
+      "source_crc32": 2656784121,
+      "translation": "Знает все обряды погребения"
+    },
+    {
+      "key": "Entertainer_010",
+      "source_crc32": 3830531317,
+      "translation": "Знает все застольные песни"
+    },
+    {
+      "key": "Innkeeper_019",
+      "source_crc32": 3830531317,
+      "translation": "Знает все застольные песни"
+    },
+    {
+      "key": "Priest_015",
+      "source_crc32": 851279393,
+      "translation": "Знает все святые дни"
+    },
+    {
+      "key": "QuarryWorker_013",
+      "source_crc32": 3127370914,
+      "translation": "Знает все породы камня"
+    },
+    {
+      "key": "Joiner_010",
+      "source_crc32": 395607756,
+      "translation": "Знает все породы дерева"
+    },
+    {
+      "key": "Priest_006",
+      "source_crc32": 1813953038,
+      "translation": "Знает каждого прихожанина"
+    },
+    {
+      "key": "Innkeeper_001",
+      "source_crc32": 4136893581,
+      "translation": "Знает всех завсегдатаев"
+    },
+    {
+      "key": "Physician_001",
+      "source_crc32": 1595869445,
+      "translation": "Знает каждое снадобье"
+    },
+    {
+      "key": "Perfumer_001",
+      "source_crc32": 3617440629,
+      "translation": "Знает каждый аромат"
+    },
+    {
+      "key": "LumberWorker_002",
+      "source_crc32": 2724993402,
+      "translation": "Знает каждое дерево"
+    },
+    {
+      "key": "MineWorker_002",
+      "source_crc32": 4241704895,
+      "translation": "Знает каждый штрек"
+    },
+    {
+      "key": "LumberWorker_017",
+      "source_crc32": 1965733640,
+      "translation": "Знает все лесные тропы"
+    },
+    {
+      "key": "Innkeeper_023",
+      "source_crc32": 3294418834,
+      "translation": "Знает всех по имени"
+    },
+    {
+      "key": "Entertainer_023",
+      "source_crc32": 2592639046,
+      "translation": "Знает любимую песню каждого"
+    },
+    {
+      "key": "Moneylender_007",
+      "source_crc32": 3250621092,
+      "translation": "Знает чужие кошельки"
+    },
+    {
+      "key": "Tailor_012",
+      "source_crc32": 807810022,
+      "translation": "Отличит тонкий лён от дерюги"
+    },
+    {
+      "key": "MineWorker_007",
+      "source_crc32": 762539287,
+      "translation": "Добрую руду видит сразу"
+    },
+    {
+      "key": "Perfumer_005",
+      "source_crc32": 2115011799,
+      "translation": "Добрую смолу видит сразу"
+    },
+    {
+      "key": "QuarryWorker_002",
+      "source_crc32": 2129320733,
+      "translation": "Добрый камень видит сразу"
+    },
+    {
+      "key": "StoneMason_003",
+      "source_crc32": 2129320733,
+      "translation": "Добрый камень видит сразу"
+    },
+    {
+      "key": "LumberWorker_010",
+      "source_crc32": 1206002948,
+      "translation": "Доброе дерево видит сразу"
+    },
+    {
+      "key": "Tailor_011",
+      "source_crc32": 3211250158,
+      "translation": "Добрую шерсть видит сразу"
+    },
+    {
+      "key": "Perfumer_009",
+      "source_crc32": 999183884,
+      "translation": "Умеет скрыть дурной запах"
+    },
+    {
+      "key": "Necromancer_006",
+      "source_crc32": 229459939,
+      "translation": "Слишком много знает о трупах"
+    },
+    {
+      "key": "Alchemist_015",
+      "source_crc32": 3140004240,
+      "translation": "Слишком много знает о ядах"
+    },
+    {
+      "key": "Physician_019",
+      "source_crc32": 3140004240,
+      "translation": "Слишком много знает о ядах"
+    },
+    {
+      "key": "Perfumer_018",
+      "source_crc32": 2996147939,
+      "translation": "Знает вкусы знати"
+    },
+    {
+      "key": "Innkeeper_009",
+      "source_crc32": 4064097472,
+      "translation": "Знает, когда отвернуться"
+    },
+    {
+      "key": "Physician_007",
+      "source_crc32": 1751383566,
+      "translation": "Тревожится вовремя"
+    },
+    {
+      "key": "MineWorker_013",
+      "source_crc32": 128183285,
+      "translation": "Знает, где лучшие жилы"
+    },
+    {
+      "key": "Ghoul_015",
+      "source_crc32": 1328506194,
+      "translation": "Знает, где зарыты тела"
+    },
+    {
+      "key": "Necromancer_011",
+      "source_crc32": 1328506194,
+      "translation": "Знает, где зарыты тела"
+    },
+    {
+      "key": "QuarryWorker_006",
+      "source_crc32": 4096435793,
+      "translation": "Знает, где рубить"
+    },
+    {
+      "key": "Innkeeper_005",
+      "source_crc32": 1996326656,
+      "translation": "Знает, кто кому должен"
+    },
+    {
+      "key": "Moneylender_001",
+      "source_crc32": 1996326656,
+      "translation": "Знает, кто кому должен"
+    },
+    {
+      "key": "Innkeeper_016",
+      "source_crc32": 3099906552,
+      "translation": "Знает щедрых гостей"
+    },
+    {
+      "key": "RobberBaron_011",
+      "source_crc32": 333618961,
+      "translation": "Знает окольные пути"
+    },
+    {
+      "key": "Innkeeper_012",
+      "source_crc32": 2823536516,
+      "translation": "Знает лучшие сплетни"
+    },
+    {
+      "key": "Prisoner_007",
+      "source_crc32": 2073674372,
+      "translation": "Слишком хорошо знает стражу"
+    },
+    {
+      "key": "TownWatch_015",
+      "source_crc32": 140544287,
+      "translation": "Знает местное жульё"
+    },
+    {
+      "key": "Trader_013",
+      "source_crc32": 2170282352,
+      "translation": "Знает торговые пути"
+    },
+    {
+      "key": "Moneylender_012",
+      "source_crc32": 148258644,
+      "translation": "Знает цену всему"
+    },
+    {
+      "key": "Joiner_019",
+      "source_crc32": 1476387094,
+      "translation": "Ремесло от родителей"
+    },
+    {
+      "key": "Moneylender_010",
+      "source_crc32": 3167252914,
+      "translation": "Терпения меньше, чем кажется"
+    },
+    {
+      "key": "Civil_024",
+      "source_crc32": 375660023,
+      "translation": "Суёт нос в чужие дела"
+    },
+    {
+      "key": "Thief_006",
+      "source_crc32": 2461015521,
+      "translation": "Отмычки"
+    },
+    {
+      "key": "Entertainer_018",
+      "source_crc32": 724650193,
+      "translation": "Любовь к рукоплесканиям"
+    },
+    {
+      "key": "Civil_012",
+      "source_crc32": 309897379,
+      "translation": "Чудесное спасение"
+    },
+    {
+      "key": "Blacksmith_013",
+      "source_crc32": 3096221713,
+      "translation": "Ковка оружия для солдат"
+    },
+    {
+      "key": "Trader_002",
+      "source_crc32": 332256431,
+      "translation": "Торговля на рынке"
+    },
+    {
+      "key": "StoneMason_001",
+      "source_crc32": 3230661687,
+      "translation": "Мастерство камнереза"
+    },
+    {
+      "key": "Tailor_001",
+      "source_crc32": 2947782962,
+      "translation": "Мастер иглы"
+    },
+    {
+      "key": "Entertainer_016",
+      "source_crc32": 1282525316,
+      "translation": "Мастерство импровизации"
+    },
+    {
+      "key": "Blacksmith_002",
+      "source_crc32": 2496357980,
+      "translation": "Ученичество у мастера"
+    },
+    {
+      "key": "Joiner_001",
+      "source_crc32": 2496357980,
+      "translation": "Ученичество у мастера"
+    },
+    {
+      "key": "Joiner_017",
+      "source_crc32": 1852226424,
+      "translation": "Семь раз отмерит"
+    },
+    {
+      "key": "Necromancer_008",
+      "source_crc32": 2152466722,
+      "translation": "Мёртвых не боится"
+    },
+    {
+      "key": "Thief_016",
+      "source_crc32": 669705227,
+      "translation": "С поличным - ни разу"
+    },
+    {
+      "key": "Ghoul_018",
+      "source_crc32": 2303010237,
+      "translation": "О своей пище - ни слова"
+    },
+    {
+      "key": "Civil_025",
+      "source_crc32": 40798689,
+      "translation": "Вечно рядом с бедой"
+    },
+    {
+      "key": "Innkeeper_025",
+      "source_crc32": 769411799,
+      "translation": "Полная кружка всегда рядом"
+    },
+    {
+      "key": "Moneylender_002",
+      "source_crc32": 926291760,
+      "translation": "Долгов не забывает"
+    },
+    {
+      "key": "Innkeeper_003",
+      "source_crc32": 2543794504,
+      "translation": "Помнит каждое лицо"
+    },
+    {
+      "key": "Alchemist_019",
+      "source_crc32": 1491246708,
+      "translation": "Рецепт держится в тайне"
+    },
+    {
+      "key": "Joiner_022",
+      "source_crc32": 2125987217,
+      "translation": "Вечное недовольство отделкой"
+    },
+    {
+      "key": "Ghoul_006",
+      "source_crc32": 1825587158,
+      "translation": "Не видать при свете дня"
+    },
+    {
+      "key": "Innkeeper_017",
+      "source_crc32": 1588746383,
+      "translation": "Совет на любой случай"
+    },
+    {
+      "key": "Perfumer_007",
+      "source_crc32": 1477916638,
+      "translation": "Ни щепотки пряностей зря"
+    },
+    {
+      "key": "Tailor_006",
+      "source_crc32": 2614453067,
+      "translation": "Добрая ткань не пропадёт"
+    },
+    {
+      "key": "Joiner_009",
+      "source_crc32": 2644945336,
+      "translation": "Доброе дерево не пропадёт"
+    },
+    {
+      "key": "LumberWorker_018",
+      "source_crc32": 2644945336,
+      "translation": "Доброе дерево не пропадёт"
+    },
+    {
+      "key": "Blacksmith_008",
+      "source_crc32": 2961355659,
+      "translation": "Вечно в саже"
+    },
+    {
+      "key": "QuarryWorker_003",
+      "source_crc32": 477127018,
+      "translation": "Молот всегда при себе"
+    },
+    {
+      "key": "MineWorker_003",
+      "source_crc32": 392055638,
+      "translation": "Кирка всегда при себе"
+    },
+    {
+      "key": "Physician_006",
+      "source_crc32": 996668638,
+      "translation": "Снадобье всегда при себе"
+    },
+    {
+      "key": "Entertainer_009",
+      "source_crc32": 2699719615,
+      "translation": "Ни дня без публики"
+    },
+    {
+      "key": "LumberWorker_003",
+      "source_crc32": 1541637585,
+      "translation": "Топор всегда при себе"
+    },
+    {
+      "key": "Civil_010",
+      "source_crc32": 1697733711,
+      "translation": "Недавно в городе"
+    },
+    {
+      "key": "Civil_022",
+      "source_crc32": 2190969103,
+      "translation": "Без честного дела"
+    },
+    {
+      "key": "Civil_015",
+      "source_crc32": 2039240016,
+      "translation": "Слава пропойцы"
+    },
+    {
+      "key": "Blacksmith_015",
+      "source_crc32": 3967291522,
+      "translation": "Одержимость доброй сталью"
+    },
+    {
+      "key": "Perfumer_013",
+      "source_crc32": 3421017844,
+      "translation": "Одержимость идеальной смесью"
+    },
+    {
+      "key": "Joiner_011",
+      "source_crc32": 1710152546,
+      "translation": "Одержимость прямыми линиями"
+    },
+    {
+      "key": "Alchemist_008",
+      "source_crc32": 2437829529,
+      "translation": "Одержимость трансмутацией"
+    },
+    {
+      "key": "Tailor_013",
+      "source_crc32": 3739798612,
+      "translation": "Одержимость идеальной посадкой"
+    },
+    {
+      "key": "Innkeeper_020",
+      "source_crc32": 335354989,
+      "translation": "Работа допоздна"
+    },
+    {
+      "key": "LumberWorker_015",
+      "source_crc32": 2391718109,
+      "translation": "На совести одна повозка"
+    },
+    {
+      "key": "Entertainer_013",
+      "source_crc32": 308607937,
+      "translation": "Выступление перед знатью"
+    },
+    {
+      "key": "Blacksmith_017",
+      "source_crc32": 3649077936,
+      "translation": "На счету - испорченный меч дворянина"
+    },
+    {
+      "key": "Civil_023",
+      "source_crc32": 1524242614,
+      "translation": "Долги всему городу"
+    },
+    {
+      "key": "Alchemist_020",
+      "source_crc32": 2560319534,
+      "translation": "Долг травнику"
+    },
+    {
+      "key": "Blacksmith_020",
+      "source_crc32": 743264628,
+      "translation": "Долг торговцу"
+    },
+    {
+      "key": "Prisoner_009",
+      "source_crc32": 1552813552,
+      "translation": "Долг не тем людям"
+    },
+    {
+      "key": "Moneylender_009",
+      "source_crc32": 732872901,
+      "translation": "Терпение к должникам"
+    },
+    {
+      "key": "TownWatch_002",
+      "source_crc32": 891889217,
+      "translation": "Ночные обходы"
+    },
+    {
+      "key": "Entertainer_015",
+      "source_crc32": 4188281908,
+      "translation": "Выступления за монету"
+    },
+    {
+      "key": "Civil_007",
+      "source_crc32": 2131481849,
+      "translation": "Мелкие делишки"
+    },
+    {
+      "key": "Thief_001",
+      "source_crc32": 2754472394,
+      "translation": "Чужие карманы"
+    },
+    {
+      "key": "Physician_015",
+      "source_crc32": 1600844329,
+      "translation": "Травы важнее молитвы"
+    },
+    {
+      "key": "Physician_016",
+      "source_crc32": 4164709901,
+      "translation": "Молитва важнее трав"
+    },
+    {
+      "key": "RobberBaron_007",
+      "source_crc32": 882574580,
+      "translation": "Охота на путников"
+    },
+    {
+      "key": "Alchemist_013",
+      "source_crc32": 3460082370,
+      "translation": "Склонность к взрывам"
+    },
+    {
+      "key": "Blacksmith_009",
+      "source_crc32": 4161632118,
+      "translation": "Гордость за ремесло"
+    },
+    {
+      "key": "Joiner_008",
+      "source_crc32": 4161632118,
+      "translation": "Гордость за ремесло"
+    },
+    {
+      "key": "Thief_004",
+      "source_crc32": 3088310532,
+      "translation": "Кража кошелей"
+    },
+    {
+      "key": "TownWatch_009",
+      "source_crc32": 2817584216,
+      "translation": "Хватает без раздумий"
+    },
+    {
+      "key": "Innkeeper_013",
+      "source_crc32": 112044808,
+      "translation": "Ловко орудует кружкой"
+    },
+    {
+      "key": "MineWorker_001",
+      "source_crc32": 2553997715,
+      "translation": "Детство под землёй"
+    },
+    {
+      "key": "StoneMason_002",
+      "source_crc32": 2935632150,
+      "translation": "Детство во дворе каменщика"
+    },
+    {
+      "key": "QuarryWorker_001",
+      "source_crc32": 3465959016,
+      "translation": "Детство в каменоломне"
+    },
+    {
+      "key": "LumberWorker_001",
+      "source_crc32": 2520307499,
+      "translation": "Детство в лесу"
+    },
+    {
+      "key": "Joiner_002",
+      "source_crc32": 2211020158,
+      "translation": "Детство в мастерской"
+    },
+    {
+      "key": "Tailor_002",
+      "source_crc32": 2211020158,
+      "translation": "Детство в мастерской"
+    },
+    {
+      "key": "TownWatch_016",
+      "source_crc32": 455388787,
+      "translation": "Почти не покидает пост"
+    },
+    {
+      "key": "QuarryWorker_015",
+      "source_crc32": 3817181478,
+      "translation": "Почти не покидает каменоломню"
+    },
+    {
+      "key": "Moneylender_013",
+      "source_crc32": 152962547,
+      "translation": "Без залога почти не ссужает"
+    },
+    {
+      "key": "Priest_016",
+      "source_crc32": 2237111474,
+      "translation": "Службы почти не пропускает"
+    },
+    {
+      "key": "LumberWorker_012",
+      "source_crc32": 2673988208,
+      "translation": "Редко бывает в городе"
+    },
+    {
+      "key": "MineWorker_012",
+      "source_crc32": 1143741550,
+      "translation": "Редко видит солнце"
+    },
+    {
+      "key": "Necromancer_014",
+      "source_crc32": 2783851717,
+      "translation": "Почти не спит"
+    },
+    {
+      "key": "Joiner_013",
+      "source_crc32": 282244874,
+      "translation": "Чинит всё по два раза"
+    },
+    {
+      "key": "Tailor_009",
+      "source_crc32": 1134208508,
+      "translation": "Починка дорогого платья"
+    },
+    {
+      "key": "StoneMason_011",
+      "source_crc32": 982460037,
+      "translation": "Починка старой кладки"
+    },
+    {
+      "key": "Prisoner_004",
+      "source_crc32": 151484182,
+      "translation": "Снова за решёткой"
+    },
+    {
+      "key": "Civil_017",
+      "source_crc32": 2302498777,
+      "translation": "Наёмничье прошлое"
+    },
+    {
+      "key": "RobberBaron_002",
+      "source_crc32": 2329896008,
+      "translation": "Засады у дорог"
+    },
+    {
+      "key": "RobberBaron_010",
+      "source_crc32": 57502534,
+      "translation": "Грабёж после заката"
+    },
+    {
+      "key": "Ghoul_017",
+      "source_crc32": 4130665455,
+      "translation": "Слухи о поедании мёртвых"
+    },
+    {
+      "key": "Blacksmith_006",
+      "source_crc32": 2960555883,
+      "translation": "Шрамы от горна"
+    },
+    {
+      "key": "Ghoul_014",
+      "source_crc32": 3015637515,
+      "translation": "Видели у свежих могил"
+    },
+    {
+      "key": "Alchemist_006",
+      "source_crc32": 726577753,
+      "translation": "Самоучка в алхимии"
+    },
+    {
+      "key": "Physician_013",
+      "source_crc32": 3829004073,
+      "translation": "Самоучка во врачевании"
+    },
+    {
+      "key": "Alchemist_014",
+      "source_crc32": 2682090683,
+      "translation": "Продажа сомнительных настоек"
+    },
+    {
+      "key": "Thief_012",
+      "source_crc32": 2670437101,
+      "translation": "Сбыт краденого"
+    },
+    {
+      "key": "Trader_012",
+      "source_crc32": 1398585071,
+      "translation": "Продажа с наваром"
+    },
+    {
+      "key": "Prisoner_012",
+      "source_crc32": 2683659079,
+      "translation": "Долгий срок"
+    },
+    {
+      "key": "Civil_021",
+      "source_crc32": 2547163393,
+      "translation": "Семеро детей"
+    },
+    {
+      "key": "Thief_007",
+      "source_crc32": 4239142392,
+      "translation": "Кражи в лавках"
+    },
+    {
+      "key": "StoneMason_010",
+      "source_crc32": 2716321366,
+      "translation": "Искусство узорной резьбы"
+    },
+    {
+      "key": "LumberWorker_013",
+      "source_crc32": 319490501,
+      "translation": "На воле спится лучше"
+    },
+    {
+      "key": "LumberWorker_006",
+      "source_crc32": 2181900814,
+      "translation": "Запах хвои"
+    },
+    {
+      "key": "Thief_008",
+      "source_crc32": 3938450959,
+      "translation": "Вылазки после заката"
+    },
+    {
+      "key": "StoneMason_009",
+      "source_crc32": 77323041,
+      "translation": "Арки - любимое дело"
+    },
+    {
+      "key": "Tailor_008",
+      "source_crc32": 1881617921,
+      "translation": "Дорогие наряды - любимое дело"
+    },
+    {
+      "key": "Entertainer_003",
+      "source_crc32": 2154847961,
+      "translation": "Уличные выступления"
+    },
+    {
+      "key": "Priest_004",
+      "source_crc32": 2706570266,
+      "translation": "Строгость к грешникам"
+    },
+    {
+      "key": "Blacksmith_007",
+      "source_crc32": 2690660540,
+      "translation": "Бычья сила"
+    },
+    {
+      "key": "LumberWorker_004",
+      "source_crc32": 2690660540,
+      "translation": "Бычья сила"
+    },
+    {
+      "key": "MineWorker_005",
+      "source_crc32": 2690660540,
+      "translation": "Бычья сила"
+    },
+    {
+      "key": "QuarryWorker_011",
+      "source_crc32": 2690660540,
+      "translation": "Бычья сила"
+    },
+    {
+      "key": "Necromancer_009",
+      "source_crc32": 3708809348,
+      "translation": "Изучает то, чего боятся другие"
+    },
+    {
+      "key": "MineWorker_015",
+      "source_crc32": 3720742941,
+      "translation": "Суеверия под землёй"
+    },
+    {
+      "key": "Trader_010",
+      "source_crc32": 557632044,
+      "translation": "Поставки в местные лавки"
+    },
+    {
+      "key": "Perfumer_017",
+      "source_crc32": 528649233,
+      "translation": "Поставки богатым заказчикам"
+    },
+    {
+      "key": "Innkeeper_022",
+      "source_crc32": 2783521467,
+      "translation": "Неожиданно умеет слушать"
+    },
+    {
+      "key": "Ghoul_022",
+      "source_crc32": 2306005174,
+      "translation": "Неожиданная учтивость"
+    },
+    {
+      "key": "Necromancer_018",
+      "source_crc32": 2306005174,
+      "translation": "Неожиданная учтивость"
+    },
+    {
+      "key": "Entertainer_024",
+      "source_crc32": 1850810233,
+      "translation": "Неожиданная робость"
+    },
+    {
+      "key": "Alchemist_022",
+      "source_crc32": 757048016,
+      "translation": "Неожиданная суеверность"
+    },
+    {
+      "key": "Physician_020",
+      "source_crc32": 757048016,
+      "translation": "Неожиданная суеверность"
+    },
+    {
+      "key": "Priest_019",
+      "source_crc32": 2443468260,
+      "translation": "Неожиданно от мира сего"
+    },
+    {
+      "key": "Alchemist_012",
+      "source_crc32": 964020552,
+      "translation": "Подозрительное здоровье"
+    },
+    {
+      "key": "Ghoul_021",
+      "source_crc32": 2539570887,
+      "translation": "Чересчур бледная кожа"
+    },
+    {
+      "key": "Necromancer_013",
+      "source_crc32": 2539570887,
+      "translation": "Чересчур бледная кожа"
+    },
+    {
+      "key": "Civil_018",
+      "source_crc32": 730596131,
+      "translation": "Подозрительное богатство"
+    },
+    {
+      "key": "Joiner_021",
+      "source_crc32": 3006047196,
+      "translation": "Каждый заказ - целая вечность"
+    },
+    {
+      "key": "Thief_009",
+      "source_crc32": 3217377095,
+      "translation": "Цель - богатые дома"
+    },
+    {
+      "key": "RobberBaron_008",
+      "source_crc32": 2845275379,
+      "translation": "Цель - богатые купцы"
+    },
+    {
+      "key": "Entertainer_002",
+      "source_crc32": 624611530,
+      "translation": "Душа трактира"
+    },
+    {
+      "key": "Civil_004",
+      "source_crc32": 1889496685,
+      "translation": "Трактир как дом"
+    },
+    {
+      "key": "Ghoul_011",
+      "source_crc32": 2618223816,
+      "translation": "Слишком спокойно среди трупов"
+    },
+    {
+      "key": "Trader_008",
+      "source_crc32": 3853401033,
+      "translation": "Торговля через границы"
+    },
+    {
+      "key": "Alchemist_007",
+      "source_crc32": 1372070166,
+      "translation": "Учёба за границей"
+    },
+    {
+      "key": "Physician_012",
+      "source_crc32": 1372070166,
+      "translation": "Учёба за границей"
+    },
+    {
+      "key": "Priest_014",
+      "source_crc32": 1077788728,
+      "translation": "Учёба в монастыре"
+    },
+    {
+      "key": "StoneMason_015",
+      "source_crc32": 3384285214,
+      "translation": "Ученичество у мастера-каменщика"
+    },
+    {
+      "key": "Tailor_003",
+      "source_crc32": 163990451,
+      "translation": "Ученичество у мастера-портного"
+    },
+    {
+      "key": "TownWatch_007",
+      "source_crc32": 2510977380,
+      "translation": "Выучка в страже"
+    },
+    {
+      "key": "Trader_001",
+      "source_crc32": 1008659887,
+      "translation": "Торговля в разъездах"
+    },
+    {
+      "key": "Entertainer_005",
+      "source_crc32": 3783538358,
+      "translation": "Странствия с лютней"
+    },
+    {
+      "key": "Trader_014",
+      "source_crc32": 3564096340,
+      "translation": "Поездки с караванами"
+    },
+    {
+      "key": "Priest_007",
+      "source_crc32": 4099498256,
+      "translation": "Доверие бедняков"
+    },
+    {
+      "key": "Physician_004",
+      "source_crc32": 745222433,
+      "translation": "Доверены трудные случаи"
+    },
+    {
+      "key": "Perfumer_010",
+      "source_crc32": 1641536605,
+      "translation": "Доверены дорогие эссенции"
+    },
+    {
+      "key": "Moneylender_006",
+      "source_crc32": 3458557775,
+      "translation": "Доверены счётные книги"
+    },
+    {
+      "key": "Civil_020",
+      "source_crc32": 2779613229,
+      "translation": "Дважды овдовев"
+    },
+    {
+      "key": "Civil_013",
+      "source_crc32": 17780019,
+      "translation": "Неудачи в любви"
+    },
+    {
+      "key": "Ghoul_019",
+      "source_crc32": 1941048417,
+      "translation": "На похоронах не ждут"
+    },
+    {
+      "key": "QuarryWorker_005",
+      "source_crc32": 56237413,
+      "translation": "Привычка к тяжестям"
+    },
+    {
+      "key": "Innkeeper_008",
+      "source_crc32": 4153760636,
+      "translation": "Привычка к долгим ночам"
+    },
+    {
+      "key": "MineWorker_006",
+      "source_crc32": 2879273165,
+      "translation": "Привычка к темноте"
+    },
+    {
+      "key": "RobberBaron_005",
+      "source_crc32": 4022786346,
+      "translation": "В розыске за разбой"
+    },
+    {
+      "key": "Thief_015",
+      "source_crc32": 2187838258,
+      "translation": "В розыске за кражу"
+    },
+    {
+      "key": "RobberBaron_016",
+      "source_crc32": 3097994812,
+      "translation": "Разыскивается в нескольких городах"
+    },
+    {
+      "key": "TownWatch_001",
+      "source_crc32": 941055423,
+      "translation": "Годы в страже"
+    },
+    {
+      "key": "TownWatch_014",
+      "source_crc32": 3123726938,
+      "translation": "Следит за рынком"
+    },
+    {
+      "key": "Civil_008",
+      "source_crc32": 2083663557,
+      "translation": "Полезные связи"
+    },
+    {
+      "key": "Trader_003",
+      "source_crc32": 1590218750,
+      "translation": "Оптовая торговля"
+    },
+    {
+      "key": "Blacksmith_012",
+      "source_crc32": 2314261760,
+      "translation": "Работа на городскую стражу"
+    },
+    {
+      "key": "Ghoul_013",
+      "source_crc32": 1844062495,
+      "translation": "Работа после заката"
+    },
+    {
+      "key": "Necromancer_004",
+      "source_crc32": 2614734300,
+      "translation": "Лучше работается ночью"
+    },
+    {
+      "key": "Thief_010",
+      "source_crc32": 154328812,
+      "translation": "Промысел на людных рынках"
+    },
+    {
+      "key": "Tailor_015",
+      "source_crc32": 4005156800,
+      "translation": "Работа допоздна при свече"
+    },
+    {
+      "key": "Joiner_016",
+      "source_crc32": 1393098442,
+      "translation": "Работа на глаз"
+    },
+    {
+      "key": "QuarryWorker_016",
+      "source_crc32": 1545232239,
+      "translation": "Работа молотом и зубилом"
+    },
+    {
+      "key": "StoneMason_005",
+      "source_crc32": 1545232239,
+      "translation": "Работа молотом и зубилом"
+    },
+    {
+      "key": "MineWorker_011",
+      "source_crc32": 1756591634,
+      "translation": "Работа при свете фонаря"
+    },
+    {
+      "key": "Tailor_007",
+      "source_crc32": 2851743080,
+      "translation": "Работа на богатых заказчиков"
+    },
+    {
+      "key": "LumberWorker_007",
+      "source_crc32": 1122781573,
+      "translation": "Работа с рассвета"
+    },
+    {
+      "key": "QuarryWorker_008",
+      "source_crc32": 1122781573,
+      "translation": "Работа с рассвета"
+    },
+    {
+      "key": "StoneMason_012",
+      "source_crc32": 2386672191,
+      "translation": "Строит церкви"
+    },
+    {
+      "key": "StoneMason_013",
+      "source_crc32": 3964731758,
+      "translation": "Строит укрепления"
+    },
+    {
+      "key": "Perfumer_004",
+      "source_crc32": 1144799225,
+      "translation": "Работа с заморскими ингредиентами"
+    },
+    {
+      "key": "Thief_013",
+      "source_crc32": 1364094075,
+      "translation": "Связь со скупщиком"
+    },
+    {
+      "key": "RobberBaron_009",
+      "source_crc32": 2129181786,
+      "translation": "Промышляет с шайкой"
+    },
+    {
+      "key": "Prisoner_001",
+      "source_crc32": 3599492425,
+      "translation": "Ложное обвинение"
+    }
+  ]
+}

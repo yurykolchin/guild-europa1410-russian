@@ -1,0 +1,2361 @@
+{
+  "resource": "Game",
+  "namespace": "Character Name Pools",
+  "entries": [
+    {
+      "key": "Female_Germanic_Pool001",
+      "source_crc32": 2381978466,
+      "translation": "Адельхайд"
+    },
+    {
+      "key": "Surname_Germanic_Pool001",
+      "source_crc32": 3328124572,
+      "translation": "Адлер"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool001",
+      "source_crc32": 1283848001,
+      "translation": "Адриан"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool091",
+      "source_crc32": 1283848001,
+      "translation": "Адриан"
+    },
+    {
+      "key": "Female_Germanic_Pool002",
+      "source_crc32": 3138415508,
+      "translation": "Агнес"
+    },
+    {
+      "key": "Female_Romance_Pool001",
+      "source_crc32": 1299051082,
+      "translation": "Аньезе"
+    },
+    {
+      "key": "Female_Romance_Pool081",
+      "source_crc32": 1299051082,
+      "translation": "Аньезе"
+    },
+    {
+      "key": "Male_Germanic_Pool001",
+      "source_crc32": 850891783,
+      "translation": "Альбрехт"
+    },
+    {
+      "key": "Female_Slavic_Pool001",
+      "source_crc32": 925067109,
+      "translation": "Алена"
+    },
+    {
+      "key": "Female_Slavic_Pool061",
+      "source_crc32": 925067109,
+      "translation": "Алена"
+    },
+    {
+      "key": "Female_Romance_Pool002",
+      "source_crc32": 647002766,
+      "translation": "Алессандра"
+    },
+    {
+      "key": "Female_Romance_Pool082",
+      "source_crc32": 647002766,
+      "translation": "Алессандра"
+    },
+    {
+      "key": "Male_Romance_Pool001",
+      "source_crc32": 3327069629,
+      "translation": "Алессандро"
+    },
+    {
+      "key": "Male_Romance_Pool081",
+      "source_crc32": 3327069629,
+      "translation": "Алессандро"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool001",
+      "source_crc32": 3663219334,
+      "translation": "Алета"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool091",
+      "source_crc32": 3663219334,
+      "translation": "Алета"
+    },
+    {
+      "key": "Male_Slavic_Pool001",
+      "source_crc32": 1537628473,
+      "translation": "Алеш"
+    },
+    {
+      "key": "Male_Slavic_Pool061",
+      "source_crc32": 1537628473,
+      "translation": "Алеш"
+    },
+    {
+      "key": "Female_Germanic_Pool003",
+      "source_crc32": 2000264011,
+      "translation": "Альмут"
+    },
+    {
+      "key": "Surname_Germanic_Pool002",
+      "source_crc32": 460925284,
+      "translation": "Альтенбург"
+    },
+    {
+      "key": "Female_Slavic_Pool008",
+      "source_crc32": 654756423,
+      "translation": "Альжбета"
+    },
+    {
+      "key": "Female_Slavic_Pool068",
+      "source_crc32": 654756423,
+      "translation": "Альжбета"
+    },
+    {
+      "key": "Male_Germanic_Pool002",
+      "source_crc32": 3130367716,
+      "translation": "Андреас"
+    },
+    {
+      "key": "Female_Romance_Pool003",
+      "source_crc32": 3583821239,
+      "translation": "Анджелика"
+    },
+    {
+      "key": "Female_Romance_Pool083",
+      "source_crc32": 3583821239,
+      "translation": "Анджелика"
+    },
+    {
+      "key": "Female_Germanic_Pool004",
+      "source_crc32": 3946164679,
+      "translation": "Анна"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool002",
+      "source_crc32": 961981079,
+      "translation": "Аннекен"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool092",
+      "source_crc32": 961981079,
+      "translation": "Аннекен"
+    },
+    {
+      "key": "Female_Germanic_Pool058",
+      "source_crc32": 3431571371,
+      "translation": "Аннелизе"
+    },
+    {
+      "key": "Female_Germanic_Pool031",
+      "source_crc32": 2431119350,
+      "translation": "Анника"
+    },
+    {
+      "key": "Male_Germanic_Pool003",
+      "source_crc32": 982738961,
+      "translation": "Ансельм"
+    },
+    {
+      "key": "Male_Romance_Pool002",
+      "source_crc32": 226893466,
+      "translation": "Антонио"
+    },
+    {
+      "key": "Male_Romance_Pool082",
+      "source_crc32": 226893466,
+      "translation": "Антонио"
+    },
+    {
+      "key": "Male_Germanic_Pool004",
+      "source_crc32": 1899046387,
+      "translation": "Арнольд"
+    },
+    {
+      "key": "Surname_Workers_Pool101",
+      "source_crc32": 4102397927,
+      "translation": "Ашерман"
+    },
+    {
+      "key": "Male_Germanic_Pool005",
+      "source_crc32": 1587805243,
+      "translation": "Август"
+    },
+    {
+      "key": "Male_Germanic_Pool006",
+      "source_crc32": 2264189210,
+      "translation": "Бальдур"
+    },
+    {
+      "key": "Female_Germanic_Pool005",
+      "source_crc32": 3535669447,
+      "translation": "Барбара"
+    },
+    {
+      "key": "Female_Slavic_Pool002",
+      "source_crc32": 999283673,
+      "translation": "Барбора"
+    },
+    {
+      "key": "Female_Slavic_Pool062",
+      "source_crc32": 999283673,
+      "translation": "Барбора"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool002",
+      "source_crc32": 3746447329,
+      "translation": "Барент"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool092",
+      "source_crc32": 3746447329,
+      "translation": "Барент"
+    },
+    {
+      "key": "Surname_Germanic_Pool003",
+      "source_crc32": 2136244238,
+      "translation": "Баумгартнер"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool003",
+      "source_crc32": 93629694,
+      "translation": "Беатрейс"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool093",
+      "source_crc32": 93629694,
+      "translation": "Беатрейс"
+    },
+    {
+      "key": "Female_Germanic_Pool006",
+      "source_crc32": 908537193,
+      "translation": "Беатрикс"
+    },
+    {
+      "key": "Surname_Germanic_Pool004",
+      "source_crc32": 135140631,
+      "translation": "Бекман"
+    },
+    {
+      "key": "Male_Germanic_Pool007",
+      "source_crc32": 2280347657,
+      "translation": "Бенедикт"
+    },
+    {
+      "key": "Surname_Germanic_Pool005",
+      "source_crc32": 844312104,
+      "translation": "Бернауэр"
+    },
+    {
+      "key": "Male_Germanic_Pool008",
+      "source_crc32": 179294256,
+      "translation": "Бернд"
+    },
+    {
+      "key": "Female_Germanic_Pool007",
+      "source_crc32": 3490319841,
+      "translation": "Берта"
+    },
+    {
+      "key": "Male_Germanic_Pool017",
+      "source_crc32": 3117466071,
+      "translation": "Бертольд"
+    },
+    {
+      "key": "Female_Romance_Pool004",
+      "source_crc32": 2782541,
+      "translation": "Бьянка"
+    },
+    {
+      "key": "Female_Romance_Pool084",
+      "source_crc32": 2782541,
+      "translation": "Бьянка"
+    },
+    {
+      "key": "Surname_Germanic_Pool006",
+      "source_crc32": 1557448311,
+      "translation": "Биберштайн"
+    },
+    {
+      "key": "Surname_Workers_Pool150",
+      "source_crc32": 3738127011,
+      "translation": "Биттерлинг"
+    },
+    {
+      "key": "Surname_Workers_Pool102",
+      "source_crc32": 2122805492,
+      "translation": "Блех"
+    },
+    {
+      "key": "Surname_Romance_Pool001",
+      "source_crc32": 3444985161,
+      "translation": "Бокканегра"
+    },
+    {
+      "key": "Surname_Romance_Pool081",
+      "source_crc32": 3444985161,
+      "translation": "Бокканегра"
+    },
+    {
+      "key": "Surname_Germanic_Pool007",
+      "source_crc32": 1109997881,
+      "translation": "Боклер"
+    },
+    {
+      "key": "Male_Slavic_Pool002",
+      "source_crc32": 3902858092,
+      "translation": "Болеслав"
+    },
+    {
+      "key": "Male_Slavic_Pool062",
+      "source_crc32": 3902858092,
+      "translation": "Болеслав"
+    },
+    {
+      "key": "Female_Slavic_Pool003",
+      "source_crc32": 3215514379,
+      "translation": "Божена"
+    },
+    {
+      "key": "Female_Slavic_Pool063",
+      "source_crc32": 3215514379,
+      "translation": "Божена"
+    },
+    {
+      "key": "Surname_Workers_Pool103",
+      "source_crc32": 3492115230,
+      "translation": "Брандтнер"
+    },
+    {
+      "key": "Surname_Germanic_Pool008",
+      "source_crc32": 3316578870,
+      "translation": "Браунфельс"
+    },
+    {
+      "key": "Female_Germanic_Pool008",
+      "source_crc32": 3047720519,
+      "translation": "Бригитта"
+    },
+    {
+      "key": "Surname_Workers_Pool104",
+      "source_crc32": 718862295,
+      "translation": "Брухман"
+    },
+    {
+      "key": "Male_Germanic_Pool009",
+      "source_crc32": 3001579605,
+      "translation": "Бруно"
+    },
+    {
+      "key": "Surname_Germanic_Pool009",
+      "source_crc32": 2213866150,
+      "translation": "Бухвальд"
+    },
+    {
+      "key": "Surname_Romance_Pool002",
+      "source_crc32": 3914325409,
+      "translation": "Карафа"
+    },
+    {
+      "key": "Surname_Romance_Pool082",
+      "source_crc32": 3914325409,
+      "translation": "Карафа"
+    },
+    {
+      "key": "Male_Romance_Pool003",
+      "source_crc32": 786245517,
+      "translation": "Карло"
+    },
+    {
+      "key": "Male_Romance_Pool083",
+      "source_crc32": 786245517,
+      "translation": "Карло"
+    },
+    {
+      "key": "Female_Romance_Pool005",
+      "source_crc32": 2653608168,
+      "translation": "Катерина"
+    },
+    {
+      "key": "Female_Romance_Pool085",
+      "source_crc32": 2653608168,
+      "translation": "Катерина"
+    },
+    {
+      "key": "Female_Romance_Pool006",
+      "source_crc32": 1442716327,
+      "translation": "Кьяра"
+    },
+    {
+      "key": "Female_Romance_Pool086",
+      "source_crc32": 1442716327,
+      "translation": "Кьяра"
+    },
+    {
+      "key": "Male_Germanic_Pool010",
+      "source_crc32": 983357646,
+      "translation": "Кристоф"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool005",
+      "source_crc32": 1240349698,
+      "translation": "Класзон"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool095",
+      "source_crc32": 1240349698,
+      "translation": "Класзон"
+    },
+    {
+      "key": "Female_Germanic_Pool009",
+      "source_crc32": 3590262514,
+      "translation": "Клара"
+    },
+    {
+      "key": "Female_Romance_Pool008",
+      "source_crc32": 807539593,
+      "translation": "Кларисса"
+    },
+    {
+      "key": "Female_Romance_Pool088",
+      "source_crc32": 807539593,
+      "translation": "Кларисса"
+    },
+    {
+      "key": "Surname_Romance_Pool003",
+      "source_crc32": 416252474,
+      "translation": "Колонна"
+    },
+    {
+      "key": "Surname_Romance_Pool083",
+      "source_crc32": 416252474,
+      "translation": "Колонна"
+    },
+    {
+      "key": "Male_Germanic_Pool011",
+      "source_crc32": 4147101111,
+      "translation": "Конрад"
+    },
+    {
+      "key": "Surname_Workers_Pool146",
+      "source_crc32": 1145353216,
+      "translation": "Купер"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool003",
+      "source_crc32": 1742655632,
+      "translation": "Корнелис"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool093",
+      "source_crc32": 1742655632,
+      "translation": "Корнелис"
+    },
+    {
+      "key": "Surname_Workers_Pool148",
+      "source_crc32": 1700629925,
+      "translation": "Крофт"
+    },
+    {
+      "key": "Male_Slavic_Pool003",
+      "source_crc32": 2792080141,
+      "translation": "Далибор"
+    },
+    {
+      "key": "Male_Slavic_Pool063",
+      "source_crc32": 2792080141,
+      "translation": "Далибор"
+    },
+    {
+      "key": "Female_Slavic_Pool004",
+      "source_crc32": 3905187614,
+      "translation": "Дарие"
+    },
+    {
+      "key": "Female_Slavic_Pool064",
+      "source_crc32": 3905187614,
+      "translation": "Дарие"
+    },
+    {
+      "key": "Surname_Germanic_Pool010",
+      "source_crc32": 2542205198,
+      "translation": "Дегенхардт"
+    },
+    {
+      "key": "Male_Germanic_Pool012",
+      "source_crc32": 78242755,
+      "translation": "Дитмар"
+    },
+    {
+      "key": "Male_Germanic_Pool013",
+      "source_crc32": 3069375159,
+      "translation": "Дитрих"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool004",
+      "source_crc32": 2707243358,
+      "translation": "Дирк"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool094",
+      "source_crc32": 2707243358,
+      "translation": "Дирк"
+    },
+    {
+      "key": "Male_Romance_Pool004",
+      "source_crc32": 942704075,
+      "translation": "Доменико"
+    },
+    {
+      "key": "Male_Romance_Pool084",
+      "source_crc32": 942704075,
+      "translation": "Доменико"
+    },
+    {
+      "key": "Female_Germanic_Pool010",
+      "source_crc32": 1557849960,
+      "translation": "Доротея"
+    },
+    {
+      "key": "Surname_Workers_Pool105",
+      "source_crc32": 357672621,
+      "translation": "Дрекнер"
+    },
+    {
+      "key": "Male_Slavic_Pool004",
+      "source_crc32": 1681809791,
+      "translation": "Душан"
+    },
+    {
+      "key": "Male_Slavic_Pool064",
+      "source_crc32": 1681809791,
+      "translation": "Душан"
+    },
+    {
+      "key": "Surname_Germanic_Pool011",
+      "source_crc32": 3241509956,
+      "translation": "Дюрер"
+    },
+    {
+      "key": "Surname_Workers_Pool106",
+      "source_crc32": 2016455751,
+      "translation": "Дюрр"
+    },
+    {
+      "key": "Male_Germanic_Pool014",
+      "source_crc32": 572913990,
+      "translation": "Эберхард"
+    },
+    {
+      "key": "Surname_Germanic_Pool012",
+      "source_crc32": 2383502673,
+      "translation": "Эберлин"
+    },
+    {
+      "key": "Male_Germanic_Pool015",
+      "source_crc32": 3566943060,
+      "translation": "Экхард"
+    },
+    {
+      "key": "Female_Germanic_Pool011",
+      "source_crc32": 1347252336,
+      "translation": "Эдельгард"
+    },
+    {
+      "key": "Female_Germanic_Pool022",
+      "source_crc32": 2678340763,
+      "translation": "Эдит"
+    },
+    {
+      "key": "Surname_Germanic_Pool013",
+      "source_crc32": 3001693627,
+      "translation": "Айхенлауб"
+    },
+    {
+      "key": "Male_Germanic_Pool016",
+      "source_crc32": 1609845765,
+      "translation": "Элиас"
+    },
+    {
+      "key": "Female_Germanic_Pool012",
+      "source_crc32": 325511363,
+      "translation": "Элизабет"
+    },
+    {
+      "key": "Female_Slavic_Pool067",
+      "source_crc32": 687471309,
+      "translation": "Элишка"
+    },
+    {
+      "key": "Female_Slavic_Pool007",
+      "source_crc32": 156522094,
+      "translation": "Элишка"
+    },
+    {
+      "key": "Female_Germanic_Pool014",
+      "source_crc32": 880887589,
+      "translation": "Эльза"
+    },
+    {
+      "key": "Female_Germanic_Pool013",
+      "source_crc32": 3152269426,
+      "translation": "Эльзе"
+    },
+    {
+      "key": "Female_Germanic_Pool015",
+      "source_crc32": 1899476091,
+      "translation": "Эмилия"
+    },
+    {
+      "key": "Male_Germanic_Pool018",
+      "source_crc32": 2249705744,
+      "translation": "Энгельберт"
+    },
+    {
+      "key": "Male_Romance_Pool005",
+      "source_crc32": 2346643577,
+      "translation": "Энрико"
+    },
+    {
+      "key": "Male_Romance_Pool085",
+      "source_crc32": 2346643577,
+      "translation": "Энрико"
+    },
+    {
+      "key": "Female_Germanic_Pool040",
+      "source_crc32": 1773904413,
+      "translation": "Эрика"
+    },
+    {
+      "key": "Female_Germanic_Pool017",
+      "source_crc32": 907435325,
+      "translation": "Эрна"
+    },
+    {
+      "key": "Male_Germanic_Pool019",
+      "source_crc32": 1317036880,
+      "translation": "Эрнст"
+    },
+    {
+      "key": "Female_Germanic_Pool018",
+      "source_crc32": 984616702,
+      "translation": "Эва"
+    },
+    {
+      "key": "Male_Germanic_Pool020",
+      "source_crc32": 3017897974,
+      "translation": "Фабиан"
+    },
+    {
+      "key": "Male_Germanic_Pool021",
+      "source_crc32": 1237332442,
+      "translation": "Фальк"
+    },
+    {
+      "key": "Surname_Germanic_Pool014",
+      "source_crc32": 599909005,
+      "translation": "Фалькенштайн"
+    },
+    {
+      "key": "Surname_Workers_Pool107",
+      "source_crc32": 2999072662,
+      "translation": "Фаульхабер"
+    },
+    {
+      "key": "Surname_Germanic_Pool015",
+      "source_crc32": 1397550340,
+      "translation": "Фауст"
+    },
+    {
+      "key": "Surname_Workers_Pool143",
+      "source_crc32": 3147246401,
+      "translation": "Ферраро"
+    },
+    {
+      "key": "Surname_Germanic_Pool016",
+      "source_crc32": 2150541120,
+      "translation": "Фойербах"
+    },
+    {
+      "key": "Surname_Romance_Pool005",
+      "source_crc32": 2338191655,
+      "translation": "Фиески"
+    },
+    {
+      "key": "Surname_Romance_Pool085",
+      "source_crc32": 2338191655,
+      "translation": "Фиески"
+    },
+    {
+      "key": "Male_Romance_Pool006",
+      "source_crc32": 2428951087,
+      "translation": "Филиппо"
+    },
+    {
+      "key": "Male_Romance_Pool086",
+      "source_crc32": 2428951087,
+      "translation": "Филиппо"
+    },
+    {
+      "key": "Surname_Germanic_Pool017",
+      "source_crc32": 2648296373,
+      "translation": "Флайшер"
+    },
+    {
+      "key": "Surname_Workers_Pool108",
+      "source_crc32": 3167775763,
+      "translation": "Флинк"
+    },
+    {
+      "key": "Surname_Workers_Pool109",
+      "source_crc32": 1454326773,
+      "translation": "Флуршауф"
+    },
+    {
+      "key": "Surname_Germanic_Pool018",
+      "source_crc32": 4202570018,
+      "translation": "Форстнер"
+    },
+    {
+      "key": "Male_Slavic_Pool005",
+      "source_crc32": 2044044495,
+      "translation": "Франтишек"
+    },
+    {
+      "key": "Male_Slavic_Pool065",
+      "source_crc32": 2044044495,
+      "translation": "Франтишек"
+    },
+    {
+      "key": "Male_Germanic_Pool022",
+      "source_crc32": 2497503778,
+      "translation": "Франц"
+    },
+    {
+      "key": "Female_Germanic_Pool019",
+      "source_crc32": 2215139466,
+      "translation": "Фрида"
+    },
+    {
+      "key": "Male_Germanic_Pool023",
+      "source_crc32": 2970314976,
+      "translation": "Фридрих"
+    },
+    {
+      "key": "Surname_Workers_Pool110",
+      "source_crc32": 1950130139,
+      "translation": "Фроммерц"
+    },
+    {
+      "key": "Surname_Germanic_Pool019",
+      "source_crc32": 92322873,
+      "translation": "Фрёлих"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool005",
+      "source_crc32": 581466023,
+      "translation": "Герт"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool095",
+      "source_crc32": 581466023,
+      "translation": "Герт"
+    },
+    {
+      "key": "Surname_Germanic_Pool021",
+      "source_crc32": 2354888974,
+      "translation": "Гайслер"
+    },
+    {
+      "key": "Male_Germanic_Pool024",
+      "source_crc32": 2318624695,
+      "translation": "Георг"
+    },
+    {
+      "key": "Surname_Workers_Pool111",
+      "source_crc32": 3193354787,
+      "translation": "Герберлинг"
+    },
+    {
+      "key": "Male_Germanic_Pool025",
+      "source_crc32": 2142754287,
+      "translation": "Герхард"
+    },
+    {
+      "key": "Female_Germanic_Pool020",
+      "source_crc32": 1341197996,
+      "translation": "Гертруда"
+    },
+    {
+      "key": "Female_Germanic_Pool038",
+      "source_crc32": 557589354,
+      "translation": "Гизела"
+    },
+    {
+      "key": "Male_Romance_Pool007",
+      "source_crc32": 3250173463,
+      "translation": "Джулиано"
+    },
+    {
+      "key": "Male_Romance_Pool087",
+      "source_crc32": 3250173463,
+      "translation": "Джулиано"
+    },
+    {
+      "key": "Surname_Germanic_Pool022",
+      "source_crc32": 420504493,
+      "translation": "Гольдман"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool008",
+      "source_crc32": 660388667,
+      "translation": "Госсенс"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool098",
+      "source_crc32": 660388667,
+      "translation": "Госсенс"
+    },
+    {
+      "key": "Male_Germanic_Pool026",
+      "source_crc32": 4090303408,
+      "translation": "Готфрид"
+    },
+    {
+      "key": "Surname_Germanic_Pool023",
+      "source_crc32": 3949514634,
+      "translation": "Готлиб"
+    },
+    {
+      "key": "Surname_Workers_Pool112",
+      "source_crc32": 391030282,
+      "translation": "Грабенхауэр"
+    },
+    {
+      "key": "Female_Germanic_Pool021",
+      "source_crc32": 2564693862,
+      "translation": "Грета"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool005",
+      "source_crc32": 1768110262,
+      "translation": "Гритье"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool095",
+      "source_crc32": 1768110262,
+      "translation": "Гритье"
+    },
+    {
+      "key": "Surname_Romance_Pool006",
+      "source_crc32": 763867943,
+      "translation": "Гримальди"
+    },
+    {
+      "key": "Surname_Romance_Pool086",
+      "source_crc32": 763867943,
+      "translation": "Гримальди"
+    },
+    {
+      "key": "Surname_Germanic_Pool024",
+      "source_crc32": 2304929798,
+      "translation": "Грубер"
+    },
+    {
+      "key": "Female_Germanic_Pool023",
+      "source_crc32": 1241861482,
+      "translation": "Гудрун"
+    },
+    {
+      "key": "Surname_Germanic_Pool025",
+      "source_crc32": 3510004851,
+      "translation": "Гутенберг"
+    },
+    {
+      "key": "Male_Germanic_Pool027",
+      "source_crc32": 4062017369,
+      "translation": "Гюнтер"
+    },
+    {
+      "key": "Surname_Germanic_Pool026",
+      "source_crc32": 14716508,
+      "translation": "Хабихт"
+    },
+    {
+      "key": "Surname_Workers_Pool113",
+      "source_crc32": 3183595623,
+      "translation": "Хакель"
+    },
+    {
+      "key": "Male_Germanic_Pool028",
+      "source_crc32": 803691095,
+      "translation": "Хаген"
+    },
+    {
+      "key": "Surname_Germanic_Pool027",
+      "source_crc32": 3038048299,
+      "translation": "Хагенау"
+    },
+    {
+      "key": "Surname_Germanic_Pool020",
+      "source_crc32": 3323923791,
+      "translation": "Хандель"
+    },
+    {
+      "key": "Female_Germanic_Pool037",
+      "source_crc32": 3074911430,
+      "translation": "Ханна"
+    },
+    {
+      "key": "Female_Germanic_Pool057",
+      "source_crc32": 1555272026,
+      "translation": "Ханнелоре"
+    },
+    {
+      "key": "Male_Germanic_Pool029",
+      "source_crc32": 3200958332,
+      "translation": "Ганс"
+    },
+    {
+      "key": "Surname_Workers_Pool114",
+      "source_crc32": 2326816718,
+      "translation": "Харниш"
+    },
+    {
+      "key": "Female_Germanic_Pool025",
+      "source_crc32": 2271867256,
+      "translation": "Хедвиг"
+    },
+    {
+      "key": "Male_Germanic_Pool030",
+      "source_crc32": 600598959,
+      "translation": "Генрих"
+    },
+    {
+      "key": "Female_Germanic_Pool016",
+      "source_crc32": 1006062481,
+      "translation": "Хелена"
+    },
+    {
+      "key": "Surname_Germanic_Pool028",
+      "source_crc32": 3113784615,
+      "translation": "Хеллер"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool006",
+      "source_crc32": 3774318965,
+      "translation": "Хендрик"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool096",
+      "source_crc32": 3774318965,
+      "translation": "Хендрик"
+    },
+    {
+      "key": "Male_Germanic_Pool031",
+      "source_crc32": 1222760258,
+      "translation": "Герман"
+    },
+    {
+      "key": "Female_Germanic_Pool027",
+      "source_crc32": 3115282910,
+      "translation": "Хильда"
+    },
+    {
+      "key": "Male_Germanic_Pool032",
+      "source_crc32": 4136425726,
+      "translation": "Хильдебранд"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool006",
+      "source_crc32": 3947818821,
+      "translation": "Хиллегонда"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool096",
+      "source_crc32": 3947818821,
+      "translation": "Хиллегонда"
+    },
+    {
+      "key": "Surname_Germanic_Pool029",
+      "source_crc32": 3401911178,
+      "translation": "Хиршфельд"
+    },
+    {
+      "key": "Surname_Workers_Pool149",
+      "source_crc32": 1064328631,
+      "translation": "Хоббс"
+    },
+    {
+      "key": "Surname_Germanic_Pool030",
+      "source_crc32": 2839692517,
+      "translation": "Хохберг"
+    },
+    {
+      "key": "Surname_Germanic_Pool031",
+      "source_crc32": 3868075839,
+      "translation": "Гогенцоллерн"
+    },
+    {
+      "key": "Surname_Germanic_Pool032",
+      "source_crc32": 2798386537,
+      "translation": "Хольцман"
+    },
+    {
+      "key": "Surname_Workers_Pool115",
+      "source_crc32": 4237643037,
+      "translation": "Хольцкнехт"
+    },
+    {
+      "key": "Surname_Germanic_Pool033",
+      "source_crc32": 200911425,
+      "translation": "Хорнштайн"
+    },
+    {
+      "key": "Male_Germanic_Pool033",
+      "source_crc32": 3025443571,
+      "translation": "Гуго"
+    },
+    {
+      "key": "Female_Germanic_Pool028",
+      "source_crc32": 19166505,
+      "translation": "Ида"
+    },
+    {
+      "key": "Female_Germanic_Pool029",
+      "source_crc32": 482411450,
+      "translation": "Ильзе"
+    },
+    {
+      "key": "Female_Germanic_Pool039",
+      "source_crc32": 2548065067,
+      "translation": "Ингрид"
+    },
+    {
+      "key": "Female_Germanic_Pool030",
+      "source_crc32": 728024893,
+      "translation": "Ирмгард"
+    },
+    {
+      "key": "Female_Romance_Pool007",
+      "source_crc32": 3936050707,
+      "translation": "Изабелла"
+    },
+    {
+      "key": "Female_Romance_Pool087",
+      "source_crc32": 3936050707,
+      "translation": "Изабелла"
+    },
+    {
+      "key": "Male_Slavic_Pool006",
+      "source_crc32": 326219632,
+      "translation": "Иван"
+    },
+    {
+      "key": "Male_Slavic_Pool066",
+      "source_crc32": 326219632,
+      "translation": "Иван"
+    },
+    {
+      "key": "Female_Slavic_Pool009",
+      "source_crc32": 3144289818,
+      "translation": "Ивана"
+    },
+    {
+      "key": "Female_Slavic_Pool069",
+      "source_crc32": 3144289818,
+      "translation": "Ивана"
+    },
+    {
+      "key": "Male_Germanic_Pool034",
+      "source_crc32": 993378858,
+      "translation": "Якоб"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool007",
+      "source_crc32": 1715059179,
+      "translation": "Ян"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool097",
+      "source_crc32": 1715059179,
+      "translation": "Ян"
+    },
+    {
+      "key": "Male_Slavic_Pool007",
+      "source_crc32": 1331619448,
+      "translation": "Янек"
+    },
+    {
+      "key": "Male_Slavic_Pool067",
+      "source_crc32": 1331619448,
+      "translation": "Янек"
+    },
+    {
+      "key": "Female_Slavic_Pool010",
+      "source_crc32": 1053217522,
+      "translation": "Ярмила"
+    },
+    {
+      "key": "Female_Slavic_Pool070",
+      "source_crc32": 1053217522,
+      "translation": "Ярмила"
+    },
+    {
+      "key": "Male_Slavic_Pool008",
+      "source_crc32": 1734193627,
+      "translation": "Яромир"
+    },
+    {
+      "key": "Male_Slavic_Pool068",
+      "source_crc32": 1734193627,
+      "translation": "Яромир"
+    },
+    {
+      "key": "Male_Slavic_Pool021",
+      "source_crc32": 2187551815,
+      "translation": "Йиндржих"
+    },
+    {
+      "key": "Male_Slavic_Pool009",
+      "source_crc32": 1267084198,
+      "translation": "Иржи"
+    },
+    {
+      "key": "Male_Slavic_Pool069",
+      "source_crc32": 1267084198,
+      "translation": "Иржи"
+    },
+    {
+      "key": "Male_Germanic_Pool035",
+      "source_crc32": 2861060587,
+      "translation": "Иоахим"
+    },
+    {
+      "key": "Male_Germanic_Pool036",
+      "source_crc32": 982335502,
+      "translation": "Иоганн"
+    },
+    {
+      "key": "Female_Germanic_Pool032",
+      "source_crc32": 2059045437,
+      "translation": "Иоганна"
+    },
+    {
+      "key": "Female_Germanic_Pool033",
+      "source_crc32": 3366596230,
+      "translation": "Юдит"
+    },
+    {
+      "key": "Female_Germanic_Pool034",
+      "source_crc32": 1099820758,
+      "translation": "Юлиана"
+    },
+    {
+      "key": "Surname_Germanic_Pool034",
+      "source_crc32": 3645043742,
+      "translation": "Егер"
+    },
+    {
+      "key": "Male_Germanic_Pool037",
+      "source_crc32": 3577877792,
+      "translation": "Йорг"
+    },
+    {
+      "key": "Surname_Workers_Pool116",
+      "source_crc32": 1668149026,
+      "translation": "Карг"
+    },
+    {
+      "key": "Female_Germanic_Pool060",
+      "source_crc32": 1406764556,
+      "translation": "Карла"
+    },
+    {
+      "key": "Male_Germanic_Pool038",
+      "source_crc32": 1258168437,
+      "translation": "Каспар"
+    },
+    {
+      "key": "Female_Slavic_Pool012",
+      "source_crc32": 1035633548,
+      "translation": "Катажина"
+    },
+    {
+      "key": "Female_Slavic_Pool072",
+      "source_crc32": 1035633548,
+      "translation": "Катажина"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool007",
+      "source_crc32": 2525618086,
+      "translation": "Кателейне"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool097",
+      "source_crc32": 2525618086,
+      "translation": "Кателейне"
+    },
+    {
+      "key": "Female_Germanic_Pool035",
+      "source_crc32": 270247184,
+      "translation": "Катерина"
+    },
+    {
+      "key": "Male_Slavic_Pool010",
+      "source_crc32": 2144565424,
+      "translation": "Казимир"
+    },
+    {
+      "key": "Male_Slavic_Pool070",
+      "source_crc32": 2144565424,
+      "translation": "Казимир"
+    },
+    {
+      "key": "Surname_Workers_Pool117",
+      "source_crc32": 2292840366,
+      "translation": "Керман"
+    },
+    {
+      "key": "Surname_Germanic_Pool035",
+      "source_crc32": 3783670799,
+      "translation": "Келлер"
+    },
+    {
+      "key": "Surname_Germanic_Pool036",
+      "source_crc32": 2036993647,
+      "translation": "Кирхгоф"
+    },
+    {
+      "key": "Surname_Workers_Pool118",
+      "source_crc32": 2829607547,
+      "translation": "Кистенмахер"
+    },
+    {
+      "key": "Male_Germanic_Pool039",
+      "source_crc32": 3102821965,
+      "translation": "Клаус"
+    },
+    {
+      "key": "Surname_Workers_Pool119",
+      "source_crc32": 605558116,
+      "translation": "Книрш"
+    },
+    {
+      "key": "Male_Germanic_Pool040",
+      "source_crc32": 623018249,
+      "translation": "Конрад"
+    },
+    {
+      "key": "Surname_Workers_Pool120",
+      "source_crc32": 3489057132,
+      "translation": "Крац"
+    },
+    {
+      "key": "Female_Slavic_Pool013",
+      "source_crc32": 2035770567,
+      "translation": "Кристина"
+    },
+    {
+      "key": "Female_Slavic_Pool073",
+      "source_crc32": 2035770567,
+      "translation": "Кристина"
+    },
+    {
+      "key": "Surname_Workers_Pool121",
+      "source_crc32": 3385516942,
+      "translation": "Крумбайн"
+    },
+    {
+      "key": "Surname_Germanic_Pool037",
+      "source_crc32": 1414467437,
+      "translation": "Кремер"
+    },
+    {
+      "key": "Surname_Germanic_Pool038",
+      "source_crc32": 726419165,
+      "translation": "Крюгер"
+    },
+    {
+      "key": "Female_Germanic_Pool036",
+      "source_crc32": 3044776735,
+      "translation": "Кунигунда"
+    },
+    {
+      "key": "Surname_Workers_Pool122",
+      "source_crc32": 3456153315,
+      "translation": "Курц"
+    },
+    {
+      "key": "Surname_Germanic_Pool039",
+      "source_crc32": 23989945,
+      "translation": "Кюн"
+    },
+    {
+      "key": "Male_Germanic_Pool041",
+      "source_crc32": 573942199,
+      "translation": "Ламберт"
+    },
+    {
+      "key": "Surname_Germanic_Pool040",
+      "source_crc32": 1804392909,
+      "translation": "Ландсберг"
+    },
+    {
+      "key": "Surname_Workers_Pool123",
+      "source_crc32": 2163887822,
+      "translation": "Лангфингер"
+    },
+    {
+      "key": "Male_Romance_Pool008",
+      "source_crc32": 3339506667,
+      "translation": "Леонардо"
+    },
+    {
+      "key": "Male_Romance_Pool088",
+      "source_crc32": 3339506667,
+      "translation": "Леонардо"
+    },
+    {
+      "key": "Male_Germanic_Pool042",
+      "source_crc32": 203709844,
+      "translation": "Леонхард"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool008",
+      "source_crc32": 569453405,
+      "translation": "Лисбет"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool098",
+      "source_crc32": 569453405,
+      "translation": "Лисбет"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool004",
+      "source_crc32": 2531727889,
+      "translation": "Лина"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool094",
+      "source_crc32": 2531727889,
+      "translation": "Лина"
+    },
+    {
+      "key": "Surname_Germanic_Pool041",
+      "source_crc32": 932048066,
+      "translation": "Линдеман"
+    },
+    {
+      "key": "Male_Germanic_Pool043",
+      "source_crc32": 1146711387,
+      "translation": "Лоренц"
+    },
+    {
+      "key": "Male_Romance_Pool009",
+      "source_crc32": 80382733,
+      "translation": "Лоренцо"
+    },
+    {
+      "key": "Male_Romance_Pool089",
+      "source_crc32": 80382733,
+      "translation": "Лоренцо"
+    },
+    {
+      "key": "Male_Slavic_Pool011",
+      "source_crc32": 2487940562,
+      "translation": "Любомир"
+    },
+    {
+      "key": "Male_Slavic_Pool071",
+      "source_crc32": 2487940562,
+      "translation": "Любомир"
+    },
+    {
+      "key": "Female_Slavic_Pool014",
+      "source_crc32": 1240599342,
+      "translation": "Людмила"
+    },
+    {
+      "key": "Female_Slavic_Pool074",
+      "source_crc32": 1240599342,
+      "translation": "Людмила"
+    },
+    {
+      "key": "Male_Germanic_Pool044",
+      "source_crc32": 246006786,
+      "translation": "Людвиг"
+    },
+    {
+      "key": "Surname_Germanic_Pool042",
+      "source_crc32": 2150199762,
+      "translation": "Лёвенштайн"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool008",
+      "source_crc32": 3371596165,
+      "translation": "Мартен"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool098",
+      "source_crc32": 3371596165,
+      "translation": "Мартен"
+    },
+    {
+      "key": "Female_Slavic_Pool015",
+      "source_crc32": 4128458775,
+      "translation": "Магдалена"
+    },
+    {
+      "key": "Female_Slavic_Pool075",
+      "source_crc32": 4128458775,
+      "translation": "Магдалена"
+    },
+    {
+      "key": "Male_Germanic_Pool045",
+      "source_crc32": 117390905,
+      "translation": "Манфред"
+    },
+    {
+      "key": "Male_Slavic_Pool012",
+      "source_crc32": 2802376854,
+      "translation": "Марек"
+    },
+    {
+      "key": "Male_Slavic_Pool072",
+      "source_crc32": 2802376854,
+      "translation": "Марек"
+    },
+    {
+      "key": "Female_Germanic_Pool041",
+      "source_crc32": 3139527205,
+      "translation": "Маргарета"
+    },
+    {
+      "key": "Female_Germanic_Pool042",
+      "source_crc32": 2630974390,
+      "translation": "Маргрит"
+    },
+    {
+      "key": "Female_Romance_Pool009",
+      "source_crc32": 2177963835,
+      "translation": "Маргерит"
+    },
+    {
+      "key": "Female_Romance_Pool089",
+      "source_crc32": 2177963835,
+      "translation": "Маргерит"
+    },
+    {
+      "key": "Female_Germanic_Pool043",
+      "source_crc32": 2669286845,
+      "translation": "Мария"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool009",
+      "source_crc32": 1172961476,
+      "translation": "Марикен"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool099",
+      "source_crc32": 1172961476,
+      "translation": "Марикен"
+    },
+    {
+      "key": "Female_Slavic_Pool016",
+      "source_crc32": 3272224602,
+      "translation": "Маркета"
+    },
+    {
+      "key": "Female_Slavic_Pool076",
+      "source_crc32": 3272224602,
+      "translation": "Маркета"
+    },
+    {
+      "key": "Male_Germanic_Pool046",
+      "source_crc32": 1768747762,
+      "translation": "Маркус"
+    },
+    {
+      "key": "Male_Germanic_Pool047",
+      "source_crc32": 2659658585,
+      "translation": "Мартин"
+    },
+    {
+      "key": "Female_Germanic_Pool024",
+      "source_crc32": 3101496450,
+      "translation": "Матильда"
+    },
+    {
+      "key": "Male_Romance_Pool010",
+      "source_crc32": 570765463,
+      "translation": "Маттео"
+    },
+    {
+      "key": "Male_Romance_Pool090",
+      "source_crc32": 570765463,
+      "translation": "Маттео"
+    },
+    {
+      "key": "Male_Germanic_Pool048",
+      "source_crc32": 2155111146,
+      "translation": "Маттиас"
+    },
+    {
+      "key": "Male_Slavic_Pool013",
+      "source_crc32": 4012157445,
+      "translation": "Матей"
+    },
+    {
+      "key": "Male_Slavic_Pool073",
+      "source_crc32": 4012157445,
+      "translation": "Матей"
+    },
+    {
+      "key": "Surname_Germanic_Pool043",
+      "source_crc32": 3593477573,
+      "translation": "Майснер"
+    },
+    {
+      "key": "Female_Germanic_Pool044",
+      "source_crc32": 713393874,
+      "translation": "Мелисенда"
+    },
+    {
+      "key": "Surname_Germanic_Pool044",
+      "source_crc32": 2028393604,
+      "translation": "Мецгер"
+    },
+    {
+      "key": "Male_Germanic_Pool049",
+      "source_crc32": 4229162338,
+      "translation": "Михаэль"
+    },
+    {
+      "key": "Male_Slavic_Pool014",
+      "source_crc32": 2191966195,
+      "translation": "Милан"
+    },
+    {
+      "key": "Male_Slavic_Pool074",
+      "source_crc32": 2191966195,
+      "translation": "Милан"
+    },
+    {
+      "key": "Female_Slavic_Pool017",
+      "source_crc32": 14847234,
+      "translation": "Милена"
+    },
+    {
+      "key": "Female_Slavic_Pool077",
+      "source_crc32": 14847234,
+      "translation": "Милена"
+    },
+    {
+      "key": "Surname_Workers_Pool147",
+      "source_crc32": 2190300084,
+      "translation": "Миллер"
+    },
+    {
+      "key": "Female_Germanic_Pool045",
+      "source_crc32": 4024312726,
+      "translation": "Минна"
+    },
+    {
+      "key": "Female_Slavic_Pool019",
+      "source_crc32": 328970212,
+      "translation": "Мира"
+    },
+    {
+      "key": "Female_Slavic_Pool079",
+      "source_crc32": 328970212,
+      "translation": "Мира"
+    },
+    {
+      "key": "Male_Slavic_Pool015",
+      "source_crc32": 4241717774,
+      "translation": "Мирослав"
+    },
+    {
+      "key": "Male_Slavic_Pool075",
+      "source_crc32": 4241717774,
+      "translation": "Мирослав"
+    },
+    {
+      "key": "Surname_Romance_Pool007",
+      "source_crc32": 687232987,
+      "translation": "Монферрат"
+    },
+    {
+      "key": "Surname_Romance_Pool087",
+      "source_crc32": 687232987,
+      "translation": "Монферрат"
+    },
+    {
+      "key": "Surname_Germanic_Pool045",
+      "source_crc32": 334342168,
+      "translation": "Моргенштерн"
+    },
+    {
+      "key": "Surname_Workers_Pool124",
+      "source_crc32": 826163783,
+      "translation": "Мозер"
+    },
+    {
+      "key": "Surname_Workers_Pool125",
+      "source_crc32": 3307593288,
+      "translation": "Мук"
+    },
+    {
+      "key": "Surname_Germanic_Pool046",
+      "source_crc32": 206789423,
+      "translation": "Мюльбауэр"
+    },
+    {
+      "key": "Surname_Germanic_Pool047",
+      "source_crc32": 1417641957,
+      "translation": "Нахтигаль"
+    },
+    {
+      "key": "Male_Germanic_Pool050",
+      "source_crc32": 549635004,
+      "translation": "Николаус"
+    },
+    {
+      "key": "Female_Slavic_Pool005",
+      "source_crc32": 289881970,
+      "translation": "Нина"
+    },
+    {
+      "key": "Female_Slavic_Pool065",
+      "source_crc32": 289881970,
+      "translation": "Нина"
+    },
+    {
+      "key": "Male_Germanic_Pool051",
+      "source_crc32": 3744982631,
+      "translation": "Норберт"
+    },
+    {
+      "key": "Surname_Workers_Pool126",
+      "source_crc32": 170440128,
+      "translation": "Нёрглер"
+    },
+    {
+      "key": "Surname_Germanic_Pool048",
+      "source_crc32": 194272160,
+      "translation": "Оберхольцер"
+    },
+    {
+      "key": "Male_Slavic_Pool016",
+      "source_crc32": 289949635,
+      "translation": "Ондржей"
+    },
+    {
+      "key": "Male_Slavic_Pool076",
+      "source_crc32": 289949635,
+      "translation": "Ондржей"
+    },
+    {
+      "key": "Surname_Romance_Pool008",
+      "source_crc32": 2736672154,
+      "translation": "Орсини"
+    },
+    {
+      "key": "Surname_Romance_Pool088",
+      "source_crc32": 2736672154,
+      "translation": "Орсини"
+    },
+    {
+      "key": "Female_Germanic_Pool046",
+      "source_crc32": 2715771055,
+      "translation": "Оттилия"
+    },
+    {
+      "key": "Male_Germanic_Pool052",
+      "source_crc32": 540809249,
+      "translation": "Отто"
+    },
+    {
+      "key": "Male_Germanic_Pool053",
+      "source_crc32": 39154713,
+      "translation": "Пауль"
+    },
+    {
+      "key": "Male_Germanic_Pool054",
+      "source_crc32": 3884104812,
+      "translation": "Петер"
+    },
+    {
+      "key": "Surname_Germanic_Pool049",
+      "source_crc32": 1012491091,
+      "translation": "Пфайффер"
+    },
+    {
+      "key": "Surname_Workers_Pool127",
+      "source_crc32": 2116841868,
+      "translation": "Пфуль"
+    },
+    {
+      "key": "Surname_Workers_Pool144",
+      "source_crc32": 1402050901,
+      "translation": "Пикколо"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool009",
+      "source_crc32": 279412371,
+      "translation": "Питер"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool099",
+      "source_crc32": 279412371,
+      "translation": "Питер"
+    },
+    {
+      "key": "Surname_Workers_Pool128",
+      "source_crc32": 1241509272,
+      "translation": "Польтер"
+    },
+    {
+      "key": "Male_Slavic_Pool017",
+      "source_crc32": 3631510414,
+      "translation": "Радек"
+    },
+    {
+      "key": "Male_Slavic_Pool077",
+      "source_crc32": 3631510414,
+      "translation": "Радек"
+    },
+    {
+      "key": "Female_Slavic_Pool018",
+      "source_crc32": 2722333144,
+      "translation": "Радка"
+    },
+    {
+      "key": "Female_Slavic_Pool078",
+      "source_crc32": 2722333144,
+      "translation": "Радка"
+    },
+    {
+      "key": "Male_Germanic_Pool055",
+      "source_crc32": 2255195301,
+      "translation": "Раймунд"
+    },
+    {
+      "key": "Male_Germanic_Pool056",
+      "source_crc32": 357216891,
+      "translation": "Райнер"
+    },
+    {
+      "key": "Female_Germanic_Pool047",
+      "source_crc32": 276537889,
+      "translation": "Регина"
+    },
+    {
+      "key": "Surname_Germanic_Pool050",
+      "source_crc32": 244744929,
+      "translation": "Райхенбах"
+    },
+    {
+      "key": "Surname_Germanic_Pool051",
+      "source_crc32": 2121409723,
+      "translation": "Райхман"
+    },
+    {
+      "key": "Surname_Germanic_Pool052",
+      "source_crc32": 1967292364,
+      "translation": "Ридель"
+    },
+    {
+      "key": "Surname_Workers_Pool129",
+      "source_crc32": 953859723,
+      "translation": "Риссиг"
+    },
+    {
+      "key": "Female_Germanic_Pool048",
+      "source_crc32": 1397653704,
+      "translation": "Розамунда"
+    },
+    {
+      "key": "Female_Germanic_Pool049",
+      "source_crc32": 1970827270,
+      "translation": "Розина"
+    },
+    {
+      "key": "Surname_Workers_Pool145",
+      "source_crc32": 3049270957,
+      "translation": "Россо"
+    },
+    {
+      "key": "Surname_Germanic_Pool053",
+      "source_crc32": 2259609913,
+      "translation": "Ротбауэр"
+    },
+    {
+      "key": "Male_Germanic_Pool057",
+      "source_crc32": 3921291218,
+      "translation": "Рудольф"
+    },
+    {
+      "key": "Surname_Workers_Pool130",
+      "source_crc32": 985637070,
+      "translation": "Румпель"
+    },
+    {
+      "key": "Surname_Workers_Pool131",
+      "source_crc32": 1226509179,
+      "translation": "Рустнер"
+    },
+    {
+      "key": "Female_Germanic_Pool026",
+      "source_crc32": 713582110,
+      "translation": "Сабина"
+    },
+    {
+      "key": "Surname_Romance_Pool009",
+      "source_crc32": 1231699262,
+      "translation": "Савелли"
+    },
+    {
+      "key": "Surname_Romance_Pool089",
+      "source_crc32": 1231699262,
+      "translation": "Савелли"
+    },
+    {
+      "key": "Surname_Workers_Pool132",
+      "source_crc32": 1431988657,
+      "translation": "Шаррфус"
+    },
+    {
+      "key": "Surname_Germanic_Pool055",
+      "source_crc32": 860858625,
+      "translation": "Шиллинг"
+    },
+    {
+      "key": "Surname_Workers_Pool133",
+      "source_crc32": 1240197515,
+      "translation": "Шлоттер"
+    },
+    {
+      "key": "Surname_Workers_Pool136",
+      "source_crc32": 3638839355,
+      "translation": "Шнархер"
+    },
+    {
+      "key": "Surname_Germanic_Pool056",
+      "source_crc32": 267218109,
+      "translation": "Шрайбер"
+    },
+    {
+      "key": "Surname_Workers_Pool134",
+      "source_crc32": 2566126940,
+      "translation": "Шрайберлинг"
+    },
+    {
+      "key": "Surname_Workers_Pool135",
+      "source_crc32": 4158357161,
+      "translation": "Швах"
+    },
+    {
+      "key": "Surname_Germanic_Pool054",
+      "source_crc32": 3919204034,
+      "translation": "Шефер"
+    },
+    {
+      "key": "Female_Romance_Pool010",
+      "source_crc32": 1231194469,
+      "translation": "Серафина"
+    },
+    {
+      "key": "Female_Romance_Pool090",
+      "source_crc32": 1231194469,
+      "translation": "Серафина"
+    },
+    {
+      "key": "Female_Germanic_Pool050",
+      "source_crc32": 2986181701,
+      "translation": "Сибилла"
+    },
+    {
+      "key": "Male_Germanic_Pool058",
+      "source_crc32": 1577895068,
+      "translation": "Зигфрид"
+    },
+    {
+      "key": "Female_Germanic_Pool051",
+      "source_crc32": 49891892,
+      "translation": "Сигрид"
+    },
+    {
+      "key": "Male_Slavic_Pool018",
+      "source_crc32": 1105210114,
+      "translation": "Станислав"
+    },
+    {
+      "key": "Male_Slavic_Pool078",
+      "source_crc32": 1105210114,
+      "translation": "Станислав"
+    },
+    {
+      "key": "Surname_Germanic_Pool057",
+      "source_crc32": 1478286654,
+      "translation": "Штайнберг"
+    },
+    {
+      "key": "Surname_Germanic_Pool058",
+      "source_crc32": 1811437534,
+      "translation": "Штубенберг"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool010",
+      "source_crc32": 3072267383,
+      "translation": "Таннеке"
+    },
+    {
+      "key": "Female_DutchFlemish_Pool100",
+      "source_crc32": 3072267383,
+      "translation": "Таннеке"
+    },
+    {
+      "key": "Female_Slavic_Pool006",
+      "source_crc32": 3250807209,
+      "translation": "Тереза"
+    },
+    {
+      "key": "Female_Slavic_Pool066",
+      "source_crc32": 3250807209,
+      "translation": "Тереза"
+    },
+    {
+      "key": "Female_Germanic_Pool052",
+      "source_crc32": 1068059229,
+      "translation": "Текла"
+    },
+    {
+      "key": "Female_Germanic_Pool053",
+      "source_crc32": 4013481403,
+      "translation": "Теодора"
+    },
+    {
+      "key": "Female_Germanic_Pool054",
+      "source_crc32": 1057254562,
+      "translation": "Терезия"
+    },
+    {
+      "key": "Male_Germanic_Pool059",
+      "source_crc32": 2746007921,
+      "translation": "Ульрих"
+    },
+    {
+      "key": "Female_Germanic_Pool055",
+      "source_crc32": 1505775097,
+      "translation": "Урсула"
+    },
+    {
+      "key": "Female_Slavic_Pool011",
+      "source_crc32": 2859333446,
+      "translation": "Вера"
+    },
+    {
+      "key": "Female_Slavic_Pool071",
+      "source_crc32": 2859333446,
+      "translation": "Вера"
+    },
+    {
+      "key": "Female_Germanic_Pool056",
+      "source_crc32": 3758723703,
+      "translation": "Верена"
+    },
+    {
+      "key": "Surname_Romance_Pool010",
+      "source_crc32": 143489935,
+      "translation": "Висконти"
+    },
+    {
+      "key": "Surname_Romance_Pool090",
+      "source_crc32": 143489935,
+      "translation": "Висконти"
+    },
+    {
+      "key": "Male_Slavic_Pool019",
+      "source_crc32": 69062934,
+      "translation": "Вацлав"
+    },
+    {
+      "key": "Male_Slavic_Pool079",
+      "source_crc32": 69062934,
+      "translation": "Вацлав"
+    },
+    {
+      "key": "Surname_Workers_Pool137",
+      "source_crc32": 566207635,
+      "translation": "Вакель"
+    },
+    {
+      "key": "Surname_Germanic_Pool059",
+      "source_crc32": 3856880355,
+      "translation": "Вебер"
+    },
+    {
+      "key": "Surname_Workers_Pool138",
+      "source_crc32": 1861433557,
+      "translation": "Вайксель"
+    },
+    {
+      "key": "Male_Germanic_Pool060",
+      "source_crc32": 836899184,
+      "translation": "Вильгельм"
+    },
+    {
+      "key": "Female_Germanic_Pool059",
+      "source_crc32": 3384418619,
+      "translation": "Вильгельмина"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool010",
+      "source_crc32": 4272593905,
+      "translation": "Виллем"
+    },
+    {
+      "key": "Male_DutchFlemish_Pool100",
+      "source_crc32": 4272593905,
+      "translation": "Виллем"
+    },
+    {
+      "key": "Surname_Workers_Pool139",
+      "source_crc32": 2851381451,
+      "translation": "Цаппель"
+    },
+    {
+      "key": "Male_Slavic_Pool020",
+      "source_crc32": 2035490065,
+      "translation": "Зденек"
+    },
+    {
+      "key": "Male_Slavic_Pool080",
+      "source_crc32": 2035490065,
+      "translation": "Зденек"
+    },
+    {
+      "key": "Surname_Germanic_Pool060",
+      "source_crc32": 3353680972,
+      "translation": "Циглер"
+    },
+    {
+      "key": "Surname_Workers_Pool140",
+      "source_crc32": 1387615484,
+      "translation": "Цинклер"
+    },
+    {
+      "key": "Female_Slavic_Pool020",
+      "source_crc32": 3419488131,
+      "translation": "Зузана"
+    },
+    {
+      "key": "Female_Slavic_Pool080",
+      "source_crc32": 3419488131,
+      "translation": "Зузана"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool007",
+      "source_crc32": 3632450986,
+      "translation": "де Врис"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool097",
+      "source_crc32": 3632450986,
+      "translation": "де Врис"
+    },
+    {
+      "key": "Surname_Romance_Pool004",
+      "source_crc32": 172560134,
+      "translation": "делла Скала"
+    },
+    {
+      "key": "Surname_Romance_Pool084",
+      "source_crc32": 172560134,
+      "translation": "делла Скала"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool001",
+      "source_crc32": 1650255960,
+      "translation": "ван Акен"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool091",
+      "source_crc32": 1650255960,
+      "translation": "ван Акен"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool010",
+      "source_crc32": 3138492993,
+      "translation": "ван Бреда"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool100",
+      "source_crc32": 3138492993,
+      "translation": "ван Бреда"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool006",
+      "source_crc32": 2457308456,
+      "translation": "ван Дист"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool096",
+      "source_crc32": 2457308456,
+      "translation": "ван Дист"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool004",
+      "source_crc32": 3402152771,
+      "translation": "ван Леувен"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool094",
+      "source_crc32": 3402152771,
+      "translation": "ван Леувен"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool003",
+      "source_crc32": 1847660714,
+      "translation": "ван ден Берге"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool093",
+      "source_crc32": 1847660714,
+      "translation": "ван ден Берге"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool009",
+      "source_crc32": 2198459313,
+      "translation": "ван ден Боссе"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool099",
+      "source_crc32": 2198459313,
+      "translation": "ван ден Боссе"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool002",
+      "source_crc32": 3924475576,
+      "translation": "ван дер Мер"
+    },
+    {
+      "key": "Surname_DutchFlemish_Pool092",
+      "source_crc32": 3924475576,
+      "translation": "ван дер Мер"
+    },
+    {
+      "key": "Surname_Slavic_Pool016",
+      "source_crc32": 4243036178,
+      "translation": "из Рожмберка"
+    },
+    {
+      "key": "Surname_Slavic_Pool076",
+      "source_crc32": 4243036178,
+      "translation": "из Рожмберка"
+    },
+    {
+      "key": "Surname_Slavic_Pool001",
+      "source_crc32": 2624035519,
+      "translation": "{Gender}|gender(Бенеш,Бенешова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool061",
+      "source_crc32": 2624035519,
+      "translation": "{Gender}|gender(Бенеш,Бенешова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool002",
+      "source_crc32": 3356770753,
+      "translation": "{Gender}|gender(Берка,Беркова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool062",
+      "source_crc32": 3356770753,
+      "translation": "{Gender}|gender(Берка,Беркова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool003",
+      "source_crc32": 2190834954,
+      "translation": "{Gender}|gender(Болеславский,Болеславская)"
+    },
+    {
+      "key": "Surname_Slavic_Pool063",
+      "source_crc32": 2190834954,
+      "translation": "{Gender}|gender(Болеславский,Болеславская)"
+    },
+    {
+      "key": "Surname_Slavic_Pool005",
+      "source_crc32": 214860322,
+      "translation": "{Gender}|gender(Дворжак,Дворжакова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool065",
+      "source_crc32": 214860322,
+      "translation": "{Gender}|gender(Дворжак,Дворжакова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool006",
+      "source_crc32": 3005303889,
+      "translation": "{Gender}|gender(Гавел,Гавлова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool066",
+      "source_crc32": 3005303889,
+      "translation": "{Gender}|gender(Гавел,Гавлова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool007",
+      "source_crc32": 1469636150,
+      "translation": "{Gender}|gender(Громада,Громадова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool067",
+      "source_crc32": 1469636150,
+      "translation": "{Gender}|gender(Громада,Громадова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool008",
+      "source_crc32": 2247988948,
+      "translation": "{Gender}|gender(Яначек,Яначкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool068",
+      "source_crc32": 2247988948,
+      "translation": "{Gender}|gender(Яначек,Яначкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool009",
+      "source_crc32": 3353054337,
+      "translation": "{Gender}|gender(Ежек,Ежкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool069",
+      "source_crc32": 3353054337,
+      "translation": "{Gender}|gender(Ежек,Ежкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool010",
+      "source_crc32": 1323087737,
+      "translation": "{Gender}|gender(Коваржик,Коваржикова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool070",
+      "source_crc32": 1323087737,
+      "translation": "{Gender}|gender(Коваржик,Коваржикова)"
+    },
+    {
+      "key": "Surname_Workers_Pool141",
+      "source_crc32": 4160501208,
+      "translation": "{Gender}|gender(Коварж,Коваржова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool011",
+      "source_crc32": 3506103033,
+      "translation": "{Gender}|gender(Крал,Кралова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool071",
+      "source_crc32": 3506103033,
+      "translation": "{Gender}|gender(Крал,Кралова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool012",
+      "source_crc32": 3354955382,
+      "translation": "{Gender}|gender(Киселы,Кисела)"
+    },
+    {
+      "key": "Surname_Slavic_Pool072",
+      "source_crc32": 3354955382,
+      "translation": "{Gender}|gender(Киселы,Кисела)"
+    },
+    {
+      "key": "Surname_Slavic_Pool013",
+      "source_crc32": 4275775539,
+      "translation": "{Gender}|gender(Малы,Мала)"
+    },
+    {
+      "key": "Surname_Slavic_Pool073",
+      "source_crc32": 4275775539,
+      "translation": "{Gender}|gender(Малы,Мала)"
+    },
+    {
+      "key": "Surname_Slavic_Pool014",
+      "source_crc32": 2126535196,
+      "translation": "{Gender}|gender(Микулашек,Микулашкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool074",
+      "source_crc32": 2126535196,
+      "translation": "{Gender}|gender(Микулашек,Микулашкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool015",
+      "source_crc32": 1941313866,
+      "translation": "{Gender}|gender(Новак,Новакова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool075",
+      "source_crc32": 1941313866,
+      "translation": "{Gender}|gender(Новак,Новакова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool017",
+      "source_crc32": 1336595609,
+      "translation": "{Gender}|gender(Сокол,Соколова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool077",
+      "source_crc32": 1336595609,
+      "translation": "{Gender}|gender(Сокол,Соколова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool019",
+      "source_crc32": 3877647984,
+      "translation": "{Gender}|gender(Томан,Томанова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool079",
+      "source_crc32": 3877647984,
+      "translation": "{Gender}|gender(Томан,Томанова)"
+    },
+    {
+      "key": "Surname_Workers_Pool142",
+      "source_crc32": 783910112,
+      "translation": "{Gender}|gender(Влчек,Влчкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool020",
+      "source_crc32": 2320181558,
+      "translation": "{Gender}|gender(Зеленка,Зеленкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool080",
+      "source_crc32": 2320181558,
+      "translation": "{Gender}|gender(Зеленка,Зеленкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool004",
+      "source_crc32": 1505528868,
+      "translation": "{Gender}|gender(Черны,Черна)"
+    },
+    {
+      "key": "Surname_Slavic_Pool064",
+      "source_crc32": 1505528868,
+      "translation": "{Gender}|gender(Черны,Черна)"
+    },
+    {
+      "key": "Surname_Slavic_Pool018",
+      "source_crc32": 2825926950,
+      "translation": "{Gender}|gender(Шимек,Шимкова)"
+    },
+    {
+      "key": "Surname_Slavic_Pool078",
+      "source_crc32": 2825926950,
+      "translation": "{Gender}|gender(Шимек,Шимкова)"
+    }
+  ]
+}

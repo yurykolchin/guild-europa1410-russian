@@ -1,0 +1,876 @@
+{
+  "resource": "Game",
+  "namespace": "Building Improvements",
+  "entries": [
+    {
+      "key": "Accomodations_DisplayName",
+      "source_crc32": 3583116186,
+      "translation": "Гостевые комнаты"
+    },
+    {
+      "key": "AdditionalGatheringIngredient_DisplayName",
+      "source_crc32": 809531502,
+      "translation": "Дополнительный ингредиент"
+    },
+    {
+      "key": "HidingSpotII_Description",
+      "source_crc32": 1958837891,
+      "translation": "Добавляет потайной отсек для предметов"
+    },
+    {
+      "key": "ExtraCell_Description",
+      "source_crc32": 1992110679,
+      "translation": "Добавляет одну камеру"
+    },
+    {
+      "key": "AdditionalStorefront_Description",
+      "source_crc32": 1760506058,
+      "translation": "Добавляет ячейку на {B_STOFRO_C}витрину{##}"
+    },
+    {
+      "key": "AdditionalStorage_Description",
+      "source_crc32": 1336872855,
+      "translation": "Добавляет ячейку в {B_STOROO_C}кладовую{##}"
+    },
+    {
+      "key": "Decorations_DisplayName",
+      "source_crc32": 2528436131,
+      "translation": "Убранство"
+    },
+    {
+      "key": "VictoryEnergizer_Description",
+      "source_crc32": 3868522553,
+      "translation": "После победы в бою:\n{CV_({Value})} {CHAR_ENE}"
+    },
+    {
+      "key": "TrainingBonusI_Description",
+      "source_crc32": 3773407878,
+      "translation": "Все работники здания:\n{CV_({Value})} {S_COM}"
+    },
+    {
+      "key": "TrainingBonusII_Description",
+      "source_crc32": 2829176415,
+      "translation": "Все работники здания:\n{CV_({Value})} {S_STE}"
+    },
+    {
+      "key": "TrainingEquipment_Combat_Description_Guard",
+      "source_crc32": 943307793,
+      "translation": "Позволяет отправлять стражников на {A_ACT_TRACOMGUA_C}воинские учения{##}"
+    },
+    {
+      "key": "TrainingEquipment_Stealth_Description_Guard",
+      "source_crc32": 3956841145,
+      "translation": "Позволяет отправлять стражников на {A_ACT_TRASTEGUA_C}уроки плутовства{##}"
+    },
+    {
+      "key": "TrainingEquipment_Combat_Description_Robber",
+      "source_crc32": 4125774239,
+      "translation": "Позволяет отправлять разбойников на {A_ACT_TRACOMROB_C}воинские учения{##}"
+    },
+    {
+      "key": "TrainingEquipment_Stealth_Description_Robber",
+      "source_crc32": 638285623,
+      "translation": "Позволяет отправлять разбойников на {A_ACT_TRASTEROB_C}уроки плутовства{##}"
+    },
+    {
+      "key": "TrainingEquipment_Combat_Description_Thief",
+      "source_crc32": 2717781709,
+      "translation": "Позволяет отправлять воров на {A_ACT_TRACOMTHI_C}воинские учения{##}"
+    },
+    {
+      "key": "TrainingEquipment_Stealth_Description_Thief",
+      "source_crc32": 1914644581,
+      "translation": "Позволяет отправлять воров на {A_ACT_TRASTETHI_C}уроки плутовства{##}"
+    },
+    {
+      "key": "HidingSpotI_Description",
+      "source_crc32": 3280462636,
+      "translation": "Позволяет прятать деньги в погребе"
+    },
+    {
+      "key": "ImproveHandicraft_DisplayName",
+      "source_crc32": 964758143,
+      "translation": "Ящик ремесленника"
+    },
+    {
+      "key": "BarPodium_DisplayName",
+      "source_crc32": 2510359479,
+      "translation": "Подмостки"
+    },
+    {
+      "key": "Bell _DisplayName",
+      "source_crc32": 52461211,
+      "translation": "Колокол"
+    },
+    {
+      "key": "Sabotage_DisplayName",
+      "source_crc32": 3760880643,
+      "translation": "Ведро бедствий"
+    },
+    {
+      "key": "Camouflage_DisplayName",
+      "source_crc32": 2023264989,
+      "translation": "Маскировка"
+    },
+    {
+      "key": "GuestRevenue_DisplayName",
+      "source_crc32": 902342136,
+      "translation": "Любезная прислуга"
+    },
+    {
+      "key": "CheaperRepairs_DisplayName",
+      "source_crc32": 2041892307,
+      "translation": "Дешёвый ремонт"
+    },
+    {
+      "key": "ChooseImprovement_Prompt_shorter",
+      "source_crc32": 3163012738,
+      "translation": "Выберите одно улучшение."
+    },
+    {
+      "key": "BetterPriestClothes_DisplayName",
+      "source_crc32": 759616398,
+      "translation": "Церковные облачения"
+    },
+    {
+      "key": "HaveAChat_DisplayName",
+      "source_crc32": 3715391133,
+      "translation": "Удобная кушетка"
+    },
+    {
+      "key": "Cross_DisplayName",
+      "source_crc32": 3436284499,
+      "translation": "Крест"
+    },
+    {
+      "key": "DarkCorner_DisplayName",
+      "source_crc32": 3720767262,
+      "translation": "Тёмный угол"
+    },
+    {
+      "key": "BlackenSomeonesName_DisplayName",
+      "source_crc32": 3717680958,
+      "translation": "Книга клеветы"
+    },
+    {
+      "key": "PatrolDetection_Description",
+      "source_crc32": 708359888,
+      "translation": "Во время {A_ACT_GUAPAT_C}патруля{##}:\n{CV_({Value})} к шансу обнаружить {P_THI_C}воров{##} и {P_ROB_C}разбойников{##}"
+    },
+    {
+      "key": "Security_Description",
+      "source_crc32": 2236890352,
+      "translation": "Шанс врагов разведать это здание ниже на {value}%"
+    },
+    {
+      "key": "Security_Description_alt",
+      "source_crc32": 3090676406,
+      "translation": "Шанс врагов разведать это здание ниже на {value}%\nВраги могут разведать это здание не выше уровня {value2}"
+    },
+    {
+      "key": "AdditionalStorage_alt_06_DisplayName",
+      "source_crc32": 3577483918,
+      "translation": "Ни стены без полки"
+    },
+    {
+      "key": "ImprovedStanding_Description",
+      "source_crc32": 654766431,
+      "translation": "Каждый ход:\n{CV_({Value})} к {CHAR_STA_C}отношению работников{##} к вам"
+    },
+    {
+      "key": "ExtraCell_DisplayName",
+      "source_crc32": 712127273,
+      "translation": "Новая камера"
+    },
+    {
+      "key": "AdditionalStorage_alt_04_DisplayName",
+      "source_crc32": 1503472088,
+      "translation": "Добавочные полки"
+    },
+    {
+      "key": "AdditionalStorage_DisplayName",
+      "source_crc32": 2138585230,
+      "translation": "Добавочная кладовая"
+    },
+    {
+      "key": "Feast_DisplayName",
+      "source_crc32": 2224255119,
+      "translation": "Пиршественный стол"
+    },
+    {
+      "key": "CrossII_Description",
+      "source_crc32": 436689167,
+      "translation": "Каждый {C_TRN_C}ход{##} прощает одно {CR_SEV_C}небольшое преступление{##}"
+    },
+    {
+      "key": "CrossI_Description",
+      "source_crc32": 511451043,
+      "translation": "Каждый {C_TRN_C}ход{##} прощает одно {CR_SEV_C}мелкое преступление{##}"
+    },
+    {
+      "key": "Security_DisplayName",
+      "source_crc32": 3841186251,
+      "translation": "Укрепление"
+    },
+    {
+      "key": "GatherAnimalIngredients_DisplayName",
+      "source_crc32": 4277358519,
+      "translation": "Свежая добыча"
+    },
+    {
+      "key": "Improved_Fully_Label",
+      "source_crc32": 1610004309,
+      "translation": "Полностью улучшено"
+    },
+    {
+      "key": "GatherBotanicalIngredients_DisplayName",
+      "source_crc32": 3944818893,
+      "translation": "Грядки"
+    },
+    {
+      "key": "SkillGrowth_DisplayName",
+      "source_crc32": 399704208,
+      "translation": "Учёба на деле"
+    },
+    {
+      "key": "Heating_DisplayName",
+      "source_crc32": 3662573522,
+      "translation": "Очаг"
+    },
+    {
+      "key": "HidingSpot_DisplayName",
+      "source_crc32": 3329219683,
+      "translation": "Тайник"
+    },
+    {
+      "key": "PreachingBible_DisplayName",
+      "source_crc32": 1942006112,
+      "translation": "Священное Писание"
+    },
+    {
+      "key": "HostageControl_DisplayName",
+      "source_crc32": 1438328067,
+      "translation": "Надзор за пленными"
+    },
+    {
+      "key": "GameTable_DisplayName",
+      "source_crc32": 1593771286,
+      "translation": "Уголок репетиций"
+    },
+    {
+      "key": "ImprovedPreaching_DisplayName",
+      "source_crc32": 1123817026,
+      "translation": "Пылкие проповеди"
+    },
+    {
+      "key": "Improvement_DisplayName",
+      "source_crc32": 3129438499,
+      "translation": "Улучшение"
+    },
+    {
+      "key": "Improvement_DisplayName_plural",
+      "source_crc32": 3758917319,
+      "translation": "Улучшения"
+    },
+    {
+      "key": "Improvement_Description",
+      "source_crc32": 3794456442,
+      "translation": "Улучшения совершенствуют здания: открывают новые действия, расширяют вместимость, повышают эффективность, безопасность и прочее."
+    },
+    {
+      "key": "Infirmary_DisplayName",
+      "source_crc32": 4074838927,
+      "translation": "Лазарет"
+    },
+    {
+      "key": " BuildingAttractiveness_DisplayName_Inn",
+      "source_crc32": 2323912289,
+      "translation": "Знак трактира"
+    },
+    {
+      "key": "Instruments_DisplayName",
+      "source_crc32": 468634810,
+      "translation": "Музыкальные инструменты"
+    },
+    {
+      "key": "IronBars_DisplayName",
+      "source_crc32": 2847733766,
+      "translation": "Решётки"
+    },
+    {
+      "key": "LargerBar_DisplayName",
+      "source_crc32": 2410886511,
+      "translation": "Широкая стойка"
+    },
+    {
+      "key": "LeadershipTraining_DisplayName",
+      "source_crc32": 3987479221,
+      "translation": "Обучение руководству"
+    },
+    {
+      "key": "AdditionalGatheringIngredient_Description",
+      "source_crc32": 1962240805,
+      "translation": "Позволяет собирать: {item}"
+    },
+    {
+      "key": "AccomodationsII_Description",
+      "source_crc32": 3531818953,
+      "translation": "Позволяет больше интрижек"
+    },
+    {
+      "key": "AdditionalEmployee_Description",
+      "source_crc32": 783301175,
+      "translation": "Можно нанять ещё одного работника"
+    },
+    {
+      "key": "CheaperRepairs_Description",
+      "source_crc32": 2403320767,
+      "translation": "Снижает стоимость {B_HP_C}ремонта{##} на {value}"
+    },
+    {
+      "key": "BonusYieldChance_DisplayName",
+      "source_crc32": 616939163,
+      "translation": "Удачный сбор"
+    },
+    {
+      "key": "Inspection_DisplayName",
+      "source_crc32": 173192560,
+      "translation": "Карта владений"
+    },
+    {
+      "key": "TrainingEquipment_Combat_DisplayName",
+      "source_crc32": 3994674000,
+      "translation": "Учебное оружие"
+    },
+    {
+      "key": "ImproveBuilding_DisplayName",
+      "source_crc32": 4175510471,
+      "translation": "Инструменты зодчего"
+    },
+    {
+      "key": "AdditionalStorage_alt_02_DisplayName",
+      "source_crc32": 2770379832,
+      "translation": "Больше полок"
+    },
+    {
+      "key": "InstrumentsII_Description",
+      "source_crc32": 1454655928,
+      "translation": "Музыкальные инструменты вдвое действеннее на {A_INVDIN_C}ужинах{##}"
+    },
+    {
+      "key": "ImproveNegotiation_DisplayName",
+      "source_crc32": 4053870450,
+      "translation": "Печать переговорщика"
+    },
+    {
+      "key": "AdditionalRecipe_DisplayName",
+      "source_crc32": 374338860,
+      "translation": "Новый рецепт"
+    },
+    {
+      "key": "NightSkill_DisplayName",
+      "source_crc32": 3305725467,
+      "translation": "Ночной промысел"
+    },
+    {
+      "key": "ChooseImprovement_Prompt",
+      "source_crc32": 918985341,
+      "translation": "Здесь можно построить лишь одно улучшение. Выберите какое."
+    },
+    {
+      "key": "PatrolDetection_DisplayName",
+      "source_crc32": 2746348977,
+      "translation": "Зоркий патруль"
+    },
+    {
+      "key": "PestControl_DisplayName",
+      "source_crc32": 670856988,
+      "translation": "Травля вредителей"
+    },
+    {
+      "key": "PickpocketTactics_DisplayName",
+      "source_crc32": 1076704067,
+      "translation": "Приёмы карманника"
+    },
+    {
+      "key": "SewClothes_DisplayName",
+      "source_crc32": 3479048096,
+      "translation": "Дорожный швейный набор"
+    },
+    {
+      "key": "Portal_DisplayName",
+      "source_crc32": 3151367163,
+      "translation": "Парадный вход"
+    },
+    {
+      "key": "ProductivityBonus_DisplayName",
+      "source_crc32": 1095365542,
+      "translation": "Добротные орудия"
+    },
+    {
+      "key": "Bribe_DisplayName",
+      "source_crc32": 3015418711,
+      "translation": "Кошель убеждения"
+    },
+    {
+      "key": "EfficiencyGathering _DisplayName",
+      "source_crc32": 3884183818,
+      "translation": "Быстрый сбор"
+    },
+    {
+      "key": "RegularsTable_DisplayName",
+      "source_crc32": 1265624313,
+      "translation": "Стол завсегдатаев"
+    },
+    {
+      "key": "BurglaryProtection_DisplayName",
+      "source_crc32": 1010550184,
+      "translation": "Усиленная защита"
+    },
+    {
+      "key": "TrainingEquipment_Stealth_DisplayName",
+      "source_crc32": 1878367173,
+      "translation": "Учебные отмычки"
+    },
+    {
+      "key": "BetterBeds_DisplayName",
+      "source_crc32": 1599256007,
+      "translation": "Верёвочная кровать"
+    },
+    {
+      "key": "AccidentProtection_DisplayName",
+      "source_crc32": 4035728318,
+      "translation": "Меры безопасности"
+    },
+    {
+      "key": "AdditionalStorefront_DisplayName",
+      "source_crc32": 4160901162,
+      "translation": "Прилавок"
+    },
+    {
+      "key": "CreateLampoon_DisplayName",
+      "source_crc32": 2545050083,
+      "translation": "Пюпитр сатирика"
+    },
+    {
+      "key": "ScentEnhancement_DisplayName",
+      "source_crc32": 4071258053,
+      "translation": "Усиление аромата"
+    },
+    {
+      "key": "ImproveRhetoric_DisplayName",
+      "source_crc32": 1480015496,
+      "translation": "Свиток изящных слов"
+    },
+    {
+      "key": "AdditionalStorage_alt_01_DisplayName",
+      "source_crc32": 1318200795,
+      "translation": "Полки"
+    },
+    {
+      "key": "AdditionalStorage_alt_05_DisplayName",
+      "source_crc32": 1942432117,
+      "translation": "Полки повсюду"
+    },
+    {
+      "key": "AdditionalStorage_alt_03_DisplayName",
+      "source_crc32": 1900523075,
+      "translation": "И снова полки"
+    },
+    {
+      "key": " BuildingAttractiveness_DisplayName",
+      "source_crc32": 3706588601,
+      "translation": "Вывеска лавки"
+    },
+    {
+      "key": "PrayingShrine_DisplayName",
+      "source_crc32": 904099588,
+      "translation": "Боковой алтарь"
+    },
+    {
+      "key": "SmugglingDetection_DisplayName",
+      "source_crc32": 2587481847,
+      "translation": "Поиск контрабанды"
+    },
+    {
+      "key": "SpyGlass_DisplayName",
+      "source_crc32": 3028168355,
+      "translation": "Подзорная труба"
+    },
+    {
+      "key": "EnterBuildingForImprovements_Instruction",
+      "source_crc32": 1868649780,
+      "translation": "Войдите внутрь для улучшения."
+    },
+    {
+      "key": "StrategicAmbush_DisplayName",
+      "source_crc32": 2602691167,
+      "translation": "Продуманная засада"
+    },
+    {
+      "key": "BetterBedsForWorkers_DisplayName",
+      "source_crc32": 1672620260,
+      "translation": "Соломенные тюфяки"
+    },
+    {
+      "key": "ImproveHUB_DisplayName",
+      "source_crc32": 3339727243,
+      "translation": "Набор мостильщика"
+    },
+    {
+      "key": "Sturdiness_DisplayName",
+      "source_crc32": 2754958884,
+      "translation": "Прочность"
+    },
+    {
+      "key": "ActionAccessPoint_Instruction",
+      "source_crc32": 2035829217,
+      "translation": "Действие будет доступно прямо с объекта."
+    },
+    {
+      "key": "RegularsTable_Description",
+      "source_crc32": 3667387662,
+      "translation": "За столом завсегдатаев подают не только эль. Посетители щедро платят за {CR_EVI_C}сплетни{##}, что ходят здесь за кружкой."
+    },
+    {
+      "key": "ThreateningLetter_DisplayName",
+      "source_crc32": 1445413579,
+      "translation": "Набор для «доходчивых» писем"
+    },
+    {
+      "key": "TrainingBonus_DisplayName",
+      "source_crc32": 2847609921,
+      "translation": "Выучка работников"
+    },
+    {
+      "key": "TrainingSpeed_DisplayName",
+      "source_crc32": 2217748357,
+      "translation": "Скорость обучения"
+    },
+    {
+      "key": "ImproveStealth_DisplayName",
+      "source_crc32": 1223732242,
+      "translation": "Шкатулка плута"
+    },
+    {
+      "key": "Trashing_DisplayName",
+      "source_crc32": 3313086399,
+      "translation": "Тёмные поручения"
+    },
+    {
+      "key": "LeadershipTraining_Description",
+      "source_crc32": 3341343573,
+      "translation": "Открывает обучение руководству"
+    },
+    {
+      "key": "AccomodationsI_Description",
+      "source_crc32": 3461830853,
+      "translation": "Открывает интрижки"
+    },
+    {
+      "key": "InstrumentsI_Description",
+      "source_crc32": 1678686090,
+      "translation": "Открывает музыкальные инструменты для {A_INVDIN_C}ужинов{##}"
+    },
+    {
+      "key": "CreateLampoon_Description",
+      "source_crc32": 2899383979,
+      "translation": "Позволяет сочинять {A_WRILAM_C}пасквили{##}"
+    },
+    {
+      "key": "ImproveCombat_Description",
+      "source_crc32": 1480709414,
+      "translation": "Позволяет развивать навык {S_COM_C}воинского дела{##}"
+    },
+    {
+      "key": "ImproveHandicraft_Description",
+      "source_crc32": 1241771524,
+      "translation": "Позволяет развивать навык {S_HAN_C}ремесла{##}"
+    },
+    {
+      "key": "ImproveNegotiation_Description",
+      "source_crc32": 426287843,
+      "translation": "Позволяет развивать навык {S_NEG_C}переговоров{##}"
+    },
+    {
+      "key": "ImproveRhetoric_Description",
+      "source_crc32": 1469167617,
+      "translation": "Позволяет развивать навык {S_RHE_C}красноречия{##}"
+    },
+    {
+      "key": "ImproveStealth_Description",
+      "source_crc32": 746059725,
+      "translation": "Позволяет развивать навык {S_STE_C}плутовства{##}"
+    },
+    {
+      "key": "ThreateningLetter_Description",
+      "source_crc32": 4039785514,
+      "translation": "Позволяет отправить {A_THRLET_C}письмо с угрозами{##}"
+    },
+    {
+      "key": "HaveAChat_Description",
+      "source_crc32": 863704982,
+      "translation": "Позволяет {A_ACT_HAVCHA_C}поболтать{##}"
+    },
+    {
+      "key": "BlackenSomeonesName_Description",
+      "source_crc32": 1634530605,
+      "translation": "Позволяет {A_BLANAM_C}очернить чьё-либо имя{##}"
+    },
+    {
+      "key": "Bribe_Description",
+      "source_crc32": 2752801535,
+      "translation": "Позволяет {A_BRI_C}подкупать{##} других"
+    },
+    {
+      "key": "Feast_Description",
+      "source_crc32": 23420883,
+      "translation": "Позволяет {A_INVDIN_C}приглашать на ужин{##}"
+    },
+    {
+      "key": "Sabotage_Description",
+      "source_crc32": 4022812047,
+      "translation": "Позволяет устраивать {A_SAB_C}саботаж{##} в зданиях"
+    },
+    {
+      "key": "SpyGlass_Description",
+      "source_crc32": 2892380634,
+      "translation": "Позволяет {A_SPY_C}шпионить{##} за другими"
+    },
+    {
+      "key": "Trashing_Description",
+      "source_crc32": 289592529,
+      "translation": "Открывает действие: нанять людей, чтобы цель {A_THR_C}избили{##} на улице"
+    },
+    {
+      "key": "ImproveCarts_Description",
+      "source_crc32": 37809931,
+      "translation": "Открывает услугу: {A_ACT_IMPCAR_C}улучшение повозок{##}"
+    },
+    {
+      "key": "ImproveHUB_Description",
+      "source_crc32": 2153225122,
+      "translation": "Открывает услугу: {A_ACT_IMPQUA_C}улучшение квартала{##}"
+    },
+    {
+      "key": "ImproveBuilding_Description",
+      "source_crc32": 2742269002,
+      "translation": "Открывает услугу: {A_ACT_IMPSTR_C}укрепление здания{##}"
+    },
+    {
+      "key": "PestControl_Description",
+      "source_crc32": 2745040874,
+      "translation": "Открывает услугу: {A_ACT_PESCON_C}травля вредителей{##}"
+    },
+    {
+      "key": "ScentEnhancement_Description",
+      "source_crc32": 3407318701,
+      "translation": "Открывает услугу: {A_ACT_SCEENH_C}усиление аромата{##}"
+    },
+    {
+      "key": "SewClothes_Description",
+      "source_crc32": 3858455793,
+      "translation": "Открывает услугу: {A_ACT_SEWCLO_C}пошив наряда{##}"
+    },
+    {
+      "key": "IronBars_Description",
+      "source_crc32": 816925012,
+      "translation": "Открывает услугу: {A_ACT_STRBAR_C}укрепление защиты{##}"
+    },
+    {
+      "key": "AdditionalRecipe_Description",
+      "source_crc32": 2757748397,
+      "translation": "Открывает рецепт: {item}"
+    },
+    {
+      "key": "DarkCornerI_Description",
+      "source_crc32": 691295039,
+      "translation": "Открывает: {A_ACT_FINEVIFROWOR_C}подслушивание посетителей{##}"
+    },
+    {
+      "key": "PreachingBible_Description",
+      "source_crc32": 1470273217,
+      "translation": "Открывает: {A_ACT_HOLSTRSER_C}уличная проповедь{##}"
+    },
+    {
+      "key": "Inspection_Description",
+      "source_crc32": 3131702917,
+      "translation": "Открывает: {A_ACT_INSBUS_C}обыск предприятия{##}"
+    },
+    {
+      "key": "BarPodium_Description",
+      "source_crc32": 3825052512,
+      "translation": "Открывает: {A_ACT_LIVPER_C}представление{##}"
+    },
+    {
+      "key": "BetterPriestClothesI_Description",
+      "source_crc32": 4288397947,
+      "translation": "Открывает: {A_ACT_PASVIS_C}отпущение грехов{##}"
+    },
+    {
+      "key": "GameTable_Description",
+      "source_crc32": 1942154213,
+      "translation": "Открывает: {A_ACT_TRALIVPER_C}репетиция{##}"
+    },
+    {
+      "key": "PrayingShrineI_Description",
+      "source_crc32": 2892168962,
+      "translation": "Открывает: {A_PRAOTH_C}молиться за других{##}"
+    },
+    {
+      "key": "AdditionalGatheringBotanicalIngredient_DisplayName",
+      "source_crc32": 1508384687,
+      "translation": "Полезные травы"
+    },
+    {
+      "key": "VictoryEnergizer_DisplayName",
+      "source_crc32": 1072717203,
+      "translation": "Упоение победой"
+    },
+    {
+      "key": "Hygiene_DisplayName",
+      "source_crc32": 3552792902,
+      "translation": "Умывальня"
+    },
+    {
+      "key": "WeaponMaintenance_DisplayName",
+      "source_crc32": 3577707258,
+      "translation": "Уход за оружием"
+    },
+    {
+      "key": "ImproveCombat_DisplayName",
+      "source_crc32": 1766845386,
+      "translation": "Стойка для оружия"
+    },
+    {
+      "key": "ImproveCarts_DisplayName",
+      "source_crc32": 769221700,
+      "translation": "Оковка для колёс"
+    },
+    {
+      "key": "ImprovedPreaching_Description",
+      "source_crc32": 1875825670,
+      "translation": "Во время {A_ACT_HOLSTRSER_C}уличной проповеди{##}:\n{CV_({Value})} {CHAR_PRO}"
+    },
+    {
+      "key": "DarkCornerII_Description",
+      "source_crc32": 2396187859,
+      "translation": "При {A_ACT_FINEVIFROWOR_C}подслушивании посетителей{##}:\n{CV_({Value})} {CHAR_PRO}"
+    },
+    {
+      "key": "BonusYieldChance_Description",
+      "source_crc32": 3436945290,
+      "translation": "При {A_ACT_GATING_C}поиске ингредиентов{##}:\n{CV_({Value})} к шансу удвоить добычу"
+    },
+    {
+      "key": "EfficiencyGathering _Description",
+      "source_crc32": 2941247365,
+      "translation": "При {A_ACT_GATING_C}поиске ингредиентов{##}:\n{CV_({Value})} к скорости сбора"
+    },
+    {
+      "key": "GatherAnimalIngredients_Description",
+      "source_crc32": 2613287805,
+      "translation": "При {A_ACT_GATING_C}поиске ингредиентов{##}:\n{CV_({Value})} {item}"
+    },
+    {
+      "key": "GatherBotanicalIngredients_Description",
+      "source_crc32": 2613287805,
+      "translation": "При {A_ACT_GATING_C}поиске ингредиентов{##}:\n{CV_({Value})} {item}"
+    },
+    {
+      "key": "BetterPriestClothesIII_Description",
+      "source_crc32": 2749956764,
+      "translation": "При {A_ACT_PASVIS_C}отпущении грехов{##}:\n{CV_({Value})} {CHAR_AP} в случае успеха"
+    },
+    {
+      "key": "BetterPriestClothesII_Description",
+      "source_crc32": 2523059901,
+      "translation": "При {A_ACT_PASVIS_C}отпущении грехов{##}:\n{CV_({Value})} {CHAR_PRO}"
+    },
+    {
+      "key": "PickpocketTactics_Description",
+      "source_crc32": 563568871,
+      "translation": "При {A_ACT_PICPOC_C}карманной краже{##}:\n{CV_({Value})} {CHAR_MON}"
+    },
+    {
+      "key": "StrategicAmbush_Description",
+      "source_crc32": 1170321665,
+      "translation": "Когда вы {A_ACT_WAYTRA_C}подстерегаете повозку{##}:\n{CV_({Value})} к шансу успешно её перехватить"
+    },
+    {
+      "key": "LargerBar_Description",
+      "source_crc32": 3177504990,
+      "translation": "При {A_ACT_WORINN_C}работе за стойкой{##}:\n{CV_({Value})} {CHAR_PRO}"
+    },
+    {
+      "key": "PrayingShrineIIAlt_Description",
+      "source_crc32": 4291741091,
+      "translation": "При {A_PRAOTH_C}молитве за других{##}:\n{#green}{Value}{##} к затратам {CHAR_AP}"
+    },
+    {
+      "key": "PrayingShrineII_Description",
+      "source_crc32": 2281194857,
+      "translation": "При {A_PRAOTH_C}молитве за других{##}:\n{#green}{Value}{##} к затратам {CHAR_ENE}"
+    },
+    {
+      "key": "ImprovedStanding_DisplayName",
+      "source_crc32": 870353882,
+      "translation": "Удобства работников"
+    },
+    {
+      "key": "AdditionalEmployee_DisplayName",
+      "source_crc32": 1736069249,
+      "translation": "Рабочие руки"
+    },
+    {
+      "key": "HostageControlI_Description",
+      "source_crc32": 895279869,
+      "translation": "{#green}{Value}{##} к шансу гибели пленника"
+    },
+    {
+      "key": "HostageControlII_Description",
+      "source_crc32": 1863868854,
+      "translation": "{#green}{Value}{##} к шансу побега пленника"
+    },
+    {
+      "key": "Camouflage_Description",
+      "source_crc32": 1665361311,
+      "translation": "{#green}{Value}{##} к шансу обнаружения {A_ACT_GUAPAT_C}патрулём стражи{##}"
+    },
+    {
+      "key": "SmugglingDetection_Description",
+      "source_crc32": 3898177866,
+      "translation": "{CV_({Value})} к шансу найти незаконный товар"
+    },
+    {
+      "key": "Infirmary_Description",
+      "source_crc32": 2980358593,
+      "translation": "{CV_({Value})} к скорости выздоровления при {ST_INJ_C}ранении{##}"
+    },
+    {
+      "key": "TrainingSpeed_Description",
+      "source_crc32": 1762974707,
+      "translation": "{CV_({Value})} к скорости обучения"
+    },
+    {
+      "key": "BetterBeds_Description",
+      "source_crc32": 884585261,
+      "translation": "{CV_({Value})} {CHAR_ENE_C}энергии{##} в начале хода"
+    },
+    {
+      "key": "SkillGrowth_Description",
+      "source_crc32": 2983703748,
+      "translation": "{CV_({Value})} к {S_HAN_C}ремеслу{##} за {NumTrip} {A_ACT_GATING_C}{NumTrip}|plural(one=выезд,few=выезда,many=выездов,other=выезда){##}"
+    },
+    {
+      "key": "NightSkill_Description",
+      "source_crc32": 2689399550,
+      "translation": "{CV_({Value})} к {S_STE_C}плутовству{##} вне {WORHOU_C}рабочих часов{##}"
+    },
+    {
+      "key": "WeaponMaintenance_Description",
+      "source_crc32": 2560089243,
+      "translation": "{I_TYP_COMEQU_C}Боевое снаряжение{##} выдерживает ещё {NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=схватку,few=схватки,many=схваток,other=схватки){##}"
+    }
+  ]
+}

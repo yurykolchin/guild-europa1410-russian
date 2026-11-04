@@ -1,0 +1,886 @@
+{
+  "resource": "Game",
+  "namespace": "Challenges",
+  "entries": [
+    {
+      "key": "Onboarding_ImproveSkill_generic_DisplayName",
+      "source_crc32": 855069072,
+      "translation": "Стать лучше"
+    },
+    {
+      "key": "Onboarding_BuyMaterials_DisplayName_alt",
+      "source_crc32": 1880779359,
+      "translation": "Поход на рынок"
+    },
+    {
+      "key": "Onboarding_BuyInventoryItem_DisplayName",
+      "source_crc32": 197905316,
+      "translation": "Полезная покупка"
+    },
+    {
+      "key": "General_Profession_level",
+      "source_crc32": 3167140505,
+      "translation": "Получить {profession_lvl}"
+    },
+    {
+      "key": "General_Title",
+      "source_crc32": 1180658739,
+      "translation": "Получить титул: {title}"
+    },
+    {
+      "key": "General_Renown",
+      "source_crc32": 3536239276,
+      "translation": "Достичь известности {value}"
+    },
+    {
+      "key": "General_Wealth",
+      "source_crc32": 1752542241,
+      "translation": "Достичь богатства {value}"
+    },
+    {
+      "key": "Onboarding_PromoteWorker_LongDescription",
+      "source_crc32": 1234556381,
+      "translation": "Когда работник наберёт достаточно {CHAR_XP_C}опыта{##}, {CC_RMB} щёлкните правой кнопкой мыши по его портрету на предприятии и выберите {A_PROWOR_C}«Повысить работника»{##}."
+    },
+    {
+      "key": "Onboarding_WinElection_LongDescription",
+      "source_crc32": 3378410356,
+      "translation": "Заявив о притязаниях на {O_TYP_CIVOFF_C}должность{##}, загляните в {HB_UPCOMEVE} «Предстоящие события», чтобы узнать, когда пройдут {O_ELE_C}выборы{##}. Развивайте {S_RHE_C}красноречие{##} или улучшайте {CHAR_STA_C}отношение{##} выборщиков к себе, чтобы повысить шансы против других кандидатов."
+    },
+    {
+      "key": "Onboarding_Marriage_LongDescription",
+      "source_crc32": 2241622185,
+      "translation": "Выбрав, за кем {A_COU_C}ухаживать{##}, вы будете год от года сближаться, пока не поженитесь. Ускорить дело помогут {A_SWETAL_C}сладкие речи{##} и {A_SENGIF_C}подарки{##}. А если есть другие претенденты, подумайте о том, чтобы {A_SMEREP_C}очернить соперников{##}."
+    },
+    {
+      "key": "Onboarding_Courtship2_LongDescription",
+      "source_crc32": 242325423,
+      "translation": "Выбрав, за кем {A_COU_C}ухаживать{##}, {CC_RMB} щёлкните правой кнопкой мыши по портрету того, за кем ухаживаете, и выберите {A_SWETAL_C}«Любезничать со своей любовью»{##}. Это может произвести впечатление и приблизить согласие на брак."
+    },
+    {
+      "key": "Onboarding_PrivateTime_LongDescription",
+      "source_crc32": 4225382602,
+      "translation": "После свадьбы {CC_RMB} щёлкните правой кнопкой мыши по портрету своей второй половины и выберите {A_PRITIM_C}«Уединиться»{##}. Это действие есть и в разделе {HB_PERACT} «Личные действия»."
+    },
+    {
+      "key": "Onboarding_ApplyForOffice_Description",
+      "source_crc32": 152661338,
+      "translation": "Претендуйте на должность"
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerExpertise_LongDescription",
+      "source_crc32": 3981190469,
+      "translation": "Ученики со временем набираются {CHAR_XP_C}опыта{##}. Когда его накопится достаточно, вы сможете {A_PROWOR_C}повысить{##} их до подмастерьев - те работают {CHAR_PRO_C}производительнее{##} и реже страдают от несчастных случаев. Это долго, но вы можете ускорить дело, наставляя их лично.\n\nНа предприятии {CC_RMB} щёлкните правой кнопкой мыши по портрету работника и выберите {A_TRAWOREXP_C}«Наставлять»{##}."
+    },
+    {
+      "key": "Onboarding_AssignWorker_Description",
+      "source_crc32": 3260125336,
+      "translation": "Назначьте работника на задачу"
+    },
+    {
+      "key": "General_WorkerActivity_Start",
+      "source_crc32": 2343456072,
+      "translation": "Назначить работника: {task}"
+    },
+    {
+      "key": "General_Item_Craft_LongDescription",
+      "source_crc32": 1451037684,
+      "translation": "На своём предприятии щёлкните левой кнопкой мыши по портрету работника. Когда он прикрепится к курсору, щёлкните по задаче, которую хотите ему поручить."
+    },
+    {
+      "key": "General_Item_Sell_LongDescription_extra1",
+      "source_crc32": 2602183497,
+      "translation": "На предприятии загрузите повозку: щёлкните левой кнопкой мыши по предмету, затем по отсеку повозки. После этого отправьте повозку на {marketplaceicon} рынок. Когда она прибудет, щёлкните по предмету в повозке, затем по подсвеченной области, чтобы сразу его продать."
+    },
+    {
+      "key": "Onboarding_SellFromStorefront_LongDescription",
+      "source_crc32": 489417098,
+      "translation": "На предприятии {CC_LMB} щёлкните левой кнопкой мыши по предмету в {B_STOROO_C}кладовой{##}, затем {CC_LMB} щёлкните по пустой ячейке {B_STOFRO_C}витрины{##}, чтобы выложить его туда.\n\n{B_PARAM_ATT_C}Привлекательность{##} кузницы время от времени приводит покупателей за товарами с витрины - главное, чтобы им было что купить."
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerSkill_LongDescription",
+      "source_crc32": 2170160645,
+      "translation": "На предприятии {CC_RMB} щёлкните правой кнопкой мыши по портрету работника и выберите {A_TRAWORSKI_C}«Обучить навыку»{##}. Чем выше у работников кузницы навык {S_HAN_C}ремесла{##}, тем {CHAR_PRO_C}производительнее{##} они трудятся."
+    },
+    {
+      "key": "Onboarding_ImproveSkill_generic_LongDescription",
+      "source_crc32": 2365009532,
+      "translation": "Дома, обзаведясь нужными улучшениями, выберите {A_IMPSKI_C}«Улучшить навыки»{##}, а затем навык, который хотите развить."
+    },
+    {
+      "key": "Onboarding_OverseeWork_LongDescription",
+      "source_crc32": 2001644452,
+      "translation": "В кузнице откройте вкладку «Действия» и выберите {A_OVEPRO_C}«Следить за работой»{##}."
+    },
+    {
+      "key": "Onboarding_PrivateTime_DisplayName",
+      "source_crc32": 3733195498,
+      "translation": "За закрытыми дверями"
+    },
+    {
+      "key": "Onboarding_Bribe2_Description",
+      "source_crc32": 665200209,
+      "translation": "Подкупите кого-то"
+    },
+    {
+      "key": "Onboarding_BuildBeeHive2_Description",
+      "source_crc32": 2099525834,
+      "translation": "Постройте улей"
+    },
+    {
+      "key": "Onboarding_BuildImprovement_Description",
+      "source_crc32": 2553710725,
+      "translation": "Постройте улучшение"
+    },
+    {
+      "key": "Onboarding_BuildBusinessImprovement_Description",
+      "source_crc32": 1918520624,
+      "translation": "Постройте улучшение в своей кузнице"
+    },
+    {
+      "key": "General_Building_Improvement_Build",
+      "source_crc32": 1876101008,
+      "translation": "Построить {improvement}"
+    },
+    {
+      "key": "Onboarding_BuildBusinessImprovement_DisplayName",
+      "source_crc32": 2146213986,
+      "translation": "Вложение в дело"
+    },
+    {
+      "key": "Onboarding_BuyInventoryItem_Description",
+      "source_crc32": 1929772978,
+      "translation": "Купите предмет инвентаря"
+    },
+    {
+      "key": "Onboarding_BuyMaterials_Description_alt",
+      "source_crc32": 4253220685,
+      "translation": "Купите предмет"
+    },
+    {
+      "key": "Onboarding_BuyMaterials_Description",
+      "source_crc32": 773035361,
+      "translation": "Купите что-нибудь, лучше всего сырьё"
+    },
+    {
+      "key": "General_Item_Buy",
+      "source_crc32": 2318923184,
+      "translation": "Купить: {item}"
+    },
+    {
+      "key": "Onboarding_AdjustWorkerSalary_Description",
+      "source_crc32": 2951572361,
+      "translation": "Измените жалованье работников"
+    },
+    {
+      "key": "Onboarding_WinElection_DisplayName",
+      "source_crc32": 3695888262,
+      "translation": "Занять кресло"
+    },
+    {
+      "key": "Onboarding_ClaimTitle_Description",
+      "source_crc32": 3998602322,
+      "translation": "Получите следующий титул"
+    },
+    {
+      "key": "Onboarding_ClaimTitle_DisplayName",
+      "source_crc32": 1247174721,
+      "translation": "Вверх по сословной лестнице"
+    },
+    {
+      "key": "Onboarding_GainMasteryGrade_LongDescription",
+      "source_crc32": 852127283,
+      "translation": "Говорят, умение надо подтверждать грамотой. Чтобы расти как {P_C}кузнец{##}, вам нужно получить {A_MASGRA_C}ступень мастерства{##}. Она повысит вашу {CHAR_REN_C}известность{##} и позволит модернизировать кузницу - а там можно изготавливать больше товаров и оказывать больше услуг.\n\nНа левой панели откройте {HB_PERACT} «Личные действия» и выберите {A_MASGRA_C}«Повысить мастерство»{##}."
+    },
+    {
+      "key": "Onboarding_CraftItem_Description",
+      "source_crc32": 941927662,
+      "translation": "Сделайте предмет"
+    },
+    {
+      "key": "General_Item_Craft",
+      "source_crc32": 290787924,
+      "translation": "Изготовить: {item}"
+    },
+    {
+      "key": "Onboarding_AdjustWorkerTreatment_Description",
+      "source_crc32": 1511654739,
+      "translation": "Решите, как обращаться с работниками"
+    },
+    {
+      "key": "Onboarding_ImproveSkill2_LongDescription",
+      "source_crc32": 3970648761,
+      "translation": "Каждому делу - свой навык. Для кузнеца ремесло влияет на {CHAR_PRO_C}производительность{##} кузницы, так что его стоит развивать.\n\nДома, обзаведясь {B_IMP_IMPHAN_C}ящиком ремесленника{##}, выберите действие {A_IMPSKI_C}«Улучшить навыки»{##}, а затем {S_HAN_C}ремесло{##}."
+    },
+    {
+      "key": "General_Action_Do",
+      "source_crc32": 2925232363,
+      "translation": "Выполнить: {action}"
+    },
+    {
+      "key": "Onboarding_ApplyForOffice_DisplayName",
+      "source_crc32": 3052405094,
+      "translation": "Вступить в борьбу"
+    },
+    {
+      "key": "Onboarding_EnterHouse_Description",
+      "source_crc32": 713779118,
+      "translation": "Зайдите в свой дом"
+    },
+    {
+      "key": "Onboarding_EnterBusiness_Description",
+      "source_crc32": 1170048736,
+      "translation": "Зайдите в кузницу"
+    },
+    {
+      "key": "General_Building_Enter",
+      "source_crc32": 1803240282,
+      "translation": "Войти: {building}"
+    },
+    {
+      "key": "Onboarding_AdjustWorkerTreatment_DisplayName",
+      "source_crc32": 2097552280,
+      "translation": "По справедливости"
+    },
+    {
+      "key": "Onboarding_HaveChild_DisplayName",
+      "source_crc32": 1561340158,
+      "translation": "Семейные дела"
+    },
+    {
+      "key": "Onboarding_UnpauseGame_DisplayName",
+      "source_crc32": 1362848983,
+      "translation": "Начнём с главного"
+    },
+    {
+      "key": "Onboarding_EnterHouse_LongDescription",
+      "source_crc32": 3136333837,
+      "translation": "Учиться новому, проводить время с семьёй, строить козни и плести интриги - нет для этого места лучше, чем родные стены.\n\nНа левой панели нажмите {HB_MYHOU} «Владение», чтобы камера перешла к вашему дому. Затем щёлкните по дверной ручке или дважды щёлкните по дому, чтобы войти."
+    },
+    {
+      "key": "Onboarding_GainMasteryGrade_Description",
+      "source_crc32": 2918710153,
+      "translation": "Получите ступень мастерства"
+    },
+    {
+      "key": "Onboarding_Bribe1_Description",
+      "source_crc32": 3050897970,
+      "translation": "Обзаведитесь дома кошелём убеждения"
+    },
+    {
+      "key": "Onboarding_BuildBeeHive1_Description",
+      "source_crc32": 2830127662,
+      "translation": "Добудьте пчелиную матку в лесных угодьях"
+    },
+    {
+      "key": "Onboarding_ImproveSkill1_Description",
+      "source_crc32": 761639950,
+      "translation": "Поставьте в доме ящик ремесленника"
+    },
+    {
+      "key": "Onboarding_Marriage_Description",
+      "source_crc32": 4071867428,
+      "translation": "Вступите в брак"
+    },
+    {
+      "key": "General_Office_level",
+      "source_crc32": 1433104698,
+      "translation": "Занять {office_lvl}"
+    },
+    {
+      "key": "General_Office",
+      "source_crc32": 1516786931,
+      "translation": "Занять должность: {office}"
+    },
+    {
+      "key": "Onboarding_ImproveSkill2_Description",
+      "source_crc32": 1873300889,
+      "translation": "Зайдите домой и улучшите ремесло"
+    },
+    {
+      "key": "Onboarding_OverseeWork_Description",
+      "source_crc32": 3966126603,
+      "translation": "Зайдите в кузницу и последите за работой"
+    },
+    {
+      "key": "Onboarding_PromoteWorker_DisplayName",
+      "source_crc32": 1901646673,
+      "translation": "Повышение"
+    },
+    {
+      "key": "Onboarding_VisitGuildHouse_DisplayName",
+      "source_crc32": 1448284372,
+      "translation": "Дела гильдии"
+    },
+    {
+      "key": "Onboarding_AssignWorker_DisplayName",
+      "source_crc32": 3060268326,
+      "translation": "За работу!"
+    },
+    {
+      "key": "Onboarding_HaveChild_Description",
+      "source_crc32": 3998381509,
+      "translation": "Заведите ребёнка"
+    },
+    {
+      "key": "General_WorkerActivity_Finish",
+      "source_crc32": 2738897706,
+      "translation": "Поручить работнику: {task}"
+    },
+    {
+      "key": "General_Item_Have_Inventory",
+      "source_crc32": 752201051,
+      "translation": "В инвентаре: {item} ×{number}"
+    },
+    {
+      "key": "General_Child_Number",
+      "source_crc32": 2863369389,
+      "translation": "Завести {number} {number}|plural(one=ребёнка,few=детей,many=детей,other=детей)"
+    },
+    {
+      "key": "Onboarding_HireWorker_Description",
+      "source_crc32": 1365100999,
+      "translation": "Наймите работника"
+    },
+    {
+      "key": "Onboarding_HireEscort_Description",
+      "source_crc32": 68528953,
+      "translation": "Наймите охрану, чтобы защитить повозку в пути"
+    },
+    {
+      "key": "Onboarding_EnterHouse_DisplayName",
+      "source_crc32": 985433236,
+      "translation": "Дом, милый дом"
+    },
+    {
+      "key": "Onboarding_ImproveSkill1_DisplayName",
+      "source_crc32": 1102878967,
+      "translation": "Уроки на дом"
+    },
+    {
+      "key": "Onboarding_BuildBeeHive2_DisplayName",
+      "source_crc32": 1865557206,
+      "translation": "Сладкое дело"
+    },
+    {
+      "key": "Onboarding_ClaimTitle_LongDescription",
+      "source_crc32": 3926942832,
+      "translation": "Люди придумали немало способов упорядочить общество и измерить, кто чего стоит. Здесь {T_C}титулы{##} ставят перед именем, и они определяют ваши права.\n\nКак только накопите достаточно {CHAR_WEA_C}богатства{##}, чтобы считаться {T_FULCIT_C}бюргером{##}, закрепите это официально: получите титул в ратуше.\n\nНа левой панели нажмите {HB_TOWHAL} {B_PUB_TOWHAL_C}«Ратуша»{##} или откройте {HB_PERACT} «Личные действия» и выберите {T_C}«Получить следующий титул»{##}."
+    },
+    {
+      "key": "Onboarding_ImproveSkill_generic_Description",
+      "source_crc32": 2574149001,
+      "translation": "Улучшите навык"
+    },
+    {
+      "key": "Onboarding_EnterBusiness_LongDescription",
+      "source_crc32": 3037139828,
+      "translation": "На левой панели нажмите {HB_MYBUS} «Предприятие», чтобы камера перешла к вашей {B_OCC_SMI_C}кузнице{##}. Затем щёлкните по дверной ручке, чтобы войти, или приблизьте вид и дважды щёлкните по зданию."
+    },
+    {
+      "key": "Onboarding_UnpauseGame_LongDescription",
+      "source_crc32": 1102315010,
+      "translation": "С помощью кнопок управления скоростью в верхней части экрана или клавиши, например пробела, возобновите игру на удобной вам скорости.\n\nПоглядывайте на хронологию и {HB_UPCOMEVE} «Предстоящие события», чтобы знать {WORHOU_C}рабочие часы{##} своих работников и не пропустить выборы."
+    },
+    {
+      "key": "Onboarding_ImproveSkill1_LongDescription",
+      "source_crc32": 141392151,
+      "translation": "У себя дома постройте улучшение {B_IMP_icon} {B_IMP_IMPHAN_C}«Ящик ремесленника»{##}."
+    },
+    {
+      "key": "Onboarding_Bribe1_LongDescription",
+      "source_crc32": 46026537,
+      "translation": "У себя дома найдите улучшение {B_IMP_icon} {B_IMP_BRI_C}«Кошель убеждения»{##} и постройте его."
+    },
+    {
+      "key": "Onboarding_UseItem_DisplayName",
+      "source_crc32": 1055217933,
+      "translation": "Оправдать покупку"
+    },
+    {
+      "key": "Onboarding_PressCharges_DisplayName",
+      "source_crc32": 363588876,
+      "translation": "Закон и порядок"
+    },
+    {
+      "key": "General_Building_Enter_LongDescription",
+      "source_crc32": 2893656929,
+      "translation": "Щёлкните левой кнопкой мыши по зданию на карте, затем по дверной ручке {doorhandleicon}, чтобы войти внутрь."
+    },
+    {
+      "key": "Onboarding_SellFromStorefront_DisplayName",
+      "source_crc32": 3068279591,
+      "translation": "Пусть сами придут"
+    },
+    {
+      "key": "Onboarding_Courtship1_DisplayName",
+      "source_crc32": 1798134762,
+      "translation": "Первый шаг"
+    },
+    {
+      "key": "General_Item_Craft_LongDescription_extra1",
+      "source_crc32": 775603273,
+      "translation": "Убедитесь, что в кладовой есть нужные для этого материалы."
+    },
+    {
+      "key": "Onboarding_GainMasteryGrade_DisplayName",
+      "source_crc32": 1782036637,
+      "translation": "Овладеть ремеслом"
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerExpertise_Description",
+      "source_crc32": 2274637129,
+      "translation": "Наставьте работника"
+    },
+    {
+      "key": "Onboarding_HireWorker_DisplayName",
+      "source_crc32": 2489178382,
+      "translation": "Больше рук"
+    },
+    {
+      "key": "Onboarding_HireWorker_LongDescription",
+      "source_crc32": 2822928588,
+      "translation": "Больше рук - больше дела.\n\nНа предприятии откройте вкладку «Занятия». В разделе «Работники» нажмите значок «+» в свободной ячейке, чтобы нанять ещё одного работника. Можно также построить улучшение «Рабочие руки», которое откроет ещё одну ячейку."
+    },
+    {
+      "key": "Onboarding_Courtship1_LongDescription",
+      "source_crc32": 1351207658,
+      "translation": "Никто не живёт вечно, и важнее доброй памяти - чтобы ваше наследие пережило поколения. Законные дети, которые понесут дальше ваше имя, рождаются в браке, а браку предшествует ухаживание.\n\nЩёлкните по знамени династии рядом со своим портретом в левом нижнем углу, чтобы открыть родословное древо. Там нажмите {A_COU_C}«Начать ухаживание»{##}, выберите, за кем ухаживать, и ступайте по дороге к венцу."
+    },
+    {
+      "key": "Onboarding_BuyMaterials_LongDescription",
+      "source_crc32": 70449901,
+      "translation": "Из ничего ничего не выйдет, так что обеспечьте работников всем необходимым.\n\nЦены растут и падают вместе со спросом и предложением, поэтому следите за рынком и держите повозку наготове, чтобы не упустить выгодную сделку.\n\nЧтобы купить {I_TYP_RAWMAT_C}сырьё{##}, отправьте {CAR_C}повозку{##} на {B_PUB_MKT_C}рынок{##}, сложите покупки в её ячейки и верните повозку в кузницу. Следите за {B_HP_C}прочностью{##} повозок, чтобы они не ломались в пути."
+    },
+    {
+      "key": "Onboarding_PressCharges_Description",
+      "source_crc32": 2521253018,
+      "translation": "Добудьте улику и подайте в суд"
+    },
+    {
+      "key": "Onboarding_SendCartToMarketplace_DisplayName",
+      "source_crc32": 2585762694,
+      "translation": "Едем на рынок"
+    },
+    {
+      "key": "Onboarding_GuardService_DisplayName",
+      "source_crc32": 3187820413,
+      "translation": "На страже"
+    },
+    {
+      "key": "Onboarding_BuildBeeHive1_DisplayName",
+      "source_crc32": 2188904295,
+      "translation": "По медовому следу"
+    },
+    {
+      "key": "Onboarding_BuyInventoryItem_LongDescription",
+      "source_crc32": 2127867571,
+      "translation": "Слева нажмите {HB_MKT} «Рынок». Чтобы купить предмет для себя, {CC_LMB} щёлкните по нему левой кнопкой мыши, затем {CC_LMB} щёлкните по пустой ячейке в своём {HB_INV} {CHAR_PERINV_C}личном инвентаре{##}."
+    },
+    {
+      "key": "Onboarding_Bribe2_LongDescription",
+      "source_crc32": 156020059,
+      "translation": "Слева откройте {HB_ALLCHA} «Жители» и найдите свою цель. {CC_RMB} Щёлкните правой кнопкой мыши по её портрету и выберите {A_BRI_C}«Подкупить»{##}. До портрета можно добраться и через сведения о персонаже, а иногда и из других разделов, например из «Политики»."
+    },
+    {
+      "key": "Onboarding_VisitChurch_LongDescription",
+      "source_crc32": 486314500,
+      "translation": "Найдите на карте {B_OCC_PRE_C}церковь{##}. С помощью {HB_FIL} фильтров подсветите {B_TYP_OCCBUI_C}здания профессий{##}, затем выберите церковь и действие {A_PRA_C}«Помолиться»{##}."
+    },
+    {
+      "key": "Onboarding_VisitInn_LongDescription",
+      "source_crc32": 3855788001,
+      "translation": "Найдите на карте {B_OCC_INN_C}трактир{##}. С помощью {HB_FIL} фильтров подсветите {B_TYP_OCCBUI_C}здания профессий{##}, затем выберите трактир и действие {A_SOCATINN_C}«Пообщаться»{##}."
+    },
+    {
+      "key": "Onboarding_BuildBeeHive1_LongDescription",
+      "source_crc32": 3846386470,
+      "translation": "Найдите на карте {B_EXTFAC_WOOARE_C}лесные угодья{##}. С помощью {HB_FIL} фильтров подсветите {B_TYP_EXTFAC_C}места добычи{##}, затем выберите лесные угодья и действие {A_CATBEE_C}«Поймать пчелиную матку»{##}."
+    },
+    {
+      "key": "Onboarding_VisitGuildHouse_LongDescription",
+      "source_crc32": 2641580436,
+      "translation": "Найдите на карте {B_GUILD_C}дом гильдии{##} своей {P_C}профессии{##}. С помощью {HB_FIL} фильтров подсветите {B_TYP_PUBBUI_C}городскую инфраструктуру{##}, затем выберите свой дом гильдии и действие {A_TRAPRO_C}«Обучиться профессии»{##}."
+    },
+    {
+      "key": "Onboarding_SellToMarketplace_LongDescription",
+      "source_crc32": 2894910181,
+      "translation": "Когда гружёная {CAR_C}повозка{##} прибудет на {B_PUB_MKT_C}рынок{##}, {CC_LMB} щёлкните левой кнопкой мыши по товару в повозке, затем {CC_LMB} щёлкните по подсвеченной области, чтобы сразу его продать."
+    },
+    {
+      "key": "Onboarding_HaveChild_LongDescription",
+      "source_crc32": 1979882800,
+      "translation": "После свадьбы у вас может родиться {CHAR_HEI_C}ребёнок{##}. {CHAR_CHABABY_C}Шанс{##} зависит от {CHAR_HP_C}здоровья{##} и возраста обоих и от их {CHAR_STA_C}отношения{##} друг к другу. Действие {A_PRITIM_C}«Уединиться»{##} повышает шансы, но оно не обязательно и ничего не гарантирует."
+    },
+    {
+      "key": "Onboarding_CraftItem_LongDescription",
+      "source_crc32": 2311544976,
+      "translation": "Назначив работника на изготовление, убедитесь, что в {B_STOROO_C}кладовой{##} есть нужные ему материалы.\n\nРаботники трудятся только в свои {WORHOU_C}рабочие часы{##}, так что до начала смены ничего готово не будет."
+    },
+    {
+      "key": "Onboarding_PressCharges_LongDescription_alt",
+      "source_crc32": 885670557,
+      "translation": "Раздобыв {CR_EVI_C}улику{##}, обратите её против соперников. Откройте на левой панели {HB_CRIEVI} «Преступления и улики», выберите {A_PRECHA_C}«Подать в суд»{##} и дождитесь, когда обвиняемый предстанет перед судом."
+    },
+    {
+      "key": "Onboarding_UpgradeBusiness_LongDescription",
+      "source_crc32": 1571475975,
+      "translation": "Достигнув нужной {A_MASGRA_C}ступени мастерства{##} и скопив достаточно денег, вы сможете модернизировать предприятие. Это откроет работникам новые {A_ACT_C}задачи{##}, а вам, возможно, и новые {A_C}действия{##}."
+    },
+    {
+      "key": "Onboarding_AdjustWorkerSalary_LongDescription",
+      "source_crc32": 1954528931,
+      "translation": "Зайдите на своё предприятие и откройте вкладку «Предприятие». Ползунками {WOR_SAL_C}жалованья{##} и {WOR_TRE_C}обращения{##} задайте, сколько получают ваши работники и как с ними обходятся."
+    },
+    {
+      "key": "Onboarding_AdjustWorkerTreatment_LongDescription",
+      "source_crc32": 1954528931,
+      "translation": "Зайдите на своё предприятие и откройте вкладку «Предприятие». Ползунками {WOR_SAL_C}жалованья{##} и {WOR_TRE_C}обращения{##} задайте, сколько получают ваши работники и как с ними обходятся."
+    },
+    {
+      "key": "General_Building_Own",
+      "source_crc32": 263350916,
+      "translation": "Владеть {building_lvl}"
+    },
+    {
+      "key": "Onboarding_Bribe2_DisplayName",
+      "source_crc32": 1788810451,
+      "translation": "Дать на лапу"
+    },
+    {
+      "key": "Onboarding_RepairBuilding_DisplayName",
+      "source_crc32": 3001583984,
+      "translation": "Залатать дыры"
+    },
+    {
+      "key": "Onboarding_AdjustWorkerSalary_DisplayName",
+      "source_crc32": 3056438940,
+      "translation": "День выплат"
+    },
+    {
+      "key": "Onboarding_SellFromStorefront_Description",
+      "source_crc32": 451677682,
+      "translation": "Выложите товар на витрину и дождитесь покупки"
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerSkill_DisplayName",
+      "source_crc32": 1201409688,
+      "translation": "Повторенье - мать ученья"
+    },
+    {
+      "key": "Onboarding_PressCharges_Description_alt",
+      "source_crc32": 1978924530,
+      "translation": "Подайте в суд"
+    },
+    {
+      "key": "Onboarding_SellToMarketplace_DisplayName",
+      "source_crc32": 875443059,
+      "translation": "Прибыль!"
+    },
+    {
+      "key": "Onboarding_PromoteWorker_Description",
+      "source_crc32": 3978924536,
+      "translation": "Повысьте работника"
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerExpertise_DisplayName",
+      "source_crc32": 764301919,
+      "translation": "Путь к повышению"
+    },
+    {
+      "key": "Onboarding_ApplyForOffice_LongDescription",
+      "source_crc32": 1594202497,
+      "translation": "Докажите, что вас стоит слушать, и начните восхождение по политической лестнице.\n\nНа левой панели нажмите {HB_POL} «Политика», чтобы увидеть иерархию {O_TYP_CIVOFF_C}должностей{##}. Найдите ту, требованиям которой вы отвечаете, и {O_ELE_C}претендуйте на должность{##}."
+    },
+    {
+      "key": "Onboarding_OverseeWork_DisplayName",
+      "source_crc32": 619483939,
+      "translation": "Поднять производительность"
+    },
+    {
+      "key": "Onboarding_VisitInn_DisplayName",
+      "source_crc32": 156167832,
+      "translation": "Поднимем кружки"
+    },
+    {
+      "key": "Onboarding_RepairBuilding_Description",
+      "source_crc32": 1749362118,
+      "translation": "Отремонтируйте здание"
+    },
+    {
+      "key": "Onboarding_HireEscort_DisplayName",
+      "source_crc32": 858341768,
+      "translation": "Безопасный путь"
+    },
+    {
+      "key": "Onboarding_VisitChurch_DisplayName",
+      "source_crc32": 1319896555,
+      "translation": "Краткая молитва"
+    },
+    {
+      "key": "Onboarding_ImproveSkill2_DisplayName",
+      "source_crc32": 1669090092,
+      "translation": "Работа над собой"
+    },
+    {
+      "key": "Onboarding_SellToMarketplace_Description",
+      "source_crc32": 862736815,
+      "translation": "Продайте товар на рынке"
+    },
+    {
+      "key": "General_Item_Sell",
+      "source_crc32": 2318258482,
+      "translation": "Продать: {item}"
+    },
+    {
+      "key": "General_Item_Sell_Value",
+      "source_crc32": 1183750245,
+      "translation": "Продать товаров на сумму {value}"
+    },
+    {
+      "key": "General_Item_Sell_Value_Marketplace",
+      "source_crc32": 1915004583,
+      "translation": "Продать на рынке товаров на сумму {value}"
+    },
+    {
+      "key": "General_Item_Sell_Value_Storefront",
+      "source_crc32": 2561565079,
+      "translation": "Продать с витрины товаров на сумму {value}"
+    },
+    {
+      "key": "General_Item_Sell_Value_Specific",
+      "source_crc32": 2867067926,
+      "translation": "Продать: {item} на сумму {value}"
+    },
+    {
+      "key": "General_Cart_SendTo",
+      "source_crc32": 3798029708,
+      "translation": "Послать повозку: {building}"
+    },
+    {
+      "key": "Onboarding_SendCartToMarketplace_Description",
+      "source_crc32": 453170813,
+      "translation": "Отправьте повозку на рынок"
+    },
+    {
+      "key": "Onboarding_VisitTownHall_DisplayName",
+      "source_crc32": 414284958,
+      "translation": "Доносчику первый грош"
+    },
+    {
+      "key": "General_Building_Enter_LongDescription_extra1",
+      "source_crc32": 630694455,
+      "translation": "У некоторых зданий есть часы работы, а в иные пускают не всех. В таких случаях дверная ручка будет недоступна."
+    },
+    {
+      "key": "Onboarding_PrivateTime_Description",
+      "source_crc32": 3680177864,
+      "translation": "Уединитесь со своей второй половиной"
+    },
+    {
+      "key": "Onboarding_Courtship1_Description",
+      "source_crc32": 1043002292,
+      "translation": "Начните за кем-нибудь ухаживать"
+    },
+    {
+      "key": "Onboarding_EnterBusiness_DisplayName",
+      "source_crc32": 1883922387,
+      "translation": "Заглянем внутрь"
+    },
+    {
+      "key": "Onboarding_BuyMaterials_DisplayName",
+      "source_crc32": 1216469814,
+      "translation": "Запастись"
+    },
+    {
+      "key": "General_Action_Do_Success",
+      "source_crc32": 82184866,
+      "translation": "Успешно выполнить: {action}"
+    },
+    {
+      "key": "Onboarding_Courtship2_DisplayName",
+      "source_crc32": 2001804221,
+      "translation": "Сладкие речи"
+    },
+    {
+      "key": "Onboarding_Courtship2_Description",
+      "source_crc32": 1689301491,
+      "translation": "Полюбезничайте с тем, за кем ухаживаете"
+    },
+    {
+      "key": "Onboarding_Bribe1_DisplayName",
+      "source_crc32": 1348114140,
+      "translation": "Цель оправдывает средства"
+    },
+    {
+      "key": "Onboarding_HireEscort_LongDescription",
+      "source_crc32": 71063084,
+      "translation": "Дорога бывает долгой и полной опасностей. На повозку могут напасть, так что, если везёте ценный груз, лучше нанять охрану.\n\nЩёлкните по повозке и выберите {A_HIRESC_C}«Нанять охрану»{##}. Затем укажите уровень защиты и число {C_TRN_C}ходов{##}, на которое нанимаете охрану."
+    },
+    {
+      "key": "Onboarding_Marriage_DisplayName",
+      "source_crc32": 1556109438,
+      "translation": "Под венец"
+    },
+    {
+      "key": "Onboarding_UpgradeBusiness_DisplayName",
+      "source_crc32": 2799827284,
+      "translation": "Пора расширяться"
+    },
+    {
+      "key": "General_Item_Buy_LongDescription_extra1",
+      "source_crc32": 2578665814,
+      "translation": "Чтобы купить сырьё для своего предприятия, отправьте на рынок повозку и сложите купленное в один из её отсеков."
+    },
+    {
+      "key": "Onboarding_UseItem_LongDescription",
+      "source_crc32": 225032475,
+      "translation": "Чтобы использовать предмет, он должен лежать в вашем {HB_INV} {CHAR_PERINV_C}личном инвентаре{##}. {CC_RMB} Щёлкните по нему правой кнопкой мыши, чтобы открыть контекстное меню, и выберите «Применить». Затем укажите, на кого или на что его применить."
+    },
+    {
+      "key": "General_Item_Use_LongDescription",
+      "source_crc32": 2436159903,
+      "translation": "Предмет должен лежать в вашем {inventoryicon}личном инвентаре. Щёлкните по нему правой кнопкой мыши, чтобы открыть контекстное меню, и выберите «Применить». Затем укажите, на кого или на что его применить."
+    },
+    {
+      "key": "Onboarding_IncreaseWorkerSkill_Description",
+      "source_crc32": 4260025162,
+      "translation": "Обучите работника"
+    },
+    {
+      "key": "Onboarding_BuildImprovement_DisplayName",
+      "source_crc32": 2143468392,
+      "translation": "Идёт улучшение"
+    },
+    {
+      "key": "Onboarding_UnpauseGame_Description",
+      "source_crc32": 3815529146,
+      "translation": "Возобновите игру"
+    },
+    {
+      "key": "Onboarding_UpgradeBusiness_Description",
+      "source_crc32": 2509092837,
+      "translation": "Модернизируйте предприятие"
+    },
+    {
+      "key": "Onboarding_UseItem_Description",
+      "source_crc32": 411185269,
+      "translation": "Примените предмет"
+    },
+    {
+      "key": "Onboarding_SendCartToMarketplace_LongDescription",
+      "source_crc32": 7375096,
+      "translation": "{CAR_C}Повозки{##} нужны, чтобы закупать материалы и развозить готовые товары по разным местам.\n\nЕсли вы готовы продать изготовленное, загрузите повозку на предприятии: {CC_LMB} щёлкните левой кнопкой мыши по товару, затем {CC_LMB} по ячейке повозки. Выберите {B_PUB_MKT_C}рынок{##} на карте или в списке зданий и отправьте повозку в путь.\n\nЕсли же вы предпочитаете копить товар, выжидая выгодных цен, отправьте на рынок пустую повозку за материалами - тогда работники не будут простаивать."
+    },
+    {
+      "key": "General_Item_Use",
+      "source_crc32": 3270161010,
+      "translation": "Применить: {item}"
+    },
+    {
+      "key": "Onboarding_VisitGuildHouse_Description",
+      "source_crc32": 163728872,
+      "translation": "Посетите дом гильдии и обучитесь профессии"
+    },
+    {
+      "key": "General_Item_Buy_LongDescription",
+      "source_crc32": 3516425672,
+      "translation": "Зайдите на рынок - для этого служат красные кнопки {marketplaceicon} слева. Чтобы купить предмет для личного пользования, щёлкните по нему левой кнопкой мыши, затем по пустой ячейке в своём {inventoryicon} личном инвентаре."
+    },
+    {
+      "key": "Onboarding_GuardService_Description",
+      "source_crc32": 1910417728,
+      "translation": "Посетите тюрьму и послужите в страже"
+    },
+    {
+      "key": "Onboarding_VisitTownHall_Description",
+      "source_crc32": 327720262,
+      "translation": "Посетите ратушу и донесите слухи"
+    },
+    {
+      "key": "Onboarding_VisitChurch_Description",
+      "source_crc32": 3591929311,
+      "translation": "Посетите церковь и помолитесь"
+    },
+    {
+      "key": "Onboarding_VisitInn_Description",
+      "source_crc32": 3376863624,
+      "translation": "Посетите трактир и пообщайтесь"
+    },
+    {
+      "key": "Onboarding_ChallengeCompleted_Notification",
+      "source_crc32": 2831029010,
+      "translation": "Отлично! Цель достигнута:\n • {description}"
+    },
+    {
+      "key": "Onboarding_BuildImprovement_LongDescription",
+      "source_crc32": 3911188910,
+      "translation": "Строя улучшения, вы платите немного вперёд, а выгоду получаете со временем. Иногда придётся выбирать из двух или более видов улучшений.\n\nЗайдите в свой дом или на предприятие и выберите {B_IMP_icon} улучшение, которое хотите построить."
+    },
+    {
+      "key": "Onboarding_BuildBusinessImprovement_LongDescription",
+      "source_crc32": 1576706190,
+      "translation": "Строя улучшения, вы платите немного вперёд, а выгоду получаете со временем. Иногда придётся выбирать из двух или более видов улучшений.\n\nВ своей кузнице выберите любое {B_IMP_icon} улучшение и постройте его."
+    },
+    {
+      "key": "Onboarding_WinElection_Description",
+      "source_crc32": 563506423,
+      "translation": "Победите на выборах"
+    },
+    {
+      "key": "Onboarding_BuildBeeHive2_LongDescription",
+      "source_crc32": 1824495386,
+      "translation": "Когда {I_BEEQUE_C}пчелиная матка{##} лежит в вашем {HB_INV} {CHAR_PERINV_C}личном инвентаре{##}, откройте слева {HB_CONMEN} «Строительство». На вкладке «Владения» выберите {B_PER_BEEHIV_C}улей{##}, который хотите построить, и укажите место для него. Матка пойдёт в дело сама, как только начнётся стройка."
+    },
+    {
+      "key": "Onboarding_CraftItem_DisplayName",
+      "source_crc32": 4063512953,
+      "translation": "Работа, работа, работа"
+    },
+    {
+      "key": "General_Item_Sell_LongDescription_extra2",
+      "source_crc32": 97449925,
+      "translation": "Товары можно продавать и прямо на предприятии: переложите их из кладовой на витрину и дождитесь покупателя."
+    },
+    {
+      "key": "General_Item_Buy_LongDescription_extra2",
+      "source_crc32": 3317194351,
+      "translation": "Можно заглянуть и в другие мастерские: всё, что выставлено на продажу у них на витрине, можно погрузить прямо в вашу повозку."
+    },
+    {
+      "key": "General_Item_Have_Inventory_LongDescription",
+      "source_crc32": 2704370464,
+      "translation": "{I_TYP_INVITE_C}Предметы инвентаря{##} можно положить в личный инвентарь, купив их на рынке или взяв на собственном предприятии."
+    },
+    {
+      "key": "Onboarding_PressCharges_LongDescription",
+      "source_crc32": 3333473755,
+      "translation": "{CR_EVI_C}Улики{##} можно добыть, {A_SPY_C}шпионя{##} за другими, но для этого нужна {B_IMP_SPY_C}подзорная труба{##}. Или же {A_SNI_C}доносите слухи{##} {O_CHA_INF_C}осведомителям{##}: присматриваясь к окружающим и зарабатывая на этом, вы можете наткнуться на улики преступлений!\n\nДобыв улику, откройте слева {HB_CRIEVI} «Преступления и улики» и выберите {A_PRECHA_C}«Подать в суд»{##}."
+    },
+    {
+      "key": "Onboarding_VisitTownHall_LongDescription",
+      "source_crc32": 3456758598,
+      "translation": "{CR_EVI_C}Улики{##} можно добыть, {A_SPY_C}шпионя{##} за другими, но для этого придётся обзавестись {B_IMP_SPY_C}подзорной трубой{##} у себя дома. А можно {A_SNI_C}доносить слухи{##} {O_CHA_INF_C}осведомителям{##}: они и денег дадут, и, возможно, наведут на улики чужих преступлений!\n\nНа левой панели нажмите {HB_TOWHAL} {B_PUB_TOWHAL_C}«Ратуша»{##} и выберите {A_SNI_C}«Донести слухи»{##}."
+    },
+    {
+      "key": "Onboarding_GuardService_LongDescription",
+      "source_crc32": 3150843193,
+      "translation": "Вы своё дело сделали: платили налоги и соблюдали закон. Увы, преступники так поступают редко. Хотите, чтобы на улицах стало спокойнее, - на время запишитесь в стражу. Подзаработаете и заодно напомните лиходеям, что за ними следят.\n\nНайдите на карте {B_PUB_PRI_C}тюрьму{##}. С помощью {HB_FIL} фильтров подсветите {B_TYP_PUBBUI_C}городскую инфраструктуру{##}, затем выберите тюрьму и действие {A_GUASER_C}«Записаться в стражу»{##}."
+    },
+    {
+      "key": "Onboarding_AssignWorker_LongDescription",
+      "source_crc32": 1916851184,
+      "translation": "Работники оказывают услуги и изготавливают товары, а вы платите им жалованье в конце каждого хода. Не давайте им сидеть без дела - простаивающим тоже надо платить.\n\nНа своём предприятии {CC_LMB} щёлкните левой кнопкой мыши по портрету работника. Когда он прикрепится к курсору, {CC_LMB} щёлкните по {A_ACT_C}задаче{##}, которую хотите ему поручить.\n\nРаботники выполняют задачи в свои {WORHOU_C}рабочие часы{##}, но назначить задачу можно и до их прихода - тогда они примутся за дело, как только начнётся смена."
+    },
+    {
+      "key": "Onboarding_RepairBuilding_LongDescription",
+      "source_crc32": 679144343,
+      "translation": "{B_HP_C}Прочность{##} здания влияет на его стоимость, а если здание {ST_STR_BADMAI_C}запущено{##}, страдает почти всё: работники станут менее {CHAR_PRO_C}производительными{##} и будут чаще получать увечья. Не доводите здание до разрухи.\n\nВ одном из своих зданий нажмите {IC_REP} «Ремонт» рядом со шкалой прочности."
+    },
+    {
+      "key": "General_Item_Have_Inventory_LongDescription_extra1",
+      "source_crc32": 2110936525,
+      "translation": "Ваш личный инвентарь - это кошель {inventoryicon} рядом с портретом персонажа в левом нижнем углу."
+    }
+  ]
+}

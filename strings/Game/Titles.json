@@ -1,0 +1,301 @@
+{
+  "resource": "Game",
+  "namespace": "Titles",
+  "entries": [
+    {
+      "key": "Title_Count_Description",
+      "source_crc32": 2595347009,
+      "translation": "Голос, имеющий вес."
+    },
+    {
+      "key": "Rights_Nobility_AlternativeAction_Description",
+      "source_crc32": 2612776478,
+      "translation": "Кроме того, дворянскую грамоту может пожаловать правитель или любой представитель имперской власти."
+    },
+    {
+      "key": "Title_PrinceOfTheEmpire_Description",
+      "source_crc32": 3336882825,
+      "translation": "Власть, которую мало кто оспорит."
+    },
+    {
+      "key": "Rights_CupbearerService_Description",
+      "source_crc32": 3964156882,
+      "translation": "Умеренный риск, средний срок. Проверяет ремесло."
+    },
+    {
+      "key": "Title_Gentleman_Description",
+      "source_crc32": 3136679938,
+      "translation": "Едва замечают, легко пропускают мимо."
+    },
+    {
+      "key": "Title_Baron_DisplayName_plural",
+      "source_crc32": 2830036793,
+      "translation": "Бароны"
+    },
+    {
+      "key": "Title_FullCitizen_DisplayName",
+      "source_crc32": 401722977,
+      "translation": "Бюргер"
+    },
+    {
+      "key": "Title_FullCitizen_DisplayName_plural",
+      "source_crc32": 3457265273,
+      "translation": "Бюргеры"
+    },
+    {
+      "key": "Rights_Nobility_Description",
+      "source_crc32": 1344496679,
+      "translation": "Поступив на время на службу к дворянину, вы можете заслужить дворянскую грамоту."
+    },
+    {
+      "key": "Title_Gentleman_DisplayName",
+      "source_crc32": 2744303415,
+      "translation": "Простолюдин"
+    },
+    {
+      "key": "Title_Gentleman_DisplayName_plural",
+      "source_crc32": 4153979793,
+      "translation": "Простолюдины"
+    },
+    {
+      "key": "Title_Count_DisplayName_plural",
+      "source_crc32": 3142867072,
+      "translation": "Графы"
+    },
+    {
+      "key": "Rights_CupbearerService_DisplayName",
+      "source_crc32": 1838019094,
+      "translation": "Служба виночерпием"
+    },
+    {
+      "key": "Title_Duke_Description",
+      "source_crc32": 157860299,
+      "translation": "Решения слышны далеко за титулом."
+    },
+    {
+      "key": "Rights_DiplomaticService_DisplayName",
+      "source_crc32": 813564507,
+      "translation": "Дипломатическая служба"
+    },
+    {
+      "key": "Title_Duke_DisplayName_plural",
+      "source_crc32": 1774114662,
+      "translation": "Герцоги"
+    },
+    {
+      "key": "Benefit_CanApplyToHigherOffices",
+      "source_crc32": 2257543963,
+      "translation": "Доступны должности {O_CHA_STAAUT_C}государственной власти{##}"
+    },
+    {
+      "key": "Benefit_EligibleForChambers",
+      "source_crc32": 797541864,
+      "translation": "Доступны {O_TYP_CIVOFF_C}палаты власти{##}"
+    },
+    {
+      "key": "Benefit_CanApplyToOffices",
+      "source_crc32": 4005214413,
+      "translation": "Доступны {O_TYP_CIVOFF_C}должности{##}"
+    },
+    {
+      "key": "Rights_SquireService_Description",
+      "source_crc32": 199944390,
+      "translation": "Быстро, но опасно. Проверяет воинское дело и плутовство."
+    },
+    {
+      "key": "Title_Gentleman_DisplayName_plural_Alt_02",
+      "source_crc32": 151403365,
+      "translation": "Вольные люди"
+    },
+    {
+      "key": "Title_Description_extra1",
+      "source_crc32": 3168077172,
+      "translation": "Титулы от низшего к высшему:"
+    },
+    {
+      "key": "Title_FullCitizen_DisplayName_Alt_01",
+      "source_crc32": 951743840,
+      "translation": "Полноправный горожанин"
+    },
+    {
+      "key": "Title_FullCitizen_DisplayName_plural_Alt_01",
+      "source_crc32": 133854074,
+      "translation": "Полноправные горожане"
+    },
+    {
+      "key": "Rights_HighNobility_DisplayName",
+      "source_crc32": 4091198177,
+      "translation": "Грамота высшего дворянства"
+    },
+    {
+      "key": "Benefit_IneligibleForOffice",
+      "source_crc32": 3992875205,
+      "translation": "Недоступны {O_TYP_CIVOFF_C}должности{##}"
+    },
+    {
+      "key": "Title_Baron_Description",
+      "source_crc32": 1201248643,
+      "translation": "Влияние - если подступиться с умом."
+    },
+    {
+      "key": "Title_FullCitizen_Description",
+      "source_crc32": 303105717,
+      "translation": "Имя известно, власть - нет."
+    },
+    {
+      "key": "Title_Gentleman_DisplayName_plural_Alt_01",
+      "source_crc32": 331899019,
+      "translation": "Дамы и господа"
+    },
+    {
+      "key": "Title_Patrician_Description",
+      "source_crc32": 1681235256,
+      "translation": "Слушают, порой даже слушаются."
+    },
+    {
+      "key": "Rights_Nobility_DisplayName",
+      "source_crc32": 3654249473,
+      "translation": "Дворянская грамота"
+    },
+    {
+      "key": "Title_Nobleman_DisplayName_plural",
+      "source_crc32": 3331257991,
+      "translation": "Дворяне"
+    },
+    {
+      "key": "Rights_HighNobility_Description",
+      "source_crc32": 42797804,
+      "translation": "Когда вы выполните все требования и добьётесь исключительного расположения императора, он сам пожалует вам грамоту высшего дворянства."
+    },
+    {
+      "key": "Title_Patrician_DisplayName",
+      "source_crc32": 2340229646,
+      "translation": "Патриций"
+    },
+    {
+      "key": "Title_Patrician_DisplayName_plural",
+      "source_crc32": 1195937104,
+      "translation": "Патриции"
+    },
+    {
+      "key": "Benefit_PermittedResidence",
+      "source_crc32": 4204205831,
+      "translation": "Доступное жилище"
+    },
+    {
+      "key": "Title_Prince_Description",
+      "source_crc32": 61408743,
+      "translation": "Власть признают прежде, чем прозвучит хоть слово."
+    },
+    {
+      "key": "PreviousTitle",
+      "source_crc32": 1680474934,
+      "translation": "Предыдущий титул"
+    },
+    {
+      "key": "Title_Prince_DisplayName_plural",
+      "source_crc32": 4164693780,
+      "translation": "Князья"
+    },
+    {
+      "key": "Title_PrinceOfTheEmpire_DisplayName_plural",
+      "source_crc32": 628816699,
+      "translation": "Имперские князья"
+    },
+    {
+      "key": "Title_Nobleman_Description",
+      "source_crc32": 3359319492,
+      "translation": "Уважение в нужных кругах."
+    },
+    {
+      "key": "Rights_DiplomaticService_Description",
+      "source_crc32": 2558050971,
+      "translation": "Безопасно, но долго. Проверяет переговоры и красноречие."
+    },
+    {
+      "key": "Rights_SquireService_DisplayName",
+      "source_crc32": 2390047790,
+      "translation": "Служба оруженосцем"
+    },
+    {
+      "key": "SubsequentTitle",
+      "source_crc32": 2058769049,
+      "translation": "Следующий титул"
+    },
+    {
+      "key": "Rights_Description",
+      "source_crc32": 2287054979,
+      "translation": "Эта грамота удостоверяет, что, накопив необходимое богатство, вы сможете подняться до титула «{title}»."
+    },
+    {
+      "key": "Title_DisplayName",
+      "source_crc32": 3704418544,
+      "translation": "Титул"
+    },
+    {
+      "key": "Title_DisplayName_plural",
+      "source_crc32": 2202448804,
+      "translation": "Титулы"
+    },
+    {
+      "key": "Title_Description",
+      "source_crc32": 2403399311,
+      "translation": "Титулы - наследственные ступени общественной иерархии. Они дают привилегии и налагают требования, а определяются вашим {CHAR_WEA_C}богатством{##} и заслуженными {I_NOBRIG_C}правами{##}."
+    },
+    {
+      "key": "Title_Description_extra2",
+      "source_crc32": 973346802,
+      "translation": "Следующий титул ждёт вас в ратуше.{B_PUB_TOWHAL_E}{##}"
+    },
+    {
+      "key": "Title_Baron_DisplayName",
+      "source_crc32": 3535510122,
+      "translation": "{Gender}|gender(Барон,Баронесса)"
+    },
+    {
+      "key": "Title_Count_DisplayName",
+      "source_crc32": 1589424118,
+      "translation": "{Gender}|gender(Граф,Графиня)"
+    },
+    {
+      "key": "Title_Duke_DisplayName",
+      "source_crc32": 524934411,
+      "translation": "{Gender}|gender(Герцог,Герцогиня)"
+    },
+    {
+      "key": "Title_Gentleman_DisplayName_Alt_02",
+      "source_crc32": 2315515855,
+      "translation": "{Gender}|gender(Вольный,Вольная)"
+    },
+    {
+      "key": "Title_Gentleman_DisplayName_Alt_01",
+      "source_crc32": 312598616,
+      "translation": "{Gender}|gender(Господин,Госпожа)"
+    },
+    {
+      "key": "Title_Nobleman_DisplayName",
+      "source_crc32": 3160752420,
+      "translation": "{Gender}|gender(Дворянин,Дворянка)"
+    },
+    {
+      "key": "Title_PrinceOfTheEmpire_DisplayName",
+      "source_crc32": 159432811,
+      "translation": "{Gender}|gender(Имперский князь,Имперская княгиня)"
+    },
+    {
+      "key": "Title_Prince_DisplayName",
+      "source_crc32": 1624379589,
+      "translation": "{Gender}|gender(Князь,Княгиня)"
+    },
+    {
+      "key": "Requirement_MinTitle",
+      "source_crc32": 3363835866,
+      "translation": "{title} и выше"
+    },
+    {
+      "key": "Requirement_MaxTitle",
+      "source_crc32": 335975320,
+      "translation": "{title} и ниже"
+    }
+  ]
+}

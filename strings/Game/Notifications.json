@@ -1,0 +1,2021 @@
+{
+  "resource": "Game",
+  "namespace": "Notifications",
+  "entries": [
+    {
+      "key": "Action_DestroyBees_Instigator_Stung_Header",
+      "source_crc32": 967924666,
+      "translation": "Победа дорогой ценой"
+    },
+    {
+      "key": "Action_ShootCannonBallFire_Instigator_Fail_Header",
+      "source_crc32": 2993995002,
+      "translation": "Огненный промах"
+    },
+    {
+      "key": "Action_ShootCannonBallDung_Instigator_Success_Header",
+      "source_crc32": 425783317,
+      "translation": "Грязный удар!"
+    },
+    {
+      "key": "Action_ShareInheritance_Instigator_Success_Header",
+      "source_crc32": 3598977411,
+      "translation": "Щедрый жест"
+    },
+    {
+      "key": "Action_DeliverEulogy_Instigator_Success_Header",
+      "source_crc32": 2595298330,
+      "translation": "Трогательная речь"
+    },
+    {
+      "key": "Action_DestroyBees_Instigator_Success_Header",
+      "source_crc32": 1199755728,
+      "translation": "Жалкая победа"
+    },
+    {
+      "key": "Action_DeliverEulogy_Instigator_Fail_Header",
+      "source_crc32": 1149320253,
+      "translation": "Слово о себе любимом"
+    },
+    {
+      "key": "Office_Election_DeathOfCandidate_DuringElection_Header",
+      "source_crc32": 4285335887,
+      "translation": "Место на небесах"
+    },
+    {
+      "key": "Action_ShootCannonBallDung_Instigator_Fail_Header",
+      "source_crc32": 3697309487,
+      "translation": "Навоз на ветер"
+    },
+    {
+      "key": "Action_Courting_GiveGift_GoldenBathtub_Instigator_Success_Message",
+      "source_crc32": 3455265365,
+      "translation": "Ванну с тёплой розовой водой велели набрать немедленно. Ваша любовь уже объявила, что в обычную ванну больше ни ногой."
+    },
+    {
+      "key": "Action_Courting_StopCourtingFamily_Message",
+      "source_crc32": 2799815152,
+      "translation": "Беда предотвращена! Вы убедили родича прекратить ухаживание, пока оно не обернулось очередной веронской трагедией."
+    },
+    {
+      "key": "Action_Socialize_Message",
+      "source_crc32": 3898222181,
+      "translation": "День в трактире прошёл не зря. Завтра для равновесия стоит заглянуть в церковь."
+    },
+    {
+      "key": "Action_ActivateProfession_Instigator_Message",
+      "source_crc32": 2964976917,
+      "translation": "Сегодня вы берётесь за новое ремесло."
+    },
+    {
+      "key": "Action_TrainProfession_Instigator_StandingUp_Message",
+      "source_crc32": 3707732513,
+      "translation": "Кое-кто из собратьев по ремеслу был рад вас видеть."
+    },
+    {
+      "key": "Action_ShootCannonBallFire_Instigator_Fail_Message",
+      "source_crc32": 979482647,
+      "translation": "Вспышка, грохот - и гореть нечему."
+    },
+    {
+      "key": "Action_TrainSkillNegotiation_Instigator_Message",
+      "source_crc32": 3226597007,
+      "translation": "Удачная сделка начинается задолго до того, как кто-то потянется за монетой."
+    },
+    {
+      "key": "Action_GuardService_Target_Message",
+      "source_crc32": 1239088488,
+      "translation": "Доброволец в страже уверяет, что однажды видел гуся размером с гору. Либо врун, либо выдающийся рассказчик."
+    },
+    {
+      "key": "Trial_Result_Guilty_Others_Header",
+      "source_crc32": 594266179,
+      "translation": "Вынесен обвинительный приговор"
+    },
+    {
+      "key": "Action_TrainSkillCombat_Instigator_Message",
+      "source_crc32": 463102547,
+      "translation": "Суровый урок, но синяки - часто отличные учителя."
+    },
+    {
+      "key": "Law_Change_Header",
+      "source_crc32": 368635241,
+      "translation": "Закон изменён"
+    },
+    {
+      "key": "UseItem_Target1_LetterFromRome_Message",
+      "source_crc32": 985933637,
+      "translation": "Духовенство вашей веры получает письмо из Рима - с церковными печатями и ложными обвинениями. Несколько единоверцев, прежде не сомневавшихся в вашем благочестии, теперь глубоко разочарованы."
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Success_2_Message",
+      "source_crc32": 1013688962,
+      "translation": "Раздаётся сдавленный смешок. Его пытаются скрыть, но вы-то услышали."
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Fail_2_Joke",
+      "source_crc32": 824501869,
+      "translation": "Купец жалуется: «Осёл, которого вы мне продали, сдох!» Продавец отвечает: «Странно! У меня он такого ни разу не делал»."
+    },
+    {
+      "key": "Action_Curse_Target_Message",
+      "source_crc32": 3487661368,
+      "translation": "Спину будто пронзает игла. Колдовство! Кто-то вас проклял!"
+    },
+    {
+      "key": "Action_AdoptChild_Instigator_Message",
+      "source_crc32": 3179067175,
+      "translation": "В вашей семье пополнение."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Others_Header",
+      "source_crc32": 1713561652,
+      "translation": "Вынесен оправдательный приговор"
+    },
+    {
+      "key": "UseItem_Target_VoodooDoll_Message",
+      "source_crc32": 2538588101,
+      "translation": "Боль приходит ниоткуда. Словно игла вонзилась прямо в позвоночник."
+    },
+    {
+      "key": "Action_AscensionB_01_Instigator_Success_Message",
+      "source_crc32": 1182387298,
+      "translation": "Тайну произносят ровно настолько громко, чтобы вы услышали. Потом другие пытаются выудить её из вас. Вы молчите. Возможно, вам и впрямь место среди них."
+    },
+    {
+      "key": "UseItem_Target_BloomOfDiscord_Message",
+      "source_crc32": 2300500087,
+      "translation": "Семя раздора дало всходы: отныне {otherCharacter} вам не друг."
+    },
+    {
+      "key": "Action_ShootCannonBallDung_Instigator_Fail_Message",
+      "source_crc32": 359846905,
+      "translation": "Зрелищный залп - и ровным счётом никто не облит навозом."
+    },
+    {
+      "key": "Espionage_Exposed_Opponent_Header",
+      "source_crc32": 1766723726,
+      "translation": "Шпион разоблачён"
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Success_1_Joke",
+      "source_crc32": 3232808317,
+      "translation": "Сборщик налогов заходит в трактир. Трактирщик спрашивает: «Что будете?» Сборщик отвечает: «Половину того, что возьмут все остальные»."
+    },
+    {
+      "key": "Courtship_Success_Header",
+      "source_crc32": 751837493,
+      "translation": "Союз заключён"
+    },
+    {
+      "key": "Action_TrainSkillRhetoric_Instigator_Message",
+      "source_crc32": 1342490918,
+      "translation": "Меткое слово способно на большее, чем поднятый кулак."
+    },
+    {
+      "key": "Worker_Death_Header",
+      "source_crc32": 2413508511,
+      "translation": "Смерть работника"
+    },
+    {
+      "key": "Worker_Quit_Header",
+      "source_crc32": 486618810,
+      "translation": "Работник уволился"
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Success_2_Joke",
+      "source_crc32": 3395896197,
+      "translation": "Юноше сообщают: борода наконец пошла. Он тут же бежит к главным воротам - встречать. Друг спрашивает: «А если она придёт с чёрного хода?»"
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfAccusedBeforeTrial_Header",
+      "source_crc32": 31064864,
+      "translation": "Нечаянный смертный приговор"
+    },
+    {
+      "key": "Action_Courting_GiveGift_Bear_Instigator_Success_Message",
+      "source_crc32": 739620802,
+      "translation": "После недолгого спора о том, где держать медведя, ваша любовь пришла в восторг от широкого жеста."
+    },
+    {
+      "key": "Category_All_DisplayName_alt",
+      "source_crc32": 648528063,
+      "translation": "Все"
+    },
+    {
+      "key": "Category_All_DisplayName",
+      "source_crc32": 2913602121,
+      "translation": "Все уведомления"
+    },
+    {
+      "key": "Action_TrainSkillCombat_Instigator_TrainingFatigue_Message",
+      "source_crc32": 3266521927,
+      "translation": "После всех этих «замах - удар, замах - удар» вас мучит жажда: не помешал бы {I_ENDPOT_C}напиток выносливости{##}."
+    },
+    {
+      "key": "Building_Improvement_Complete_Header",
+      "source_crc32": 2694095929,
+      "translation": "В одном из ваших зданий появилось улучшение"
+    },
+    {
+      "key": "Action_GuardService_Instigator_IfFriends_Message",
+      "source_crc32": 3192577118,
+      "translation": "А ещё вы завели пару друзей рассказом о том, как якобы схватились разом с тремя вооружёнными людьми. Подробности от раза к разу слегка менялись, но никто, кажется, не заметил."
+    },
+    {
+      "key": "Evidence_Expired_Header",
+      "source_crc32": 1111307988,
+      "translation": "Ещё одно преступление сошло с рук"
+    },
+    {
+      "key": "StorefrontSale_Header",
+      "source_crc32": 3892242207,
+      "translation": "Ещё одна продажа"
+    },
+    {
+      "key": "Action_BanditContract_02_Instigator_Message",
+      "source_crc32": 3291953459,
+      "translation": "Как человек порядочный, вы, разумеется, не желаете, чтобы вас видели с этими людьми. По их виду ясно: беды не миновать."
+    },
+    {
+      "key": "UseItem_Target_Skullfire_Message",
+      "source_crc32": 774976635,
+      "translation": "Допивая, вы замечаете на дне чаши что-то странное. Миг спустя череп словно охватывает огонь."
+    },
+    {
+      "key": "Manager_BackAtSpendingMoney_Message",
+      "source_crc32": 1267935427,
+      "translation": "Поскольку у вас набралось не меньше {minimummoney} {CHAR_MON}, {managername} возобновляет все необязательные расходы в здании «{buildingname}». Управление идёт своим чередом."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Flower_Instigator_Success_Message",
+      "source_crc32": 346655748,
+      "translation": "При следующей встрече вы замечаете в волосах вашей любви один из своих цветков. Ваша любовь ловит ваш взгляд и улыбается."
+    },
+    {
+      "key": "Action_ContaminateBeehive_Target_Header",
+      "source_crc32": 4148402795,
+      "translation": "Жало в спину!"
+    },
+    {
+      "key": "Action_Courting_GiveGift_Horse_Instigator_Success_Message",
+      "source_crc32": 4088910288,
+      "translation": "Конюх ещё не успел договорить о родословной коня, а ваша любовь уже была в седле. Вскоре последовало приглашение прокатиться вместе."
+    },
+    {
+      "key": "Action_TrainSkillStealth_Instigator_Message",
+      "source_crc32": 1288259585,
+      "translation": "Лучше освоить уловки прежде, чем их испробуют на вас."
+    },
+    {
+      "key": "Action_TrainProfessionWorker_Instigator_StandingUp_Message",
+      "source_crc32": 3217035615,
+      "translation": "А ещё лучше - когда они благодарны."
+    },
+    {
+      "key": "Category_Building_DisplayName",
+      "source_crc32": 4255473314,
+      "translation": "Уведомления: здания"
+    },
+    {
+      "key": "Category_Building_DisplayName_alt",
+      "source_crc32": 2849003955,
+      "translation": "Здания"
+    },
+    {
+      "key": "Action_GuardService_Instigator_IfEnemies_Message",
+      "source_crc32": 3291679181,
+      "translation": "Но кое-кто из стражников остался недоволен, опасаясь, что вы метите на их место."
+    },
+    {
+      "key": "Action_TrainProfession_Instigator_TrainingFatigue_Message",
+      "source_crc32": 727771413,
+      "translation": "Но урок отнял больше сил, чем ожидалось. Пусть уляжется в голове, прежде чем браться снова."
+    },
+    {
+      "key": "Action_TrainProfessionWorker_Instigator_TrainingFatigue_Message",
+      "source_crc32": 1340538383,
+      "translation": "Но они явно выдохлись, и какое-то время новые знания в голове не удержатся."
+    },
+    {
+      "key": "Birth_Child_Message",
+      "source_crc32": 2724273622,
+      "translation": "Милостью небес в вашей семье родился ребёнок."
+    },
+    {
+      "key": "Negotiation_SaleProfit_Message",
+      "source_crc32": 3423425037,
+      "translation": "Благодаря {S_NEG_C}переговорам{##} вы выжали из сделки на {bonus_amount} больше."
+    },
+    {
+      "key": "Action_SmearReputation_Instigator_Message",
+      "source_crc32": 3874585647,
+      "translation": "Тонкая работа. В их ухаживании наметились первые трещины."
+    },
+    {
+      "key": "Category_Cart_DisplayName",
+      "source_crc32": 4014191027,
+      "translation": "Уведомления: повозки"
+    },
+    {
+      "key": "Category_Cart_DisplayName_alt",
+      "source_crc32": 2605507892,
+      "translation": "Повозки"
+    },
+    {
+      "key": "Profession_Rank_Advance_Success_Header",
+      "source_crc32": 4105091095,
+      "translation": "Грамота о ступени мастерства"
+    },
+    {
+      "key": "Action_SellEvidence_Message",
+      "source_crc32": 1088689922,
+      "translation": "Монеты в кошеле. Что будет дальше - уже не ваша забота."
+    },
+    {
+      "key": "VictoryCondition_Success_Message",
+      "source_crc32": 748207234,
+      "translation": "Поздравляем! Условие победы «{victorycondition}» выполнено. Теперь вы можете и дальше приумножать наследие династии или с почётом удалиться на покой. Выбор за вами."
+    },
+    {
+      "key": "Marriage_Success_Message",
+      "source_crc32": 1717013754,
+      "translation": "Поздравляем! Вы идёте под венец. Ваша вторая половина - {charactername}."
+    },
+    {
+      "key": "Office_Election_Success_Message",
+      "source_crc32": 2011687756,
+      "translation": "Поздравляем! Вы избраны на должность «{officeposition}». Новые обязанности и привилегии вступают в силу немедленно."
+    },
+    {
+      "key": "Title_Application_Success_Message",
+      "source_crc32": 1297984476,
+      "translation": "Поздравляем! Ваше прошение одобрено. Отныне вы носите титул «{title}»."
+    },
+    {
+      "key": "Profession_Rank_Advance_Success_Message",
+      "source_crc32": 2153866245,
+      "translation": "Поздравляем! Усердием и опытом вы доказали своё мастерство."
+    },
+    {
+      "key": "Building_Construction_Complete_Message",
+      "source_crc32": 3053032016,
+      "translation": "Строительство здания «{buildingtype}» завершено - оно готово к работе."
+    },
+    {
+      "key": "Action_AscensionB_02_Instigator_Fail_Message",
+      "source_crc32": 2414617458,
+      "translation": "Графиня Батори поднимает кубок в память о недавно почившем муже. Вы подаёте голос в самый неподходящий момент. Все взгляды обращаются к вам."
+    },
+    {
+      "key": "Action_SuppressCrime_Instigator_Message",
+      "source_crc32": 3070008633,
+      "translation": "Преступность пошла на убыль, на улицах спокойнее. И всё же люди жалуются, что стража докучает больше, чем воры. Некоторым не угодишь."
+    },
+    {
+      "key": "Action_SuppressCrimeWeak_Instigator_Message",
+      "source_crc32": 2825564810,
+      "translation": "Преступность на спаде. Вещи лежат там, где их оставили."
+    },
+    {
+      "key": "Action_ShootCannonBall_Instigator_Success_Header",
+      "source_crc32": 2199348307,
+      "translation": "В цель!"
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfAccusedDuringTrial_Header",
+      "source_crc32": 1933816755,
+      "translation": "Божий суд"
+    },
+    {
+      "key": "Action_SmearReputation_Target_Message",
+      "source_crc32": 1450282818,
+      "translation": "В душу вашей любви {A_SMEREP_C}заронили{##} сомнение. Пошатнувшееся доверие возвращается медленно."
+    },
+    {
+      "key": "Action_AscensionB_03_Instigator_Fail_Message",
+      "source_crc32": 3879063101,
+      "translation": "Во время визита полковника Зандерсдорфа ваша рука соскальзывает, и вино заливает его безупречный наряд. Дорогая ошибка."
+    },
+    {
+      "key": "Action_AscensionA_01_Instigator_Fail_Message",
+      "source_crc32": 3293220881,
+      "translation": "На охоте вы замечаете движение в кустах и кричите: «Кабан!»\nКопья взлетают, всадники бросаются врассыпную. Из зарослей выскакивает заяц. Смех длится дольше охоты."
+    },
+    {
+      "key": "Worker_QuitAboutTo_LowStanding_Header",
+      "source_crc32": 1354162911,
+      "translation": "И самый терпеливый мул однажды лягнёт"
+    },
+    {
+      "key": "Action_TrainProfessionWorker_Instigator_StandingDown_Message",
+      "source_crc32": 1847255501,
+      "translation": "Даже когда сами они того не хотят."
+    },
+    {
+      "key": "Worker_CanBePromoted_Header",
+      "source_crc32": 391535864,
+      "translation": "Каждый мастер когда-то был учеником"
+    },
+    {
+      "key": "Action_LampoonAlpha_Instigator_Message",
+      "source_crc32": 2439208506,
+      "translation": "Об этом говорят все.\nГорожане уже определились - одни сочувствуют герою пасквиля, другие потешаются над ним."
+    },
+    {
+      "key": "Evidence_Expiring_Message",
+      "source_crc32": 3779396218,
+      "translation": "Улика скоро утратит силу, и {CharacterName} уйдёт от ответа. Пустите её в ход - в суде или как рычаг, - пока время не похоронило дело."
+    },
+    {
+      "key": "Action_ShootCannonBallFire_Instigator_Success_Message",
+      "source_crc32": 1517544711,
+      "translation": "Огонь занялся быстро. Горят следующие места:"
+    },
+    {
+      "key": "Category_Default_DisplayName_alt",
+      "source_crc32": 151724115,
+      "translation": "Общие"
+    },
+    {
+      "key": "Category_Default_DisplayName",
+      "source_crc32": 2309779806,
+      "translation": "Общие уведомления"
+    },
+    {
+      "key": "Profession_Rank_Advance_Success_Message_extra2",
+      "source_crc32": 2260088094,
+      "translation": "Ступайте же и блюдите заветы гильдии, пользуясь новыми привилегиями."
+    },
+    {
+      "key": "StorefrontSale_Message",
+      "source_crc32": 4183896927,
+      "translation": "В здании «{buildingtype}» продано товаров на {value}{CHAR_MON}."
+    },
+    {
+      "key": "Action_DiscussInterests_Instigator_Fail_1_Message",
+      "source_crc32": 1837947549,
+      "translation": "На середине вашего увлекательного рассказа ваша любовь задумалась: а не лучше ли, в самом деле, навеки остаться в одиночестве?"
+    },
+    {
+      "key": "ExtendAHand_Actor_Header",
+      "source_crc32": 1720353851,
+      "translation": "Рука протянута"
+    },
+    {
+      "key": "QuarterPeriodicEffect_Burglary_Header",
+      "source_crc32": 984379521,
+      "translation": "Высокая преступность - лёгкая добыча"
+    },
+    {
+      "key": "Action_WeddingToast_Instigator_Success_Message",
+      "source_crc32": 3667518181,
+      "translation": "Ура! Ваш тост встречают криками одобрения и поднятыми кубками! Все любят вас, вы любите всех, а кубков, кажется, было на один больше, чем нужно. Ещё раз ура!"
+    },
+    {
+      "key": "Action_BanditContract_03_Instigator_Message",
+      "source_crc32": 1496832295,
+      "translation": "Будь все разбойники такими, город долго бы не продержался."
+    },
+    {
+      "key": "Action_TrainProfessionWorker_Instigator_Message",
+      "source_crc32": 1854155797,
+      "translation": "Всегда приятно видеть, как ваши работники растут!"
+    },
+    {
+      "key": "Action_DiscussInterests_Instigator_Success_1_Message",
+      "source_crc32": 2079249535,
+      "translation": "Оказывается, у вас с вашей любовью немало общего! Как приятно наконец встретить человека со столь безупречным вкусом."
+    },
+    {
+      "key": "Rights_Nobility_AlternativeAction_Success_Message",
+      "source_crc32": 154849966,
+      "translation": "Хорошо иметь связи. Дружба с нужным человеком - {office} {charactername} - принесла вам дворянскую грамоту - ни крови, ни пота, лишь нужные рукопожатия."
+    },
+    {
+      "key": "Action_AscensionB_03_Instigator_Success_Message",
+      "source_crc32": 383251186,
+      "translation": "Перед самым тостом вы чуете в кубке запах яда. Эти вельможи обязаны вам жизнью. Вы заслужили их признательность."
+    },
+    {
+      "key": "Evidence_Expiring_Header",
+      "source_crc32": 3639664737,
+      "translation": "У правосудия истекает время"
+    },
+    {
+      "key": "Action_LampoonAlpha_Target_Message",
+      "source_crc32": 3059257599,
+      "translation": "Сегодня у ратуши то и дело слышен смех, но стоит вам подойти - он смолкает. В пасквиле сказано, что вы смеётесь над собственными шутками раньше всех. Какой конфуз!"
+    },
+    {
+      "key": "Activity_FindEvidenceFromWorld_Intigator_Success_Message",
+      "source_crc32": 3993875007,
+      "translation": "Хмель и болтливость сделали своё дело. Всплыла улика."
+    },
+    {
+      "key": "Manager_NotSpendingMoney_Header",
+      "source_crc32": 3931267642,
+      "translation": "Денег мало - управляющий прекратил траты"
+    },
+    {
+      "key": "Action_ShootCannonBall_Instigator_Fail_Header",
+      "source_crc32": 117170277,
+      "translation": "Мимо!"
+    },
+    {
+      "key": "Espionage_Evidence_New_Header",
+      "source_crc32": 928131899,
+      "translation": "Найдена новая улика"
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfJury_Header",
+      "source_crc32": 3173564273,
+      "translation": "Без присяжных нет суда"
+    },
+    {
+      "key": "Evidence_PlayerCrimeExpired_Header",
+      "source_crc32": 3545242948,
+      "translation": "Петля уже не грозит"
+    },
+    {
+      "key": "Action_AscensionC_01_Instigator_Success_Message",
+      "source_crc32": 2228454926,
+      "translation": "Никто не станет отрицать: главная добродетель дворянина - богатство."
+    },
+    {
+      "key": "Action_ShareInheritance_Instigator_Fail_Header",
+      "source_crc32": 971662693,
+      "translation": "Маловато"
+    },
+    {
+      "key": "NothingHappened_Message",
+      "source_crc32": 418649098,
+      "translation": "Из этого ничего не вышло."
+    },
+    {
+      "key": "NothingHappened_Header",
+      "source_crc32": 138398353,
+      "translation": "Ничего не произошло"
+    },
+    {
+      "key": "NotificationLog_DisplayName",
+      "source_crc32": 2412511702,
+      "translation": "Доска извещений"
+    },
+    {
+      "key": "Notification_DisplayName",
+      "source_crc32": 4253084629,
+      "translation": "Уведомление"
+    },
+    {
+      "key": "Notification_DisplayName_plural",
+      "source_crc32": 343715950,
+      "translation": "Уведомления"
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Fail_1_Joke",
+      "source_crc32": 2622742409,
+      "translation": "Один из близнецов умер. Встретив второго, знакомый спросил: «Это ты умер или твой брат?»"
+    },
+    {
+      "key": "Evidence_PlayerCrimeExpired_Message",
+      "source_crc32": 3909231722,
+      "translation": "{CR_STALIM_C}Срок давности{##} списал одно из ваших преступлений. За него вас уже не отдать под {CR_TRI_C}суд{##} и не припереть к стенке."
+    },
+    {
+      "key": "Worker_Accident_Header",
+      "source_crc32": 2812597038,
+      "translation": "Несчастный случай с работником"
+    },
+    {
+      "key": "Worker_Injured_Header",
+      "source_crc32": 2107893507,
+      "translation": "Ранение работника"
+    },
+    {
+      "key": "Action_CatchingBee_Instigator_Fail_Message",
+      "source_crc32": 450603020,
+      "translation": "Ай! Одни укусы да сердитое жужжание."
+    },
+    {
+      "key": "Category_Politics_DisplayName",
+      "source_crc32": 3757241218,
+      "translation": "Уведомления: политика"
+    },
+    {
+      "key": "Category_Politics_DisplayName_alt",
+      "source_crc32": 246138193,
+      "translation": "Политика"
+    },
+    {
+      "key": "Action_Pray_Message",
+      "source_crc32": 2233207692,
+      "translation": "Хвала небесам! Господь слышит вашу молитву."
+    },
+    {
+      "key": "Office_Election_DeathOfCandidate_BeforeElection_Header",
+      "source_crc32": 439943898,
+      "translation": "Самоотвод"
+    },
+    {
+      "key": "Action_AscensionA_02_Instigator_Success_Message",
+      "source_crc32": 3153664313,
+      "translation": "Ночью в лагерь врываются налётчики. Вы останавливаете первого, прежде чем он добирается до шатров. Рыцари просыпаются, завязывается бой. Если бы не вы, им бы не жить! Они признают вашу доблесть."
+    },
+    {
+      "key": "Category_Opponent_DisplayName",
+      "source_crc32": 3243997283,
+      "translation": "Уведомления: соперники"
+    },
+    {
+      "key": "Category_Opponent_DisplayName_alt",
+      "source_crc32": 893115986,
+      "translation": "Соперники"
+    },
+    {
+      "key": "Courtship_Fail_Death_Message",
+      "source_crc32": 1399174103,
+      "translation": "Увы, {charactername} покидает этот мир - и ваш роман обрывается, не дойдя до венца."
+    },
+    {
+      "key": "Worker_Death_Message",
+      "source_crc32": 3144226771,
+      "translation": "Увы, {workername} больше не с нами. В здании {buildingtype} эту утрату ещё почувствуют."
+    },
+    {
+      "key": "Duel_Cancelled_DeathOfOpponent_Header",
+      "source_crc32": 1380292709,
+      "translation": "Костлявая выручила"
+    },
+    {
+      "key": "Action_BeeAttack_Instigator_Success_Message",
+      "source_crc32": 230697788,
+      "translation": "Пчела-убийца, вот она,\nЖужжит, враждебности полна,\nНашла мишень без промаха -\nИ вам теперь не до смеха."
+    },
+    {
+      "key": "QuarterPeriodicEffect_Illness_Header",
+      "source_crc32": 3399912472,
+      "translation": "По улицам ползёт хворь"
+    },
+    {
+      "key": "Action_GiveSimpleSpeech_Instigator_Success_Message",
+      "source_crc32": 2695995008,
+      "translation": "Просто, нежно - и оттого ещё прекраснее."
+    },
+    {
+      "key": "Action_AscensionA_01_Instigator_Success_Message",
+      "source_crc32": 512995167,
+      "translation": "Сэр Ульрих ранен перед следующей сшибкой. Его соперник по-прежнему ждёт на ристалище. Вы садитесь в седло и выезжаете ему навстречу, являя свою отвагу."
+    },
+    {
+      "key": "Action_AscensionA_02_Instigator_Fail_Message",
+      "source_crc32": 124130410,
+      "translation": "Сэр Ульрих выезжает на состязание - и тут его доспех расходится, пластины с грохотом сыплются на глазах у толпы. Виноваты вы."
+    },
+    {
+      "key": "Action_CollectBeeswax_Instigator_Message",
+      "source_crc32": 3353547236,
+      "translation": "Мягкий, золотистый, приятно пахнет. Славный урожай воска!"
+    },
+    {
+      "key": "Action_GuardService_Instigator_Message",
+      "source_crc32": 2140904563,
+      "translation": "Благодаря вам кое-какие ловкие пальцы остались в собственных карманах."
+    },
+    {
+      "key": "Action_BanditContract_01_Instigator_Message",
+      "source_crc32": 1934014679,
+      "translation": "Иные из этих молодцов проиграли бы в драке крысам из пекарни Тома - но каковы деньги, таков и товар."
+    },
+    {
+      "key": "Action_DiscussInterests_Instigator_Fail_2_Message",
+      "source_crc32": 648916147,
+      "translation": "Некоторые просто не ценят честности! Ваша любовь обмолвилась, что очень любит слушать пение птиц, - и вы объяснили, что эти глупые твари лишь орут о червях и границах владений. Какая там музыка! Это просто кучка крошечных помещиков, делящих межу!"
+    },
+    {
+      "key": "Activity_Robbery_Robber_Target_Message",
+      "source_crc32": 435423288,
+      "translation": "Какие-то разбойники пытались вломиться к вам и обокрасть."
+    },
+    {
+      "key": "Activity_Robbery_Thief_Target_Message",
+      "source_crc32": 435423288,
+      "translation": "Какие-то воры пытались вломиться к вам и обокрасть."
+    },
+    {
+      "key": "Action_TrainProfession_Instigator_Message",
+      "source_crc32": 2140292341,
+      "translation": "Иным хитростям ремесла лучше всего учиться у тех, кто ими уже владеет."
+    },
+    {
+      "key": "Action_PublicService_Instigator_Message",
+      "source_crc32": 2470978127,
+      "translation": "Кто-то из городских служащих проявляет к вам особый интерес."
+    },
+    {
+      "key": "UseItem_Target_PowderOfDarkDecline_Message",
+      "source_crc32": 3052750249,
+      "translation": "На рынке кто-то задевает вас плечом. Вы не придаёте этому значения."
+    },
+    {
+      "key": "Action_DestroyBees_Target_Header",
+      "source_crc32": 1121776918,
+      "translation": "Кто-то уничтожил ваш улей"
+    },
+    {
+      "key": "Action_ContaminateBeehive_Target_Message",
+      "source_crc32": 3391367417,
+      "translation": "Кто-то наслал на ваших пчёл {ST_STR_BEESIC_C}хворь{##}! Следующий урожай будет {I_CONHON_C}испорчен{##}. Что за чудовище на такое способно?"
+    },
+    {
+      "key": "Generic_YouAreTargetOf_Anonymous_Message",
+      "source_crc32": 3304819121,
+      "translation": "Кто-то метит в вас."
+    },
+    {
+      "key": "UseItem_Target_StinkBomb_Failure_Message",
+      "source_crc32": 3888046578,
+      "translation": "Кто-то подбросил вонючую бомбу в ваше предприятие {BuildingName}. \nК счастью, ни один работник не счёл запах достаточным поводом для увольнения."
+    },
+    {
+      "key": "UseItem_Target_StinkBomb_Success_Message",
+      "source_crc32": 2913171102,
+      "translation": "Кто-то подбросил вонючую бомбу в ваше предприятие {BuildingName}. \nИз-за омерзительной вони уволилось работников: {amount}."
+    },
+    {
+      "key": "Action_Snitch_Target_Message",
+      "source_crc32": 3493423807,
+      "translation": "Кто-то {A_SNI_C}доносит{##} осведомителям обо всём, что творится в городе. Необходимое зло - или предатель народа?"
+    },
+    {
+      "key": "Action_PoisonFamilyMember_Instigator_Fail_Message",
+      "source_crc32": 963026114,
+      "translation": "Вкус какой-то странный. К счастью, вы замечаете это, не допив до дна. Беглый взгляд - и всё ясно: вашей жертве каким-то образом досталась другая чаша. Неужели ваш замысел раскусили и подменили чаши нарочно?"
+    },
+    {
+      "key": "Action_TrainSkillHandicraft_Instigator_Message",
+      "source_crc32": 1521219255,
+      "translation": "Твёрдость рук приходит с упражнением, а упражнение редко достаётся даром."
+    },
+    {
+      "key": "Action_OverseeProduction_Instigator_IfUnrest_Message",
+      "source_crc32": 3301214214,
+      "translation": "Правда, слишком долгая работа плечом к плечу может внушить простому люду мысли о собственной значимости."
+    },
+    {
+      "key": "Action_Courting_StartCourting_Message_Name",
+      "source_crc32": 2307458139,
+      "translation": "Нетерпение сердца"
+    },
+    {
+      "key": "Action_FeedBees_Message",
+      "source_crc32": 1187203721,
+      "translation": "Пчёлы накормлены, жужжание снова бодрое, и рой явно повеселел."
+    },
+    {
+      "key": "Action_AddBees_Message",
+      "source_crc32": 4152163536,
+      "translation": "Пчёлы отлично устроились. Судя по жужжанию, им по душе."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Flower_Instigator_Fail_Message",
+      "source_crc32": 1851711708,
+      "translation": "Букет был чудесен, пока из цветов не вылетела пчела и не ужалила вашу любовь в нос. Цветы встретили довольно прохладно."
+    },
+    {
+      "key": "Action_ShootCannonBall_Instigator_Fail_Message",
+      "source_crc32": 3751742447,
+      "translation": "Пушка грянула, ядро улетело… и каким-то чудом ни во что не попало."
+    },
+    {
+      "key": "Action_AssignCartToBuilding_Message",
+      "source_crc32": 2738209288,
+      "translation": "Теперь у повозки есть законное место стоянки!"
+    },
+    {
+      "key": "UseItem_Target2_LetterFromRome_Message",
+      "source_crc32": 2350373254,
+      "translation": "Церковь получает письмо из Рима - официальное, за печатями, полное тяжких обвинений. Под обвинением - {Target1Name}, человек, которому вы прежде доверяли… а теперь невольно в нём сомневаетесь."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Cloak_Instigator_Success_Message",
+      "source_crc32": 2042539480,
+      "translation": "С того дня ваша любовь почти не снимает плаща. И что ещё лучше - ваш фамильный герб никто не пытается скрыть."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Cloak_Instigator_Fail_Message",
+      "source_crc32": 3753359859,
+      "translation": "Сам плащ похвалили. Ваш фамильный герб - нет. Вас спросили, нельзя ли спороть вышивку, не повредив ткань."
+    },
+    {
+      "key": "Building_Room_Complete_Header",
+      "source_crc32": 1640013074,
+      "translation": "Новая комната построена"
+    },
+    {
+      "key": "Building_Room_Complete_Message",
+      "source_crc32": 3765359773,
+      "translation": "Комната «{roomtype}» в здании «{buildingtype}» построена."
+    },
+    {
+      "key": "Action_Courting_StartCourting_Message_Description",
+      "source_crc32": 1239794936,
+      "translation": "Ухаживание началось. Сердца без труда не завоёвывают: {A_SWETAL_C}любезничайте{##} со своей любовью и {A_SENGIF_C}шлите подарки{##}, доказывая свою преданность - а заодно и состоятельность. Но помните о соперниках: иные поклонники попытаются вас переплюнуть, а то и помешать вам."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Tapestry_Instigator_Fail_Message",
+      "source_crc32": 1926154990,
+      "translation": "Работа изумительная, но одна деталь вызывает возражения: на гобелене ваша любовь лишается чувств в ваших объятиях. Ничего подобного, уверяют вас, не было."
+    },
+    {
+      "key": "Duel_DeathOfOpponentBeforeDuel_Message",
+      "source_crc32": 1939769828,
+      "translation": "Поединок отменён из-за безвременной кончины одного из участников. Трагическая утрата… и немалое облегчение."
+    },
+    {
+      "key": "Action_ShootCannonBallDung_Instigator_Success_Message",
+      "source_crc32": 1344420472,
+      "translation": "Навоз лёг с отвратительной точностью. К следующим местам какое-то время лучше не подходить:"
+    },
+    {
+      "key": "Office_Election_Start_Header",
+      "source_crc32": 2450599385,
+      "translation": "Выборы вот-вот начнутся"
+    },
+    {
+      "key": "Office_Election_Start_Message",
+      "source_crc32": 1848074695,
+      "translation": "Вот-вот начнутся выборы новых должностных лиц."
+    },
+    {
+      "key": "Cart_Escort_Expired_Message",
+      "source_crc32": 2058017354,
+      "translation": "Охрана повозки «{cartname}» отслужила своё. При необходимости наймите новую."
+    },
+    {
+      "key": "Espionage_Ended_Fail_Header",
+      "source_crc32": 1406986047,
+      "translation": "Шпионаж окончен"
+    },
+    {
+      "key": "Espionage_Ended_Success_Header",
+      "source_crc32": 1406986047,
+      "translation": "Шпионаж окончен"
+    },
+    {
+      "key": "Action_Courting_GiveGift_GoldenBathtub_Instigator_Fail_Message",
+      "source_crc32": 81382810,
+      "translation": "Золотая ванна не прошла в дверь. После двух часов пререканий с носильщиками ваша любовь вежливо отклонила предложение снести стену."
+    },
+    {
+      "key": "Action_WeddingQuickie_Instigator_Success_Message",
+      "source_crc32": 1412981192,
+      "translation": "Гости едва заметили ваше отсутствие, хотя улыбки на ваших лицах по возвращении заставили кое-кого поднять бровь. Чудесное начало семейной жизни!"
+    },
+    {
+      "key": "Action_DestroyBees_Instigator_Stung_Message",
+      "source_crc32": 4049725894,
+      "translation": "Улья больше нет. Пчёлы бились до последнего - отвага, какая вам и не снилась."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Horse_Instigator_Fail_Message",
+      "source_crc32": 3733976320,
+      "translation": "Конём любовались с дальнего конца двора. Оказалось, ваша любовь до смерти боится верховой езды и предпочла бы, чтобы животное держалось на весьма почтительном расстоянии."
+    },
+    {
+      "key": "Action_Snitch_Instigator_Message",
+      "source_crc32": 3004854890,
+      "translation": "Осведомители благодарны за труды - но кто-то из простолюдинов, возможно, заметил, как вы вынюхиваете."
+    },
+    {
+      "key": "Trial_Result_Guilty_Accused_Message",
+      "source_crc32": 648562279,
+      "translation": "Присяжные вынесли вердикт: вы виновны в преступлении «{crime}». Приговор таков:"
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Accused_Message",
+      "source_crc32": 2407261210,
+      "translation": "Присяжные вынесли вердикт: по делу «{crime}» вы невиновны. Вы свободны."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Accuser_Message",
+      "source_crc32": 1642597566,
+      "translation": "Присяжные решили не в вашу пользу: по делу «{crime}» вынесен оправдательный приговор, и {accusedname} на свободе. Теперь с вас причитается судебный сбор:"
+    },
+    {
+      "key": "Trial_Result_Guilty_Accuser_Message",
+      "source_crc32": 1373503848,
+      "translation": "Присяжные встали на вашу сторону. {accusedname}: вина в преступлении «{crime}» доказана."
+    },
+    {
+      "key": "Worker_QuitAboutTo_LowStanding_Message",
+      "source_crc32": 1434678258,
+      "translation": "Узы верности ваших работников слабеют. Подумайте, не стоит ли {WOR_TRE_C}обращаться{##} с ними лучше - или {A_PAYONETIMBON_C}платить{##} щедрее, - пока они не нашли службу в другом месте."
+    },
+    {
+      "key": "Action_DismissBuildingMaster_Instigator_Message",
+      "source_crc32": 2276984790,
+      "translation": "Управляющий уволен с суровым выговором и скромным мешочком монет. Зданием снова заведуете вы - а значит, и все ошибки отныне ваши."
+    },
+    {
+      "key": "Action_PhysicianCheck_Success_Message",
+      "source_crc32": 1982504039,
+      "translation": "Лекарь находит кое-что там, куда обычно забывают заглянуть. Снадобье применено. В глаза друг другу никто не смотрит."
+    },
+    {
+      "key": "Action_SeekCure_Message",
+      "source_crc32": 2951866688,
+      "translation": "Лекарь протягивает вам пузырящееся варево и поясняет: «Выводит дурные соки». Гадость редкая, но помогает."
+    },
+    {
+      "key": "Action_PhysicianCheck_Fail_Message",
+      "source_crc32": 1455775179,
+      "translation": "Лекарь не совсем понимает, что с вами, но крайне этим заинтересован."
+    },
+    {
+      "key": "QuarterPeriodicEffect_Illness_Message",
+      "source_crc32": 556341789,
+      "translation": "Квартал задыхается от {QUA_DEV_C}разрухи и грязи{##}. Забота о {B_PARAM_HYG_C}чистоте{##} снимет худшее - но часть риска останется."
+    },
+    {
+      "key": "Action_CleanService_Instigator_Message",
+      "source_crc32": 2538203668,
+      "translation": "Квартал похорошел вашими стараниями. Чуть меньше руин, чуть меньше грязи и заметно больше достоинства."
+    },
+    {
+      "key": "Action_ShootCannonBall_Instigator_Success_Message",
+      "source_crc32": 1630793081,
+      "translation": "Выстрел достиг цели. Повреждены следующие места:"
+    },
+    {
+      "key": "Action_ExterminateBees_Message",
+      "source_crc32": 2668131616,
+      "translation": "Дым рассеивается, и знакомого жужжания больше не слышно. Улей опустел."
+    },
+    {
+      "key": "Building_StorageFull_Message",
+      "source_crc32": 1836302631,
+      "translation": "Склад в здании «{buildingtype}» полон. Освободите место, чтобы продолжить производство «{itemtype}»."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Tapestry_Instigator_Success_Message",
+      "source_crc32": 3431404176,
+      "translation": "Гобелен занял почётное место, и ваша любовь весь день показывала его каждому гостю. История вашего первого свидания прозвучала уже не меньше дюжины раз."
+    },
+    {
+      "key": "Trial_Result_Guilty_Jury_Message",
+      "source_crc32": 3986878574,
+      "translation": "Суд окончен. {accusedname}: вина в преступлении «{crime}» доказана - в том числе вашим голосом."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Jury_Message",
+      "source_crc32": 2805061651,
+      "translation": "Суд окончен. По делу «{crime}» вынесен оправдательный приговор - не без вашего голоса. {accusedname} на свободе."
+    },
+    {
+      "key": "Building_Upgrade_Complete_Header",
+      "source_crc32": 807100729,
+      "translation": "Модернизация здания завершена"
+    },
+    {
+      "key": "Action_UnassignCartFromBuilding_Message",
+      "source_crc32": 1908008504,
+      "translation": "Работники тепло прощаются с четвероногим товарищем: похлопывают по холке, суют лакомство-другое. Повозку теперь можно закрепить за другим зданием."
+    },
+    {
+      "key": "Action_SuppressCrime_Target_Message",
+      "source_crc32": 148555075,
+      "translation": "{O_COL_C}Полковник{##} приказал {A_SUPCRI_C}прижать преступность{##}, и теперь стража на каждом шагу. В квартале безопаснее, спору нет, но попробуйте-ка дойти до дома без обыска кошеля."
+    },
+    {
+      "key": "Action_SuppressCrimeWeak_Target_Message",
+      "source_crc32": 373603068,
+      "translation": "{O_FENMAS_C}Мастер фехтования{##} {A_SUPCRIW_C}усилил патрули{##}, и в квартале поутихло. Ничего громкого - просто по пути домой реже тянет проверить кошель."
+    },
+    {
+      "key": "Action_ApplyForOffice_Family_Instigator_Message",
+      "source_crc32": 1464062886,
+      "translation": "Прошение вашего родича о должности принято. Служить народу - благородное стремление. Служить семье - куда более практичное."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Hairbrush_Instigator_Fail_Message",
+      "source_crc32": 66554313,
+      "translation": "Взгляд тут же упал на самоцветы. Затем последовал вопрос: \n«По-вашему, у меня неопрятные волосы?» \nРазговор так и не оправился."
+    },
+    {
+      "key": "UseItem_Target_SourcerersDocumentI_Message",
+      "source_crc32": 1752641153,
+      "translation": "Нашлись улики, связывающие вас с преступлением, которого вы не совершали. Говорят, вы нарушили закон «{law}». Попробуйте теперь доказать, что ничего не было."
+    },
+    {
+      "key": "UseItem_Target_SourcerersDocumentII_Message",
+      "source_crc32": 1016471716,
+      "translation": "Нашлись улики, связывающие вас с преступлениями, которых вы не совершали. Говорят, вы нарушили законы «{law1}» и «{law2}». Попробуйте теперь доказать, что ничего не было."
+    },
+    {
+      "key": "Action_CleanUp_Instigator_Message",
+      "source_crc32": 2137054635,
+      "translation": "Ну вот. Даже паукам придётся съехать."
+    },
+    {
+      "key": "Action_CatchingBee_Instigator_Success_Message",
+      "source_crc32": 1934540224,
+      "translation": "Вот она! Вы сажаете матку в корзину, и рой летит следом. Пора заводить собственный улей!"
+    },
+    {
+      "key": "Office_Election_Eligibility_Header",
+      "source_crc32": 1912517766,
+      "translation": "Вам доступна должность"
+    },
+    {
+      "key": "Action_GuardService_Target_IfFriends_Message",
+      "source_crc32": 3252598386,
+      "translation": "Вроде неплохой человек. По крайней мере, все посмеялись."
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Fail_1_Message",
+      "source_crc32": 372644223,
+      "translation": "На вас молча смотрят - видимо, ждут, когда будет смешно."
+    },
+    {
+      "key": "Activity_PickpocketCitizen_Intigator_Fail_Message",
+      "source_crc32": 4031021421,
+      "translation": "Они оказались либо ушлее ваших плутов… либо просто без гроша в кармане."
+    },
+    {
+      "key": "Action_GuardService_Target_IfEnemies_Message",
+      "source_crc32": 2660632252,
+      "translation": "Вот уж шут гороховый. Лучше, чтобы вас не видели в такой компании."
+    },
+    {
+      "key": "Negotiation_PurchaseSavings_Message",
+      "source_crc32": 1221956401,
+      "translation": "Благодаря {S_NEG_C}переговорам{##} вы сэкономили на этой покупке {savings_amount}."
+    },
+    {
+      "key": "Manager_NotSpendingMoney_Message",
+      "source_crc32": 838667093,
+      "translation": "Чтобы не доводить до разорения, {managername} приостанавливает все необязательные расходы в здании «{buildingname}». Жалованье по-прежнему платится, но новых работников не наймут, ремонта не будет и материалов не купят, пока у вас не наберётся хотя бы {minimummoney} {CHAR_MON}."
+    },
+    {
+      "key": "Action_UnlockProfession_Instruction",
+      "source_crc32": 1204834004,
+      "translation": "Чтобы официально сменить профессию, нужно {A_ACTPRO_C}выбрать её своим ремеслом{##}."
+    },
+    {
+      "key": "Action_PublicService_Target_Message",
+      "source_crc32": 785062473,
+      "translation": "Сегодня вам встретился человек на службе у города. Встреча оставила заметное впечатление."
+    },
+    {
+      "key": "Action_AscensionB_02_Instigator_Success_Message",
+      "source_crc32": 1519939062,
+      "translation": "Два рыцаря спорят, кому принадлежит честь победы. Вы спрашиваете, кто из них победил бы в одиночку. Оба молчат. Зал решает, что слава принадлежит обоим."
+    },
+    {
+      "key": "Office_Election_Fail_Message",
+      "source_crc32": 2835518567,
+      "translation": "Увы, выборы сложились не в вашу пользу. Удачи в следующий раз!"
+    },
+    {
+      "key": "Action_GuardService_Instigator_IfInjured_Message",
+      "source_crc32": 765850288,
+      "translation": "Увы, служба оказалась ровно настолько опасной, насколько выглядела."
+    },
+    {
+      "key": "Action_Courting_GiveGift_CheeseWheel_Instigator_Fail_Message",
+      "source_crc32": 1258345356,
+      "translation": "Увы, ваша любовь отродясь не переносит молочного. Огромную сырную голову тут же скатили с холма и проводили взглядом, пока та не скрылась вдали."
+    },
+    {
+      "key": "Action_ShootCannonBallFire_Instigator_Success_Header",
+      "source_crc32": 366581984,
+      "translation": "Всё в огне!"
+    },
+    {
+      "key": "VictoryCondition_Success_Header",
+      "source_crc32": 3643849887,
+      "translation": "Победа одержана"
+    },
+    {
+      "key": "Action_GiveProfession_Instigator_Message",
+      "source_crc32": 4162172985,
+      "translation": "Приятно видеть, как родня идёт по вашим стопам. Место в гильдии получено - теперь этому члену семьи можно доверить пост {B_OCC_MGR_C}управляющего{##} в одном из ваших предприятий."
+    },
+    {
+      "key": "Action_UnlockProfession_GraveyardWarden_Message",
+      "source_crc32": 3578307700,
+      "translation": "Мы вверяем вам мёртвых. Блюдите порядок - их молчание не оправдывает небрежения."
+    },
+    {
+      "key": "Action_UnlockProfession_Alchemist_Message",
+      "source_crc32": 725721125,
+      "translation": "Мы, гильдия алхимиков, выдаём вам лицензию. Пусть ваши опыты дают не один лишь дым."
+    },
+    {
+      "key": "Action_UnlockProfession_Guard_Message",
+      "source_crc32": 2880820334,
+      "translation": "Мы, гильдия стражников, принимаем вашу присягу. Несите дозор - и не подведите."
+    },
+    {
+      "key": "Action_UnlockProfession_Innkeeper_Message",
+      "source_crc32": 3662108677,
+      "translation": "Мы, гильдия трактирщиков, выдаём вам лицензию. Пусть эль льётся рекой - а с ним и слухи."
+    },
+    {
+      "key": "Action_UnlockProfession_Joiner_Message",
+      "source_crc32": 183986708,
+      "translation": "Мы, гильдия столяров, выдаём вам лицензию. Работайте на совесть - на ваши изделия будут полагаться."
+    },
+    {
+      "key": "Action_UnlockProfession_Trader_Message",
+      "source_crc32": 1533642488,
+      "translation": "Мы, гильдия торговцев, выдаём вам лицензию. Торгуйте хорошо - а наживайтесь ещё лучше."
+    },
+    {
+      "key": "Action_UnlockProfession_MoneyLender_Message",
+      "source_crc32": 2737070657,
+      "translation": "Мы, гильдия ростовщиков, выдаём вам лицензию. Следите, чтобы каждая монета вернулась - с процентами."
+    },
+    {
+      "key": "Action_UnlockProfession_Perfumer_Message",
+      "source_crc32": 1502164114,
+      "translation": "Мы, гильдия парфюмеров, выдаём вам лицензию. Оставьте впечатление, которое не выветрится."
+    },
+    {
+      "key": "Action_UnlockProfession_Smith_Message",
+      "source_crc32": 3339172780,
+      "translation": "Мы, гильдия кузнецов, выдаём вам лицензию. Пусть железо покорится вашей руке."
+    },
+    {
+      "key": "Action_UnlockProfession_StoneMason_Message",
+      "source_crc32": 2982926239,
+      "translation": "Мы, гильдия каменщиков, выдаём вам лицензию. Постройте то, что переживёт века."
+    },
+    {
+      "key": "Action_UnlockProfession_Tailor_Message",
+      "source_crc32": 3866034181,
+      "translation": "Мы, гильдия портных, выдаём вам лицензию. Шейте то, что будут носить - и по чему будут судить."
+    },
+    {
+      "key": "Action_ContaminateBeehive_Instigator_Header",
+      "source_crc32": 609862791,
+      "translation": "Чем вам насолили пчёлы?"
+    },
+    {
+      "key": "Action_Bard_Instigator_Message",
+      "source_crc32": 829875575,
+      "translation": "Какая вдохновляющая история!"
+    },
+    {
+      "key": "Evidence_ErasedByTrial_Header",
+      "source_crc32": 206272431,
+      "translation": "Что знают все, того никто не боится"
+    },
+    {
+      "key": "Action_GiveElaborateSpeech_Instigator_Success_Message",
+      "source_crc32": 3036554305,
+      "translation": "Какая страсть! Какое красноречие! Ваше пышное признание в любви вызывает слёзы на всех глазах - даже у священника."
+    },
+    {
+      "key": "Action_GiveElaborateSpeech_Instigator_Fail_Message",
+      "source_crc32": 78537866,
+      "translation": "Какая страсть! Какое красноречие! Ваше пышное признание в любви стало поэтическим шедевром, где главная звезда - вы сами. И всё же все отчего-то поняли ваши слова превратно. Даже ваша любовь выглядела оскорблённой! Да что же такого вы сказали?"
+    },
+    {
+      "key": "Rights_Nobility_TransactionalService_Success_Message",
+      "source_crc32": 944246138,
+      "translation": "К чему маяться на нудной службе, когда можно просто заплатить за вход? Не тяжкий труд, а звонкая монета."
+    },
+    {
+      "key": "Manager_BackAtSpendingMoney_Header",
+      "source_crc32": 3889050385,
+      "translation": "Денег хватает - управляющий снова тратит"
+    },
+    {
+      "key": "Profession_Rank_Advance_Success_Message_extra1",
+      "source_crc32": 1829741873,
+      "translation": "Гильдия имеет честь пожаловать вам звание «{professionrank}»."
+    },
+    {
+      "key": "Action_OverseeProduction_Instigator_Message",
+      "source_crc32": 3609828191,
+      "translation": "Пока вы расхаживаете по мастерской, работники не отвлекаются, и дело спорится."
+    },
+    {
+      "key": "Title_Application_Eligibility_Header",
+      "source_crc32": 1802414962,
+      "translation": "Вы можете претендовать на новый титул"
+    },
+    {
+      "key": "Trial_Appointment_Jury_Header",
+      "source_crc32": 3793124437,
+      "translation": "Вас призвали в присяжные"
+    },
+    {
+      "key": "Espionage_Exposed_Opponent_Message",
+      "source_crc32": 1134380838,
+      "translation": "{charactername} попадается на шпионаже за вами - будем надеяться, ничего ценного выведать не удалось."
+    },
+    {
+      "key": "Action_ScholarlyDebate_Instigator_Fail_2_Message",
+      "source_crc32": 1876514205,
+      "translation": "Вы разгромили все доводы, разобрали логику по косточкам и не оставили собеседнику ни крупицы достоинства. Славная победа!"
+    },
+    {
+      "key": "Action_ChooseHeir_Instigator_Message",
+      "source_crc32": 2228637192,
+      "translation": "Вы объявили наследника. Пусть прославит имя семьи - или погибнет, пытаясь!"
+    },
+    {
+      "key": "Death_Player_Heir_Header",
+      "source_crc32": 784224371,
+      "translation": "Вы умерли, но ваше место занял наследник"
+    },
+    {
+      "key": "UseItem_Target_ToadSlime_Failure_Message",
+      "source_crc32": 2722371170,
+      "translation": "Дверная ручка липкая на ощупь: кто-то обмазал жабьей слизью ваш жилой дом {BuildingName}. \nК счастью, на вас она не подействовала."
+    },
+    {
+      "key": "UseItem_Target_ToadSlime_Success_Message",
+      "source_crc32": 1515917980,
+      "translation": "Дверная ручка липкая на ощупь: кто-то обмазал жабьей слизью ваш жилой дом {BuildingName}. \nВы заболеваете: {IllnessName}."
+    },
+    {
+      "key": "UseItem_Target_SleepingBeautySpindle_Message",
+      "source_crc32": 3536857056,
+      "translation": "Вы уснули во время голосования. Был храп. Возможно, слюни. Скажем так: шансов на этих выборах это не прибавит."
+    },
+    {
+      "key": "Action_DestroyBees_Target_Message",
+      "source_crc32": 2255627575,
+      "translation": "Вы находите улей {buildingname} разорённым, а рой - умирающим. Последняя пчела ползёт к вам, дрожа крылышками, и замирает у вас на ладони."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Accused_Header",
+      "source_crc32": 235743245,
+      "translation": "Вы оправданы"
+    },
+    {
+      "key": "Trial_Appointment_Jury_Message",
+      "source_crc32": 2343425671,
+      "translation": "Вас призвали в состав присяжных. \n\nВаше решение определит судьбу обвиняемого: {accusedname}."
+    },
+    {
+      "key": "Trial_Result_Guilty_Accused_Header",
+      "source_crc32": 2636355331,
+      "translation": "Вина доказана"
+    },
+    {
+      "key": "Espionage_Evidence_New_Message",
+      "source_crc32": 1240380492,
+      "translation": "Вы раздобыли улику злодеяния. Виновник: {charactername}."
+    },
+    {
+      "key": "Title_Application_Eligibility_Message",
+      "source_crc32": 4006578862,
+      "translation": "Вы выполнили требования для титула «{title}». Посетите ратушу, чтобы подать прошение.{B_PUB_TOWHAL_E}{##}"
+    },
+    {
+      "key": "Action_DiscussInterests_Instigator_Success_2_Message",
+      "source_crc32": 824794538,
+      "translation": "Вы внимательно слушали, задавали вдумчивые вопросы и даже удержались от рассказов о себе. Ваша любовь совершенно очарована. Кто бы знал, что помалкивать так действенно?"
+    },
+    {
+      "key": "Office_Election_Fail_Header",
+      "source_crc32": 2919628800,
+      "translation": "Вы проиграли выборы"
+    },
+    {
+      "key": "Espionage_Ended_Success_Message",
+      "source_crc32": 1128581105,
+      "translation": "Всего вам удалось раздобыть {NumEvidences} {NumEvidences}|plural(one={CR_EVI_C}улику{##},few={CR_EVI_C}улики{##},many={CR_EVI_C}улик{##},other={CR_EVI_C}улики{##}). Этого хватит, чтобы передать дело в {CR_TRI_C}суд{##}: пусть {charactername} держит ответ."
+    },
+    {
+      "key": "Action_Curse_Instigator_Message",
+      "source_crc32": 224254747,
+      "translation": "Вы, видно, и впрямь ненавидите этого человека. Проклятие наложено."
+    },
+    {
+      "key": "Death_Player_Heir_Message",
+      "source_crc32": 1902443977,
+      "translation": "Вы ушли из жизни, но династия стоит. Отныне вы - {charactername}, и история продолжается."
+    },
+    {
+      "key": "Office_Election_Eligibility_Message",
+      "source_crc32": 3765913260,
+      "translation": "Вы можете баллотироваться на открывшуюся должность. Подайте прошение, пока список кандидатов не заполнен. Выборы пройдут в следующий ход, в {hournumber} часов утра."
+    },
+    {
+      "key": "Building_OutOfMaterials_Header",
+      "source_crc32": 3134809509,
+      "translation": "Материалы закончились"
+    },
+    {
+      "key": "UseItem_Target2_TiradeOfHatred_Message",
+      "source_crc32": 3737731272,
+      "translation": "Вы получаете обличительное письмо. Подпись - {Target1Name}. В ответ на ваши упрёки {Target1Name} всё отрицает."
+    },
+    {
+      "key": "Action_AscensionB_01_Instigator_Fail_Message",
+      "source_crc32": 4081644005,
+      "translation": "Вы пересказываете слух, услышанный за столом. Зал стихает. К утру весь двор знает: тайн вам доверять нельзя."
+    },
+    {
+      "key": "Negotiation_PurchaseSavings_Header",
+      "source_crc32": 3824027857,
+      "translation": "Вы сбили цену"
+    },
+    {
+      "key": "Activity_PickpocketCitizen_Target_Fail_Message",
+      "source_crc32": 2904171721,
+      "translation": "Вы замечаете, как чьи-то длинные пальцы тянутся к вашему кошелю, - и вовремя отстраняетесь. Всё на месте."
+    },
+    {
+      "key": "Negotiation_SaleProfit_Header",
+      "source_crc32": 223281282,
+      "translation": "Выгодная сделка"
+    },
+    {
+      "key": "Action_GiveSimpleSpeech_Instigator_Fail_Message",
+      "source_crc32": 1429654925,
+      "translation": "Вы путаетесь в словах и, заикаясь, кое-как продираетесь через то, что должно было стать простым признанием в любви. Где-то в толпе раздаётся смешок. Вашей второй половине ужасно неловко, но позже она признаётся: ваше волнение выглядело даже трогательно."
+    },
+    {
+      "key": "UseItem_Target_PendulumToInduceHypnosis_Message",
+      "source_crc32": 2081336434,
+      "translation": "Вы думали, это был лишь дурной сон: {ActorName} уговаривает вас продать товар за бесценок. Но нет - всё случилось наяву. \n"
+    },
+    {
+      "key": "Action_DestroyBees_Instigator_Success_Message",
+      "source_crc32": 3918956342,
+      "translation": "Вы выместили обиду на тысячах безобидных пчёл. Гордитесь собой?"
+    },
+    {
+      "key": "UseItem_Target_StrongBeer_Message",
+      "source_crc32": 1002458048,
+      "translation": "Вы спотыкаетесь на ровном месте. Отличная мысль - принять выпивку от… постойте, а кто это был?"
+    },
+    {
+      "key": "Espionage_Exposed_Self_Message",
+      "source_crc32": 1218664733,
+      "translation": "Вас поймали за шпионажем и вынудили отступить. Объект слежки: {charactername}."
+    },
+    {
+      "key": "Trial_Appointment_Accused_Message",
+      "source_crc32": 3986513297,
+      "translation": "Вам предстоит суд по обвинению в преступлении «{crime}». Обвинитель - {accusername}. \n\nЧтобы склонить {CR_TRI_JUR_C}присяжных{##} на свою сторону, оттачивайте {S_RHE_C}красноречие{##} и подумайте, как улучшить их {CHAR_STA_C}отношение{##} к вам с помощью особых предметов, например {I_SILCHA_C}серебряной цепи{##}."
+    },
+    {
+      "key": "Office_Election_Success_Header",
+      "source_crc32": 2854881013,
+      "translation": "Вы победили на выборах"
+    },
+    {
+      "key": "Trial_Appointment_Accused_Header",
+      "source_crc32": 4153104423,
+      "translation": "Вам предстоит суд"
+    },
+    {
+      "key": "Profession_Rank_EnoughXP_Header",
+      "source_crc32": 4022318636,
+      "translation": "Вам доступна новая ступень мастерства"
+    },
+    {
+      "key": "Action_UnlockProfession_Thief_Message",
+      "source_crc32": 489848586,
+      "translation": "Вы в деле. Держитесь в тени - и берите самое ценное."
+    },
+    {
+      "key": "Title_Application_Success_Header",
+      "source_crc32": 157945373,
+      "translation": "Вам пожалован более высокий титул"
+    },
+    {
+      "key": "Rights_Nobility_Success_Header",
+      "source_crc32": 1882138451,
+      "translation": "Вы получили дворянскую грамоту"
+    },
+    {
+      "key": "Profession_Rank_EnoughXP_Message",
+      "source_crc32": 4236635422,
+      "translation": "Вы накопили достаточно опыта, чтобы вырасти в профессии. Загляните в свою {B_GUILD_C}гильдию{##}, чтобы открыть следующую ступень мастерства."
+    },
+    {
+      "key": "Rights_Nobility_DiplomaticService_Success_Message",
+      "source_crc32": 3815419062,
+      "translation": "Вы перецеловали немало ног и лгали без зазрения совести, лишь бы удержаться на плаву в этих мутных водах. Зато теперь у вас дворянская грамота."
+    },
+    {
+      "key": "Rights_Nobility_SquireService_Success_Message",
+      "source_crc32": 3917923675,
+      "translation": "Вы столько раз были на волосок от смерти, что сбились со счёта, - но, как ни странно, выжили. Теперь у вас есть дворянская грамота в доказательство."
+    },
+    {
+      "key": "Action_ContaminateBeehive_Instigator_Message",
+      "source_crc32": 3256263703,
+      "translation": "Вы отравили целую ораву трудолюбивых пчёл. \nА они всего лишь делали мёд."
+    },
+    {
+      "key": "Action_UnlockProfession_Robber_Message",
+      "source_crc32": 929798186,
+      "translation": "Вы себя показали. Выходите на дорогу - и берите всё, что по ней везут."
+    },
+    {
+      "key": "Rights_Nobility_CupbearerService_Success_Message",
+      "source_crc32": 3957884781,
+      "translation": "Вы разливали вино и изображали участие дольше, чем положено смертному. Зато вам есть что предъявить - дворянскую грамоту."
+    },
+    {
+      "key": "Trial_Appointment_Accuser_Message",
+      "source_crc32": 1148524275,
+      "translation": "Ваше обвинение против {accusedname} будет рассмотрено в суде. \n\nПодготовьтесь как следует: развитое {S_RHE_C}красноречие{##} может помочь убедить {CR_TRI_JUR_C}присяжных{##}."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Accuser_Header",
+      "source_crc32": 239844722,
+      "translation": "Обвинение отклонено"
+    },
+    {
+      "key": "Trial_Result_Guilty_Accuser_Header",
+      "source_crc32": 2441149837,
+      "translation": "Обвинение подтвердилось"
+    },
+    {
+      "key": "Title_Application_Sent_Header",
+      "source_crc32": 3777947977,
+      "translation": "Прошение подано"
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Success_1_Message",
+      "source_crc32": 2543983742,
+      "translation": "Ваша публика заходится хохотом, краснея до ушей. Едва переводит дух!"
+    },
+    {
+      "key": "Action_ScholarlyDebate_Instigator_Success_2_Message",
+      "source_crc32": 2715239582,
+      "translation": "Ваша любовь восхищена вашим умом. Кто бы мог подумать, что годы споров с незнакомцами в трактире о том, не ящерица ли король втайне, наконец окупятся - да ещё на любовном поприще?"
+    },
+    {
+      "key": "Action_Courting_GiveGift_Poem_Instigator_Fail_Message",
+      "source_crc32": 3374196733,
+      "translation": "Ваша любовь похвалила ваш прекрасный почерк. Увы, о самих стихах сказать нашлось на удивление мало."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Jewelry_Instigator_Success_Message",
+      "source_crc32": 695014841,
+      "translation": "Увидев кольца, ваша любовь вскрикнула: «Да!» Когда вы осторожно объяснили, что предложения не делали, последовали румянец смущения и просьба не забыть этот ответ."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Hairbrush_Instigator_Success_Message",
+      "source_crc32": 161370556,
+      "translation": "Ваша любовь теперь причёсывается дважды в день - лишь бы лишний раз взять в руки новую чудесную щётку."
+    },
+    {
+      "key": "Action_ScholarlyDebate_Instigator_Fail_1_Message",
+      "source_crc32": 1541295106,
+      "translation": "Сегодня ваша любовь усвоила ценный урок: не задавать вам вопросов, не имея в запасе свободных полдня."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Portrait_Instigator_Fail_Message",
+      "source_crc32": 4253337340,
+      "translation": "Ваша любовь молча разглядывала воображаемых детей. После неловкой паузы она похвалила раму."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Poem_Instigator_Success_Message",
+      "source_crc32": 711909380,
+      "translation": "Ваша любовь поблагодарила за прекрасные стихи и пообещала ответить чем-то столь же прочувствованным."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Jewelry_Instigator_Fail_Message",
+      "source_crc32": 3492279103,
+      "translation": "Ваша любовь решила, что это предложение руки и сердца, и принялась очень мягко объяснять, почему ещё не готова."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Bear_Instigator_Fail_Message",
+      "source_crc32": 1730897187,
+      "translation": "Ваша любовь глубоко оскорблена подарком. Вы хотели намекнуть, что нравом она не уступает медведю - такая же дикая и злобная?"
+    },
+    {
+      "key": "Action_Courting_GiveGift_CheeseWheel_Instigator_Success_Message",
+      "source_crc32": 2024489672,
+      "translation": "Ваша любовь в восторге! В ход пошёл молоточек: сырную голову бережно простучали, вслушиваясь, нет ли изъянов, после чего объявили шедевром."
+    },
+    {
+      "key": "Action_Courting_GiveGift_Portrait_Instigator_Success_Message",
+      "source_crc32": 616964720,
+      "translation": "Ваша любовь в восторге! Она узнала на портрете каждого ребёнка - и всё же изрядно огорчилась, что вы забыли про малютку Маргариту."
+    },
+    {
+      "key": "Action_Serenade_Instigator_Success_Message",
+      "source_crc32": 1571928020,
+      "translation": "Ваша серенада очаровала вашу любовь. Вас умоляли спеть ещё одну песню, потом ещё. Похоже, преданнее слушателя вам не найти!"
+    },
+    {
+      "key": "Action_Serenade_Instigator_Fail_Message",
+      "source_crc32": 3007008095,
+      "translation": "На особенно неудачной ноте ваша любовь поморщилась, а затем мягко намекнула, что иные чувства лучше выражать словами."
+    },
+    {
+      "key": "QuarterPeriodicEffect_Burglary_Message",
+      "source_crc32": 791560081,
+      "translation": "Из вашего здания вынесли кое-какое добро. Проверьте, чего не хватает, подсчитайте {B_HP_C}ущерб{##} и подумайте о {B_PARAM_BURPRO_C}защищённости{##} - или о {QUA_CRI_C}безопасности улиц{##}."
+    },
+    {
+      "key": "Building_Construction_Complete_Header",
+      "source_crc32": 1234096359,
+      "translation": "Здание построено"
+    },
+    {
+      "key": "Building_Repair_Complete_Header",
+      "source_crc32": 2711270829,
+      "translation": "Здание отремонтировано"
+    },
+    {
+      "key": "Building_Repair_Needed_Header",
+      "source_crc32": 3744823037,
+      "translation": "Зданию нужен ремонт"
+    },
+    {
+      "key": "Action_ApplyForOffice_Instigator_Message",
+      "source_crc32": 1244038426,
+      "translation": "Ваша кандидатура принята. Пусть место достанется достойнейшему!"
+    },
+    {
+      "key": "Cart_Escort_Expired_Header",
+      "source_crc32": 2893332160,
+      "translation": "Срок найма охраны истёк"
+    },
+    {
+      "key": "Cart_Destination_Reached_Header",
+      "source_crc32": 3133611833,
+      "translation": "Повозка прибыла на место"
+    },
+    {
+      "key": "Cart_Destination_Reached_Message",
+      "source_crc32": 3748352448,
+      "translation": "Ваша повозка прибыла: {location_name}."
+    },
+    {
+      "key": "Cart_Stopped_Header",
+      "source_crc32": 4169837511,
+      "translation": "Повозка остановилась"
+    },
+    {
+      "key": "Action_HireEscort_Instigator_Message",
+      "source_crc32": 2828088538,
+      "translation": "Ваша повозка под охраной. Кто нападёт - тому придётся за неё драться."
+    },
+    {
+      "key": "Cart_Repair_Complete_Header",
+      "source_crc32": 3039499275,
+      "translation": "Повозка отремонтирована"
+    },
+    {
+      "key": "Cart_Repair_Needed_Header",
+      "source_crc32": 176977249,
+      "translation": "Повозке нужен ремонт"
+    },
+    {
+      "key": "Trial_Appointment_Accuser_Header",
+      "source_crc32": 3275018752,
+      "translation": "Ваше дело рассмотрит суд"
+    },
+    {
+      "key": "Action_Duel_Challenge_Instigator_Message",
+      "source_crc32": 2834432764,
+      "translation": "Вызов отправлен. Соберитесь с духом - если его примут, вас ждёт поединок."
+    },
+    {
+      "key": "Action_BaptizeYourChild_Message",
+      "source_crc32": 416819425,
+      "translation": "Ребёнок крещён, и ваша вторая половина на седьмом небе: вы сохранили имя, которое она выбрала. Благословенный день для всей семьи!"
+    },
+    {
+      "key": "Birth_Child_Header",
+      "source_crc32": 2765178193,
+      "translation": "У вас родился ребёнок"
+    },
+    {
+      "key": "Courtship_Fail_Taken_Header",
+      "source_crc32": 371824920,
+      "translation": "Ваша любовь выбрала не вас"
+    },
+    {
+      "key": "Action_Courting_StopCourting_Message",
+      "source_crc32": 3456765374,
+      "translation": "Ухаживание окончено - надеемся, по-доброму."
+    },
+    {
+      "key": "ExtendAHand_Actor_Message",
+      "source_crc32": 4212505366,
+      "translation": "Ваш жест поддержки принят."
+    },
+    {
+      "key": "Action_DeliverEulogy_Instigator_Fail_Message",
+      "source_crc32": 649010817,
+      "translation": "Ваша проникновенная речь сворачивает не туда: о своём наследстве вы хвастаетесь дольше, чем вспоминаете покойного."
+    },
+    {
+      "key": "Action_DeliverEulogy_Instigator_Success_Message",
+      "source_crc32": 3872793667,
+      "translation": "Ваши искренние слова трогают гостей до слёз. Все, похоже, убеждены: покойный хорошо подготовил вас к тому, чтобы возглавить семью, и вы - достойный преемник."
+    },
+    {
+      "key": "Action_ScholarlyDebate_Instigator_Success_1_Message",
+      "source_crc32": 784884561,
+      "translation": "Ваши умы явно созданы друг для друга. Часы пролетели незаметно, и где-то между философией и богословием вспыхнула искра совсем иного рода."
+    },
+    {
+      "key": "Action_TellAJoke_Instigator_Fail_2_Message",
+      "source_crc32": 575024564,
+      "translation": "Шутка задела за живое! Вместо смеха от вас требуют извинений."
+    },
+    {
+      "key": "Trial_Result_Guilty_Jury_Header",
+      "source_crc32": 2973490545,
+      "translation": "Ваш вердикт оглашён"
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Jury_Header",
+      "source_crc32": 2973490545,
+      "translation": "Ваш вердикт оглашён"
+    },
+    {
+      "key": "Action_SendHelp_Instigator_Messsage",
+      "source_crc32": 355289392,
+      "translation": "Ваше письмо поддержки и приложенные к нему деньги доставлены."
+    },
+    {
+      "key": "Courtship_Fail_Death_Header",
+      "source_crc32": 3691005719,
+      "translation": "Вашу любовь увела… Смерть с косой"
+    },
+    {
+      "key": "Marriage_Success_Header",
+      "source_crc32": 1519855289,
+      "translation": "Сегодня ваша свадьба"
+    },
+    {
+      "key": "Action_DisownFamilyMember_Instigator_Success_Message",
+      "source_crc32": 1161018120,
+      "translation": "Ваш теперь уже бывший родственник собирает пожитки и вылетает из города, позаботившись, чтобы все в округе узнали, что он о вас думает. Клянётся однажды вернуться и заставить вас об этом пожалеть."
+    },
+    {
+      "key": "Action_UnlockProfession_Preacher_Message",
+      "source_crc32": 1078053297,
+      "translation": "Ваш обет услышан. Говорите - и добейтесь, чтобы вас слушали."
+    },
+    {
+      "key": "Building_Opponent_Constructed_Header",
+      "source_crc32": 3100526230,
+      "translation": "Соперник построил новое здание"
+    },
+    {
+      "key": "Title_Opponent_Success_Header",
+      "source_crc32": 3263512060,
+      "translation": "Сопернику пожалован новый титул"
+    },
+    {
+      "key": "Death_Opponent_Heir_Header",
+      "source_crc32": 3799927840,
+      "translation": "Соперник скончался"
+    },
+    {
+      "key": "Office_Opponent_Success_Header",
+      "source_crc32": 4017322593,
+      "translation": "Соперник занял должность"
+    },
+    {
+      "key": "Marriage_Opponent_Success_Header",
+      "source_crc32": 3063851380,
+      "translation": "Соперник вступил в брак"
+    },
+    {
+      "key": "Building_Opponent_Purchased_Header",
+      "source_crc32": 236940518,
+      "translation": "Соперник купил новое здание"
+    },
+    {
+      "key": "Building_Opponent_Upgrade_Header",
+      "source_crc32": 597487327,
+      "translation": "Соперник модернизировал здание"
+    },
+    {
+      "key": "Birth_Opponent_Child_Header",
+      "source_crc32": 3764412898,
+      "translation": "В семье соперника прибавление"
+    },
+    {
+      "key": "Death_Opponent_DynastyEnds_Header",
+      "source_crc32": 2640346119,
+      "translation": "Род соперника пресёкся"
+    },
+    {
+      "key": "Activity_PickpocketCitizen_Target_Success_Message",
+      "source_crc32": 1105381307,
+      "translation": "Карманы заметно полегчали. Чёртовы карманники!"
+    },
+    {
+      "key": "Action_ShareInheritance_Instigator_Success_Message",
+      "source_crc32": 2229976157,
+      "translation": "Свёрток родственника удивляет, а содержимое - приводит в восторг. Он рассыпается в благодарностях и объявляет вас достойнейшим в семье. Остальные, шепчет он, и не были так уж близки с покойным."
+    },
+    {
+      "key": "Action_ShareInheritance_Instigator_Fail_Message",
+      "source_crc32": 2002909522,
+      "translation": "Родственник, кажется, приятно удивлён свёртком. Но стоит ему развернуть свёрток и пересчитать монеты, как улыбка медленно сползает с лица. Видно, доля наследства ожидалась куда большая. Деньги он всё же прячет за пазуху - с таким видом, будто ваша щедрость его оскорбила."
+    },
+    {
+      "key": "Title_Application_Sent_Message",
+      "source_crc32": 3114391882,
+      "translation": "Ваше прошение о титуле «{title}» отправлено. Совет рассмотрит его и объявит решение в начале следующего хода."
+    },
+    {
+      "key": "Activity_Robbery_Robber_Instigator_Message",
+      "source_crc32": 878781483,
+      "translation": "Ваши разбойники взяли что смогли - если было что брать - и продали добычу к вашей выгоде. Они возвращаются, а квартал стал опаснее прежнего."
+    },
+    {
+      "key": "Activity_Robbery_Thief_Instigator_Message",
+      "source_crc32": 878781483,
+      "translation": "Ваши воры взяли что смогли - если было что брать - и продали добычу к вашей выгоде. Они возвращаются, а квартал стал опаснее прежнего."
+    },
+    {
+      "key": "Action_RenameAndBaptizeYourChild_Message",
+      "source_crc32": 4257803012,
+      "translation": "Когда вы объявили новое имя ребёнка перед пришедшим священником, ваша вторая половина одарила вас весьма недобрым взглядом. К счастью, при нём у неё хватило приличия не устраивать сцен. А вот едва он вышел за порог - совсем другое дело."
+    },
+    {
+      "key": "Espionage_Exposed_Self_Header",
+      "source_crc32": 91741367,
+      "translation": "Ваш шпионаж раскрыт"
+    },
+    {
+      "key": "Building_StorageFull_Header",
+      "source_crc32": 3273154545,
+      "translation": "Склад заполнен до отказа"
+    },
+    {
+      "key": "Activity_PickpocketCitizen_Intigator_Success_Message",
+      "source_crc32": 1266367134,
+      "translation": "Ваши воры вернулись с потяжелевшими карманами."
+    },
+    {
+      "key": "Action_UnlockProfession_TravellingEntertainer_Message",
+      "source_crc32": 3204750819,
+      "translation": "Ваша труппа признана. Приковывайте взгляды - и собирайте монеты."
+    },
+    {
+      "key": "Activity_Train_Message",
+      "source_crc32": 3882198002,
+      "translation": "Ваш работник закончил обучение."
+    },
+    {
+      "key": "Activity_FindEvidenceFromWorld_Intigator_Fail_Message",
+      "source_crc32": 1129716243,
+      "translation": "Ваш работник внимательно слушал трактирные разговоры. Ничего преступного - лишь бедняга, над которым потешались за храп, будящий всю улицу."
+    },
+    {
+      "key": "Activity_TrainMartial_Message",
+      "source_crc32": 348608602,
+      "translation": "Ваши работники закончили обучение."
+    },
+    {
+      "key": "Activity_TrainStealth_Message",
+      "source_crc32": 348608602,
+      "translation": "Ваши работники закончили обучение."
+    },
+    {
+      "key": "Generic_YouAreTargetOf_Anonymous_Header",
+      "source_crc32": 4004936938,
+      "translation": "{Action}"
+    },
+    {
+      "key": "Generic_YouAreTargetOf_Header",
+      "source_crc32": 4004936938,
+      "translation": "{Action}"
+    },
+    {
+      "key": "UseItem_Target_StandingGain_BoneBracelet_Message",
+      "source_crc32": 343841190,
+      "translation": "{ActorName} дарит вам костяной браслет. Подарок простой, но сделан от души."
+    },
+    {
+      "key": "UseItem_Target_HerbalLiquor_Message",
+      "source_crc32": 459150260,
+      "translation": "{ActorName} замечает, что вам нездоровится, и приносит травяной ликёр. \nВам становится куда лучше."
+    },
+    {
+      "key": "UseItem_Target_StandingGain_Poem_Message",
+      "source_crc32": 2970188908,
+      "translation": "{ActorName} присылает вам стихи. Вы цените этот жест."
+    },
+    {
+      "key": "UseItem_Target_StandingGain_Temporary_Message",
+      "source_crc32": 3897051266,
+      "translation": "{ActorName} использует предмет: {ItemName}. Вы впечатлены!"
+    },
+    {
+      "key": "UseItem_Target_StandingGain_MuskScent_Message",
+      "source_crc32": 3701565402,
+      "translation": "{ActorName} благоухает мускусом. Вы улавливаете лёгкий аромат."
+    },
+    {
+      "key": "Building_OutOfMaterials_Message",
+      "source_crc32": 870555635,
+      "translation": "В здании «{BuildingType}» закончились материалы для производства «{ItemType}»."
+    },
+    {
+      "key": "Evidence_Expired_Message",
+      "source_crc32": 4195850816,
+      "translation": "{CR_STALIM_C}Срок давности{##} истёк раньше, чем вы успели действовать: {charactername} вне опасности. {CR_EVI_C}Улики{##} больше нет - как и вашего рычага."
+    },
+    {
+      "key": "Generic_YouAreTargetOf_Message",
+      "source_crc32": 3908395605,
+      "translation": "{CharacterName} метит в вас."
+    },
+    {
+      "key": "UseItem_Target1_TiradeOfHatred_Message",
+      "source_crc32": 416618400,
+      "translation": "{Target2Name} в бешенстве: якобы вы прислали письмо возмутительного содержания. Вы понятия не имеете, о чём речь."
+    },
+    {
+      "key": "Trial_Result_NotGuilty_Others_Message",
+      "source_crc32": 1334954736,
+      "translation": "Суд по делу «{crime}» окончен: {accusedname} на свободе. Обвинение отклонено."
+    },
+    {
+      "key": "Trial_Result_Guilty_Others_Message",
+      "source_crc32": 1827416477,
+      "translation": "{accusedname}: суд доказал вину в преступлении «{crime}». Приговор будет приведён в исполнение:"
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfAccusedDuringTrial_Message",
+      "source_crc32": 3130537415,
+      "translation": "{accusedname}, представ перед судом за «{crime}», умирает на глазах у всех за миг до оглашения приговора. Приговор так и не прозвучит - теперь судить может лишь Господь."
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfAccusedBeforeTrial_Message",
+      "source_crc32": 2441182288,
+      "translation": "Суд по делу «{crime}» отменён: {accusedname} умирает, не дождавшись заседания."
+    },
+    {
+      "key": "Building_Repair_Complete_Message",
+      "source_crc32": 2308029351,
+      "translation": "Здание «{buildingtype}» полностью отремонтировано и снова в отличном состоянии."
+    },
+    {
+      "key": "Building_Upgrade_Complete_Message",
+      "source_crc32": 4208102040,
+      "translation": "Здание «{buildingtype}» модернизировано до уровня {lvl}. Это открывает новые возможности."
+    },
+    {
+      "key": "Building_Repair_Needed_Message",
+      "source_crc32": 1143991,
+      "translation": "Зданию «{buildingtype}» нужен ремонт, иначе оно потеряет в пользе и привлекательности. Немного заботы сейчас избавит от последствий запустения потом."
+    },
+    {
+      "key": "Cart_Repair_Complete_Message",
+      "source_crc32": 52550557,
+      "translation": "Повозка «{cartname}» отремонтирована и снова готова в путь."
+    },
+    {
+      "key": "Cart_Stopped_Message",
+      "source_crc32": 1659777253,
+      "translation": "Повозка «{cartname}» стоит на месте. Выясните, в чём дело."
+    },
+    {
+      "key": "Cart_Repair_Needed_Message",
+      "source_crc32": 2009895627,
+      "translation": "Повозка «{cartname}» уже не та, что прежде. Небольшой ремонт вернёт её в строй."
+    },
+    {
+      "key": "Office_Opponent_Success_Message",
+      "source_crc32": 4284037530,
+      "translation": "{charactername} получает должность «{office}»."
+    },
+    {
+      "key": "Building_Opponent_Constructed_Message",
+      "source_crc32": 4140554138,
+      "translation": "{charactername} завершает строительство здания «{buildingtype}»."
+    },
+    {
+      "key": "Death_Opponent_DynastyEnds_Message",
+      "source_crc32": 398496841,
+      "translation": "{charactername} умирает, унося с собой в могилу всю династию."
+    },
+    {
+      "key": "Death_Opponent_Heir_Message",
+      "source_crc32": 2109726479,
+      "translation": "{charactername} умирает. Династию продолжит наследник - {charactername2}."
+    },
+    {
+      "key": "Birth_Opponent_Child_Message",
+      "source_crc32": 2521105953,
+      "translation": "{charactername}: в семье прибавление."
+    },
+    {
+      "key": "Marriage_Opponent_Success_Message",
+      "source_crc32": 119302005,
+      "translation": "{charactername} и {charactername2} сочетались браком."
+    },
+    {
+      "key": "Office_Election_DeathOfCandidate_BeforeElection_Message",
+      "source_crc32": 3139232975,
+      "translation": "{charactername} покидает этот мир - и больше не претендует на должность «{officeposition}»."
+    },
+    {
+      "key": "Building_Opponent_Purchased_Message",
+      "source_crc32": 3708281750,
+      "translation": "{charactername} - новый владелец здания «{buildingtype}»."
+    },
+    {
+      "key": "Building_Opponent_Upgrade_Message",
+      "source_crc32": 364029131,
+      "translation": "{charactername} поднимает здание «{buildingtype}» до уровня {lvl}."
+    },
+    {
+      "key": "Espionage_Ended_Fail_Message",
+      "source_crc32": 912007170,
+      "translation": "{charactername} - сама невинность: {CR_EVI_C}улик{##} не найдено. Либо грехов и впрямь нет… либо {S_STE_C}осторожности{##} не занимать."
+    },
+    {
+      "key": "Courtship_Fail_Taken_Message",
+      "source_crc32": 2871403469,
+      "translation": "{charactername} уходит от вас. Соперник: {rivalname}."
+    },
+    {
+      "key": "Courtship_Success_Message",
+      "source_crc32": 738872625,
+      "translation": "{charactername} отвечает «да»! Поздравляем!\nГотовьте клятвы: свадьба в следующем году."
+    },
+    {
+      "key": "Title_Opponent_Success_Message",
+      "source_crc32": 3224799348,
+      "translation": "{charactername} получает титул «{title}»."
+    },
+    {
+      "key": "Office_Election_DeathOfCandidate_DuringElection_Message",
+      "source_crc32": 3762198008,
+      "translation": "{charactername}, не совладав с чувствами, умирает прямо во время выборов на должность «{officeposition}». Честолюбие унесло ещё одну жизнь. Голоса за этого кандидата больше не принимаются."
+    },
+    {
+      "key": "Evidence_ErasedByTrial_Message",
+      "source_crc32": 1417341469,
+      "translation": "{charactername} предстанет перед {CR_TRI_C}судом{##} за свои преступления. Дело уже рассматривается, так что пустить в ход эту {CR_EVI_C}улику{##} вы больше не сможете."
+    },
+    {
+      "key": "Law_Change_Message",
+      "source_crc32": 1679093431,
+      "translation": "{charactername}, занимая должность «{officeposition}», меняет закон. Со следующего хода «{lawtype}» будет: {newstate} (сейчас: {oldstate})."
+    },
+    {
+      "key": "Building_Improvement_Complete_Message",
+      "source_crc32": 2447773741,
+      "translation": "«{buildingtype}»: добавлено улучшение «{improvementtype}»."
+    },
+    {
+      "key": "Trial_Cancelled_DeathOfJury_Message",
+      "source_crc32": 3426445336,
+      "translation": "Умирает {jurorname} - последний из присяжных на суде по делу «{crime}», где обвиняется {accusedname}. Слушать дело больше некому, и суд отменён."
+    },
+    {
+      "key": "Worker_Accident_Message",
+      "source_crc32": 2658323687,
+      "translation": "С работником {workername} в здании {buildingtype} произошёл {B_PARAM_ACCPRO_ACC}несчастный случай{##}."
+    },
+    {
+      "key": "Worker_Injured_Message",
+      "source_crc32": 4148536236,
+      "translation": "{workername} получает ранение во время работы в здании {buildingtype}."
+    },
+    {
+      "key": "Worker_Quit_Message",
+      "source_crc32": 4104329415,
+      "translation": "{workername} уходит из здания {buildingtype}: терпение лопнуло. Жёсткая рука и тяжёлые дни гонят прочь даже самых верных."
+    },
+    {
+      "key": "Worker_CanBePromoted_Message",
+      "source_crc32": 2255895296,
+      "translation": "Работника {workername} пора {A_PROWOR_C}повысить{##}. Рост производительности и снижение числа несчастных случаев с лихвой окупят прибавку к жалованью."
+    },
+    {
+      "key": "Action_PoisonFamilyMember_Instigator_Success_Message",
+      "source_crc32": 3362635469,
+      "translation": "«Другая семья! В другом городе! Вы можете себе представить? И всё, что нам осталось, - это прощальное письмо!» - причитаете вы, размахивая так кстати найденной запиской перед толпой потрясённых зевак. Кто-то ахает, кто-то бросается вас утешать, и вы великодушно позволяете себя успокоить. Тело надёжно убрано с глаз, представление идёт блестяще. Пожалуй, ещё один всхлип - для верности."
+    },
+    {
+      "key": "Action_TrainProfessionFamily_Message",
+      "source_crc32": 300242502,
+      "translation": "Сияя от гордости, вы лично вручаете грамоту."
+    },
+    {
+      "key": "Action_GainMasterGradeFamily_Message",
+      "source_crc32": 2756233047,
+      "translation": "Есть особое удовольствие в том, чтобы смотреть, как родич растёт в профессии, пока всю учёбу тянет кто-то другой."
+    }
+  ]
+}
