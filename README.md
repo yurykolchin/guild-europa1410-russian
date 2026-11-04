@@ -8,7 +8,7 @@
 
 ## Скачать
 
-[Скачать дополнительный пакет](https://github.com/yurykolchin/guild-europa1410-russian/raw/refs/heads/main/downloads/Guild1-Russian-Extra-2026-11-04.zip)
+[Скачать дополнительный пакет](https://github.com/yurykolchin/guild-europa1410-russian/releases/latest)
 
 Это предварительный пакет для проверки в игре. Возможны отдельные непереведённые строки и ошибки отображения.
 
